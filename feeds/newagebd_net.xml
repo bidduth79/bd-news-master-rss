@@ -1,17 +1,19 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
   <channel>
     <title>নিউ এজ - আরএসএস ফিড</title>
     <link>https://newagebd.net</link>
     <description>নিউ এজ এর সর্বশেষ খবর</description>
     <language>bn</language>
-    <lastBuildDate>Sun, 08 Nov 2026 14:12:59 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 14:22:27 +0000</lastBuildDate>
     <item>
       <title>সরকারি চাকরিতে কোটা সংস্কার আন্দোলন</title>
       <link>https://www.newagebd.net/photo/125/%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%BF-%E0%A6%9A%E0%A6%BE%E0%A6%95%E0%A6%B0%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%95%E0%A7%8B%E0%A6%9F%E0%A6%BE-%E0%A6%B8%E0%A6%82%E0%A6%B8%E0%A7%8D%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%86%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8B%E0%A6%B2%E0%A6%A8</link>
       <guid isPermaLink="true">https://www.newagebd.net/photo/125/%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%BF-%E0%A6%9A%E0%A6%BE%E0%A6%95%E0%A6%B0%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%95%E0%A7%8B%E0%A6%9F%E0%A6%BE-%E0%A6%B8%E0%A6%82%E0%A6%B8%E0%A7%8D%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%86%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8B%E0%A6%B2%E0%A6%A8</guid>
-      <pubDate>Sun, 08 Nov 2026 14:12:59 +0000</pubDate>
-      <description>সরকারি চাকরিতে কোটা সংস্কার আন্দোলন</description>
+      <pubDate>Sun, 08 Nov 2026 14:22:27 +0000</pubDate>
+      <enclosure url="https://www.newagebd.net/assets/img/assets/lazy-empty.png" length="0" type="image/jpeg" />
+      <media:content url="https://www.newagebd.net/assets/img/assets/lazy-empty.png" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://www.newagebd.net/assets/img/assets/lazy-empty.png" style="max-width:100%;height:auto;margin-bottom:10px;" alt="সরকারি চাকরিতে কোটা সংস্কার আন্দোলন" /&gt;&lt;/p&gt;&lt;p&gt;সরকারি চাকরিতে কোটা সংস্কার আন্দোলন&lt;/p&gt;</description>
       <source url="https://www.newagebd.net/photo/125/%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%BF-%E0%A6%9A%E0%A6%BE%E0%A6%95%E0%A6%B0%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%95%E0%A7%8B%E0%A6%9F%E0%A6%BE-%E0%A6%B8%E0%A6%82%E0%A6%B8%E0%A7%8D%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%86%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8B%E0%A6%B2%E0%A6%A8">নিউ এজ</source>
     </item>
   </channel>

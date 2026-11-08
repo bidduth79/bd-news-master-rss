@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<rss version="2.0">
   <channel>
     <title>onabil.net - আরএসএস ফিড</title>
     <link>https://onabil.net</link>
     <description>onabil.net এর সর্বশেষ খবর</description>
     <language>bn</language>
-    <lastBuildDate>Sun, 08 Nov 2026 14:13:52 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 14:23:32 +0000</lastBuildDate>
     <item>
       <title>টাঙ্গাইলে বিনামূল্যে  হুইল চেয়ার বিতরণ</title>
       <link>https://onabil.net/?p=31047</link>
@@ -29,6 +29,14 @@
       <pubDate>Sun, 08 Nov 2026 14:05:47 +0000</pubDate>
       <description>বকশীগঞ্জ(জামালপুর)প্রতিনিধি জামালপুরের বকশীগঞ্জে যথাযোগ্য মর্যাদায় ৫৫তম জাতীয় সমবায় দিবস পালিত হয়েছে। রোববার বিকালে &amp;#8220;করব সমবায় গড়ব দেশ, সবার জন্য বাংলাদেশ&amp;#8221; প্রতিপাদ্য নিয়ে উপজেলা প্রশাসন ও উপজেলা সমবায় কর্মকর্তার কার্যালয়ের উদ্যোগে&amp;#8230;</description>
       <source url="https://onabil.net/?p=31041">onabil.net</source>
+    </item>
+    <item>
+      <title>মাজারে সিজদা ও শায়িত ব্যক্তির কাছে কিছু চাওয়া যাবে না -ছারছীনার পীর ছাহেব</title>
+      <link>https://onabil.net/?p=31053</link>
+      <guid isPermaLink="true">https://onabil.net/?p=31053</guid>
+      <pubDate>Sun, 08 Nov 2026 13:12:53 +0000</pubDate>
+      <description>মুহাম্মদ আবদুর রহমান আমীরে হিযবুল্লাহ ছারছীনা দরবার শরীফের পীর ছাহেব আলহাজ্ব হযরত মাওলানা মুফতি শাহ্ আবু নছর নেছারুদ্দীন আহমদ হুসাইন (মা.জি.আ.) বলেছেন, আহলুস সুন্নাহ ওয়াল জামাআতের সঠিক আকিদা ও আদর্শ&amp;#8230;</description>
+      <source url="https://onabil.net/?p=31053">onabil.net</source>
     </item>
     <item>
       <title>আগামী ৫ বছরে ২০ হাজার কিলোমিটার খাল খনন, ৭ হাজার কিলোমিটার করবে ত্রাণ মন্ত্রণালয়: মন্ত্রী</title>
@@ -77,14 +85,6 @@
       <pubDate>Sun, 08 Nov 2026 09:55:47 +0000</pubDate>
       <description>মুহাম্মদ আবু হেলাল, শেরপুর প্রতিনিধি: শেরপুরের ঝিনাইগাতীতে অবৈধভাবে লাল বালু উত্তোলন ও পরিবহনের অভিযোগে ছয়টি বালুভর্তি ব্যাটারিচালিত অটোভ্যান ও একটি মাহিন্দ্রা লরি জব্দ করেছে পুলিশ। এ সময় ছয় অটোভ্যানচালককে আটক&amp;#8230;</description>
       <source url="https://onabil.net/?p=31026">onabil.net</source>
-    </item>
-    <item>
-      <title>সাংবাদিকতার চার যুগ –৩৮</title>
-      <link>https://onabil.net/?p=31024</link>
-      <guid isPermaLink="true">https://onabil.net/?p=31024</guid>
-      <pubDate>Sun, 08 Nov 2026 08:41:19 +0000</pubDate>
-      <description>এবাদত আলী পুলিশ জনগণের অবিচ্ছেদ্য অংশ। জনগণের বিপদে পুলিশ নিঃস্বার্থ সহযোগিতার হাত বাড়িয়ে জনমনে স্বস্তি, শান্তি ও নিরাপত্তা নিশ্চিত করে প্রমাণ করে পুলিশ জনগণের বন্ধু। ২০১৫ সালের ২৮ মার্চ- শনিবার&amp;#8230;</description>
-      <source url="https://onabil.net/?p=31024">onabil.net</source>
     </item>
   </channel>
 </rss>

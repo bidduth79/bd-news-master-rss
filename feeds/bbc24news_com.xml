@@ -1,18 +1,20 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
   <channel>
     <title>বিবিসি বাংলা - আরএসএস ফিড</title>
     <link>https://bbc24news.com</link>
     <description>বিবিসি বাংলা এর সর্বশেষ খবর</description>
     <language>bn</language>
-    <lastBuildDate>Sun, 08 Nov 2026 14:13:24 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 14:22:37 +0000</lastBuildDate>
     <item>
       <title>কানাডার নতুন অভিবাসন পরিকল্পনা ঘোষণা, প্রায় সাড়ে ১১ লাখ পিআর দেওয়ার লক্ষ্য</title>
       <link>https://www.bbc24news.com/111652</link>
       <guid isPermaLink="true">https://www.bbc24news.com/111652</guid>
       <pubDate>Tue, 30 Nov 1999 00:00:00 +0000</pubDate>
-      <description>বিবিসি২৪নিউজ,ডিজিটাল ডেস্ক: আগামী তিন বছরে ১১ লাখ ৪০ হাজার নতুন স্থায়ী বাসিন্দা (পিআর) গ্রহণের লক্ষ্যমাত্রা নির্ধারণ করে নতুন অভিবাসন পরিকল্পনা ঘোষণা করেছে কানাডার ফেডারেল সরকার। ২০২৭ থেকে ২০২৯ সাল পর্যন্ত প্রতিটি বছর ৩ লাখ ৮০ হাজার করে নতুন স্থায়ী বাসিন্দা গ্রহণের পরিকল্পনা নেওয়া হয়েছে।
-গত ৫ নভেম্ব</description>
+      <enclosure url="https://www.bbc24news.com/cloud/archives/2026/11/20261108_020754.jpg" length="0" type="image/jpeg" />
+      <media:content url="https://www.bbc24news.com/cloud/archives/2026/11/20261108_020754.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://www.bbc24news.com/cloud/archives/2026/11/20261108_020754.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="কানাডার নতুন অভিবাসন পরিকল্পনা ঘোষণা, প্রায় সাড়ে ১১ লাখ পিআর দেওয়ার লক্ষ্য" /&gt;&lt;/p&gt;&lt;p&gt;বিবিসি২৪নিউজ,ডিজিটাল ডেস্ক: আগামী তিন বছরে ১১ লাখ ৪০ হাজার নতুন স্থায়ী বাসিন্দা (পিআর) গ্রহণের লক্ষ্যমাত্রা নির্ধারণ করে নতুন অভিবাসন পরিকল্পনা ঘোষণা করেছে কানাডার ফেডারেল সরকার। ২০২৭ থেকে ২০২৯ সাল পর্যন্ত প্রতিটি বছর ৩ লাখ ৮০ হাজার করে নতুন স্থায়ী বাসিন্দা গ্রহণের পরিকল্পনা নেওয়া হয়েছে।
+গত ৫ নভেম্ব&lt;/p&gt;</description>
       <source url="https://www.bbc24news.com/111652">বিবিসি বাংলা</source>
     </item>
     <item>
@@ -20,7 +22,9 @@
       <link>https://www.bbc24news.com/111650</link>
       <guid isPermaLink="true">https://www.bbc24news.com/111650</guid>
       <pubDate>Tue, 30 Nov 1999 00:00:00 +0000</pubDate>
-      <description>বিবিসি২৪নিউজ, আন্তর্জাতিক ডেস্ক: রাশিয়ায় অবস্থিত জাপানের বৃহৎ তামাক প্রতিষ্ঠান জাপান টোব্যাকোর চারটি প্রতিষ্ঠানের সম্পদ অস্থায়ী ব্যবস্থাপনায় নেওয়ার নির্দেশ দিয়েছেন প্রেসিডেন্ট ভ্লাদিমির পুতিন। গত বৃহস্পতিবার এ নির্দেশ দেওয়া হয়। টোকিও এর প্রতিবাদ জানিয়েছে। তারা সিদ্ধান্তটি অবিলম্বে প্রত্যাহারের দাবি </description>
+      <enclosure url="https://www.bbc24news.com/cloud/archives/2026/11/20261108_020202.jpg" length="0" type="image/jpeg" />
+      <media:content url="https://www.bbc24news.com/cloud/archives/2026/11/20261108_020202.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://www.bbc24news.com/cloud/archives/2026/11/20261108_020202.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="জাপান টোব্যাকোর সম্পদ নিয়ন্ত্রণে নিল রাশিয়া" /&gt;&lt;/p&gt;&lt;p&gt;বিবিসি২৪নিউজ, আন্তর্জাতিক ডেস্ক: রাশিয়ায় অবস্থিত জাপানের বৃহৎ তামাক প্রতিষ্ঠান জাপান টোব্যাকোর চারটি প্রতিষ্ঠানের সম্পদ অস্থায়ী ব্যবস্থাপনায় নেওয়ার নির্দেশ দিয়েছেন প্রেসিডেন্ট ভ্লাদিমির পুতিন। গত বৃহস্পতিবার এ নির্দেশ দেওয়া হয়। টোকিও এর প্রতিবাদ জানিয়েছে। তারা সিদ্ধান্তটি অবিলম্বে প্রত্যাহারের দাবি &lt;/p&gt;</description>
       <source url="https://www.bbc24news.com/111650">বিবিসি বাংলা</source>
     </item>
     <item>
@@ -28,7 +32,9 @@
       <link>https://www.bbc24news.com/111648</link>
       <guid isPermaLink="true">https://www.bbc24news.com/111648</guid>
       <pubDate>Tue, 30 Nov 1999 00:00:00 +0000</pubDate>
-      <description>বিবিসি২৪নিউজ,আন্তর্জাতিক ডেস্ক: ইরানের পারমাণবিক কর্মসূচি সম্পর্কে তথ্য দিতে পারলেই সর্বোচ্চ ২০ মিলিয়ন বা ২ কোটি ডলার পুরস্কার দেওয়ার ঘোষণা দিয়েছে যুক্তরাষ্ট্র। এ কর্মসূচির সঙ্গে সংশ্লিষ্ট বিজ্ঞানী, কর্মকর্তা, প্রযুক্তি, সক্ষমতা, প্রতিষ্ঠান ও ব্যক্তিদের বিষয়ে তথ্য চেয়েছে দেশটির পররাষ্ট্র মন্ত্রণালয়।</description>
+      <enclosure url="https://www.bbc24news.com/cloud/archives/2026/11/20261107_132210.jpg" length="0" type="image/jpeg" />
+      <media:content url="https://www.bbc24news.com/cloud/archives/2026/11/20261107_132210.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://www.bbc24news.com/cloud/archives/2026/11/20261107_132210.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="ইরানের পারমাণবিক কর্মসূচির তথ্য দিলেই ২ কোটি ডলার দেবে যুক্তরাষ্ট্র" /&gt;&lt;/p&gt;&lt;p&gt;বিবিসি২৪নিউজ,আন্তর্জাতিক ডেস্ক: ইরানের পারমাণবিক কর্মসূচি সম্পর্কে তথ্য দিতে পারলেই সর্বোচ্চ ২০ মিলিয়ন বা ২ কোটি ডলার পুরস্কার দেওয়ার ঘোষণা দিয়েছে যুক্তরাষ্ট্র। এ কর্মসূচির সঙ্গে সংশ্লিষ্ট বিজ্ঞানী, কর্মকর্তা, প্রযুক্তি, সক্ষমতা, প্রতিষ্ঠান ও ব্যক্তিদের বিষয়ে তথ্য চেয়েছে দেশটির পররাষ্ট্র মন্ত্রণালয়।&lt;/p&gt;</description>
       <source url="https://www.bbc24news.com/111648">বিবিসি বাংলা</source>
     </item>
     <item>
@@ -36,7 +42,9 @@
       <link>https://www.bbc24news.com/111646</link>
       <guid isPermaLink="true">https://www.bbc24news.com/111646</guid>
       <pubDate>Tue, 30 Nov 1999 00:00:00 +0000</pubDate>
-      <description>বিবিসি২৪নিউজ,আন্তর্জাতিক ডেস্ক: ডিজিটাল ব্যাংক উয়েনোর পতন ঘিরে রাজনৈতিক ও আর্থিক সংকটের জেরে ক্ষমতাচ্যুত হয়েছেন দক্ষিণ আমেরিকার দেশ প্যারাগুয়ের প্রেসিডেন্ট সান্তিয়াগো পেনা। তাকে গৃহবন্দি করার নির্দেশ দিয়েছেন দেশটির কর্তৃপক্ষ। একই দিন নতুন প্রেসিডেন্ট হিসেবে শপথ নিয়েছেন সাবেক ভাইস প্রেসিডেন্ট পেদ্রো </description>
+      <enclosure url="https://www.bbc24news.com/cloud/archives/2026/11/20261107_131654.jpg" length="0" type="image/jpeg" />
+      <media:content url="https://www.bbc24news.com/cloud/archives/2026/11/20261107_131654.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://www.bbc24news.com/cloud/archives/2026/11/20261107_131654.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="ক্ষমতাচ্যুত হওয়ার পর গৃহবন্দি প্যারাগুয়ের প্রেসিডেন্ট সান্তিয়াগো পেনা" /&gt;&lt;/p&gt;&lt;p&gt;বিবিসি২৪নিউজ,আন্তর্জাতিক ডেস্ক: ডিজিটাল ব্যাংক উয়েনোর পতন ঘিরে রাজনৈতিক ও আর্থিক সংকটের জেরে ক্ষমতাচ্যুত হয়েছেন দক্ষিণ আমেরিকার দেশ প্যারাগুয়ের প্রেসিডেন্ট সান্তিয়াগো পেনা। তাকে গৃহবন্দি করার নির্দেশ দিয়েছেন দেশটির কর্তৃপক্ষ। একই দিন নতুন প্রেসিডেন্ট হিসেবে শপথ নিয়েছেন সাবেক ভাইস প্রেসিডেন্ট পেদ্রো &lt;/p&gt;</description>
       <source url="https://www.bbc24news.com/111646">বিবিসি বাংলা</source>
     </item>
     <item>
@@ -44,8 +52,10 @@
       <link>https://www.bbc24news.com/111644</link>
       <guid isPermaLink="true">https://www.bbc24news.com/111644</guid>
       <pubDate>Tue, 30 Nov 1999 00:00:00 +0000</pubDate>
-      <description>বিবিসি২৪নিউজ, ডিজিটাল ডেস্ক: যুক্তরাষ্ট্রে ভ্রমণের অযোগ্য হিসেবে বিবেচিত হওয়া বিষয়ে বিবৃতি দিয়েছে ঢাকাস্থ মার্কিন দূতাবাস। বিবৃতিতে জানানো হয়েছে, যুক্তরাষ্ট্রে ভ্রমণকারী বিদেশি নাগরিকেরা চিকিৎসার খরচ মেটাতে সরকারি সহায়তা নিলে তা ভিসার শর্তের অপব্যবহার হিসেবে বিবেচিত হয়।
-শনিবার (৭ নভেম্বর) নিজেদের ভে</description>
+      <enclosure url="https://www.bbc24news.com/cloud/archives/2026/11/20261107_131032.jpg" length="0" type="image/jpeg" />
+      <media:content url="https://www.bbc24news.com/cloud/archives/2026/11/20261107_131032.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://www.bbc24news.com/cloud/archives/2026/11/20261107_131032.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="যুক্তরাষ্ট্রে ভ্রমণের অযোগ্য হতে পারেন যে কারণে: দূতাবাস" /&gt;&lt;/p&gt;&lt;p&gt;বিবিসি২৪নিউজ, ডিজিটাল ডেস্ক: যুক্তরাষ্ট্রে ভ্রমণের অযোগ্য হিসেবে বিবেচিত হওয়া বিষয়ে বিবৃতি দিয়েছে ঢাকাস্থ মার্কিন দূতাবাস। বিবৃতিতে জানানো হয়েছে, যুক্তরাষ্ট্রে ভ্রমণকারী বিদেশি নাগরিকেরা চিকিৎসার খরচ মেটাতে সরকারি সহায়তা নিলে তা ভিসার শর্তের অপব্যবহার হিসেবে বিবেচিত হয়।
+শনিবার (৭ নভেম্বর) নিজেদের ভে&lt;/p&gt;</description>
       <source url="https://www.bbc24news.com/111644">বিবিসি বাংলা</source>
     </item>
     <item>
@@ -53,8 +63,10 @@
       <link>https://www.bbc24news.com/111642</link>
       <guid isPermaLink="true">https://www.bbc24news.com/111642</guid>
       <pubDate>Tue, 30 Nov 1999 00:00:00 +0000</pubDate>
-      <description>বিবিসি২৪নিউজ,নিজস্ব প্রতিবেদক ঢাকা: প্রধানমন্ত্রী তারেক রহমান বলেছেন, যতবার বাংলাদেশের বিরুদ্ধে ষড়যন্ত্র হয়েছে, যতবার দেশের গণতন্ত্র বিপন্ন হয়েছে, ততবারই ৭ নভেম্বরের ঐক্যবদ্ধ বিপ্লবের চেতনায় ঘুরে দাঁড়িয়েছে বাংলাদেশ।
-শনিবার (৭ নভেম্বর) জাতীয় বিপ্লব ও সংহতি দিবস উপলক্ষ্যে রাজধানীর বনানীর আর্মি স্টেডিয়</description>
+      <enclosure url="https://www.bbc24news.com/cloud/archives/2026/11/20261107_123451.jpg" length="0" type="image/jpeg" />
+      <media:content url="https://www.bbc24news.com/cloud/archives/2026/11/20261107_123451.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://www.bbc24news.com/cloud/archives/2026/11/20261107_123451.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="৭ নভেম্বরের ঐক্যবদ্ধ বিপ্লবের চেতনায় ঘুরে দাঁড়িয়েছে বাংলাদেশ:  প্রধানমন্ত্রী" /&gt;&lt;/p&gt;&lt;p&gt;বিবিসি২৪নিউজ,নিজস্ব প্রতিবেদক ঢাকা: প্রধানমন্ত্রী তারেক রহমান বলেছেন, যতবার বাংলাদেশের বিরুদ্ধে ষড়যন্ত্র হয়েছে, যতবার দেশের গণতন্ত্র বিপন্ন হয়েছে, ততবারই ৭ নভেম্বরের ঐক্যবদ্ধ বিপ্লবের চেতনায় ঘুরে দাঁড়িয়েছে বাংলাদেশ।
+শনিবার (৭ নভেম্বর) জাতীয় বিপ্লব ও সংহতি দিবস উপলক্ষ্যে রাজধানীর বনানীর আর্মি স্টেডিয়&lt;/p&gt;</description>
       <source url="https://www.bbc24news.com/111642">বিবিসি বাংলা</source>
     </item>
     <item>
@@ -62,7 +74,9 @@
       <link>https://www.bbc24news.com/111640</link>
       <guid isPermaLink="true">https://www.bbc24news.com/111640</guid>
       <pubDate>Tue, 30 Nov 1999 00:00:00 +0000</pubDate>
-      <description>বিবিসি২৪নিউজ,ফরিদা ইয়াসমিন (ওয়াশিংটন) যুক্তরাষ্ট্রের থেকে: যুক্তরাষ্ট্রের মধ্যবর্তী নির্বাচনে বড় রাজনৈতিক পালাবদল ঘটেছে। সিনেটের নিয়ন্ত্রণ হারিয়েছে প্রেসিডেন্ট ডোনাল্ড ট্রাম্পের রিপাবলিকান পার্টি। চারটি আসন পুনরুদ্ধারের মাধ্যমে সিনেটে সংখ্যাগরিষ্ঠতা নিশ্চিত করেছে ডেমোক্র্যাটরা। গত বছরও দলটির জন্য এম</description>
+      <enclosure url="https://www.bbc24news.com/cloud/archives/2026/11/20261104_111839.jpg" length="0" type="image/jpeg" />
+      <media:content url="https://www.bbc24news.com/cloud/archives/2026/11/20261104_111839.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://www.bbc24news.com/cloud/archives/2026/11/20261104_111839.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="যুক্তরাষ্ট্রের মধ্যবর্তী নির্বাচন: রিপাবলিকানদের হটিয়ে সিনেটের নিয়ন্ত্রণ নিল ডেমোক্র্যাটরা" /&gt;&lt;/p&gt;&lt;p&gt;বিবিসি২৪নিউজ,ফরিদা ইয়াসমিন (ওয়াশিংটন) যুক্তরাষ্ট্রের থেকে: যুক্তরাষ্ট্রের মধ্যবর্তী নির্বাচনে বড় রাজনৈতিক পালাবদল ঘটেছে। সিনেটের নিয়ন্ত্রণ হারিয়েছে প্রেসিডেন্ট ডোনাল্ড ট্রাম্পের রিপাবলিকান পার্টি। চারটি আসন পুনরুদ্ধারের মাধ্যমে সিনেটে সংখ্যাগরিষ্ঠতা নিশ্চিত করেছে ডেমোক্র্যাটরা। গত বছরও দলটির জন্য এম&lt;/p&gt;</description>
       <source url="https://www.bbc24news.com/111640">বিবিসি বাংলা</source>
     </item>
     <item>
@@ -70,7 +84,9 @@
       <link>https://www.bbc24news.com/111638</link>
       <guid isPermaLink="true">https://www.bbc24news.com/111638</guid>
       <pubDate>Tue, 30 Nov 1999 00:00:00 +0000</pubDate>
-      <description>বিবিসি২৪নিউজ,অমিত ঘোষ, দিল্লি থেকে: বাংলাদেশে চলমান পোশাকশ্রমিকদের মজুরি বৃদ্ধির দাবিতে আন্দোলন ও সার্বিক পরিস্থিতির ওপর ভারত নজর রাখছে বলে জানিয়েছেন দেশটির পররাষ্ট্র মন্ত্রণালয়ের মুখপাত্র রণধীর জয়সওয়াল। ভারতের পররাষ্ট্র মন্ত্রণালয়ের পাক্ষিক সংবাদ সম্মেলনে বাংলাদেশের অভ্যন্তরীণ অসন্তোষ ও সাম্প্রতিক </description>
+      <enclosure url="https://www.bbc24news.com/cloud/archives/2026/11/20261104_010913-thumbnail.jpg" length="0" type="image/jpeg" />
+      <media:content url="https://www.bbc24news.com/cloud/archives/2026/11/20261104_010913-thumbnail.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://www.bbc24news.com/cloud/archives/2026/11/20261104_010913-thumbnail.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="বাংলাদেশের শ্রমিক আন্দোলনের দিকে কেন- নজর রাখছে ভারত’" /&gt;&lt;/p&gt;&lt;p&gt;বিবিসি২৪নিউজ,অমিত ঘোষ, দিল্লি থেকে: বাংলাদেশে চলমান পোশাকশ্রমিকদের মজুরি বৃদ্ধির দাবিতে আন্দোলন ও সার্বিক পরিস্থিতির ওপর ভারত নজর রাখছে বলে জানিয়েছেন দেশটির পররাষ্ট্র মন্ত্রণালয়ের মুখপাত্র রণধীর জয়সওয়াল। ভারতের পররাষ্ট্র মন্ত্রণালয়ের পাক্ষিক সংবাদ সম্মেলনে বাংলাদেশের অভ্যন্তরীণ অসন্তোষ ও সাম্প্রতিক &lt;/p&gt;</description>
       <source url="https://www.bbc24news.com/111638">বিবিসি বাংলা</source>
     </item>
     <item>
@@ -78,7 +94,9 @@
       <link>https://www.bbc24news.com/111636</link>
       <guid isPermaLink="true">https://www.bbc24news.com/111636</guid>
       <pubDate>Tue, 30 Nov 1999 00:00:00 +0000</pubDate>
-      <description>বিবিসি২৪নিউজ, ডিজিটাল ডেস্ক: বাজারে গিয়ে মাছ-মাংসের দাম শুনে ফিরে আসতে হচ্ছে অনেককে। সন্তানের পছন্দের খাবার কেনার ইচ্ছা থাকলেও সামর্থ্যে কুলাচ্ছে না। কোনো পরিবারের খাবারের তালিকা থেকে বাদ পড়ছে মাছ-মাংস, আবার কারও সংসারে চাল, ডাল আর আলুই হয়ে উঠেছে প্রধান ভরসা। এমনকি কোনো কোনো পরিবারে সন্তানের জন্য দু</description>
+      <enclosure url="https://www.bbc24news.com/cloud/archives/2026/11/20261104_010150.jpg" length="0" type="image/jpeg" />
+      <media:content url="https://www.bbc24news.com/cloud/archives/2026/11/20261104_010150.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://www.bbc24news.com/cloud/archives/2026/11/20261104_010150.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="বাংলাদেশে দ্রব্যমূল্যের চাপে দিশাহারা সাধারণ মানুষ" /&gt;&lt;/p&gt;&lt;p&gt;বিবিসি২৪নিউজ, ডিজিটাল ডেস্ক: বাজারে গিয়ে মাছ-মাংসের দাম শুনে ফিরে আসতে হচ্ছে অনেককে। সন্তানের পছন্দের খাবার কেনার ইচ্ছা থাকলেও সামর্থ্যে কুলাচ্ছে না। কোনো পরিবারের খাবারের তালিকা থেকে বাদ পড়ছে মাছ-মাংস, আবার কারও সংসারে চাল, ডাল আর আলুই হয়ে উঠেছে প্রধান ভরসা। এমনকি কোনো কোনো পরিবারে সন্তানের জন্য দু&lt;/p&gt;</description>
       <source url="https://www.bbc24news.com/111636">বিবিসি বাংলা</source>
     </item>
     <item>
@@ -86,7 +104,9 @@
       <link>https://www.bbc24news.com/111634</link>
       <guid isPermaLink="true">https://www.bbc24news.com/111634</guid>
       <pubDate>Tue, 30 Nov 1999 00:00:00 +0000</pubDate>
-      <description>বিবিসি২৪নিউজ,আন্তর্জাতিক ডেস্ক: বিশ্বব্যাপী সাংবাদিকদের বিরুদ্ধে সংঘটিত হত্যাকাণ্ডের ৮৬ শতাংশের বিচার হয়নি। ২০২৪ ও ২০২৫ সালে বিশ্বে ১৮৯ জন সাংবাদিক, গণমাধ্যমকর্মী ও সাংবাদিকতামূলক কাজে নিয়োজিত সামাজিক যোগাযোগমাধ্যমের কনটেন্ট নির্মাতা নিহত হয়েছেন। এসব হত্যাকাণ্ডের ৬৭ শতাংশ ঘটেছে সশস্ত্র সংঘাত চলমান দ</description>
+      <enclosure url="https://www.bbc24news.com/cloud/archives/2026/11/20261103_000508.jpg" length="0" type="image/jpeg" />
+      <media:content url="https://www.bbc24news.com/cloud/archives/2026/11/20261103_000508.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://www.bbc24news.com/cloud/archives/2026/11/20261103_000508.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="সাংবাদিক হত্যার অধিকাংশর ঘটনায় বিচার হয়নি: ইউনেস্কো" /&gt;&lt;/p&gt;&lt;p&gt;বিবিসি২৪নিউজ,আন্তর্জাতিক ডেস্ক: বিশ্বব্যাপী সাংবাদিকদের বিরুদ্ধে সংঘটিত হত্যাকাণ্ডের ৮৬ শতাংশের বিচার হয়নি। ২০২৪ ও ২০২৫ সালে বিশ্বে ১৮৯ জন সাংবাদিক, গণমাধ্যমকর্মী ও সাংবাদিকতামূলক কাজে নিয়োজিত সামাজিক যোগাযোগমাধ্যমের কনটেন্ট নির্মাতা নিহত হয়েছেন। এসব হত্যাকাণ্ডের ৬৭ শতাংশ ঘটেছে সশস্ত্র সংঘাত চলমান দ&lt;/p&gt;</description>
       <source url="https://www.bbc24news.com/111634">বিবিসি বাংলা</source>
     </item>
   </channel>

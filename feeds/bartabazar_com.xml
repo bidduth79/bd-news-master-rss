@@ -1,11 +1,19 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<rss version="2.0">
   <channel>
     <title>বার্তা বাজার - আরএসএস ফিড</title>
     <link>https://bartabazar.com</link>
     <description>বার্তা বাজার এর সর্বশেষ খবর</description>
     <language>bn</language>
-    <lastBuildDate>Sun, 08 Nov 2026 14:13:09 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 14:22:17 +0000</lastBuildDate>
+    <item>
+      <title>হিন্দুস্তান থেকে প্যারাশুটে নামবেন, না হেলিকপ্টারে, একটু বলে দিন: রিজভী</title>
+      <link>https://bartabazar.com/news/377105/</link>
+      <guid isPermaLink="true">https://bartabazar.com/news/377105/</guid>
+      <pubDate>Sun, 08 Nov 2026 14:13:22 +0000</pubDate>
+      <description>শহীদের রক্ত মাটিতে শুকাতে না শুকাতেই শেখ হাসিনা হিন্দুস্তান থেকে দেশে ফেরার আওয়াজ দিচ্ছেন বলে জানিয়েছেন বিএনপির ভারপ্রাপ্ত মহাসচিব রুহুল কবির রিজভী। তিনি বলেন, শেখ হাসিনা দেশে আসতে পারেন, তবে তার প্রতিটি হত্যার বিচার হবে। দেশে আইনের শাসন প্রতিষ্ঠার যে অঙ্গীকার গণতান্ত্রিক আন্দোলনে করা হয়েছে, তা নিশ্</description>
+      <source url="https://bartabazar.com/news/377105/">বার্তা বাজার</source>
+    </item>
     <item>
       <title>চাঁদপুরের কচুয়ায় আওয়ামী লীগের ১১ নেতাকর্মী গ্রেপ্তার</title>
       <link>https://bartabazar.com/news/377102/</link>
@@ -77,14 +85,6 @@
       <pubDate>Sun, 08 Nov 2026 13:10:27 +0000</pubDate>
       <description>রাজধানীর ভাটারায় রাস্তার পাশে দাঁড়িয়ে থাকা জলসিঁড়ি ক্যান্টনমেন্ট স্কুলের একটি বাসে আগুন দিয়েছে দুর্বৃত্তরা। রোববার (৮ নভেম্বর) সন্ধ্যা সাড়ে ৬টার দিকে এ অগ্নিসংযোগের খবর পায় ভাটারা থানা পুলিশ। সন্ধ্যা ৬টা ৪০ মিনিটের দিকে বিষয়টি নিশ্চিত করেছেন ভাটারা থানার উপ-পরিদর্শক (এসআই) দেবাশিস রায়। এসআই দেবাশিস </description>
       <source url="https://bartabazar.com/news/377077/">বার্তা বাজার</source>
-    </item>
-    <item>
-      <title>মাত্র ৮ মাসে কোরআনের ৩০ পারা মুখস্থ, ১০ বছর বয়সেই হাফেজ লক্ষ্মীপুরের আব্দুর রহমান</title>
-      <link>https://bartabazar.com/news/377076/</link>
-      <guid isPermaLink="true">https://bartabazar.com/news/377076/</guid>
-      <pubDate>Sun, 08 Nov 2026 13:10:00 +0000</pubDate>
-      <description>লক্ষ্মীপুরের কমলনগরে মাত্র আট মাসে পবিত্র কোরআনের ৩০ পারা মুখস্থ করে হাফেজ হয়েছে ১০ বছর বয়সী শিশু মোহাম্মদ আব্দুর রহমান। তার এই সাফল্যে আনন্দিত শিক্ষক ও পরিবারের সদস্যরা। মাত্র আট মাসে পুরো কোরআন মুখস্থ করতে পেরে উচ্ছ্বসিত আব্দুর রহমান। ভবিষ্যতে বড় আলেম হওয়ার স্বপ্ন দেখে সে। তার বাবা আনোয়ার হোসেন পে</description>
-      <source url="https://bartabazar.com/news/377076/">বার্তা বাজার</source>
     </item>
   </channel>
 </rss>

@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
   <channel>
     <title>শেয়ার বিজ - আরএসএস ফিড</title>
     <link>https://sharebiz.net</link>
     <description>শেয়ার বিজ এর সর্বশেষ খবর</description>
     <language>bn</language>
-    <lastBuildDate>Sun, 08 Nov 2026 14:12:54 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 14:22:12 +0000</lastBuildDate>
     <item>
       <title>মূল্য সংবেদনশীল তথ্য</title>
       <link>https://www.sharebiz.net/economics/psi</link>
       <guid isPermaLink="true">https://www.sharebiz.net/economics/psi</guid>
-      <pubDate>Sun, 08 Nov 2026 14:12:54 +0000</pubDate>
+      <pubDate>Sun, 08 Nov 2026 14:22:12 +0000</pubDate>
       <description>মূল্য সংবেদনশীল তথ্য</description>
       <source url="https://www.sharebiz.net/economics/psi">শেয়ার বিজ</source>
     </item>
@@ -18,15 +18,17 @@
       <title>ভবিষ্যতে আর কেউ যেন জনগণের অধিকার হরণ করতে না পারে: প্রধানমন্ত্রী তারেক রহমান</title>
       <link>https://www.sharebiz.net/national/news/179859</link>
       <guid isPermaLink="true">https://www.sharebiz.net/national/news/179859</guid>
-      <pubDate>Sun, 08 Nov 2026 14:12:54 +0000</pubDate>
-      <description>ভবিষ্যতে আর কেউ যেন জনগণের অধিকার হরণ করতে না পারে: প্রধানমন্ত্রী তারেক রহমান</description>
+      <pubDate>Sun, 08 Nov 2026 14:22:12 +0000</pubDate>
+      <enclosure url="https://www.sharebiz.net/media/imgAll/2026October/Images-10000-01-2611070610.png" length="0" type="image/jpeg" />
+      <media:content url="https://www.sharebiz.net/media/imgAll/2026October/Images-10000-01-2611070610.png" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://www.sharebiz.net/media/imgAll/2026October/Images-10000-01-2611070610.png" style="max-width:100%;height:auto;margin-bottom:10px;" alt="ভবিষ্যতে আর কেউ যেন জনগণের অধিকার হরণ করতে না পারে: প্রধানমন্ত্রী তারেক রহমান" /&gt;&lt;/p&gt;&lt;p&gt;ভবিষ্যতে আর কেউ যেন জনগণের অধিকার হরণ করতে না পারে: প্রধানমন্ত্রী তারেক রহমান&lt;/p&gt;</description>
       <source url="https://www.sharebiz.net/national/news/179859">শেয়ার বিজ</source>
     </item>
     <item>
       <title>২ ডিসেম্বরেই খুলছে পঞ্চবটি-মুক্তারপুর এক্সপ্রেসওয়ে</title>
       <link>https://www.sharebiz.net/country/news/179858</link>
       <guid isPermaLink="true">https://www.sharebiz.net/country/news/179858</guid>
-      <pubDate>Sun, 08 Nov 2026 14:12:54 +0000</pubDate>
+      <pubDate>Sun, 08 Nov 2026 14:22:12 +0000</pubDate>
       <description>২ ডিসেম্বরেই খুলছে পঞ্চবটি-মুক্তারপুর এক্সপ্রেসওয়ে</description>
       <source url="https://www.sharebiz.net/country/news/179858">শেয়ার বিজ</source>
     </item>
@@ -34,7 +36,7 @@
       <title>৩ শীতের সবজির কমছে দাম, চড়া মাছ-মাংস</title>
       <link>https://www.sharebiz.net/economics/news/179857</link>
       <guid isPermaLink="true">https://www.sharebiz.net/economics/news/179857</guid>
-      <pubDate>Sun, 08 Nov 2026 14:12:54 +0000</pubDate>
+      <pubDate>Sun, 08 Nov 2026 14:22:12 +0000</pubDate>
       <description>৩ শীতের সবজির কমছে দাম, চড়া মাছ-মাংস</description>
       <source url="https://www.sharebiz.net/economics/news/179857">শেয়ার বিজ</source>
     </item>
@@ -42,7 +44,7 @@
       <title>৪ রাজপথে সিপাহি জনতার ঢল, বদলে গেল ইতিহাস</title>
       <link>https://www.sharebiz.net/national/news/179856</link>
       <guid isPermaLink="true">https://www.sharebiz.net/national/news/179856</guid>
-      <pubDate>Sun, 08 Nov 2026 14:12:54 +0000</pubDate>
+      <pubDate>Sun, 08 Nov 2026 14:22:12 +0000</pubDate>
       <description>৪ রাজপথে সিপাহি জনতার ঢল, বদলে গেল ইতিহাস</description>
       <source url="https://www.sharebiz.net/national/news/179856">শেয়ার বিজ</source>
     </item>
@@ -50,7 +52,7 @@
       <title>৫ ওয়েব কোটসের পর্ষদের দায় খতিয়ে দেখছে বিএসইসি</title>
       <link>https://www.sharebiz.net/daily/news/179855</link>
       <guid isPermaLink="true">https://www.sharebiz.net/daily/news/179855</guid>
-      <pubDate>Sun, 08 Nov 2026 14:12:54 +0000</pubDate>
+      <pubDate>Sun, 08 Nov 2026 14:22:12 +0000</pubDate>
       <description>৫ ওয়েব কোটসের পর্ষদের দায় খতিয়ে দেখছে বিএসইসি</description>
       <source url="https://www.sharebiz.net/daily/news/179855">শেয়ার বিজ</source>
     </item>
@@ -58,7 +60,7 @@
       <title>৬ সেন্টমার্টিন যেতে জাহাজভাড়া ৪২০০ টাকা, হোটেল ও খাবার মিলিয়ে মোট খরচ কত?</title>
       <link>https://www.sharebiz.net/tour-travels/news/179854</link>
       <guid isPermaLink="true">https://www.sharebiz.net/tour-travels/news/179854</guid>
-      <pubDate>Sun, 08 Nov 2026 14:12:54 +0000</pubDate>
+      <pubDate>Sun, 08 Nov 2026 14:22:12 +0000</pubDate>
       <description>৬ সেন্টমার্টিন যেতে জাহাজভাড়া ৪২০০ টাকা, হোটেল ও খাবার মিলিয়ে মোট খরচ কত?</description>
       <source url="https://www.sharebiz.net/tour-travels/news/179854">শেয়ার বিজ</source>
     </item>
@@ -66,7 +68,7 @@
       <title>৭ ভারতের মিলিয়নিয়ার ভিলেজ: যে গ্রামের বাসিন্দারা কৃষি করেই কোটিপতি</title>
       <link>https://www.sharebiz.net/international/news/179853</link>
       <guid isPermaLink="true">https://www.sharebiz.net/international/news/179853</guid>
-      <pubDate>Sun, 08 Nov 2026 14:12:54 +0000</pubDate>
+      <pubDate>Sun, 08 Nov 2026 14:22:12 +0000</pubDate>
       <description>৭ ভারতের মিলিয়নিয়ার ভিলেজ: যে গ্রামের বাসিন্দারা কৃষি করেই কোটিপতি</description>
       <source url="https://www.sharebiz.net/international/news/179853">শেয়ার বিজ</source>
     </item>
@@ -74,7 +76,7 @@
       <title>৮ শ্রমিক অসন্তোষ কাটছে, রবিবার থেকে স্বাভাবিক হচ্ছে দেশের পোশাক কারখানা</title>
       <link>https://www.sharebiz.net/economics/news/179852</link>
       <guid isPermaLink="true">https://www.sharebiz.net/economics/news/179852</guid>
-      <pubDate>Sun, 08 Nov 2026 14:12:54 +0000</pubDate>
+      <pubDate>Sun, 08 Nov 2026 14:22:12 +0000</pubDate>
       <description>৮ শ্রমিক অসন্তোষ কাটছে, রবিবার থেকে স্বাভাবিক হচ্ছে দেশের পোশাক কারখানা</description>
       <source url="https://www.sharebiz.net/economics/news/179852">শেয়ার বিজ</source>
     </item>
@@ -82,7 +84,7 @@
       <title>৯ স্বর্ণের দাম ভরিতে কমল ২ হাজার ৭৪১ টাকা, ২২ ক্যারেটের নতুন দাম কত?</title>
       <link>https://www.sharebiz.net/economics/news/179851</link>
       <guid isPermaLink="true">https://www.sharebiz.net/economics/news/179851</guid>
-      <pubDate>Sun, 08 Nov 2026 14:12:54 +0000</pubDate>
+      <pubDate>Sun, 08 Nov 2026 14:22:12 +0000</pubDate>
       <description>৯ স্বর্ণের দাম ভরিতে কমল ২ হাজার ৭৪১ টাকা, ২২ ক্যারেটের নতুন দাম কত?</description>
       <source url="https://www.sharebiz.net/economics/news/179851">শেয়ার বিজ</source>
     </item>
@@ -90,7 +92,7 @@
       <title>১০ ইরানকে নতুন করে সামরিক হামলার হুঁশিয়ারি ট্রাম্পের, বাড়ছে মধ্যপ্রাচ্যে উত্তেজনা</title>
       <link>https://www.sharebiz.net/international/news/179850</link>
       <guid isPermaLink="true">https://www.sharebiz.net/international/news/179850</guid>
-      <pubDate>Sun, 08 Nov 2026 14:12:54 +0000</pubDate>
+      <pubDate>Sun, 08 Nov 2026 14:22:12 +0000</pubDate>
       <description>১০ ইরানকে নতুন করে সামরিক হামলার হুঁশিয়ারি ট্রাম্পের, বাড়ছে মধ্যপ্রাচ্যে উত্তেজনা</description>
       <source url="https://www.sharebiz.net/international/news/179850">শেয়ার বিজ</source>
     </item>
@@ -98,7 +100,7 @@
       <title>১১ নাসিকের অনুমতি ছাড়াই  চলছে নির্মাণকাজ</title>
       <link>https://www.sharebiz.net/national/news/179849</link>
       <guid isPermaLink="true">https://www.sharebiz.net/national/news/179849</guid>
-      <pubDate>Sun, 08 Nov 2026 14:12:54 +0000</pubDate>
+      <pubDate>Sun, 08 Nov 2026 14:22:12 +0000</pubDate>
       <description>১১ নাসিকের অনুমতি ছাড়াই  চলছে নির্মাণকাজ</description>
       <source url="https://www.sharebiz.net/national/news/179849">শেয়ার বিজ</source>
     </item>
@@ -106,7 +108,7 @@
       <title>১২ অর্থায়নের অভিযোগে শতাধিক ব্যক্তির ব্যাংক হিসাব ফ্রিজ</title>
       <link>https://www.sharebiz.net/national/news/179848</link>
       <guid isPermaLink="true">https://www.sharebiz.net/national/news/179848</guid>
-      <pubDate>Sun, 08 Nov 2026 14:12:54 +0000</pubDate>
+      <pubDate>Sun, 08 Nov 2026 14:22:12 +0000</pubDate>
       <description>১২ অর্থায়নের অভিযোগে শতাধিক ব্যক্তির ব্যাংক হিসাব ফ্রিজ</description>
       <source url="https://www.sharebiz.net/national/news/179848">শেয়ার বিজ</source>
     </item>
@@ -114,7 +116,7 @@
       <title>১৩ এক দশকে রাষ্ট্রের শতকোটি টাকার রাজস্ব ক্ষতি</title>
       <link>https://www.sharebiz.net/national/news/179847</link>
       <guid isPermaLink="true">https://www.sharebiz.net/national/news/179847</guid>
-      <pubDate>Sun, 08 Nov 2026 14:12:54 +0000</pubDate>
+      <pubDate>Sun, 08 Nov 2026 14:22:12 +0000</pubDate>
       <description>১৩ এক দশকে রাষ্ট্রের শতকোটি টাকার রাজস্ব ক্ষতি</description>
       <source url="https://www.sharebiz.net/national/news/179847">শেয়ার বিজ</source>
     </item>
@@ -122,7 +124,7 @@
       <title>১৪ পুঁজিবাজারে এক মাসের মধ্যে সর্বোচ্চ লেনদেন</title>
       <link>https://www.sharebiz.net/daily/news/179846</link>
       <guid isPermaLink="true">https://www.sharebiz.net/daily/news/179846</guid>
-      <pubDate>Sun, 08 Nov 2026 14:12:54 +0000</pubDate>
+      <pubDate>Sun, 08 Nov 2026 14:22:12 +0000</pubDate>
       <description>১৪ পুঁজিবাজারে এক মাসের মধ্যে সর্বোচ্চ লেনদেন</description>
       <source url="https://www.sharebiz.net/daily/news/179846">শেয়ার বিজ</source>
     </item>

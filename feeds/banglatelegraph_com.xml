@@ -1,11 +1,19 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<rss version="2.0">
   <channel>
     <title>বাংলা টেলিগ্রাফ - আরএসএস ফিড</title>
     <link>http://www.banglatelegraph.com/</link>
     <description>বাংলা টেলিগ্রাফ এর সর্বশেষ খবর</description>
     <language>bn</language>
-    <lastBuildDate>Sun, 08 Nov 2026 14:12:44 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 14:21:57 +0000</lastBuildDate>
+    <item>
+      <title>এমএলএসে মেসির ইতিহাস, টানা দ্বিতীয়বার জিতলেন গোল্ডেন বুট</title>
+      <link>https://www.banglatelegraph.com/article/235618</link>
+      <guid isPermaLink="true">https://www.banglatelegraph.com/article/235618</guid>
+      <pubDate>Sun, 08 Nov 2026 14:14:15 +0000</pubDate>
+      <description>মেজর লিগ সকারে (এমএলএস) নতুন ইতিহাস গড়লেন আর্জেন্টাইন মহাতারকা লিওনেল মেসি। লিগের ইতিহাসে প্রথম ফুটবলার হিসেবে টানা দুই মৌসুমে গোল্ডেন বুট জয়ের কীর্তি গড়েছেন ইন্টার মায়ামির এই অধিনায়ক। চলতি মৌসুমে ২৬ গোল করে সর্বোচ্চ গোলদাতার [&amp;#8230;]</description>
+      <source url="https://www.banglatelegraph.com/article/235618">বাংলা টেলিগ্রাফ</source>
+    </item>
     <item>
       <title>শেখ হাসিনা দেশে ফিরতে পারেন, তবে প্রতিটি হত্যার বিচার হবে: রিজভী</title>
       <link>https://www.banglatelegraph.com/article/235614</link>
@@ -77,14 +85,6 @@
       <pubDate>Sun, 08 Nov 2026 12:50:43 +0000</pubDate>
       <description>বাংলাদেশের ২৯তম পররাষ্ট্র সচিব হিসেবে দায়িত্ব পেয়েছেন সালাহউদ্দিন নোমান চৌধুরী। রবিবার (৮ নভেম্বর) পররাষ্ট্র মন্ত্রণালয়ের প্রশাসন অনুবিভাগের এক প্রজ্ঞাপনে এ নিয়োগের কথা জানানো হয়। তিনি বিদায়ী পররাষ্ট্র সচিব আসাদ আলম সিয়ামের স্থলাভিষিক্ত হয়েছেন। প্রজ্ঞাপনে বলা [&amp;#8230;]</description>
       <source url="https://www.banglatelegraph.com/article/235577">বাংলা টেলিগ্রাফ</source>
-    </item>
-    <item>
-      <title>২৪ ঘণ্টায় ডেঙ্গুতে নতুন ভর্তি ২৩৩৩, মৃত্যু ৩</title>
-      <link>https://www.banglatelegraph.com/article/235573</link>
-      <guid isPermaLink="true">https://www.banglatelegraph.com/article/235573</guid>
-      <pubDate>Sun, 08 Nov 2026 12:32:55 +0000</pubDate>
-      <description>গত ২৪ ঘণ্টায় দেশে ডেঙ্গুতে আক্রান্ত হয়ে আরও তিনজনের মৃত্যু হয়েছে। একই সময়ে আক্রান্ত হয়ে হাসপাতালে ভর্তি হয়েছেন দুই হাজার ৩৩৩ জন। রোববার (৮ নভেম্বর) স্বাস্থ্য অধিদপ্তরের ডেঙ্গুবিষয়ক নিয়মিত বুলেটিনে তথ্যটি জানানো হয়। স্বাস্থ্য অধিদপ্তরের [&amp;#8230;]</description>
-      <source url="https://www.banglatelegraph.com/article/235573">বাংলা টেলিগ্রাফ</source>
     </item>
   </channel>
 </rss>

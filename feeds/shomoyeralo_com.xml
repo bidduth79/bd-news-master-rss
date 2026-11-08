@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
   <channel>
     <title>সময়ের আলো - আরএসএস ফিড</title>
     <link>https://shomoyeralo.com</link>
     <description>সময়ের আলো এর সর্বশেষ খবর</description>
     <language>bn</language>
-    <lastBuildDate>Sun, 08 Nov 2026 14:12:52 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 14:22:06 +0000</lastBuildDate>
     <item>
       <title>● সোশ্যাল মিডিয়া</title>
       <link>https://www.shomoyeralo.com/menu/336</link>
       <guid isPermaLink="true">https://www.shomoyeralo.com/menu/336</guid>
-      <pubDate>Sun, 08 Nov 2026 14:12:52 +0000</pubDate>
+      <pubDate>Sun, 08 Nov 2026 14:22:06 +0000</pubDate>
       <description>● সোশ্যাল মিডিয়া</description>
       <source url="https://www.shomoyeralo.com/menu/336">সময়ের আলো</source>
     </item>
@@ -18,7 +18,7 @@
       <title>ডিসেম্বরের মধ্যেই শিক্ষার্থীদের হাতে পাঠ্যবই পৌঁছানোর নির্দেশ</title>
       <link>https://www.shomoyeralo.com/news/394329</link>
       <guid isPermaLink="true">https://www.shomoyeralo.com/news/394329</guid>
-      <pubDate>Sun, 08 Nov 2026 14:12:52 +0000</pubDate>
+      <pubDate>Sun, 08 Nov 2026 14:22:06 +0000</pubDate>
       <description>ডিসেম্বরের মধ্যেই শিক্ষার্থীদের হাতে পাঠ্যবই পৌঁছানোর নির্দেশ</description>
       <source url="https://www.shomoyeralo.com/news/394329">সময়ের আলো</source>
     </item>
@@ -26,7 +26,7 @@
       <title>থামছেই না হাম উপসর্গে মৃত্যু, আরও ২ প্রাণহানি</title>
       <link>https://www.shomoyeralo.com/news/394311</link>
       <guid isPermaLink="true">https://www.shomoyeralo.com/news/394311</guid>
-      <pubDate>Sun, 08 Nov 2026 14:12:52 +0000</pubDate>
+      <pubDate>Sun, 08 Nov 2026 14:22:06 +0000</pubDate>
       <description>থামছেই না হাম উপসর্গে মৃত্যু, আরও ২ প্রাণহানি</description>
       <source url="https://www.shomoyeralo.com/news/394311">সময়ের আলো</source>
     </item>
@@ -34,7 +34,7 @@
       <title>রাজধানীর বারিধারায় স্কুলবাসে আগুন</title>
       <link>https://www.shomoyeralo.com/news/394344</link>
       <guid isPermaLink="true">https://www.shomoyeralo.com/news/394344</guid>
-      <pubDate>Sun, 08 Nov 2026 14:12:52 +0000</pubDate>
+      <pubDate>Sun, 08 Nov 2026 14:22:06 +0000</pubDate>
       <description>রাজধানীর বারিধারায় স্কুলবাসে আগুন</description>
       <source url="https://www.shomoyeralo.com/news/394344">সময়ের আলো</source>
     </item>
@@ -42,7 +42,7 @@
       <title>প্রথম ধাপে ১০৫০ ইউনিয়ন পরিষদে ভোট : ইসি সচিব</title>
       <link>https://www.shomoyeralo.com/news/394306</link>
       <guid isPermaLink="true">https://www.shomoyeralo.com/news/394306</guid>
-      <pubDate>Sun, 08 Nov 2026 14:12:52 +0000</pubDate>
+      <pubDate>Sun, 08 Nov 2026 14:22:06 +0000</pubDate>
       <description>প্রথম ধাপে ১০৫০ ইউনিয়ন পরিষদে ভোট : ইসি সচিব</description>
       <source url="https://www.shomoyeralo.com/news/394306">সময়ের আলো</source>
     </item>
@@ -50,31 +50,37 @@
       <title>ঢাবির একাধিক স্থানে ককটেল বিস্ফোরণ, আটক ২</title>
       <link>https://www.shomoyeralo.com/news/394341</link>
       <guid isPermaLink="true">https://www.shomoyeralo.com/news/394341</guid>
-      <pubDate>Sun, 08 Nov 2026 14:12:52 +0000</pubDate>
-      <description>ঢাবির একাধিক স্থানে ককটেল বিস্ফোরণ, আটক ২</description>
+      <pubDate>Sun, 08 Nov 2026 14:22:06 +0000</pubDate>
+      <enclosure url="https://www.shomoyeralo.com/2026/11/08/sa_112.1794144513_th.jpg" length="0" type="image/jpeg" />
+      <media:content url="https://www.shomoyeralo.com/2026/11/08/sa_112.1794144513_th.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://www.shomoyeralo.com/2026/11/08/sa_112.1794144513_th.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="ঢাবির একাধিক স্থানে ককটেল বিস্ফোরণ, আটক ২" /&gt;&lt;/p&gt;&lt;p&gt;ঢাবির একাধিক স্থানে ককটেল বিস্ফোরণ, আটক ২&lt;/p&gt;</description>
       <source url="https://www.shomoyeralo.com/news/394341">সময়ের আলো</source>
     </item>
     <item>
       <title>ডেঙ্গুতে ২৪ ঘণ্টায় ৩ মৃত্যু, হাসপাতালে ভর্তি ২৩৩৩</title>
       <link>https://www.shomoyeralo.com/news/394336</link>
       <guid isPermaLink="true">https://www.shomoyeralo.com/news/394336</guid>
-      <pubDate>Sun, 08 Nov 2026 14:12:52 +0000</pubDate>
-      <description>ডেঙ্গুতে ২৪ ঘণ্টায় ৩ মৃত্যু, হাসপাতালে ভর্তি ২৩৩৩</description>
+      <pubDate>Sun, 08 Nov 2026 14:22:06 +0000</pubDate>
+      <enclosure url="https://www.shomoyeralo.com/2026/11/08/sa_129.1794143136_th.jpg" length="0" type="image/jpeg" />
+      <media:content url="https://www.shomoyeralo.com/2026/11/08/sa_129.1794143136_th.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://www.shomoyeralo.com/2026/11/08/sa_129.1794143136_th.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="ডেঙ্গুতে ২৪ ঘণ্টায় ৩ মৃত্যু, হাসপাতালে ভর্তি ২৩৩৩" /&gt;&lt;/p&gt;&lt;p&gt;ডেঙ্গুতে ২৪ ঘণ্টায় ৩ মৃত্যু, হাসপাতালে ভর্তি ২৩৩৩&lt;/p&gt;</description>
       <source url="https://www.shomoyeralo.com/news/394336">সময়ের আলো</source>
     </item>
     <item>
       <title>রমজানের আগে ১১ পণ্য আমদানি সহজ করল বাংলাদেশ ব্যাংক</title>
       <link>https://www.shomoyeralo.com/news/394332</link>
       <guid isPermaLink="true">https://www.shomoyeralo.com/news/394332</guid>
-      <pubDate>Sun, 08 Nov 2026 14:12:52 +0000</pubDate>
-      <description>রমজানের আগে ১১ পণ্য আমদানি সহজ করল বাংলাদেশ ব্যাংক</description>
+      <pubDate>Sun, 08 Nov 2026 14:22:06 +0000</pubDate>
+      <enclosure url="https://www.shomoyeralo.com/2026/11/08/sa_129.1794141770_th.jpg" length="0" type="image/jpeg" />
+      <media:content url="https://www.shomoyeralo.com/2026/11/08/sa_129.1794141770_th.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://www.shomoyeralo.com/2026/11/08/sa_129.1794141770_th.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="রমজানের আগে ১১ পণ্য আমদানি সহজ করল বাংলাদেশ ব্যাংক" /&gt;&lt;/p&gt;&lt;p&gt;রমজানের আগে ১১ পণ্য আমদানি সহজ করল বাংলাদেশ ব্যাংক&lt;/p&gt;</description>
       <source url="https://www.shomoyeralo.com/news/394332">সময়ের আলো</source>
     </item>
     <item>
       <title>অভিনেত্রী তানজিন তিশার বিরুদ্ধে এবার মানহানির মামলা</title>
       <link>https://www.shomoyeralo.com/news/394328</link>
       <guid isPermaLink="true">https://www.shomoyeralo.com/news/394328</guid>
-      <pubDate>Sun, 08 Nov 2026 14:12:52 +0000</pubDate>
+      <pubDate>Sun, 08 Nov 2026 14:22:06 +0000</pubDate>
       <description>অভিনেত্রী তানজিন তিশার বিরুদ্ধে এবার মানহানির মামলা</description>
       <source url="https://www.shomoyeralo.com/news/394328">সময়ের আলো</source>
     </item>
@@ -82,7 +88,7 @@
       <title>‘সেই জুলাই গণ-অভ্যুত্থানের চেতনাও ছিল ৭ নভেম্বরের চেতনা’</title>
       <link>https://www.shomoyeralo.com/news/394334</link>
       <guid isPermaLink="true">https://www.shomoyeralo.com/news/394334</guid>
-      <pubDate>Sun, 08 Nov 2026 14:12:52 +0000</pubDate>
+      <pubDate>Sun, 08 Nov 2026 14:22:06 +0000</pubDate>
       <description>‘সেই জুলাই গণ-অভ্যুত্থানের চেতনাও ছিল ৭ নভেম্বরের চেতনা’</description>
       <source url="https://www.shomoyeralo.com/news/394334">সময়ের আলো</source>
     </item>
@@ -90,7 +96,7 @@
       <title>‘জনমনে আতঙ্ক ছড়াতেই বাসে আগুন ও ককটেল বিস্ফোরণ’</title>
       <link>https://www.shomoyeralo.com/news/394318</link>
       <guid isPermaLink="true">https://www.shomoyeralo.com/news/394318</guid>
-      <pubDate>Sun, 08 Nov 2026 14:12:52 +0000</pubDate>
+      <pubDate>Sun, 08 Nov 2026 14:22:06 +0000</pubDate>
       <description>‘জনমনে আতঙ্ক ছড়াতেই বাসে আগুন ও ককটেল বিস্ফোরণ’</description>
       <source url="https://www.shomoyeralo.com/news/394318">সময়ের আলো</source>
     </item>
@@ -98,7 +104,7 @@
       <title>সংসদের চতুর্থ অধিবেশন বসছে সোমবার</title>
       <link>https://www.shomoyeralo.com/news/394339</link>
       <guid isPermaLink="true">https://www.shomoyeralo.com/news/394339</guid>
-      <pubDate>Sun, 08 Nov 2026 14:12:52 +0000</pubDate>
+      <pubDate>Sun, 08 Nov 2026 14:22:06 +0000</pubDate>
       <description>সংসদের চতুর্থ অধিবেশন বসছে সোমবার</description>
       <source url="https://www.shomoyeralo.com/news/394339">সময়ের আলো</source>
     </item>
@@ -106,7 +112,7 @@
       <title>যশোরের হনুমান জাবিতে, শত কিলোমিটার দূরে যেভাবে পৌঁছাল</title>
       <link>https://www.shomoyeralo.com/news/394330</link>
       <guid isPermaLink="true">https://www.shomoyeralo.com/news/394330</guid>
-      <pubDate>Sun, 08 Nov 2026 14:12:52 +0000</pubDate>
+      <pubDate>Sun, 08 Nov 2026 14:22:06 +0000</pubDate>
       <description>যশোরের হনুমান জাবিতে, শত কিলোমিটার দূরে যেভাবে পৌঁছাল</description>
       <source url="https://www.shomoyeralo.com/news/394330">সময়ের আলো</source>
     </item>
@@ -114,7 +120,7 @@
       <title>ঝগড়ার দেয়াল : গালির ভাষায় বারবার কেন আসে মা-বোনের নাম?</title>
       <link>https://www.shomoyeralo.com/news/394274</link>
       <guid isPermaLink="true">https://www.shomoyeralo.com/news/394274</guid>
-      <pubDate>Sun, 08 Nov 2026 14:12:52 +0000</pubDate>
+      <pubDate>Sun, 08 Nov 2026 14:22:06 +0000</pubDate>
       <description>ঝগড়ার দেয়াল : গালির ভাষায় বারবার কেন আসে মা-বোনের নাম?</description>
       <source url="https://www.shomoyeralo.com/news/394274">সময়ের আলো</source>
     </item>
@@ -122,7 +128,7 @@
       <title>সকালে খালি পেটে কোন চা পান করবেন, জানালেন পুষ্টিবিদ</title>
       <link>https://www.shomoyeralo.com/news/394258</link>
       <guid isPermaLink="true">https://www.shomoyeralo.com/news/394258</guid>
-      <pubDate>Sun, 08 Nov 2026 14:12:52 +0000</pubDate>
+      <pubDate>Sun, 08 Nov 2026 14:22:06 +0000</pubDate>
       <description>সকালে খালি পেটে কোন চা পান করবেন, জানালেন পুষ্টিবিদ</description>
       <source url="https://www.shomoyeralo.com/news/394258">সময়ের আলো</source>
     </item>

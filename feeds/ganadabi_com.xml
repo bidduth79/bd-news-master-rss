@@ -1,17 +1,19 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
   <channel>
     <title>Ganadabi - আরএসএস ফিড</title>
     <link>https://ganadabi.com</link>
     <description>Ganadabi এর সর্বশেষ খবর</description>
     <language>bn</language>
-    <lastBuildDate>Sun, 08 Nov 2026 14:14:08 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 14:23:39 +0000</lastBuildDate>
     <item>
       <title>শিক্ষকদের রাজনীতি যোগ সরকারি যুক্তি ভিত্তিহীন</title>
       <link>https://ganadabi.com/%e0%a6%b6%e0%a6%bf%e0%a6%95%e0%a7%8d%e0%a6%b7%e0%a6%95%e0%a6%a6%e0%a7%87%e0%a6%b0-%e0%a6%b0%e0%a6%be%e0%a6%9c%e0%a6%a8%e0%a7%80%e0%a6%a4%e0%a6%bf-%e0%a6%af%e0%a7%8b%e0%a6%97-%e0%a6%b8%e0%a6%b0/</link>
       <guid isPermaLink="true">https://ganadabi.com/%e0%a6%b6%e0%a6%bf%e0%a6%95%e0%a7%8d%e0%a6%b7%e0%a6%95%e0%a6%a6%e0%a7%87%e0%a6%b0-%e0%a6%b0%e0%a6%be%e0%a6%9c%e0%a6%a8%e0%a7%80%e0%a6%a4%e0%a6%bf-%e0%a6%af%e0%a7%8b%e0%a6%97-%e0%a6%b8%e0%a6%b0/</guid>
       <pubDate>Sat, 07 Nov 2026 14:26:43 +0000</pubDate>
-      <description>শিক্ষকদের রাজনৈতিক যোগ নিয়ে মুখ্যমন্ত্রী শুভেন্দু অধিকারীর বক্তব্য বিস্ময়কর। শিক্ষকরা ভোটার লিস্ট তৈরি করতে পারবেন, নির্বাচন কমিশনের নির্দেশমতো ভোট পরিচালনার দায়িত্বে থাকতে পারবেন, পছন্দের প্রার্থীকে ভোট দিয়ে নির্বাচিত করতে পারবেন, কিন্তু মুখ্যমন্ত্রী শুভেন্দু অধিকারীর নয়া ফতোয়া– তাঁরা আর ভোটে</description>
+      <enclosure url="https://ganadabi.com/wp-content/uploads/2026/11/Teacher-150x86.jpg" length="0" type="image/jpeg" />
+      <media:content url="https://ganadabi.com/wp-content/uploads/2026/11/Teacher-150x86.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://ganadabi.com/wp-content/uploads/2026/11/Teacher-150x86.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="শিক্ষকদের রাজনীতি যোগ সরকারি যুক্তি ভিত্তিহীন" /&gt;&lt;/p&gt;&lt;p&gt;শিক্ষকদের রাজনৈতিক যোগ নিয়ে মুখ্যমন্ত্রী শুভেন্দু অধিকারীর বক্তব্য বিস্ময়কর। শিক্ষকরা ভোটার লিস্ট তৈরি করতে পারবেন, নির্বাচন কমিশনের নির্দেশমতো ভোট পরিচালনার দায়িত্বে থাকতে পারবেন, পছন্দের প্রার্থীকে ভোট দিয়ে নির্বাচিত করতে পারবেন, কিন্তু মুখ্যমন্ত্রী শুভেন্দু অধিকারীর নয়া ফতোয়া– তাঁরা আর ভোটে&lt;/p&gt;</description>
       <source url="https://ganadabi.com/%e0%a6%b6%e0%a6%bf%e0%a6%95%e0%a7%8d%e0%a6%b7%e0%a6%95%e0%a6%a6%e0%a7%87%e0%a6%b0-%e0%a6%b0%e0%a6%be%e0%a6%9c%e0%a6%a8%e0%a7%80%e0%a6%a4%e0%a6%bf-%e0%a6%af%e0%a7%8b%e0%a6%97-%e0%a6%b8%e0%a6%b0/">Ganadabi</source>
     </item>
     <item>
@@ -19,7 +21,9 @@
       <link>https://ganadabi.com/%e0%a6%97%e0%a6%be%e0%a6%87%e0%a6%98%e0%a6%be%e0%a6%9f%e0%a6%be%e0%a6%af%e0%a6%bc-%e0%a6%8f%e0%a6%a8%e0%a6%95%e0%a6%be%e0%a6%89%e0%a6%a8%e0%a7%8d%e0%a6%9f%e0%a6%be%e0%a6%b0%e0%a7%87-%e0%a6%ae%e0%a7%83/</link>
       <guid isPermaLink="true">https://ganadabi.com/%e0%a6%97%e0%a6%be%e0%a6%87%e0%a6%98%e0%a6%be%e0%a6%9f%e0%a6%be%e0%a6%af%e0%a6%bc-%e0%a6%8f%e0%a6%a8%e0%a6%95%e0%a6%be%e0%a6%89%e0%a6%a8%e0%a7%8d%e0%a6%9f%e0%a6%be%e0%a6%b0%e0%a7%87-%e0%a6%ae%e0%a7%83/</guid>
       <pubDate>Sat, 07 Nov 2026 14:09:32 +0000</pubDate>
-      <description>উত্তর ২৪ পরগনার গাইঘাটায় কিশোরী খুন ও ধর্ষণে অভিযুক্ত যুবকের পুলিশের এনকাউন্টারে মৃত্যু সম্পর্কে এস ইউ সি আই (সি)-র রাজ্য সম্পাদক চণ্ডীদাস ভট্টাচার্য ২৭ অক্টোবর এক বিবৃতিতে বলেন, পুলিশ বেষ্টনীর মধ্যে থেকে হাতে শেকল বাঁধা অবস্থায় অভিযুক্ত কী ভাবে পুলিশের সার্ভিস রিভলবার কেড়ে নিল তা বোঝা কঠিন। বারু</description>
+      <enclosure url="https://ganadabi.com/wp-content/uploads/2025/11/Party_Logo.jpeg" length="0" type="image/jpeg" />
+      <media:content url="https://ganadabi.com/wp-content/uploads/2025/11/Party_Logo.jpeg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://ganadabi.com/wp-content/uploads/2025/11/Party_Logo.jpeg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="গাইঘাটায় এনকাউন্টারে মৃত্যুর প্রতিবাদ" /&gt;&lt;/p&gt;&lt;p&gt;উত্তর ২৪ পরগনার গাইঘাটায় কিশোরী খুন ও ধর্ষণে অভিযুক্ত যুবকের পুলিশের এনকাউন্টারে মৃত্যু সম্পর্কে এস ইউ সি আই (সি)-র রাজ্য সম্পাদক চণ্ডীদাস ভট্টাচার্য ২৭ অক্টোবর এক বিবৃতিতে বলেন, পুলিশ বেষ্টনীর মধ্যে থেকে হাতে শেকল বাঁধা অবস্থায় অভিযুক্ত কী ভাবে পুলিশের সার্ভিস রিভলবার কেড়ে নিল তা বোঝা কঠিন। বারু&lt;/p&gt;</description>
       <source url="https://ganadabi.com/%e0%a6%97%e0%a6%be%e0%a6%87%e0%a6%98%e0%a6%be%e0%a6%9f%e0%a6%be%e0%a6%af%e0%a6%bc-%e0%a6%8f%e0%a6%a8%e0%a6%95%e0%a6%be%e0%a6%89%e0%a6%a8%e0%a7%8d%e0%a6%9f%e0%a6%be%e0%a6%b0%e0%a7%87-%e0%a6%ae%e0%a7%83/">Ganadabi</source>
     </item>
     <item>
@@ -27,7 +31,9 @@
       <link>https://ganadabi.com/%e0%a6%8f%e0%a6%a8%e0%a6%95%e0%a6%be%e0%a6%89%e0%a6%a8%e0%a7%8d%e0%a6%9f%e0%a6%be%e0%a6%b0%e0%a6%87-%e0%a6%95%e0%a6%bf-%e0%a6%ae%e0%a7%81%e0%a6%96%e0%a7%8d%e0%a6%af%e0%a6%ae%e0%a6%a8%e0%a7%8d%e0%a6%a4/</link>
       <guid isPermaLink="true">https://ganadabi.com/%e0%a6%8f%e0%a6%a8%e0%a6%95%e0%a6%be%e0%a6%89%e0%a6%a8%e0%a7%8d%e0%a6%9f%e0%a6%be%e0%a6%b0%e0%a6%87-%e0%a6%95%e0%a6%bf-%e0%a6%ae%e0%a7%81%e0%a6%96%e0%a7%8d%e0%a6%af%e0%a6%ae%e0%a6%a8%e0%a7%8d%e0%a6%a4/</guid>
       <pubDate>Sat, 07 Nov 2026 14:08:02 +0000</pubDate>
-      <description>এত দিন বাংলার মানুষ আঙুল তুলত উত্তরপ্রদেশের দিকে। কিন্তু পশ্চিমবঙ্গে গত তিন মাসে তিনটি, তার মধ্যে একই দিনে দুটি এনকাউন্টারের ঘটনা সেই আঙুলটাই যেন মুচড়ে দিল। বিচার বহির্ভূত হত্যায় আর ফারাক থাকল না উত্তরপ্রদেশ আর বাংলায়। কৃতিত্ব অবশ্যই রাজ্যে নব অধিষ্ঠিত বিজেপি সরকারের। দুটি ঘটনায় অভিযুক্তরা দুই ন</description>
+      <enclosure url="https://ganadabi.com/wp-content/uploads/2026/11/Untitled-150x89.jpg" length="0" type="image/jpeg" />
+      <media:content url="https://ganadabi.com/wp-content/uploads/2026/11/Untitled-150x89.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://ganadabi.com/wp-content/uploads/2026/11/Untitled-150x89.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="এনকাউন্টারই কি মুখ্যমন্ত্রীর ‘আইনের শাসন’!" /&gt;&lt;/p&gt;&lt;p&gt;এত দিন বাংলার মানুষ আঙুল তুলত উত্তরপ্রদেশের দিকে। কিন্তু পশ্চিমবঙ্গে গত তিন মাসে তিনটি, তার মধ্যে একই দিনে দুটি এনকাউন্টারের ঘটনা সেই আঙুলটাই যেন মুচড়ে দিল। বিচার বহির্ভূত হত্যায় আর ফারাক থাকল না উত্তরপ্রদেশ আর বাংলায়। কৃতিত্ব অবশ্যই রাজ্যে নব অধিষ্ঠিত বিজেপি সরকারের। দুটি ঘটনায় অভিযুক্তরা দুই ন&lt;/p&gt;</description>
       <source url="https://ganadabi.com/%e0%a6%8f%e0%a6%a8%e0%a6%95%e0%a6%be%e0%a6%89%e0%a6%a8%e0%a7%8d%e0%a6%9f%e0%a6%be%e0%a6%b0%e0%a6%87-%e0%a6%95%e0%a6%bf-%e0%a6%ae%e0%a7%81%e0%a6%96%e0%a7%8d%e0%a6%af%e0%a6%ae%e0%a6%a8%e0%a7%8d%e0%a6%a4/">Ganadabi</source>
     </item>
     <item>
@@ -35,7 +41,9 @@
       <link>https://ganadabi.com/%e0%a6%b9%e0%a6%b0%e0%a6%bf%e0%a6%af%e0%a6%bc%e0%a6%be%e0%a6%a8%e0%a6%be%e0%a6%af%e0%a6%bc-%e0%a6%ae%e0%a6%b9%e0%a6%be%e0%a6%b8%e0%a6%ae%e0%a6%be%e0%a6%ac%e0%a7%87%e0%a6%b6%e0%a7%87-%e0%a6%86%e0%a6%a8/</link>
       <guid isPermaLink="true">https://ganadabi.com/%e0%a6%b9%e0%a6%b0%e0%a6%bf%e0%a6%af%e0%a6%bc%e0%a6%be%e0%a6%a8%e0%a6%be%e0%a6%af%e0%a6%bc-%e0%a6%ae%e0%a6%b9%e0%a6%be%e0%a6%b8%e0%a6%ae%e0%a6%be%e0%a6%ac%e0%a7%87%e0%a6%b6%e0%a7%87-%e0%a6%86%e0%a6%a8/</guid>
       <pubDate>Sat, 07 Nov 2026 13:55:46 +0000</pubDate>
-      <description>২৬ অক্টোবর হরিয়ানার রোহতকে কৃষক-শ্রমিক-ছাত্র-যুব-মহিলা মহাসমাবেশ অনুষ্ঠিত হল। এখান থেকে ঘোষিত হল আগামী চার মাসের আন্দোলন কর্মসূচি। ৩ নভেম্বর জেলাভিত্তিক একটি স্মারকলিপি সরকারকে জমা দেওয়ার সিদ্ধান্ত হয়। দাবিগুলি হল– ন্যূনতম সহায়ক মূল্যে (এমএসপি) বাজরা ও ধান সংগ্রহ, সময়মতো সুলভ ও খাঁটি সার ও বীজে</description>
+      <enclosure url="https://ganadabi.com/wp-content/uploads/2026/11/Gurgaon-Mahapanchayat-gathering-150x56.jpg" length="0" type="image/jpeg" />
+      <media:content url="https://ganadabi.com/wp-content/uploads/2026/11/Gurgaon-Mahapanchayat-gathering-150x56.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://ganadabi.com/wp-content/uploads/2026/11/Gurgaon-Mahapanchayat-gathering-150x56.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="হরিয়ানায় মহাসমাবেশে আন্দোলনের ঘোষণা" /&gt;&lt;/p&gt;&lt;p&gt;২৬ অক্টোবর হরিয়ানার রোহতকে কৃষক-শ্রমিক-ছাত্র-যুব-মহিলা মহাসমাবেশ অনুষ্ঠিত হল। এখান থেকে ঘোষিত হল আগামী চার মাসের আন্দোলন কর্মসূচি। ৩ নভেম্বর জেলাভিত্তিক একটি স্মারকলিপি সরকারকে জমা দেওয়ার সিদ্ধান্ত হয়। দাবিগুলি হল– ন্যূনতম সহায়ক মূল্যে (এমএসপি) বাজরা ও ধান সংগ্রহ, সময়মতো সুলভ ও খাঁটি সার ও বীজে&lt;/p&gt;</description>
       <source url="https://ganadabi.com/%e0%a6%b9%e0%a6%b0%e0%a6%bf%e0%a6%af%e0%a6%bc%e0%a6%be%e0%a6%a8%e0%a6%be%e0%a6%af%e0%a6%bc-%e0%a6%ae%e0%a6%b9%e0%a6%be%e0%a6%b8%e0%a6%ae%e0%a6%be%e0%a6%ac%e0%a7%87%e0%a6%b6%e0%a7%87-%e0%a6%86%e0%a6%a8/">Ganadabi</source>
     </item>
     <item>
@@ -43,7 +51,9 @@
       <link>https://ganadabi.com/%e0%a6%aa%e0%a7%8d%e0%a6%b0%e0%a6%9c%e0%a6%a8%e0%a7%8d%e0%a6%ae%e0%a7%87%e0%a6%b0-%e0%a6%a8%e0%a6%af%e0%a6%bc-%e0%a6%b8%e0%a6%82%e0%a6%b8%e0%a7%8d%e0%a6%95%e0%a7%83%e0%a6%a4%e0%a6%bf%e0%a6%b0/</link>
       <guid isPermaLink="true">https://ganadabi.com/%e0%a6%aa%e0%a7%8d%e0%a6%b0%e0%a6%9c%e0%a6%a8%e0%a7%8d%e0%a6%ae%e0%a7%87%e0%a6%b0-%e0%a6%a8%e0%a6%af%e0%a6%bc-%e0%a6%b8%e0%a6%82%e0%a6%b8%e0%a7%8d%e0%a6%95%e0%a7%83%e0%a6%a4%e0%a6%bf%e0%a6%b0/</guid>
       <pubDate>Sat, 07 Nov 2026 13:52:52 +0000</pubDate>
-      <description>‘‘&amp;#8230;যারা সংস্কৃতিগত, আদর্শগত আন্দোলনকে অবহেলা করে শুধু রাজনৈতিক এবং অর্থনৈতিক কর্মসূচিকে এগিয়ে নিয়ে যেতে চাইছে, তাতে কাজ হবে না। এ ক্ষেত্রে বাড়তি বিপত্তিটা হচ্ছে, যদি মানুষের আকাঙক্ষা আমরা মেটাতে ব্যর্থ হই, তা হলে যে হতাশা আসবে, সেই পথ বেয়ে চরম প্রতিক্রিয়াশীল শক্তি, স্বৈরতন্ত্র, ধর্মান্ধতা</description>
+      <enclosure url="https://ganadabi.com/wp-content/uploads/2026/05/GSRanjitda8-150x100.jpg" length="0" type="image/jpeg" />
+      <media:content url="https://ganadabi.com/wp-content/uploads/2026/05/GSRanjitda8-150x100.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://ganadabi.com/wp-content/uploads/2026/05/GSRanjitda8-150x100.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="প্রজন্মের নয়, সংস্কৃতির সংকট—শিবদাস ঘোষ" /&gt;&lt;/p&gt;&lt;p&gt;‘‘&amp;#8230;যারা সংস্কৃতিগত, আদর্শগত আন্দোলনকে অবহেলা করে শুধু রাজনৈতিক এবং অর্থনৈতিক কর্মসূচিকে এগিয়ে নিয়ে যেতে চাইছে, তাতে কাজ হবে না। এ ক্ষেত্রে বাড়তি বিপত্তিটা হচ্ছে, যদি মানুষের আকাঙক্ষা আমরা মেটাতে ব্যর্থ হই, তা হলে যে হতাশা আসবে, সেই পথ বেয়ে চরম প্রতিক্রিয়াশীল শক্তি, স্বৈরতন্ত্র, ধর্মান্ধতা&lt;/p&gt;</description>
       <source url="https://ganadabi.com/%e0%a6%aa%e0%a7%8d%e0%a6%b0%e0%a6%9c%e0%a6%a8%e0%a7%8d%e0%a6%ae%e0%a7%87%e0%a6%b0-%e0%a6%a8%e0%a6%af%e0%a6%bc-%e0%a6%b8%e0%a6%82%e0%a6%b8%e0%a7%8d%e0%a6%95%e0%a7%83%e0%a6%a4%e0%a6%bf%e0%a6%b0/">Ganadabi</source>
     </item>
     <item>
@@ -51,7 +61,9 @@
       <link>https://ganadabi.com/%e0%a6%ae%e0%a7%8b%e0%a6%b9%e0%a6%a8-%e0%a6%ad%e0%a6%be%e0%a6%97%e0%a6%ac%e0%a6%a4-%e0%a6%a8%e0%a6%bf%e0%a6%89%e0%a6%87%e0%a6%af%e0%a6%bc%e0%a6%b0%e0%a7%8d%e0%a6%95%e0%a7%87-%e0%a6%af%e0%a6%be/</link>
       <guid isPermaLink="true">https://ganadabi.com/%e0%a6%ae%e0%a7%8b%e0%a6%b9%e0%a6%a8-%e0%a6%ad%e0%a6%be%e0%a6%97%e0%a6%ac%e0%a6%a4-%e0%a6%a8%e0%a6%bf%e0%a6%89%e0%a6%87%e0%a6%af%e0%a6%bc%e0%a6%b0%e0%a7%8d%e0%a6%95%e0%a7%87-%e0%a6%af%e0%a6%be/</guid>
       <pubDate>Sat, 07 Nov 2026 13:51:33 +0000</pubDate>
-      <description>কিছুদিন আগে আরএসএস প্রধান মোহন ভাগবত নিউইয়র্কের ম্যানহাটনে এক সভায় মন্তব্য করেন যে, কোনও হিন্দু যদি ভাবেন মুসলিমদের ভারতে থাকা উচিত নয় বা মুসলিমদের ভারত থেকে চলে যাওয়া উচিত, তবে ওই ব্যক্তি আদতে হিন্দুই নন। ওই সভা থেকে তিনি আরও বলেন যে ‘আমি’ বা ‘আমার’ এই রকম ভাবনা দিয়ে কোনও সমস্যার সমাধান হয় না</description>
+      <enclosure url="https://ganadabi.com/wp-content/uploads/2025/12/anti-communal-1-150x83.jpg" length="0" type="image/jpeg" />
+      <media:content url="https://ganadabi.com/wp-content/uploads/2025/12/anti-communal-1-150x83.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://ganadabi.com/wp-content/uploads/2025/12/anti-communal-1-150x83.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="মোহন ভাগবত নিউইয়র্কে যা বললেন ভারতে আরএসএস তা মানে তো?" /&gt;&lt;/p&gt;&lt;p&gt;কিছুদিন আগে আরএসএস প্রধান মোহন ভাগবত নিউইয়র্কের ম্যানহাটনে এক সভায় মন্তব্য করেন যে, কোনও হিন্দু যদি ভাবেন মুসলিমদের ভারতে থাকা উচিত নয় বা মুসলিমদের ভারত থেকে চলে যাওয়া উচিত, তবে ওই ব্যক্তি আদতে হিন্দুই নন। ওই সভা থেকে তিনি আরও বলেন যে ‘আমি’ বা ‘আমার’ এই রকম ভাবনা দিয়ে কোনও সমস্যার সমাধান হয় না&lt;/p&gt;</description>
       <source url="https://ganadabi.com/%e0%a6%ae%e0%a7%8b%e0%a6%b9%e0%a6%a8-%e0%a6%ad%e0%a6%be%e0%a6%97%e0%a6%ac%e0%a6%a4-%e0%a6%a8%e0%a6%bf%e0%a6%89%e0%a6%87%e0%a6%af%e0%a6%bc%e0%a6%b0%e0%a7%8d%e0%a6%95%e0%a7%87-%e0%a6%af%e0%a6%be/">Ganadabi</source>
     </item>
     <item>
@@ -59,7 +71,9 @@
       <link>https://ganadabi.com/%e0%a6%9a%e0%a7%8b%e0%a6%b0%e0%a6%ac%e0%a6%be%e0%a6%97%e0%a6%be%e0%a6%a8%e0%a7%87-%e0%a6%86%e0%a6%b9%e0%a6%a4%e0%a6%a6%e0%a7%87%e0%a6%b0-%e0%a6%ac%e0%a7%87%e0%a6%b8%e0%a6%b0%e0%a6%95%e0%a6%be%e0%a6%b0/</link>
       <guid isPermaLink="true">https://ganadabi.com/%e0%a6%9a%e0%a7%8b%e0%a6%b0%e0%a6%ac%e0%a6%be%e0%a6%97%e0%a6%be%e0%a6%a8%e0%a7%87-%e0%a6%86%e0%a6%b9%e0%a6%a4%e0%a6%a6%e0%a7%87%e0%a6%b0-%e0%a6%ac%e0%a7%87%e0%a6%b8%e0%a6%b0%e0%a6%95%e0%a6%be%e0%a6%b0/</guid>
       <pubDate>Sat, 07 Nov 2026 13:47:17 +0000</pubDate>
-      <description>চোরবাগানের ঘটনায় আহতদের সরকারি হাসপাতাল থেকে বেসরকারি কর্পোরেট হাসপাতালে রেফার করা প্রসঙ্গে এস ইউ সি আই (কমিউনিস্ট) রাজ্য সম্পাদক চণ্ডীদাস ভট্টাচার্য ১৯ অক্টোবর এক বিবৃতিতে বলেন, উন্নত মানের চিকিৎসার অজুহাতে রাজ্য সরকারের পক্ষ থেকে রোগীদের যেভাবে পরিজনদের সম্মতির অজুহাতে বেসরকারি হাসপাতালে ‘শিফট’ ক</description>
+      <enclosure url="https://ganadabi.com/wp-content/uploads/2026/11/Chorbagan-150x84.jpg" length="0" type="image/jpeg" />
+      <media:content url="https://ganadabi.com/wp-content/uploads/2026/11/Chorbagan-150x84.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://ganadabi.com/wp-content/uploads/2026/11/Chorbagan-150x84.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="চোরবাগানে আহতদের বেসরকারি হাসপাতালে রেফারের প্রতিবাদ" /&gt;&lt;/p&gt;&lt;p&gt;চোরবাগানের ঘটনায় আহতদের সরকারি হাসপাতাল থেকে বেসরকারি কর্পোরেট হাসপাতালে রেফার করা প্রসঙ্গে এস ইউ সি আই (কমিউনিস্ট) রাজ্য সম্পাদক চণ্ডীদাস ভট্টাচার্য ১৯ অক্টোবর এক বিবৃতিতে বলেন, উন্নত মানের চিকিৎসার অজুহাতে রাজ্য সরকারের পক্ষ থেকে রোগীদের যেভাবে পরিজনদের সম্মতির অজুহাতে বেসরকারি হাসপাতালে ‘শিফট’ ক&lt;/p&gt;</description>
       <source url="https://ganadabi.com/%e0%a6%9a%e0%a7%8b%e0%a6%b0%e0%a6%ac%e0%a6%be%e0%a6%97%e0%a6%be%e0%a6%a8%e0%a7%87-%e0%a6%86%e0%a6%b9%e0%a6%a4%e0%a6%a6%e0%a7%87%e0%a6%b0-%e0%a6%ac%e0%a7%87%e0%a6%b8%e0%a6%b0%e0%a6%95%e0%a6%be%e0%a6%b0/">Ganadabi</source>
     </item>
     <item>
@@ -67,7 +81,9 @@
       <link>https://ganadabi.com/%e0%a6%b0%e0%a6%be%e0%a6%9c%e0%a7%8d%e0%a6%af-%e0%a6%9c%e0%a7%81%e0%a6%a1%e0%a6%bc%e0%a7%87-%e0%a6%a6%e0%a6%be%e0%a6%ac%e0%a6%bf-%e0%a6%a6%e0%a6%bf%e0%a6%ac%e0%a6%b8-%e0%a6%aa%e0%a6%be%e0%a6%b2/</link>
       <guid isPermaLink="true">https://ganadabi.com/%e0%a6%b0%e0%a6%be%e0%a6%9c%e0%a7%8d%e0%a6%af-%e0%a6%9c%e0%a7%81%e0%a6%a1%e0%a6%bc%e0%a7%87-%e0%a6%a6%e0%a6%be%e0%a6%ac%e0%a6%bf-%e0%a6%a6%e0%a6%bf%e0%a6%ac%e0%a6%b8-%e0%a6%aa%e0%a6%be%e0%a6%b2/</guid>
       <pubDate>Sat, 07 Nov 2026 13:41:13 +0000</pubDate>
-      <description>বিজেপির নির্বাচনী প্রতিশ্রুতিতে বলা হয়েছিল গৃহস্থ বিদ্যুৎ গ্রাহকদের ২০০ ইউনিট পর্যন্ত প্রতি মাসে বিনামূল্যে বিদ্যুৎ দেওয়া হবে। বেশ কয়েকটি রাজ্যের মতো কৃষিপ্রধান পশ্চিমবঙ্গেও কৃষকদের বিনামূল্যে বিদ্যুৎ দেওয়া হবে। পূর্বতন রাজ্য সরকার ক্ষুদ্রশিল্পে ফিক্সড চার্জ দ্বিগুণ বাড়িয়েছে এবং মিনিমাম চার্জ </description>
+      <enclosure url="https://ganadabi.com/wp-content/uploads/2026/11/ABECA-Purba-Medinipur-150x132.jpg" length="0" type="image/jpeg" />
+      <media:content url="https://ganadabi.com/wp-content/uploads/2026/11/ABECA-Purba-Medinipur-150x132.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://ganadabi.com/wp-content/uploads/2026/11/ABECA-Purba-Medinipur-150x132.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="রাজ্য জুড়ে দাবি দিবস পালন অ্যাবেকার" /&gt;&lt;/p&gt;&lt;p&gt;বিজেপির নির্বাচনী প্রতিশ্রুতিতে বলা হয়েছিল গৃহস্থ বিদ্যুৎ গ্রাহকদের ২০০ ইউনিট পর্যন্ত প্রতি মাসে বিনামূল্যে বিদ্যুৎ দেওয়া হবে। বেশ কয়েকটি রাজ্যের মতো কৃষিপ্রধান পশ্চিমবঙ্গেও কৃষকদের বিনামূল্যে বিদ্যুৎ দেওয়া হবে। পূর্বতন রাজ্য সরকার ক্ষুদ্রশিল্পে ফিক্সড চার্জ দ্বিগুণ বাড়িয়েছে এবং মিনিমাম চার্জ &lt;/p&gt;</description>
       <source url="https://ganadabi.com/%e0%a6%b0%e0%a6%be%e0%a6%9c%e0%a7%8d%e0%a6%af-%e0%a6%9c%e0%a7%81%e0%a6%a1%e0%a6%bc%e0%a7%87-%e0%a6%a6%e0%a6%be%e0%a6%ac%e0%a6%bf-%e0%a6%a6%e0%a6%bf%e0%a6%ac%e0%a6%b8-%e0%a6%aa%e0%a6%be%e0%a6%b2/">Ganadabi</source>
     </item>
     <item>
@@ -75,7 +91,9 @@
       <link>https://ganadabi.com/%e0%a6%a6%e0%a6%bf%e0%a6%b2%e0%a7%8d%e0%a6%b2%e0%a6%bf%e0%a6%a4%e0%a7%87-%e0%a6%8f%e0%a6%b8%e0%a6%87%e0%a6%89%e0%a6%b8%e0%a6%bf%e0%a6%86%e0%a6%87%e0%a6%b8%e0%a6%bf-%e0%a6%b0-%e0%a6%ac%e0%a7%81/</link>
       <guid isPermaLink="true">https://ganadabi.com/%e0%a6%a6%e0%a6%bf%e0%a6%b2%e0%a7%8d%e0%a6%b2%e0%a6%bf%e0%a6%a4%e0%a7%87-%e0%a6%8f%e0%a6%b8%e0%a6%87%e0%a6%89%e0%a6%b8%e0%a6%bf%e0%a6%86%e0%a6%87%e0%a6%b8%e0%a6%bf-%e0%a6%b0-%e0%a6%ac%e0%a7%81/</guid>
       <pubDate>Sat, 07 Nov 2026 13:39:53 +0000</pubDate>
-      <description>নানা প্রতিকূলতা সত্তে্বও, প্রতি বছরের মতো এবারও ১৭-১৯ অক্টোবর দিল্লির করোল বাগ এবং সি আর পার্কে শারদীয়া বইয়ের স্টল হয়। বহু ছাত্রছাত্রী, যুবক-যুবতী এবং সাধারণ মানুষ স্টলগুলিতে এসে বইপত্র কিনেছেন। সাধারণ মানুষ, বিশেষ করে তরুণ প্রজন্ম মার্ক্সবাদ সম্পর্কে জানতে এবং মার্ক্সবাদী দৃষ্টিকোণ থেকে বিভিন্ন </description>
+      <enclosure url="https://ganadabi.com/wp-content/uploads/2026/11/Delhi-AIDSO-BookStall-150x128.jpg" length="0" type="image/jpeg" />
+      <media:content url="https://ganadabi.com/wp-content/uploads/2026/11/Delhi-AIDSO-BookStall-150x128.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://ganadabi.com/wp-content/uploads/2026/11/Delhi-AIDSO-BookStall-150x128.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="দিল্লিতে এসইউসিআই(সি)-র বুকস্টল" /&gt;&lt;/p&gt;&lt;p&gt;নানা প্রতিকূলতা সত্তে্বও, প্রতি বছরের মতো এবারও ১৭-১৯ অক্টোবর দিল্লির করোল বাগ এবং সি আর পার্কে শারদীয়া বইয়ের স্টল হয়। বহু ছাত্রছাত্রী, যুবক-যুবতী এবং সাধারণ মানুষ স্টলগুলিতে এসে বইপত্র কিনেছেন। সাধারণ মানুষ, বিশেষ করে তরুণ প্রজন্ম মার্ক্সবাদ সম্পর্কে জানতে এবং মার্ক্সবাদী দৃষ্টিকোণ থেকে বিভিন্ন &lt;/p&gt;</description>
       <source url="https://ganadabi.com/%e0%a6%a6%e0%a6%bf%e0%a6%b2%e0%a7%8d%e0%a6%b2%e0%a6%bf%e0%a6%a4%e0%a7%87-%e0%a6%8f%e0%a6%b8%e0%a6%87%e0%a6%89%e0%a6%b8%e0%a6%bf%e0%a6%86%e0%a6%87%e0%a6%b8%e0%a6%bf-%e0%a6%b0-%e0%a6%ac%e0%a7%81/">Ganadabi</source>
     </item>
     <item>
@@ -83,7 +101,9 @@
       <link>https://ganadabi.com/%e0%a6%ac%e0%a6%87%e0%a6%af%e0%a6%bc%e0%a7%87%e0%a6%b0-%e0%a6%b8%e0%a7%8d%e0%a6%9f%e0%a6%b2%e0%a7%87-%e0%a6%b9%e0%a6%be%e0%a6%ae%e0%a6%b2%e0%a6%be%e0%a6%b0-%e0%a6%aa%e0%a7%8d%e0%a6%b0%e0%a6%a4/</link>
       <guid isPermaLink="true">https://ganadabi.com/%e0%a6%ac%e0%a6%87%e0%a6%af%e0%a6%bc%e0%a7%87%e0%a6%b0-%e0%a6%b8%e0%a7%8d%e0%a6%9f%e0%a6%b2%e0%a7%87-%e0%a6%b9%e0%a6%be%e0%a6%ae%e0%a6%b2%e0%a6%be%e0%a6%b0-%e0%a6%aa%e0%a7%8d%e0%a6%b0%e0%a6%a4/</guid>
       <pubDate>Sat, 07 Nov 2026 13:38:20 +0000</pubDate>
-      <description>শারদোৎসবের মধ্যে আরএসএস-বিজেপি-এবিভিপি-র দুষ্কৃতী বাহিনী সারা পশ্চিমবঙ্গে বামপন্থীদের বুকস্টলের ওপর যে হামলা চালিয়েছে। তার প্রতিবাদে এক অভূতপূর্ব জনজোয়ার দেখল পশ্চিবঙ্গ। ৩১ অক্টোবর কলকাতার ঐতিহ্যমণ্ডিত বই পাড়ায় হাজার হাজার মানুষ যোগ দিলেন বইয়ের ওপর হামলার প্রতিবাদে বই নিয়ে হাঁটুন কর্মসূচিতে। ক</description>
+      <enclosure url="https://ganadabi.com/wp-content/uploads/2026/11/Book-Rally-2-150x67.jpg" length="0" type="image/jpeg" />
+      <media:content url="https://ganadabi.com/wp-content/uploads/2026/11/Book-Rally-2-150x67.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://ganadabi.com/wp-content/uploads/2026/11/Book-Rally-2-150x67.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="বইয়ের স্টলে হামলার প্রতিবাদ" /&gt;&lt;/p&gt;&lt;p&gt;শারদোৎসবের মধ্যে আরএসএস-বিজেপি-এবিভিপি-র দুষ্কৃতী বাহিনী সারা পশ্চিমবঙ্গে বামপন্থীদের বুকস্টলের ওপর যে হামলা চালিয়েছে। তার প্রতিবাদে এক অভূতপূর্ব জনজোয়ার দেখল পশ্চিবঙ্গ। ৩১ অক্টোবর কলকাতার ঐতিহ্যমণ্ডিত বই পাড়ায় হাজার হাজার মানুষ যোগ দিলেন বইয়ের ওপর হামলার প্রতিবাদে বই নিয়ে হাঁটুন কর্মসূচিতে। ক&lt;/p&gt;</description>
       <source url="https://ganadabi.com/%e0%a6%ac%e0%a6%87%e0%a6%af%e0%a6%bc%e0%a7%87%e0%a6%b0-%e0%a6%b8%e0%a7%8d%e0%a6%9f%e0%a6%b2%e0%a7%87-%e0%a6%b9%e0%a6%be%e0%a6%ae%e0%a6%b2%e0%a6%be%e0%a6%b0-%e0%a6%aa%e0%a7%8d%e0%a6%b0%e0%a6%a4/">Ganadabi</source>
     </item>
   </channel>

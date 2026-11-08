@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
   <channel>
     <title>bdview24.com - আরএসএস ফিড</title>
     <link>https://bdview24.com</link>
     <description>bdview24.com এর সর্বশেষ খবর</description>
     <language>bn</language>
-    <lastBuildDate>Sun, 08 Nov 2026 14:13:32 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 14:22:59 +0000</lastBuildDate>
     <item>
       <title>হোমিওপ্যাথির জনক স্যামুয়েল হ্যানিম্যান: জীবন, দর্শন ও ইসলাম গ্রহণের বিতর্ক</title>
       <link>https://www.bdview24.com/2026/04/29/215860/</link>
@@ -59,7 +59,9 @@
       <link>https://www.bdview24.com/2025/05/29/215702/</link>
       <guid isPermaLink="true">https://www.bdview24.com/2025/05/29/215702/</guid>
       <pubDate>Thu, 29 May 2025 09:23:16 +0000</pubDate>
-      <description>&amp;#8220;লিফ শিপ&amp;#8221; (Leaf Sheep), যার বৈজ্ঞানিক নাম Costasiella kuroshimae (কস্তাসিয়েল্লা কুরোশিমাই), হলো এক ক্ষুদ্র সামুদ্রিক শামুক। দেখতে অনেকটা সবুজ পাতার মতো হওয়ায় এর শরীরজুড়ে পাতার মতো শুঁড় থাকে। তবে এর সবচেয়ে অদ্ভুত ও বিস্ময়কর বৈশিষ্ট্য হলো, এটি গাছের মতো আলোকসংশ্লেষণ (photosynthesis)</description>
+      <enclosure url="https://www.bdview24.com/wp-content/uploads/2025/05/Leaf-Sheep-1.webp" length="0" type="image/jpeg" />
+      <media:content url="https://www.bdview24.com/wp-content/uploads/2025/05/Leaf-Sheep-1.webp" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://www.bdview24.com/wp-content/uploads/2025/05/Leaf-Sheep-1.webp" style="max-width:100%;height:auto;margin-bottom:10px;" alt="লিফ শিপ: এক অদ্ভুত সামুদ্রিক শামুক যা গাছের মতো সালোকসংশ্লেষণ করে!" /&gt;&lt;/p&gt;&lt;p&gt;&amp;#8220;লিফ শিপ&amp;#8221; (Leaf Sheep), যার বৈজ্ঞানিক নাম Costasiella kuroshimae (কস্তাসিয়েল্লা কুরোশিমাই), হলো এক ক্ষুদ্র সামুদ্রিক শামুক। দেখতে অনেকটা সবুজ পাতার মতো হওয়ায় এর শরীরজুড়ে পাতার মতো শুঁড় থাকে। তবে এর সবচেয়ে অদ্ভুত ও বিস্ময়কর বৈশিষ্ট্য হলো, এটি গাছের মতো আলোকসংশ্লেষণ (photosynthesis)&lt;/p&gt;</description>
       <source url="https://www.bdview24.com/2025/05/29/215702/">bdview24.com</source>
     </item>
     <item>

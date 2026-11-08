@@ -1,11 +1,19 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
   <channel>
     <title>Citizens Voice - আরএসএস ফিড</title>
     <link>https://citizensvoicebd.com/</link>
     <description>Citizens Voice এর সর্বশেষ খবর</description>
     <language>bn</language>
-    <lastBuildDate>Sun, 08 Nov 2026 14:12:46 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 14:21:59 +0000</lastBuildDate>
+    <item>
+      <title>বাংলাদেশের ৮৫ শতাংশ এলপিজি আসছে মার্কিন কোম্পানি থেকে</title>
+      <link>https://citizensvoicebd.com/economy/155687/</link>
+      <guid isPermaLink="true">https://citizensvoicebd.com/economy/155687/</guid>
+      <pubDate>Sun, 08 Nov 2026 14:15:47 +0000</pubDate>
+      <description>মধ্যপ্রাচ্যে যুদ্ধের কারণে বাংলাদেশের তরলীকৃত পেট্রোলিয়াম গ্যাস বা এলপিজি আমদানির বাজারে বড় পরিবর্তন এসেছে। একসময় ওমান, ইরাক, সৌদি আরব ও সংযুক্ত আরব আমিরাত থেকে বিপুল পরিমাণ এলপিজি আমদানি করা হলেও এখন সরবরাহের প্রধান উৎস হয়ে উঠেছে যুক্তরাষ্ট্রভিত্তিক কোম্পানিগুলো। চলতি বছরের সেপ্টেম্বরে বাংলাদেশের ম</description>
+      <source url="https://citizensvoicebd.com/economy/155687/">Citizens Voice</source>
+    </item>
     <item>
       <title>ঢাবি ক্যাম্পাসে ৮–৯টি ককটেল বিস্ফোরণ, আটক ৩</title>
       <link>https://citizensvoicebd.com/bangladesh/155792/</link>
@@ -27,7 +35,9 @@
       <link>https://citizensvoicebd.com/technology/155656/</link>
       <guid isPermaLink="true">https://citizensvoicebd.com/technology/155656/</guid>
       <pubDate>Sun, 08 Nov 2026 14:00:05 +0000</pubDate>
-      <description>ডেটা সেন্টার আর পানি এখন প্রায় সমার্থক শব্দ হয়ে উঠেছে। সামাজিক যোগাযোগমাধ্যমে এ নিয়ে চলছে তুমুল আলোচনা। প্রশ্ন একটাই, এত পানি দিয়ে আসলে কী করা হয়? অনেকের ধারণা, গাড়ির ইঞ্জিনের কুল্যান্টের মতো সারি সারি কম্পিউটারের ভেতর দিয়ে পানি বয়ে যায়। বাস্তবতা তা নয়। সার্ভার কখনো পানিতে ভেজে না। ডেটা সে</description>
+      <enclosure url="https://media.prothomalo.com/prothomalo-bangla%2F2026-11-07%2Fiaeyqr7a%2Fwhy-do-data-centers-use-so-much-water-featured.webp?rect=125%2C0%2C1350%2C900&amp;amp;w=622&amp;amp;auto=format%2Ccompress&amp;amp;fmt=avif" length="0" type="image/jpeg" />
+      <media:content url="https://media.prothomalo.com/prothomalo-bangla%2F2026-11-07%2Fiaeyqr7a%2Fwhy-do-data-centers-use-so-much-water-featured.webp?rect=125%2C0%2C1350%2C900&amp;amp;w=622&amp;amp;auto=format%2Ccompress&amp;amp;fmt=avif" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://media.prothomalo.com/prothomalo-bangla%2F2026-11-07%2Fiaeyqr7a%2Fwhy-do-data-centers-use-so-much-water-featured.webp?rect=125%2C0%2C1350%2C900&amp;amp;w=622&amp;amp;auto=format%2Ccompress&amp;amp;fmt=avif" style="max-width:100%;height:auto;margin-bottom:10px;" alt="ডেটা সেন্টারের পানি আসলে যায় কোথায়, আকাশে উড়ে যাওয়ার আসল রহস্য কি" /&gt;&lt;/p&gt;&lt;p&gt;ডেটা সেন্টার আর পানি এখন প্রায় সমার্থক শব্দ হয়ে উঠেছে। সামাজিক যোগাযোগমাধ্যমে এ নিয়ে চলছে তুমুল আলোচনা। প্রশ্ন একটাই, এত পানি দিয়ে আসলে কী করা হয়? অনেকের ধারণা, গাড়ির ইঞ্জিনের কুল্যান্টের মতো সারি সারি কম্পিউটারের ভেতর দিয়ে পানি বয়ে যায়। বাস্তবতা তা নয়। সার্ভার কখনো পানিতে ভেজে না। ডেটা সে&lt;/p&gt;</description>
       <source url="https://citizensvoicebd.com/technology/155656/">Citizens Voice</source>
     </item>
     <item>
@@ -77,14 +87,6 @@
       <pubDate>Sun, 08 Nov 2026 12:47:42 +0000</pubDate>
       <description>ইরানের বন্দরগুলোতে অবরোধ সম্প্রসারণ করে দেশটির স্থলসীমান্তকেও এর আওতায় আনার মার্কিন সামরিক পরিকল্পনাকে ‘শুধুই শব্দের খেলা’ বলে উড়িয়ে দিয়েছে ইরানের ইসলামিক রেভল্যুশনারি গার্ড কোর (আইআরজিসি)। তেহরানের দাবি, এ ধরনের পদক্ষেপের মাধ্যমে ইরানের অর্থনীতি ধসিয়ে দেওয়ার মার্কিন লক্ষ্য অর্জিত হবে না। সূত্র: আল </description>
       <source url="https://citizensvoicebd.com/international/155785/">Citizens Voice</source>
-    </item>
-    <item>
-      <title>তিন মাসে বড় ঋণদাতাদের নতুন প্রতিশ্রুতি নেই, উদ্বেগ বাড়ছে</title>
-      <link>https://citizensvoicebd.com/economy/155684/</link>
-      <guid isPermaLink="true">https://citizensvoicebd.com/economy/155684/</guid>
-      <pubDate>Sun, 08 Nov 2026 12:45:17 +0000</pubDate>
-      <description>বিদেশি ঋণ পরিশোধের চাপ ক্রমেই বাড়ছে বাংলাদেশের। অথচ চলতি অর্থবছরের প্রথম তিন মাসে দেশের প্রধান উন্নয়ন সহযোগীদের কাছ থেকে নতুন ঋণ ও সহায়তার প্রতিশ্রুতি প্রায় আসেনি বললেই চলে। বিশ্বব্যাংক, এশীয় উন্নয়ন ব্যাংক, চীন, ভারত ও রাশিয়ার মতো বড় অর্থায়নকারী দেশ ও সংস্থাগুলো জুলাই থেকে সেপ্টেম্বর পর্যন্ত নতুন কো</description>
-      <source url="https://citizensvoicebd.com/economy/155684/">Citizens Voice</source>
     </item>
   </channel>
 </rss>

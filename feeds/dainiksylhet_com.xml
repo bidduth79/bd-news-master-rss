@@ -1,17 +1,19 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
   <channel>
     <title>Dainik Sylhet - আরএসএস ফিড</title>
     <link>https://dainiksylhet.com</link>
     <description>Dainik Sylhet এর সর্বশেষ খবর</description>
     <language>bn</language>
-    <lastBuildDate>Sun, 08 Nov 2026 14:13:17 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 14:22:42 +0000</lastBuildDate>
     <item>
       <title>সার্বভৌমত্ব ও গণতন্ত্র রক্ষায় সিপাহি-জনতার ঐতিহাসিক ভূমিকা ছিল : আব্দুল কাইয়ুম চৌধুরী</title>
       <link>https://dainiksylhet.com/sarbvoumotw-o-gonotontr-rokkhay-sipahi-jonotaro-oitihasiko-vumika-chilo-abdulo-kaiyumo-coudhuri/</link>
       <guid isPermaLink="true">https://dainiksylhet.com/sarbvoumotw-o-gonotontr-rokkhay-sipahi-jonotaro-oitihasiko-vumika-chilo-abdulo-kaiyumo-coudhuri/</guid>
       <pubDate>Sun, 08 Nov 2026 13:57:46 +0000</pubDate>
-      <description>সিলেট সিটি করপোরেশনের প্রশাসক আব্দুল কাইয়ুম চৌধুরী বলেছেন, জাতীয় জীবনে ৭ নভেম্বর বিপ্লব ও সংহতি দিবস অত্যন্ত তাৎপর্যপূর্ণ একটি দিন।  ...বিস্তারিত</description>
+      <enclosure url="https://dainiksylhet.com/files/uploads/2026/11/spcc.jpg" length="0" type="image/jpeg" />
+      <media:content url="https://dainiksylhet.com/files/uploads/2026/11/spcc.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://dainiksylhet.com/files/uploads/2026/11/spcc.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="সার্বভৌমত্ব ও গণতন্ত্র রক্ষায় সিপাহি-জনতার ঐতিহাসিক ভূমিকা ছিল : আব্দুল কাইয়ুম চৌধুরী" /&gt;&lt;/p&gt;&lt;p&gt;সিলেট সিটি করপোরেশনের প্রশাসক আব্দুল কাইয়ুম চৌধুরী বলেছেন, জাতীয় জীবনে ৭ নভেম্বর বিপ্লব ও সংহতি দিবস অত্যন্ত তাৎপর্যপূর্ণ একটি দিন।  ...বিস্তারিত&lt;/p&gt;</description>
       <source url="https://dainiksylhet.com/sarbvoumotw-o-gonotontr-rokkhay-sipahi-jonotaro-oitihasiko-vumika-chilo-abdulo-kaiyumo-coudhuri/">Dainik Sylhet</source>
     </item>
     <item>
@@ -19,7 +21,9 @@
       <link>https://dainiksylhet.com/moulovibajare-jatiy-biplbo-o-songhoti-dibosero-ro%e0%a7%8djalite-bienopi-neta-abdulo-goni/</link>
       <guid isPermaLink="true">https://dainiksylhet.com/moulovibajare-jatiy-biplbo-o-songhoti-dibosero-ro%e0%a7%8djalite-bienopi-neta-abdulo-goni/</guid>
       <pubDate>Sun, 08 Nov 2026 12:26:19 +0000</pubDate>
-      <description>ঐতিহাসিক ৭ নভেম্বর জাতীয় বিপ্লব ও সংহতি দিবস উপলক্ষে মৌলভীবাজার জেলা বিএনপির উদ্যোগে এক বিশাল বর্ণাঢ্য র&amp;#x200d;্যালি ও সমাবেশ অনুষ্ঠিত  ...বিস্তারিত</description>
+      <enclosure url="https://dainiksylhet.com/files/uploads/2026/11/YA1.jpg" length="0" type="image/jpeg" />
+      <media:content url="https://dainiksylhet.com/files/uploads/2026/11/YA1.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://dainiksylhet.com/files/uploads/2026/11/YA1.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="মৌলভীবাজারে জাতীয় বিপ্লব ও সংহতি দিবসের র‍্যালিতে বিএনপি নেতা আব্দুল গনী" /&gt;&lt;/p&gt;&lt;p&gt;ঐতিহাসিক ৭ নভেম্বর জাতীয় বিপ্লব ও সংহতি দিবস উপলক্ষে মৌলভীবাজার জেলা বিএনপির উদ্যোগে এক বিশাল বর্ণাঢ্য র&amp;#x200d;্যালি ও সমাবেশ অনুষ্ঠিত  ...বিস্তারিত&lt;/p&gt;</description>
       <source url="https://dainiksylhet.com/moulovibajare-jatiy-biplbo-o-songhoti-dibosero-ro%e0%a7%8djalite-bienopi-neta-abdulo-goni/">Dainik Sylhet</source>
     </item>
     <item>
@@ -27,7 +31,9 @@
       <link>https://dainiksylhet.com/hariye-jacche-deshi-macho-ba%e0%a6%a1%e0%a6%bcche-songkoto/</link>
       <guid isPermaLink="true">https://dainiksylhet.com/hariye-jacche-deshi-macho-ba%e0%a6%a1%e0%a6%bcche-songkoto/</guid>
       <pubDate>Sun, 08 Nov 2026 12:11:50 +0000</pubDate>
-      <description>দেশের খাল-বিল ও পুকুরে উৎপাদিত দেশি প্রজাতির বিভিন্ন মাছ দেশের বাজারে প্রায় নিখুঁজ। যদিও কালেভদ্রে কিছু চোখে পড়ে তা শুধু  ...বিস্তারিত</description>
+      <enclosure url="https://dainiksylhet.com/files/uploads/2026/11/MMrlV6k1dfRkwbmpurPzahylynhBiukgCvRkAoue.jpg" length="0" type="image/jpeg" />
+      <media:content url="https://dainiksylhet.com/files/uploads/2026/11/MMrlV6k1dfRkwbmpurPzahylynhBiukgCvRkAoue.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://dainiksylhet.com/files/uploads/2026/11/MMrlV6k1dfRkwbmpurPzahylynhBiukgCvRkAoue.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="হারিয়ে যাচ্ছে দেশি মাছ, বাড়ছে সংকট" /&gt;&lt;/p&gt;&lt;p&gt;দেশের খাল-বিল ও পুকুরে উৎপাদিত দেশি প্রজাতির বিভিন্ন মাছ দেশের বাজারে প্রায় নিখুঁজ। যদিও কালেভদ্রে কিছু চোখে পড়ে তা শুধু  ...বিস্তারিত&lt;/p&gt;</description>
       <source url="https://dainiksylhet.com/hariye-jacche-deshi-macho-ba%e0%a6%a1%e0%a6%bcche-songkoto/">Dainik Sylhet</source>
     </item>
     <item>
@@ -35,7 +41,9 @@
       <link>https://dainiksylhet.com/juktrashtrero-nirbacone-notuno-itihaso-go%e0%a6%a1%e0%a6%bcleno-5-nari/</link>
       <guid isPermaLink="true">https://dainiksylhet.com/juktrashtrero-nirbacone-notuno-itihaso-go%e0%a6%a1%e0%a6%bcleno-5-nari/</guid>
       <pubDate>Sun, 08 Nov 2026 12:05:30 +0000</pubDate>
-      <description>যুক্তরাষ্ট্রের ২০২৬ সালের মধ্যবর্তী নির্বাচনে নতুন ইতিহাস গড়েছেন হিজাব পরিহিত পাঁচ মুসলিম নারী। তাদের মধ্যে চারজন অঙ্গরাজ্যের সিনেটর এবং একজন  ...বিস্তারিত</description>
+      <enclosure url="https://dainiksylhet.com/files/uploads/2026/11/UYAT.jpg" length="0" type="image/jpeg" />
+      <media:content url="https://dainiksylhet.com/files/uploads/2026/11/UYAT.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://dainiksylhet.com/files/uploads/2026/11/UYAT.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="যুক্তরাষ্ট্রের নির্বাচনে নতুন ইতিহাস গড়লেন ৫ নারী" /&gt;&lt;/p&gt;&lt;p&gt;যুক্তরাষ্ট্রের ২০২৬ সালের মধ্যবর্তী নির্বাচনে নতুন ইতিহাস গড়েছেন হিজাব পরিহিত পাঁচ মুসলিম নারী। তাদের মধ্যে চারজন অঙ্গরাজ্যের সিনেটর এবং একজন  ...বিস্তারিত&lt;/p&gt;</description>
       <source url="https://dainiksylhet.com/juktrashtrero-nirbacone-notuno-itihaso-go%e0%a6%a1%e0%a6%bcleno-5-nari/">Dainik Sylhet</source>
     </item>
     <item>
@@ -43,7 +51,9 @@
       <link>https://dainiksylhet.com/mo%e0%a7%83tyu-nibondhno-paroforomyanse-sileto-bivage-1mo-nobigonjero-iuenoo-sulotana-jerino/</link>
       <guid isPermaLink="true">https://dainiksylhet.com/mo%e0%a7%83tyu-nibondhno-paroforomyanse-sileto-bivage-1mo-nobigonjero-iuenoo-sulotana-jerino/</guid>
       <pubDate>Sun, 08 Nov 2026 11:43:20 +0000</pubDate>
-      <description>মৃত্যু নিবন্ধন পারফরম্যান্সে ২০২৬ (অক্টোবর) সিলেট বিভাগের সেরা ৩ উপজেলা নির্বাহী কর্মকর্তার মধ্যে ১ম স্থান অর্জন করেছেন হবিগঞ্জের নবীগঞ্জ উপজেলা  ...বিস্তারিত</description>
+      <enclosure url="https://dainiksylhet.com/files/uploads/2026/11/uno.jpg" length="0" type="image/jpeg" />
+      <media:content url="https://dainiksylhet.com/files/uploads/2026/11/uno.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://dainiksylhet.com/files/uploads/2026/11/uno.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="মৃত্যু নিবন্ধন পারফরম্যান্সে সিলেট বিভাগে ১ম নবীগঞ্জের ইউএনও সুলতানা জেরিন" /&gt;&lt;/p&gt;&lt;p&gt;মৃত্যু নিবন্ধন পারফরম্যান্সে ২০২৬ (অক্টোবর) সিলেট বিভাগের সেরা ৩ উপজেলা নির্বাহী কর্মকর্তার মধ্যে ১ম স্থান অর্জন করেছেন হবিগঞ্জের নবীগঞ্জ উপজেলা  ...বিস্তারিত&lt;/p&gt;</description>
       <source url="https://dainiksylhet.com/mo%e0%a7%83tyu-nibondhno-paroforomyanse-sileto-bivage-1mo-nobigonjero-iuenoo-sulotana-jerino/">Dainik Sylhet</source>
     </item>
     <item>
@@ -51,7 +61,9 @@
       <link>https://dainiksylhet.com/desho-thiyetarero-udy%e0%a7%8bge-jiyauro-rohomanero-jibonovittiko-pothonatoko-gorbito-rashtrnayko/</link>
       <guid isPermaLink="true">https://dainiksylhet.com/desho-thiyetarero-udy%e0%a7%8bge-jiyauro-rohomanero-jibonovittiko-pothonatoko-gorbito-rashtrnayko/</guid>
       <pubDate>Sun, 08 Nov 2026 11:18:08 +0000</pubDate>
-      <description>বাংলাদেশের মহান মুক্তিযুদ্ধের অন্যতম ঐতিহাসিক চরিত্র এবং তৎকালীন মেজর জিয়াউর রহমানের জীবন ও বিদ্রোহের পটভূমি নিয়ে সিলেট কেন্দ্রীয় শহীদ মিনারে  ...বিস্তারিত</description>
+      <enclosure url="https://dainiksylhet.com/files/uploads/2026/11/DESH-TRETER-PHOTO-01.jpg" length="0" type="image/jpeg" />
+      <media:content url="https://dainiksylhet.com/files/uploads/2026/11/DESH-TRETER-PHOTO-01.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://dainiksylhet.com/files/uploads/2026/11/DESH-TRETER-PHOTO-01.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="দেশ থিয়েটারের উদ্যোগে জিয়াউর রহমানের জীবনভিত্তিক পথনাটক ‘গর্বিত রাষ্ট্রনায়ক’" /&gt;&lt;/p&gt;&lt;p&gt;বাংলাদেশের মহান মুক্তিযুদ্ধের অন্যতম ঐতিহাসিক চরিত্র এবং তৎকালীন মেজর জিয়াউর রহমানের জীবন ও বিদ্রোহের পটভূমি নিয়ে সিলেট কেন্দ্রীয় শহীদ মিনারে  ...বিস্তারিত&lt;/p&gt;</description>
       <source url="https://dainiksylhet.com/desho-thiyetarero-udy%e0%a7%8bge-jiyauro-rohomanero-jibonovittiko-pothonatoko-gorbito-rashtrnayko/">Dainik Sylhet</source>
     </item>
     <item>
@@ -59,7 +71,9 @@
       <link>https://dainiksylhet.com/sileto-jela-swecchaseboko-dolero-udy%e0%a7%8bge-poricchnnta-ovijano/</link>
       <guid isPermaLink="true">https://dainiksylhet.com/sileto-jela-swecchaseboko-dolero-udy%e0%a7%8bge-poricchnnta-ovijano/</guid>
       <pubDate>Sun, 08 Nov 2026 09:55:43 +0000</pubDate>
-      <description>জাতীয় বিপ্লব ও সংহতি দিবস উপলক্ষে কেন্দ্রীয় কর্মসূচির অংশ হিসেবে সিলেট শহীদ শামসুদ্দিন আহমদ হাসপাতালে  পরিচ্ছন্নতা অভিযান কর্মসূচি পালন করেছে  ...বিস্তারিত</description>
+      <enclosure url="https://dainiksylhet.com/files/uploads/2026/11/SYLHET-ZELA-SECCASEBOK-DOL-PHOTO-01.jpg" length="0" type="image/jpeg" />
+      <media:content url="https://dainiksylhet.com/files/uploads/2026/11/SYLHET-ZELA-SECCASEBOK-DOL-PHOTO-01.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://dainiksylhet.com/files/uploads/2026/11/SYLHET-ZELA-SECCASEBOK-DOL-PHOTO-01.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="সিলেট জেলা স্বেচ্ছাসেবক দলের উদ্যোগে পরিচ্ছন্নতা অভিযান" /&gt;&lt;/p&gt;&lt;p&gt;জাতীয় বিপ্লব ও সংহতি দিবস উপলক্ষে কেন্দ্রীয় কর্মসূচির অংশ হিসেবে সিলেট শহীদ শামসুদ্দিন আহমদ হাসপাতালে  পরিচ্ছন্নতা অভিযান কর্মসূচি পালন করেছে  ...বিস্তারিত&lt;/p&gt;</description>
       <source url="https://dainiksylhet.com/sileto-jela-swecchaseboko-dolero-udy%e0%a7%8bge-poricchnnta-ovijano/">Dainik Sylhet</source>
     </item>
     <item>
@@ -67,7 +81,9 @@
       <link>https://dainiksylhet.com/tahiropure-55tomo-jatiyo-somobayo-dibose-bornadhy-ro%e0%a7%8djali-o-alocona-sova/</link>
       <guid isPermaLink="true">https://dainiksylhet.com/tahiropure-55tomo-jatiyo-somobayo-dibose-bornadhy-ro%e0%a7%8djali-o-alocona-sova/</guid>
       <pubDate>Sun, 08 Nov 2026 09:32:20 +0000</pubDate>
-      <description>সুনামগঞ্জের তাহিরপুরে ৫৫তম জাতীয় সমবায় দিবস উপলক্ষে বর্ণাঢ্য র&amp;#x200d;্যালি ও আলোচনা সভার মধ্যে দিয়ে পালিত হয়েছে। রবিবার সকালে উপজেলা পরিষদ  ...বিস্তারিত</description>
+      <enclosure url="https://dainiksylhet.com/files/uploads/2026/11/hag.jpg" length="0" type="image/jpeg" />
+      <media:content url="https://dainiksylhet.com/files/uploads/2026/11/hag.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://dainiksylhet.com/files/uploads/2026/11/hag.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="তাহিরপুরে ৫৫তম জাতীয় সমবায় দিবসে বর্ণাঢ্য র‍্যালি ও আলোচনা সভা" /&gt;&lt;/p&gt;&lt;p&gt;সুনামগঞ্জের তাহিরপুরে ৫৫তম জাতীয় সমবায় দিবস উপলক্ষে বর্ণাঢ্য র&amp;#x200d;্যালি ও আলোচনা সভার মধ্যে দিয়ে পালিত হয়েছে। রবিবার সকালে উপজেলা পরিষদ  ...বিস্তারিত&lt;/p&gt;</description>
       <source url="https://dainiksylhet.com/tahiropure-55tomo-jatiyo-somobayo-dibose-bornadhy-ro%e0%a7%8djali-o-alocona-sova/">Dainik Sylhet</source>
     </item>
     <item>
@@ -75,7 +91,9 @@
       <link>https://dainiksylhet.com/sileto-mohanogoro-jamayatero-purnangg-komiti-gothono-dayitw-peleno-jara/</link>
       <guid isPermaLink="true">https://dainiksylhet.com/sileto-mohanogoro-jamayatero-purnangg-komiti-gothono-dayitw-peleno-jara/</guid>
       <pubDate>Sun, 08 Nov 2026 07:03:24 +0000</pubDate>
-      <description>বাংলাদেশ জামায়াতে ইসলামীর কেন্দ্রীয় নির্দেশনার আলোকে সিলেট মহানগর শাখার ২০২৭-২৮ মেয়াদের জন্য পূর্ণাঙ্গ কমিটি, মহানগর কর্মপরিষদ ও শূরা পরিষদ গঠন  ...বিস্তারিত</description>
+      <enclosure url="https://dainiksylhet.com/files/uploads/2026/11/173626.jpeg" length="0" type="image/jpeg" />
+      <media:content url="https://dainiksylhet.com/files/uploads/2026/11/173626.jpeg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://dainiksylhet.com/files/uploads/2026/11/173626.jpeg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="সিলেট মহানগর জামায়াতের পূর্ণাঙ্গ কমিটি গঠন: দায়িত্ব পেলেন যারা" /&gt;&lt;/p&gt;&lt;p&gt;বাংলাদেশ জামায়াতে ইসলামীর কেন্দ্রীয় নির্দেশনার আলোকে সিলেট মহানগর শাখার ২০২৭-২৮ মেয়াদের জন্য পূর্ণাঙ্গ কমিটি, মহানগর কর্মপরিষদ ও শূরা পরিষদ গঠন  ...বিস্তারিত&lt;/p&gt;</description>
       <source url="https://dainiksylhet.com/sileto-mohanogoro-jamayatero-purnangg-komiti-gothono-dayitw-peleno-jara/">Dainik Sylhet</source>
     </item>
     <item>
@@ -83,7 +101,9 @@
       <link>https://dainiksylhet.com/madhobopure-jatiy-somobay-diboso-palito/</link>
       <guid isPermaLink="true">https://dainiksylhet.com/madhobopure-jatiy-somobay-diboso-palito/</guid>
       <pubDate>Sun, 08 Nov 2026 06:58:24 +0000</pubDate>
-      <description>‘করব সমবায়, গড়ব দেশ, সবার জন্য বাংলাদেশ’ প্রতিপাদ্যে হবিগঞ্জের মাধবপুরে ৫৫তম জাতীয় সমবায় দিবস-২০২৬ পালিত হয়েছে। রোববার (৮ নভেম্বর) সকালে  ...বিস্তারিত</description>
+      <enclosure url="https://dainiksylhet.com/files/uploads/2026/11/v6-1.jpg" length="0" type="image/jpeg" />
+      <media:content url="https://dainiksylhet.com/files/uploads/2026/11/v6-1.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://dainiksylhet.com/files/uploads/2026/11/v6-1.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="মাধবপুরে জাতীয় সমবায় দিবস পালিত" /&gt;&lt;/p&gt;&lt;p&gt;‘করব সমবায়, গড়ব দেশ, সবার জন্য বাংলাদেশ’ প্রতিপাদ্যে হবিগঞ্জের মাধবপুরে ৫৫তম জাতীয় সমবায় দিবস-২০২৬ পালিত হয়েছে। রোববার (৮ নভেম্বর) সকালে  ...বিস্তারিত&lt;/p&gt;</description>
       <source url="https://dainiksylhet.com/madhobopure-jatiy-somobay-diboso-palito/">Dainik Sylhet</source>
     </item>
     <item>
@@ -91,7 +111,9 @@
       <link>https://dainiksylhet.com/ozotn-o-obohelay-hariye-jacche-nokipuro-jomidaroba%e0%a6%a1%e0%a6%bci/</link>
       <guid isPermaLink="true">https://dainiksylhet.com/ozotn-o-obohelay-hariye-jacche-nokipuro-jomidaroba%e0%a6%a1%e0%a6%bci/</guid>
       <pubDate>Sun, 08 Nov 2026 06:56:19 +0000</pubDate>
-      <description>একসময় এখানে ছিল তিনতলা বিশাল প্রাসাদ। সারি সারি স্তম্ভ, খিলান আর কারুকাজে সাজানো ভবন। সামনে বিস্তীর্ণ মাঠ, পাশে বড় পুকুর,  ...বিস্তারিত</description>
+      <enclosure url="https://dainiksylhet.com/files/uploads/2026/11/v5.jpg" length="0" type="image/jpeg" />
+      <media:content url="https://dainiksylhet.com/files/uploads/2026/11/v5.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://dainiksylhet.com/files/uploads/2026/11/v5.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="অযত্ন ও অবহেলায় হারিয়ে যাচ্ছে নকিপুর জমিদারবাড়ি" /&gt;&lt;/p&gt;&lt;p&gt;একসময় এখানে ছিল তিনতলা বিশাল প্রাসাদ। সারি সারি স্তম্ভ, খিলান আর কারুকাজে সাজানো ভবন। সামনে বিস্তীর্ণ মাঠ, পাশে বড় পুকুর,  ...বিস্তারিত&lt;/p&gt;</description>
       <source url="https://dainiksylhet.com/ozotn-o-obohelay-hariye-jacche-nokipuro-jomidaroba%e0%a6%a1%e0%a6%bci/">Dainik Sylhet</source>
     </item>
     <item>
@@ -99,7 +121,9 @@
       <link>https://dainiksylhet.com/unnto-deshero-vrmono-visa-paoyaro-10-poramorsh/</link>
       <guid isPermaLink="true">https://dainiksylhet.com/unnto-deshero-vrmono-visa-paoyaro-10-poramorsh/</guid>
       <pubDate>Sun, 08 Nov 2026 06:47:40 +0000</pubDate>
-      <description>প্রথম বিশ্ব বা উন্নত দেশ বলতে সাধারণত শেনজেনভুক্ত দেশ, যুক্তরাজ্য, কানাডা, যুক্তরাষ্ট্র, অস্ট্রেলিয়া, নিউজিল্যান্ড ও জাপানকে বোঝানো হয়। ২০১২ থেকে  ...বিস্তারিত</description>
+      <enclosure url="https://dainiksylhet.com/files/uploads/2026/11/v4.jpg" length="0" type="image/jpeg" />
+      <media:content url="https://dainiksylhet.com/files/uploads/2026/11/v4.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://dainiksylhet.com/files/uploads/2026/11/v4.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="উন্নত দেশের ভ্রমণ ভিসা পাওয়ার ১০ পরামর্শ" /&gt;&lt;/p&gt;&lt;p&gt;প্রথম বিশ্ব বা উন্নত দেশ বলতে সাধারণত শেনজেনভুক্ত দেশ, যুক্তরাজ্য, কানাডা, যুক্তরাষ্ট্র, অস্ট্রেলিয়া, নিউজিল্যান্ড ও জাপানকে বোঝানো হয়। ২০১২ থেকে  ...বিস্তারিত&lt;/p&gt;</description>
       <source url="https://dainiksylhet.com/unnto-deshero-vrmono-visa-paoyaro-10-poramorsh/">Dainik Sylhet</source>
     </item>
   </channel>

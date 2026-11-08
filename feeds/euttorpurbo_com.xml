@@ -1,25 +1,29 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
   <channel>
     <title>Uttorpurbo - আরএসএস ফিড</title>
     <link>https://euttorpurbo.com</link>
     <description>Uttorpurbo এর সর্বশেষ খবর</description>
     <language>bn</language>
-    <lastBuildDate>Sun, 08 Nov 2026 14:13:20 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 14:22:57 +0000</lastBuildDate>
     <item>
       <title>অনলাইনে সর্বশেষ নিউজ জানতে</title>
       <link>http://dailyuttorpurbo.com</link>
       <guid isPermaLink="true">http://dailyuttorpurbo.com</guid>
-      <pubDate>Sun, 08 Nov 2026 14:13:20 +0000</pubDate>
-      <description>অনলাইনে সর্বশেষ নিউজ জানতে</description>
+      <pubDate>Sun, 08 Nov 2026 14:22:57 +0000</pubDate>
+      <enclosure url="https://euttorpurbo.com/images/add/3.gif" length="0" type="image/jpeg" />
+      <media:content url="https://euttorpurbo.com/images/add/3.gif" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://euttorpurbo.com/images/add/3.gif" style="max-width:100%;height:auto;margin-bottom:10px;" alt="অনলাইনে সর্বশেষ নিউজ জানতে" /&gt;&lt;/p&gt;&lt;p&gt;অনলাইনে সর্বশেষ নিউজ জানতে&lt;/p&gt;</description>
       <source url="http://dailyuttorpurbo.com">Uttorpurbo</source>
     </item>
     <item>
       <title>০১ জুলাই ২০২৩ এর আগের প্রকাশনা পড়তে</title>
       <link>https://old.euttorpurbo.com</link>
       <guid isPermaLink="true">https://old.euttorpurbo.com</guid>
-      <pubDate>Sun, 08 Nov 2026 14:13:20 +0000</pubDate>
-      <description>০১ জুলাই ২০২৩ এর আগের প্রকাশনা পড়তে</description>
+      <pubDate>Sun, 08 Nov 2026 14:22:57 +0000</pubDate>
+      <enclosure url="https://euttorpurbo.com/images/add/3.gif" length="0" type="image/jpeg" />
+      <media:content url="https://euttorpurbo.com/images/add/3.gif" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://euttorpurbo.com/images/add/3.gif" style="max-width:100%;height:auto;margin-bottom:10px;" alt="০১ জুলাই ২০২৩ এর আগের প্রকাশনা পড়তে" /&gt;&lt;/p&gt;&lt;p&gt;০১ জুলাই ২০২৩ এর আগের প্রকাশনা পড়তে&lt;/p&gt;</description>
       <source url="https://old.euttorpurbo.com">Uttorpurbo</source>
     </item>
   </channel>

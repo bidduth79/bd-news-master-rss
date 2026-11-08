@@ -1,17 +1,19 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
   <channel>
     <title>The New York Times - আরএসএস ফিড</title>
     <link>https://www.nytimes.com/pages/index.html?partner=rss&amp;emc=rss</link>
     <description>The New York Times এর সর্বশেষ খবর</description>
     <language>bn</language>
-    <lastBuildDate>Sun, 08 Nov 2026 14:12:46 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 14:21:59 +0000</lastBuildDate>
     <item>
       <title>For Trump and America, a Clear Election Verdict but a Murky Future</title>
       <link>https://www.nytimes.com/2026/11/08/us/politics/for-trump-and-america-a-clear-election-verdict-leaves-a-murky-future.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/11/08/us/politics/for-trump-and-america-a-clear-election-verdict-leaves-a-murky-future.html</guid>
       <pubDate>Sun, 08 Nov 2026 10:02:08 +0000</pubDate>
-      <description>As Americans absorb a stunning new political reality, they face a gap between the time they effectively decided to be done with the president and the time he is actually done.</description>
+      <enclosure url="https://static01.nyt.com/images/2026/11/08/multimedia/08dc-assess-lphq/08dc-assess-lphq-mediumSquareAt3X.jpg" length="0" type="image/jpeg" />
+      <media:content url="https://static01.nyt.com/images/2026/11/08/multimedia/08dc-assess-lphq/08dc-assess-lphq-mediumSquareAt3X.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/11/08/multimedia/08dc-assess-lphq/08dc-assess-lphq-mediumSquareAt3X.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="For Trump and America, a Clear Election Verdict but a Murky Future" /&gt;&lt;/p&gt;&lt;p&gt;As Americans absorb a stunning new political reality, they face a gap between the time they effectively decided to be done with the president and the time he is actually done.&lt;/p&gt;</description>
       <source url="https://www.nytimes.com/2026/11/08/us/politics/for-trump-and-america-a-clear-election-verdict-leaves-a-murky-future.html">The New York Times</source>
     </item>
     <item>
@@ -19,7 +21,9 @@
       <link>https://www.nytimes.com/2026/11/07/us/politics/stephen-miller-midterm-elections.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/11/07/us/politics/stephen-miller-midterm-elections.html</guid>
       <pubDate>Sat, 07 Nov 2026 18:29:56 +0000</pubDate>
-      <description>The president’s new chief of staff has already demonstrated his intention to forge ahead with an agenda that many voters rejected.</description>
+      <enclosure url="https://static01.nyt.com/images/2026/11/07/multimedia/dc-miller-01-qwcf/dc-miller-01-qwcf-mediumSquareAt3X.jpg" length="0" type="image/jpeg" />
+      <media:content url="https://static01.nyt.com/images/2026/11/07/multimedia/dc-miller-01-qwcf/dc-miller-01-qwcf-mediumSquareAt3X.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/11/07/multimedia/dc-miller-01-qwcf/dc-miller-01-qwcf-mediumSquareAt3X.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="For Stephen Miller, Election Defeat Is No Reason to Back Down on Immigration Crackdown" /&gt;&lt;/p&gt;&lt;p&gt;The president’s new chief of staff has already demonstrated his intention to forge ahead with an agenda that many voters rejected.&lt;/p&gt;</description>
       <source url="https://www.nytimes.com/2026/11/07/us/politics/stephen-miller-midterm-elections.html">The New York Times</source>
     </item>
     <item>
@@ -27,7 +31,9 @@
       <link>https://www.nytimes.com/2026/11/08/us/politics/hakeem-jeffries-house-democrats-speaker.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/11/08/us/politics/hakeem-jeffries-house-democrats-speaker.html</guid>
       <pubDate>Sun, 08 Nov 2026 10:00:12 +0000</pubDate>
-      <description>The man in line to be the first Black speaker is a reserved moderate seen by activists on the left as too timid to take on President Trump. He says he’s “strongly positioned” to get things done.</description>
+      <enclosure url="https://static01.nyt.com/images/2026/11/06/multimedia/00dc-jeffries-flqb/00dc-jeffries-flqb-mediumSquareAt3X-v2.jpg" length="0" type="image/jpeg" />
+      <media:content url="https://static01.nyt.com/images/2026/11/06/multimedia/00dc-jeffries-flqb/00dc-jeffries-flqb-mediumSquareAt3X-v2.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/11/06/multimedia/00dc-jeffries-flqb/00dc-jeffries-flqb-mediumSquareAt3X-v2.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="Hakeem Jeffries, in Line to Become House Speaker, Promises Bold Agenda" /&gt;&lt;/p&gt;&lt;p&gt;The man in line to be the first Black speaker is a reserved moderate seen by activists on the left as too timid to take on President Trump. He says he’s “strongly positioned” to get things done.&lt;/p&gt;</description>
       <source url="https://www.nytimes.com/2026/11/08/us/politics/hakeem-jeffries-house-democrats-speaker.html">The New York Times</source>
     </item>
     <item>
@@ -35,7 +41,9 @@
       <link>https://www.nytimes.com/2026/11/08/us/politics/republican-blame-trump-midterms.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/11/08/us/politics/republican-blame-trump-midterms.html</guid>
       <pubDate>Sun, 08 Nov 2026 10:01:51 +0000</pubDate>
-      <description>After last week’s midterm losses, the Republican Party entered its most uncertain moment in years. Some Republicans called for moderation and cleaning house, but that will be difficult with President Trump still in the White House.</description>
+      <enclosure url="https://static01.nyt.com/images/2026/11/08/multimedia/08pol-gop-blame-gfjv/08pol-gop-blame-gfjv-mediumSquareAt3X.jpg" length="0" type="image/jpeg" />
+      <media:content url="https://static01.nyt.com/images/2026/11/08/multimedia/08pol-gop-blame-gfjv/08pol-gop-blame-gfjv-mediumSquareAt3X.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/11/08/multimedia/08pol-gop-blame-gfjv/08pol-gop-blame-gfjv-mediumSquareAt3X.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="Republicans Point Fingers, but Trump Does Not Appear to Be Listening" /&gt;&lt;/p&gt;&lt;p&gt;After last week’s midterm losses, the Republican Party entered its most uncertain moment in years. Some Republicans called for moderation and cleaning house, but that will be difficult with President Trump still in the White House.&lt;/p&gt;</description>
       <source url="https://www.nytimes.com/2026/11/08/us/politics/republican-blame-trump-midterms.html">The New York Times</source>
     </item>
     <item>
@@ -43,7 +51,9 @@
       <link>https://www.nytimes.com/2026/11/08/magazine/keisha-lance-bottoms-interview.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/11/08/magazine/keisha-lance-bottoms-interview.html</guid>
       <pubDate>Sun, 08 Nov 2026 13:02:34 +0000</pubDate>
-      <description>The governor-elect of Georgia is elated about her party’s victories in the South, but knows realignment is far from secure.</description>
+      <enclosure url="https://static01.nyt.com/images/2026/11/08/magazine/08mag-interview-bottoms/08mag-interview-bottoms-mediumSquareAt3X.jpg" length="0" type="image/jpeg" />
+      <media:content url="https://static01.nyt.com/images/2026/11/08/magazine/08mag-interview-bottoms/08mag-interview-bottoms-mediumSquareAt3X.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/11/08/magazine/08mag-interview-bottoms/08mag-interview-bottoms-mediumSquareAt3X.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="Keisha Lance Bottoms on What Democrats Have to Do to Not Squander the Win" /&gt;&lt;/p&gt;&lt;p&gt;The governor-elect of Georgia is elated about her party’s victories in the South, but knows realignment is far from secure.&lt;/p&gt;</description>
       <source url="https://www.nytimes.com/2026/11/08/magazine/keisha-lance-bottoms-interview.html">The New York Times</source>
     </item>
     <item>
@@ -51,7 +61,9 @@
       <link>https://www.nytimes.com/2026/11/08/us/elections/mississippi-black-senator.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/11/08/us/elections/mississippi-black-senator.html</guid>
       <pubDate>Sun, 08 Nov 2026 10:02:04 +0000</pubDate>
-      <description>The echoes of history surround Scott Colom’s final push toward victory, but assembling the coalition that propelled him took hard work after many Democratic misses.</description>
+      <enclosure url="https://static01.nyt.com/images/2026/11/08/multimedia/08nat-mississippi-senate-plhv/08nat-mississippi-senate-plhv-mediumSquareAt3X.jpg" length="0" type="image/jpeg" />
+      <media:content url="https://static01.nyt.com/images/2026/11/08/multimedia/08nat-mississippi-senate-plhv/08nat-mississippi-senate-plhv-mediumSquareAt3X.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/11/08/multimedia/08nat-mississippi-senate-plhv/08nat-mississippi-senate-plhv-mediumSquareAt3X.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="How Mississippi Reached the Verge of Electing a Black Senator" /&gt;&lt;/p&gt;&lt;p&gt;The echoes of history surround Scott Colom’s final push toward victory, but assembling the coalition that propelled him took hard work after many Democratic misses.&lt;/p&gt;</description>
       <source url="https://www.nytimes.com/2026/11/08/us/elections/mississippi-black-senator.html">The New York Times</source>
     </item>
     <item>
@@ -59,7 +71,9 @@
       <link>https://www.nytimes.com/2026/11/07/science/space/holley-bockelmann-astrophysicist-space-trump.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/11/07/science/space/holley-bockelmann-astrophysicist-space-trump.html</guid>
       <pubDate>Sun, 08 Nov 2026 11:49:36 +0000</pubDate>
-      <description>Kelly Holley-Bockelmann was one of the top astrophysicists in the country until President Trump’s policies affected every part of her work.</description>
+      <enclosure url="https://static01.nyt.com/images/2026/09/29/multimedia/sus-astronomer-promo-pkhq/sus-astronomer-promo-pkhq-mediumSquareAt3X.jpg" length="0" type="image/jpeg" />
+      <media:content url="https://static01.nyt.com/images/2026/09/29/multimedia/sus-astronomer-promo-pkhq/sus-astronomer-promo-pkhq-mediumSquareAt3X.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/09/29/multimedia/sus-astronomer-promo-pkhq/sus-astronomer-promo-pkhq-mediumSquareAt3X.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="Top Astrophysicist Leaves U.S. After Trump Policies Affect Her Work" /&gt;&lt;/p&gt;&lt;p&gt;Kelly Holley-Bockelmann was one of the top astrophysicists in the country until President Trump’s policies affected every part of her work.&lt;/p&gt;</description>
       <source url="https://www.nytimes.com/2026/11/07/science/space/holley-bockelmann-astrophysicist-space-trump.html">The New York Times</source>
     </item>
     <item>
@@ -67,7 +81,9 @@
       <link>https://www.nytimes.com/2026/10/31/science/how-trump-is-dismantling-americas-scientific-research-machine.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/10/31/science/how-trump-is-dismantling-americas-scientific-research-machine.html</guid>
       <pubDate>Sun, 08 Nov 2026 02:09:25 +0000</pubDate>
-      <description>The system that has driven life-altering discoveries and helped make the United States a superpower is now under intense strain.</description>
+      <enclosure url="https://static01.nyt.com/images/2026/10/29/us/dc-trumpscience-promo/dc-trumpscience-promo-mediumSquareAt3X.jpg" length="0" type="image/jpeg" />
+      <media:content url="https://static01.nyt.com/images/2026/10/29/us/dc-trumpscience-promo/dc-trumpscience-promo-mediumSquareAt3X.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/10/29/us/dc-trumpscience-promo/dc-trumpscience-promo-mediumSquareAt3X.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="How Trump Is Dismantling America’s Scientific Research Machine" /&gt;&lt;/p&gt;&lt;p&gt;The system that has driven life-altering discoveries and helped make the United States a superpower is now under intense strain.&lt;/p&gt;</description>
       <source url="https://www.nytimes.com/2026/10/31/science/how-trump-is-dismantling-americas-scientific-research-machine.html">The New York Times</source>
     </item>
     <item>
@@ -75,7 +91,9 @@
       <link>https://www.nytimes.com/2026/11/08/world/middleeast/israel-eisenkot-netanyahu-what-to-know.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/11/08/world/middleeast/israel-eisenkot-netanyahu-what-to-know.html</guid>
       <pubDate>Sun, 08 Nov 2026 12:33:40 +0000</pubDate>
-      <description>Mr. Eisenkot, a career general and the leading rival of Prime Minister Benjamin Netanyahu of Israel, will now have up to six weeks to form a coalition.</description>
+      <enclosure url="https://static01.nyt.com/images/2026/11/08/multimedia/08int-israel-eisenkot-wtk-ckmj/08int-israel-eisenkot-wtk-ckmj-mediumSquareAt3X.jpg" length="0" type="image/jpeg" />
+      <media:content url="https://static01.nyt.com/images/2026/11/08/multimedia/08int-israel-eisenkot-wtk-ckmj/08int-israel-eisenkot-wtk-ckmj-mediumSquareAt3X.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/11/08/multimedia/08int-israel-eisenkot-wtk-ckmj/08int-israel-eisenkot-wtk-ckmj-mediumSquareAt3X.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="Who Is Gadi Eisenkot, Israel’s Opposition Leader?" /&gt;&lt;/p&gt;&lt;p&gt;Mr. Eisenkot, a career general and the leading rival of Prime Minister Benjamin Netanyahu of Israel, will now have up to six weeks to form a coalition.&lt;/p&gt;</description>
       <source url="https://www.nytimes.com/2026/11/08/world/middleeast/israel-eisenkot-netanyahu-what-to-know.html">The New York Times</source>
     </item>
     <item>
@@ -83,7 +101,9 @@
       <link>https://www.nytimes.com/2026/11/06/arts/music/dominic-fike-popcast-interview.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/11/06/arts/music/dominic-fike-popcast-interview.html</guid>
       <pubDate>Fri, 06 Nov 2026 10:01:46 +0000</pubDate>
-      <description>In the wake of a viral hit, new sobriety and fatherhood, the rocker scrapped the album he had been working on to make a less-polished LP.</description>
+      <enclosure url="https://static01.nyt.com/images/2026/11/06/multimedia/06cul-popcast-fike-02-gcfw/06cul-popcast-fike-02-gcfw-mediumSquareAt3X.jpg" length="0" type="image/jpeg" />
+      <media:content url="https://static01.nyt.com/images/2026/11/06/multimedia/06cul-popcast-fike-02-gcfw/06cul-popcast-fike-02-gcfw-mediumSquareAt3X.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/11/06/multimedia/06cul-popcast-fike-02-gcfw/06cul-popcast-fike-02-gcfw-mediumSquareAt3X.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="After ‘Babydoll’, Dominic Fike Embraces the Mess" /&gt;&lt;/p&gt;&lt;p&gt;In the wake of a viral hit, new sobriety and fatherhood, the rocker scrapped the album he had been working on to make a less-polished LP.&lt;/p&gt;</description>
       <source url="https://www.nytimes.com/2026/11/06/arts/music/dominic-fike-popcast-interview.html">The New York Times</source>
     </item>
     <item>
@@ -91,7 +111,9 @@
       <link>https://www.nytimes.com/2026/11/08/opinion/russell-brand-men-republicans.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/11/08/opinion/russell-brand-men-republicans.html</guid>
       <pubDate>Sun, 08 Nov 2026 11:02:28 +0000</pubDate>
-      <description>For the most part, young men want to be good men.</description>
+      <enclosure url="https://static01.nyt.com/images/2026/11/08/multimedia/08french-lbvt/08french-lbvt-mediumSquareAt3X.jpg" length="0" type="image/jpeg" />
+      <media:content url="https://static01.nyt.com/images/2026/11/08/multimedia/08french-lbvt/08french-lbvt-mediumSquareAt3X.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/11/08/multimedia/08french-lbvt/08french-lbvt-mediumSquareAt3X.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="Republicans Don’t Understand Men, Either" /&gt;&lt;/p&gt;&lt;p&gt;For the most part, young men want to be good men.&lt;/p&gt;</description>
       <source url="https://www.nytimes.com/2026/11/08/opinion/russell-brand-men-republicans.html">The New York Times</source>
     </item>
     <item>
@@ -99,7 +121,9 @@
       <link>https://www.nytimes.com/2026/11/08/briefing/the-price-of-child-stardom.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/11/08/briefing/the-price-of-child-stardom.html</guid>
       <pubDate>Sun, 08 Nov 2026 12:43:04 +0000</pubDate>
-      <description>We look at the dark side of K-pop.</description>
+      <enclosure url="https://static01.nyt.com/images/2026/11/06/multimedia/08themorning-nl-kpop/08themorning-nl-kpop-mediumSquareAt3X.gif" length="0" type="image/jpeg" />
+      <media:content url="https://static01.nyt.com/images/2026/11/06/multimedia/08themorning-nl-kpop/08themorning-nl-kpop-mediumSquareAt3X.gif" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/11/06/multimedia/08themorning-nl-kpop/08themorning-nl-kpop-mediumSquareAt3X.gif" style="max-width:100%;height:auto;margin-bottom:10px;" alt="The Price of Child Stardom" /&gt;&lt;/p&gt;&lt;p&gt;We look at the dark side of K-pop.&lt;/p&gt;</description>
       <source url="https://www.nytimes.com/2026/11/08/briefing/the-price-of-child-stardom.html">The New York Times</source>
     </item>
     <item>
@@ -107,7 +131,9 @@
       <link>https://www.nytimes.com/2026/11/08/world/americas/pope-leo-argentina-milei.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/11/08/world/americas/pope-leo-argentina-milei.html</guid>
       <pubDate>Sun, 08 Nov 2026 10:00:57 +0000</pubDate>
-      <description>The pontiff’s trip comes amid tensions between the country’s libertarian leader and its Catholic Church, which is deeply committed to social justice.</description>
+      <enclosure url="https://static01.nyt.com/images/2026/11/08/multimedia/08int-pope-milei-jcpf/08int-pope-milei-jcpf-mediumSquareAt3X.jpg" length="0" type="image/jpeg" />
+      <media:content url="https://static01.nyt.com/images/2026/11/08/multimedia/08int-pope-milei-jcpf/08int-pope-milei-jcpf-mediumSquareAt3X.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://static01.nyt.com/images/2026/11/08/multimedia/08int-pope-milei-jcpf/08int-pope-milei-jcpf-mediumSquareAt3X.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="In Argentina, Pope Leo to Meet Church at Odds With President Milei" /&gt;&lt;/p&gt;&lt;p&gt;The pontiff’s trip comes amid tensions between the country’s libertarian leader and its Catholic Church, which is deeply committed to social justice.&lt;/p&gt;</description>
       <source url="https://www.nytimes.com/2026/11/08/world/americas/pope-leo-argentina-milei.html">The New York Times</source>
     </item>
   </channel>

@@ -1,18 +1,20 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
   <channel>
     <title>দ্য বিজনেস স্ট্যান্ডার্ড - আরএসএস ফিড</title>
     <link>https://tbsnews.net</link>
     <description>দ্য বিজনেস স্ট্যান্ডার্ড এর সর্বশেষ খবর</description>
     <language>bn</language>
-    <lastBuildDate>Sun, 08 Nov 2026 14:12:53 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 14:22:08 +0000</lastBuildDate>
     <item>
       <title>Commodities continue to be dearer</title>
       <link>https://www.tbsnews.net/economy/bazaar/commodities-continue-be-dearer-328855</link>
       <guid isPermaLink="true">https://www.tbsnews.net/economy/bazaar/commodities-continue-be-dearer-328855</guid>
       <pubDate>Fri, 12 Nov 2021 17:30:00 +0000</pubDate>
-      <description>The commodity price rally, largely driven by the fuel price hike, continued last week with a sharp rise in prices of different essential items, further squeezing the purchasing capacity of limited-income people.
-The wholesale prices of pulses in Khatunganj went up by Tk110-200 per maund (37.32 kilog</description>
+      <enclosure url="https://www.tbsnews.net/sites/default/files/styles/infograph/public/images/2021/11/12/20211112163153_sap_7639-01.jpeg" length="0" type="image/jpeg" />
+      <media:content url="https://www.tbsnews.net/sites/default/files/styles/infograph/public/images/2021/11/12/20211112163153_sap_7639-01.jpeg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://www.tbsnews.net/sites/default/files/styles/infograph/public/images/2021/11/12/20211112163153_sap_7639-01.jpeg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="Commodities continue to be dearer" /&gt;&lt;/p&gt;&lt;p&gt;The commodity price rally, largely driven by the fuel price hike, continued last week with a sharp rise in prices of different essential items, further squeezing the purchasing capacity of limited-income people.
+The wholesale prices of pulses in Khatunganj went up by Tk110-200 per maund (37.32 kilog&lt;/p&gt;</description>
       <source url="https://www.tbsnews.net/economy/bazaar/commodities-continue-be-dearer-328855">দ্য বিজনেস স্ট্যান্ডার্ড</source>
     </item>
     <item>
@@ -20,8 +22,10 @@ The wholesale prices of pulses in Khatunganj went up by Tk110-200 per maund (37.
       <link>https://www.tbsnews.net/sports/mithun-mushfiqur-fifties-guide-tigers-win-warm</link>
       <guid isPermaLink="true">https://www.tbsnews.net/sports/mithun-mushfiqur-fifties-guide-tigers-win-warm</guid>
       <pubDate>Tue, 23 Jul 2019 12:50:00 +0000</pubDate>
-      <description>Bangladesh got back to winning ways in their warm-up 50-over match against Sri Lanka Board President’s XI, thanks to a 91 from Mohammad Mithun and a 50 from Mushfiqur Rahim to win by five wickets at Colombo on Tuesday.
-It was a solid batting display by the Tigers as they chased down a challenging 28</description>
+      <enclosure url="/sites/default/files/images/2019/07/23/mithun.jpg" length="0" type="image/jpeg" />
+      <media:content url="/sites/default/files/images/2019/07/23/mithun.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="/sites/default/files/images/2019/07/23/mithun.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="Mithun, Mushfiqur fifties guide Tigers to win in warm-up" /&gt;&lt;/p&gt;&lt;p&gt;Bangladesh got back to winning ways in their warm-up 50-over match against Sri Lanka Board President’s XI, thanks to a 91 from Mohammad Mithun and a 50 from Mushfiqur Rahim to win by five wickets at Colombo on Tuesday.
+It was a solid batting display by the Tigers as they chased down a challenging 28&lt;/p&gt;</description>
       <source url="https://www.tbsnews.net/sports/mithun-mushfiqur-fifties-guide-tigers-win-warm">দ্য বিজনেস স্ট্যান্ডার্ড</source>
     </item>
     <item>
@@ -29,8 +33,10 @@ It was a solid batting display by the Tigers as they chased down a challenging 2
       <link>https://www.tbsnews.net/sports/jesus-takes-centre-stage-brazil-win-copa-america</link>
       <guid isPermaLink="true">https://www.tbsnews.net/sports/jesus-takes-centre-stage-brazil-win-copa-america</guid>
       <pubDate>Mon, 08 Jul 2019 01:15:00 +0000</pubDate>
-      <description>Brazil’s Gabriel Jesus made one goal, scored another and was sent off in the second half as they beat Peru 3-1 on Sunday to win the Copa America for the ninth time in a pulsating contest at the Maracana stadium.
-The hosts took the lead after 15 minutes thanks to some brilliant skill from Jesus on th</description>
+      <enclosure url="http://tbsnews.net/sites/default/files/uploads/2019/07/08/copa_final.png" length="0" type="image/jpeg" />
+      <media:content url="http://tbsnews.net/sites/default/files/uploads/2019/07/08/copa_final.png" medium="image" />
+      <description>&lt;p&gt;&lt;img src="http://tbsnews.net/sites/default/files/uploads/2019/07/08/copa_final.png" style="max-width:100%;height:auto;margin-bottom:10px;" alt="Jesus takes centre stage as Brazil win Copa America" /&gt;&lt;/p&gt;&lt;p&gt;Brazil’s Gabriel Jesus made one goal, scored another and was sent off in the second half as they beat Peru 3-1 on Sunday to win the Copa America for the ninth time in a pulsating contest at the Maracana stadium.
+The hosts took the lead after 15 minutes thanks to some brilliant skill from Jesus on th&lt;/p&gt;</description>
       <source url="https://www.tbsnews.net/sports/jesus-takes-centre-stage-brazil-win-copa-america">দ্য বিজনেস স্ট্যান্ডার্ড</source>
     </item>
     <item>
@@ -38,8 +44,10 @@ The hosts took the lead after 15 minutes thanks to some brilliant skill from Jes
       <link>https://www.tbsnews.net/sports/south-africa-and-pakistan-battle-survival</link>
       <guid isPermaLink="true">https://www.tbsnews.net/sports/south-africa-and-pakistan-battle-survival</guid>
       <pubDate>Sun, 23 Jun 2019 06:15:00 +0000</pubDate>
-      <description>Two teams in green, two teams with three points, two teams who are fighting for survival in the ICC World Cup. This is South Africa vs Pakistan at Lords.
-Both teams have come into this campaign without much furor about their chances of winning it and they have both had tournaments without many posit</description>
+      <enclosure url="/sites/default/files/images/2019/06/23/south_africa.jpg" length="0" type="image/jpeg" />
+      <media:content url="/sites/default/files/images/2019/06/23/south_africa.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="/sites/default/files/images/2019/06/23/south_africa.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="South Africa and Pakistan battle for survival" /&gt;&lt;/p&gt;&lt;p&gt;Two teams in green, two teams with three points, two teams who are fighting for survival in the ICC World Cup. This is South Africa vs Pakistan at Lords.
+Both teams have come into this campaign without much furor about their chances of winning it and they have both had tournaments without many posit&lt;/p&gt;</description>
       <source url="https://www.tbsnews.net/sports/south-africa-and-pakistan-battle-survival">দ্য বিজনেস স্ট্যান্ডার্ড</source>
     </item>
     <item>
@@ -47,9 +55,11 @@ Both teams have come into this campaign without much furor about their chances o
       <link>https://www.tbsnews.net/sports/afghans-search-maiden-win-face-mighty-england</link>
       <guid isPermaLink="true">https://www.tbsnews.net/sports/afghans-search-maiden-win-face-mighty-england</guid>
       <pubDate>Tue, 18 Jun 2019 00:06:45 +0000</pubDate>
-      <description>If recent history is to go by, England have been the big team that up and coming teams or as some like to say ‘minnows’ have had success against in World Cups.
+      <enclosure url="/sites/default/files/images/2019/06/18/ipiccy-collage.jpg" length="0" type="image/jpeg" />
+      <media:content url="/sites/default/files/images/2019/06/18/ipiccy-collage.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="/sites/default/files/images/2019/06/18/ipiccy-collage.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="Afghans search for maiden win but face mighty England" /&gt;&lt;/p&gt;&lt;p&gt;If recent history is to go by, England have been the big team that up and coming teams or as some like to say ‘minnows’ have had success against in World Cups.
 Bangladesh have beaten them on 2011 and in 2015 and Ireland have won against the creators of cricket in 2011, chasing a record target.
-This </description>
+This &lt;/p&gt;</description>
       <source url="https://www.tbsnews.net/sports/afghans-search-maiden-win-face-mighty-england">দ্য বিজনেস স্ট্যান্ডার্ড</source>
     </item>
     <item>
@@ -57,8 +67,10 @@ This </description>
       <link>https://www.tbsnews.net/sports/shakib-believes-batting-no3-best-him</link>
       <guid isPermaLink="true">https://www.tbsnews.net/sports/shakib-believes-batting-no3-best-him</guid>
       <pubDate>Mon, 17 Jun 2019 20:36:17 +0000</pubDate>
-      <description>Bangladesh’s ace all-rounder Shakib al Hasan believes that because he is batting higher up the order at no.3, he is getting a better opportunity of scoring big and credits that to one of the reasons he’s been batting so well in the World Cup.
-The left-handed batsman scored a brilliant 124-run inning</description>
+      <enclosure url="/sites/default/files/images/2019/06/18/shakib_man_of_the_match.jpg" length="0" type="image/jpeg" />
+      <media:content url="/sites/default/files/images/2019/06/18/shakib_man_of_the_match.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="/sites/default/files/images/2019/06/18/shakib_man_of_the_match.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="Shakib believes batting at no.3 best for him" /&gt;&lt;/p&gt;&lt;p&gt;Bangladesh’s ace all-rounder Shakib al Hasan believes that because he is batting higher up the order at no.3, he is getting a better opportunity of scoring big and credits that to one of the reasons he’s been batting so well in the World Cup.
+The left-handed batsman scored a brilliant 124-run inning&lt;/p&gt;</description>
       <source url="https://www.tbsnews.net/sports/shakib-believes-batting-no3-best-him">দ্য বিজনেস স্ট্যান্ডার্ড</source>
     </item>
     <item>
@@ -66,8 +78,10 @@ The left-handed batsman scored a brilliant 124-run inning</description>
       <link>https://www.tbsnews.net/sports/ruman-becomes-first-bangladeshi-archer-win-world-cup-medal</link>
       <guid isPermaLink="true">https://www.tbsnews.net/sports/ruman-becomes-first-bangladeshi-archer-win-world-cup-medal</guid>
       <pubDate>Sun, 16 Jun 2019 22:57:26 +0000</pubDate>
-      <description>Bangladesh’s top archer Md Ruman Shana made history as he became the first Bangladeshi to win a medal in World Archery Championship on Sunday.
-Ruman ended his campaign on a high when he outplayed Mauro Nespoli of Italy by 7-1 set points in the bronze medal deciding match of men’s recurve event in th</description>
+      <enclosure url="/sites/default/files/images/2019/06/17/ruman_shana.jpg" length="0" type="image/jpeg" />
+      <media:content url="/sites/default/files/images/2019/06/17/ruman_shana.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="/sites/default/files/images/2019/06/17/ruman_shana.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="Ruman becomes first Bangladeshi Archer to win World Cup medal" /&gt;&lt;/p&gt;&lt;p&gt;Bangladesh’s top archer Md Ruman Shana made history as he became the first Bangladeshi to win a medal in World Archery Championship on Sunday.
+Ruman ended his campaign on a high when he outplayed Mauro Nespoli of Italy by 7-1 set points in the bronze medal deciding match of men’s recurve event in th&lt;/p&gt;</description>
       <source url="https://www.tbsnews.net/sports/ruman-becomes-first-bangladeshi-archer-win-world-cup-medal">দ্য বিজনেস স্ট্যান্ডার্ড</source>
     </item>
     <item>
@@ -75,8 +89,10 @@ Ruman ended his campaign on a high when he outplayed Mauro Nespoli of Italy by 7
       <link>https://www.tbsnews.net/sports/sarfaraz-blames-another-batting-collapse-loss</link>
       <guid isPermaLink="true">https://www.tbsnews.net/sports/sarfaraz-blames-another-batting-collapse-loss</guid>
       <pubDate>Sun, 16 Jun 2019 20:55:43 +0000</pubDate>
-      <description>Pakistan lost by 89-runs against India at Old Trafford in the ICC World Cup 2019 on Sunday, Sarfaraz Ahmed believes his side gave up all hopes of a win when they lost four wickets in three overs.
-Pakistan, who at one point were in the chase at 117/1, lost Babar Azam, Fakhar Zaman, Mohammad Hafeez an</description>
+      <enclosure url="/sites/default/files/images/2019/06/17/sarfaraz_ahmed.jpg" length="0" type="image/jpeg" />
+      <media:content url="/sites/default/files/images/2019/06/17/sarfaraz_ahmed.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="/sites/default/files/images/2019/06/17/sarfaraz_ahmed.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="Sarfaraz blames another batting collapse for loss" /&gt;&lt;/p&gt;&lt;p&gt;Pakistan lost by 89-runs against India at Old Trafford in the ICC World Cup 2019 on Sunday, Sarfaraz Ahmed believes his side gave up all hopes of a win when they lost four wickets in three overs.
+Pakistan, who at one point were in the chase at 117/1, lost Babar Azam, Fakhar Zaman, Mohammad Hafeez an&lt;/p&gt;</description>
       <source url="https://www.tbsnews.net/sports/sarfaraz-blames-another-batting-collapse-loss">দ্য বিজনেস স্ট্যান্ডার্ড</source>
     </item>
     <item>
@@ -84,7 +100,9 @@ Pakistan, who at one point were in the chase at 117/1, lost Babar Azam, Fakhar Z
       <link>https://www.tbsnews.net/sports/rohit-ton-guides-india-seventh-straight-wc-win-over-pakistan</link>
       <guid isPermaLink="true">https://www.tbsnews.net/sports/rohit-ton-guides-india-seventh-straight-wc-win-over-pakistan</guid>
       <pubDate>Sun, 16 Jun 2019 19:36:06 +0000</pubDate>
-      <description>Rohit Sharma scored another silky century to lead India to an easy 89-run win over arch-rivals Pakistan during their ICC World Cup group stage match in Manchester on Sunday. It was always going to tough for Pakistan given their World Cup record against India which read six losses and zero wins and t</description>
+      <enclosure url="/sites/default/files/images/2019/06/17/rohit_sharma.jpg" length="0" type="image/jpeg" />
+      <media:content url="/sites/default/files/images/2019/06/17/rohit_sharma.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="/sites/default/files/images/2019/06/17/rohit_sharma.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="Rohit ton guides India to seventh straight WC win over Pakistan" /&gt;&lt;/p&gt;&lt;p&gt;Rohit Sharma scored another silky century to lead India to an easy 89-run win over arch-rivals Pakistan during their ICC World Cup group stage match in Manchester on Sunday. It was always going to tough for Pakistan given their World Cup record against India which read six losses and zero wins and t&lt;/p&gt;</description>
       <source url="https://www.tbsnews.net/sports/rohit-ton-guides-india-seventh-straight-wc-win-over-pakistan">দ্য বিজনেস স্ট্যান্ডার্ড</source>
     </item>
     <item>
@@ -92,8 +110,10 @@ Pakistan, who at one point were in the chase at 117/1, lost Babar Azam, Fakhar Z
       <link>https://www.tbsnews.net/sports/proteas-thrash-afghans-grab-first-win</link>
       <guid isPermaLink="true">https://www.tbsnews.net/sports/proteas-thrash-afghans-grab-first-win</guid>
       <pubDate>Sun, 16 Jun 2019 01:00:08 +0000</pubDate>
-      <description>South Africa finally registered their first win in the ICC Cricket World Cup 2019 by defeating Afghanistan by nine wickets in Cardiff on Saturday.
-It was not the most convincing display from the Proteas but in the end a good bowling performance led by Imran Tahir meant that victory was a forgone con</description>
+      <enclosure url="/sites/default/files/images/2019/06/16/tahir.jpg" length="0" type="image/jpeg" />
+      <media:content url="/sites/default/files/images/2019/06/16/tahir.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="/sites/default/files/images/2019/06/16/tahir.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="Proteas thrash Afghans to grab first win" /&gt;&lt;/p&gt;&lt;p&gt;South Africa finally registered their first win in the ICC Cricket World Cup 2019 by defeating Afghanistan by nine wickets in Cardiff on Saturday.
+It was not the most convincing display from the Proteas but in the end a good bowling performance led by Imran Tahir meant that victory was a forgone con&lt;/p&gt;</description>
       <source url="https://www.tbsnews.net/sports/proteas-thrash-afghans-grab-first-win">দ্য বিজনেস স্ট্যান্ডার্ড</source>
     </item>
   </channel>

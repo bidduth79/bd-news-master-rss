@@ -1,21 +1,23 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
   <channel>
     <title>BBARTA24.NET - আরএসএস ফিড</title>
     <link>https://www.bbarta24.net/</link>
     <description>BBARTA24.NET এর সর্বশেষ খবর</description>
     <language>bn</language>
-    <lastBuildDate>Sun, 08 Nov 2026 14:12:45 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 14:21:58 +0000</lastBuildDate>
     <item>
       <title>রাজধানীতে স্কুল বাসে আগুন</title>
       <link>https://www.bbarta24.net/headline-news/329934</link>
       <guid isPermaLink="true">https://www.bbarta24.net/headline-news/329934</guid>
       <pubDate>Sun, 08 Nov 2026, 20:01:03</pubDate>
-      <description>রাজধানীর ভাটারায় সড়কের পাশে দাঁড়িয়ে থাকা জলসিঁড়ি ক্যান্টনমেন্ট স্কুলের একটি বাসে আগুন দেওয়া হয়েছে।
+      <enclosure url="https://img.bbarta24.net/resize/600x400x0/assets/news_photos/2026/11/08/image-329934.jpg" length="0" type="image/jpeg" />
+      <media:content url="https://img.bbarta24.net/resize/600x400x0/assets/news_photos/2026/11/08/image-329934.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://img.bbarta24.net/resize/600x400x0/assets/news_photos/2026/11/08/image-329934.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="রাজধানীতে স্কুল বাসে আগুন" /&gt;&lt;/p&gt;&lt;p&gt;রাজধানীর ভাটারায় সড়কের পাশে দাঁড়িয়ে থাকা জলসিঁড়ি ক্যান্টনমেন্ট স্কুলের একটি বাসে আগুন দেওয়া হয়েছে।
 
 রবিবার (৮ নভেম্বর) সন্ধ্যা সাড়ে ৬টার দিকে বাসটিতে আগুন লাগার খবর পায় ভাটারা থানা পুলিশ।
 
-প্রত্যক্ষদর্শীরা জানিয়েছেন, সন্ধ্যার দিকে জলসিড়ি ক্যান্টনমেন্ট স্কুল অ্যান্ড...</description>
+প্রত্যক্ষদর্শীরা জানিয়েছেন, সন্ধ্যার দিকে জলসিড়ি ক্যান্টনমেন্ট স্কুল অ্যান্ড...&lt;/p&gt;</description>
       <source url="https://www.bbarta24.net/headline-news/329934">BBARTA24.NET</source>
     </item>
     <item>
@@ -23,9 +25,11 @@
       <link>https://www.bbarta24.net/whole-country/329933</link>
       <guid isPermaLink="true">https://www.bbarta24.net/whole-country/329933</guid>
       <pubDate>Sun, 08 Nov 2026, 20:00:26</pubDate>
-      <description>সিলেটের সীমান্তবর্তী কানাইঘাট ও জৈন্তাপুর উপজেলায় চোরাচালানবিরোধী অভিযান চালিয়ে মদসহ বিপুল পরিমাণ ভারতীয় পণ্য জব্দ করেছে ১৯ বিজিবি।
+      <enclosure url="https://img.bbarta24.net/resize/600x400x0/assets/news_photos/2026/11/08/image-329933.jpg" length="0" type="image/jpeg" />
+      <media:content url="https://img.bbarta24.net/resize/600x400x0/assets/news_photos/2026/11/08/image-329933.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://img.bbarta24.net/resize/600x400x0/assets/news_photos/2026/11/08/image-329933.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="সিলেট সীমান্তে মদসহ ৪২ লাখ টাকার পণ্য জব্দ" /&gt;&lt;/p&gt;&lt;p&gt;সিলেটের সীমান্তবর্তী কানাইঘাট ও জৈন্তাপুর উপজেলায় চোরাচালানবিরোধী অভিযান চালিয়ে মদসহ বিপুল পরিমাণ ভারতীয় পণ্য জব্দ করেছে ১৯ বিজিবি।
 
-জিবি সূত্র জানায়, ৭ নভেম্বর গোপন সংবাদের ভিত্তিতে সোনারখেওর বিওপির একটি বিশেষ টহলদল কানাইঘাট উপজেলার আমবাগান এলাকায় অভিযান...</description>
+জিবি সূত্র জানায়, ৭ নভেম্বর গোপন সংবাদের ভিত্তিতে সোনারখেওর বিওপির একটি বিশেষ টহলদল কানাইঘাট উপজেলার আমবাগান এলাকায় অভিযান...&lt;/p&gt;</description>
       <source url="https://www.bbarta24.net/whole-country/329933">BBARTA24.NET</source>
     </item>
     <item>
@@ -33,11 +37,13 @@
       <link>https://www.bbarta24.net/whole-country/329932</link>
       <guid isPermaLink="true">https://www.bbarta24.net/whole-country/329932</guid>
       <pubDate>Sun, 08 Nov 2026, 19:47:58</pubDate>
-      <description>বান্দরবান পৌরসভার একটি পাহাড়ি ঝিরি থেকে মো. শরিফ নামে এক যুবদল নেতার রক্তাক্ত মরদেহ উদ্ধার করেছে পুলিশ।
+      <enclosure url="https://img.bbarta24.net/resize/600x400x0/assets/news_photos/2026/11/08/image-329932.jpg" length="0" type="image/jpeg" />
+      <media:content url="https://img.bbarta24.net/resize/600x400x0/assets/news_photos/2026/11/08/image-329932.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://img.bbarta24.net/resize/600x400x0/assets/news_photos/2026/11/08/image-329932.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="বান্দরবানে ঝিরি থেকে যুবদল নেতার রক্তাক্ত মরদেহ উদ্ধার" /&gt;&lt;/p&gt;&lt;p&gt;বান্দরবান পৌরসভার একটি পাহাড়ি ঝিরি থেকে মো. শরিফ নামে এক যুবদল নেতার রক্তাক্ত মরদেহ উদ্ধার করেছে পুলিশ।
 
 রবিবার (৮ নভেম্বর) সকালে পৌরসভার কসাইপাড়া এলাকার মানুর ঝিরি থেকে তাঁর মরদেহ উদ্ধার করা হয়।
 
-নিহত মো. শরিফ বান্দরবান পৌরসভার...</description>
+নিহত মো. শরিফ বান্দরবান পৌরসভার...&lt;/p&gt;</description>
       <source url="https://www.bbarta24.net/whole-country/329932">BBARTA24.NET</source>
     </item>
     <item>
@@ -45,9 +51,11 @@
       <link>https://www.bbarta24.net/whole-country/329931</link>
       <guid isPermaLink="true">https://www.bbarta24.net/whole-country/329931</guid>
       <pubDate>Sun, 08 Nov 2026, 19:29:39</pubDate>
-      <description>ফরিদপুরের বোয়ালমারীতে স্বামীর দ্বিতীয় বিয়ে ও ডিভোর্সের খবরে দুই সন্তানকে নিয়ে কীটনাশক পান করা আছিয়া বেগম (২৮) মারা গেছেন।
+      <enclosure url="https://img.bbarta24.net/resize/600x400x0/assets/news_photos/2026/11/08/image-329931.jpg" length="0" type="image/jpeg" />
+      <media:content url="https://img.bbarta24.net/resize/600x400x0/assets/news_photos/2026/11/08/image-329931.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://img.bbarta24.net/resize/600x400x0/assets/news_photos/2026/11/08/image-329931.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="বোয়ালমারীতে কীটনাশক পানে ছেলের পর মায়েরও মৃত্যু" /&gt;&lt;/p&gt;&lt;p&gt;ফরিদপুরের বোয়ালমারীতে স্বামীর দ্বিতীয় বিয়ে ও ডিভোর্সের খবরে দুই সন্তানকে নিয়ে কীটনাশক পান করা আছিয়া বেগম (২৮) মারা গেছেন।
 
-১৯ মাস বয়সী সন্তান জিসানের মৃত্যুর পাঁচ দিনের মাথায় রবিবার (৮ নভেম্বর) ফরিদপুর মেডিকেল কলেজ হাসপাতালে চিকিৎসাধীন...</description>
+১৯ মাস বয়সী সন্তান জিসানের মৃত্যুর পাঁচ দিনের মাথায় রবিবার (৮ নভেম্বর) ফরিদপুর মেডিকেল কলেজ হাসপাতালে চিকিৎসাধীন...&lt;/p&gt;</description>
       <source url="https://www.bbarta24.net/whole-country/329931">BBARTA24.NET</source>
     </item>
     <item>
@@ -55,7 +63,9 @@
       <link>https://www.bbarta24.net/headline-news/329930</link>
       <guid isPermaLink="true">https://www.bbarta24.net/headline-news/329930</guid>
       <pubDate>Sun, 08 Nov 2026, 18:55:02</pubDate>
-      <description>দেশে গণপিটুনির ঘটনা ও প্রাণহানির সংখ্যা উদ্বেগজনকভাবে বেড়েছে। গত অক্টোবর মাসে সারা দেশে অন্তত ৬৪টি গণপিটুনির ঘটনা ঘটেছে। এসব ঘটনায় প্রাণ হারিয়েছেন ৩২ জন এবং আহত হয়েছেন আরও ৫৪ জন। সেপ্টেম্বর মাসের তুলনায় অক্টোবরে গণপিটুনিতে...</description>
+      <enclosure url="https://img.bbarta24.net/resize/600x400x0/assets/news_photos/2026/11/08/image-329930.jpg" length="0" type="image/jpeg" />
+      <media:content url="https://img.bbarta24.net/resize/600x400x0/assets/news_photos/2026/11/08/image-329930.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://img.bbarta24.net/resize/600x400x0/assets/news_photos/2026/11/08/image-329930.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="অক্টোবরে বেড়েছে গণপিটুনি, ৩১ দিনে ৩২ জন নিহত" /&gt;&lt;/p&gt;&lt;p&gt;দেশে গণপিটুনির ঘটনা ও প্রাণহানির সংখ্যা উদ্বেগজনকভাবে বেড়েছে। গত অক্টোবর মাসে সারা দেশে অন্তত ৬৪টি গণপিটুনির ঘটনা ঘটেছে। এসব ঘটনায় প্রাণ হারিয়েছেন ৩২ জন এবং আহত হয়েছেন আরও ৫৪ জন। সেপ্টেম্বর মাসের তুলনায় অক্টোবরে গণপিটুনিতে...&lt;/p&gt;</description>
       <source url="https://www.bbarta24.net/headline-news/329930">BBARTA24.NET</source>
     </item>
     <item>
@@ -63,11 +73,13 @@
       <link>https://www.bbarta24.net/whole-country/329929</link>
       <guid isPermaLink="true">https://www.bbarta24.net/whole-country/329929</guid>
       <pubDate>Sun, 08 Nov 2026, 18:24:15</pubDate>
-      <description>সুন্দরবনের দুবলার চর এলাকায় নিখোঁজ পর্যটক রিয়াজ আহমেদের (২৭) মরদেহ উদ্ধার করা হয়েছে।
+      <enclosure url="https://img.bbarta24.net/resize/600x400x0/assets/news_photos/2026/11/08/image-329929.jpg" length="0" type="image/jpeg" />
+      <media:content url="https://img.bbarta24.net/resize/600x400x0/assets/news_photos/2026/11/08/image-329929.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://img.bbarta24.net/resize/600x400x0/assets/news_photos/2026/11/08/image-329929.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="দুবলার চরে নিখোঁজ পর্যটকের মরদেহ উদ্ধার" /&gt;&lt;/p&gt;&lt;p&gt;সুন্দরবনের দুবলার চর এলাকায় নিখোঁজ পর্যটক রিয়াজ আহমেদের (২৭) মরদেহ উদ্ধার করা হয়েছে।
 
 শনিবার (৭ নভেম্বর) রাত ১০টার দিকে আলোরকোল সি বিচ এলাকা থেকে তাঁর মরদেহ উদ্ধার করে বন বিভাগ ও কোস্ট গার্ডের সদস্যরা।
 
-সুন্দরবন পূর্ব বন...</description>
+সুন্দরবন পূর্ব বন...&lt;/p&gt;</description>
       <source url="https://www.bbarta24.net/whole-country/329929">BBARTA24.NET</source>
     </item>
     <item>
@@ -75,11 +87,13 @@
       <link>https://www.bbarta24.net/headline-news/329928</link>
       <guid isPermaLink="true">https://www.bbarta24.net/headline-news/329928</guid>
       <pubDate>Sun, 08 Nov 2026, 18:12:19</pubDate>
-      <description>সৌদি আরবের রাজধানী রিয়াদে রাষ্ট্রীয় তেল কোম্পানি সৌদি আরামকোর একটি ভবনে বিস্ফোরণের ঘটনায় ক্ষয়ক্ষতি হয়েছে।
+      <enclosure url="https://img.bbarta24.net/resize/600x400x0/assets/news_photos/2026/11/08/image-329928.jpg" length="0" type="image/jpeg" />
+      <media:content url="https://img.bbarta24.net/resize/600x400x0/assets/news_photos/2026/11/08/image-329928.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://img.bbarta24.net/resize/600x400x0/assets/news_photos/2026/11/08/image-329928.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="রিয়াদে আরামকো ভবনে বিস্ফোরণ, উড়ে গেছে জানালা" /&gt;&lt;/p&gt;&lt;p&gt;সৌদি আরবের রাজধানী রিয়াদে রাষ্ট্রীয় তেল কোম্পানি সৌদি আরামকোর একটি ভবনে বিস্ফোরণের ঘটনায় ক্ষয়ক্ষতি হয়েছে।
 
 রবিবার (৮ নভেম্বর) এ ঘটনা ঘটে। এক প্রতিবেদনে এ তথ্য জানিয়েছে বার্তা সংস্থা রয়টার্স।
 
-প্রত্যক্ষদর্শীদের বরাতে সংবাদমাধ্যমটি জানিয়েছে, কিং আবদুল্লাহ ফাইন্যান্সিয়াল ডিস্ট্রিক্টে...</description>
+প্রত্যক্ষদর্শীদের বরাতে সংবাদমাধ্যমটি জানিয়েছে, কিং আবদুল্লাহ ফাইন্যান্সিয়াল ডিস্ট্রিক্টে...&lt;/p&gt;</description>
       <source url="https://www.bbarta24.net/headline-news/329928">BBARTA24.NET</source>
     </item>
     <item>
@@ -87,9 +101,11 @@
       <link>https://www.bbarta24.net/whole-country/329927</link>
       <guid isPermaLink="true">https://www.bbarta24.net/whole-country/329927</guid>
       <pubDate>Sun, 08 Nov 2026, 17:54:44</pubDate>
-      <description>নাটোরের সিংড়া উপজেলার চকসিংড়া মহল্লায় শ্বশুরের হাতে ধর্ষণের শিকার খাদিজা আক্তার (২৫) নামের এক গৃহবধূ চিকিৎসাধীন অবস্থায় মারা গেছেন।
+      <enclosure url="https://img.bbarta24.net/resize/600x400x0/assets/news_photos/2026/11/08/image-329927.jpg" length="0" type="image/jpeg" />
+      <media:content url="https://img.bbarta24.net/resize/600x400x0/assets/news_photos/2026/11/08/image-329927.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://img.bbarta24.net/resize/600x400x0/assets/news_photos/2026/11/08/image-329927.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="সিংড়ায় গৃহবধূর আত্মহত্যা, শ্বশুরের বিরুদ্ধে ধর্ষণের অভিযোগ" /&gt;&lt;/p&gt;&lt;p&gt;নাটোরের সিংড়া উপজেলার চকসিংড়া মহল্লায় শ্বশুরের হাতে ধর্ষণের শিকার খাদিজা আক্তার (২৫) নামের এক গৃহবধূ চিকিৎসাধীন অবস্থায় মারা গেছেন।
 
-রবিবার (৮ নভেম্বর) সকালে বগুড়া শহীদ জিয়াউর রহমান মেডিকেল কলেজ (শজিমেক) হাসপাতালে চিকিৎসাধীন অবস্থায় তার মৃত্যু হয়।...</description>
+রবিবার (৮ নভেম্বর) সকালে বগুড়া শহীদ জিয়াউর রহমান মেডিকেল কলেজ (শজিমেক) হাসপাতালে চিকিৎসাধীন অবস্থায় তার মৃত্যু হয়।...&lt;/p&gt;</description>
       <source url="https://www.bbarta24.net/whole-country/329927">BBARTA24.NET</source>
     </item>
     <item>
@@ -97,9 +113,11 @@
       <link>https://www.bbarta24.net/headline-news/329926</link>
       <guid isPermaLink="true">https://www.bbarta24.net/headline-news/329926</guid>
       <pubDate>Sun, 08 Nov 2026, 17:37:47</pubDate>
-      <description>সারাদেশে ডেঙ্গু আক্রান্ত হয়ে গত ২৪ ঘণ্টায় আরও ৩ জনের মৃত্যু হয়েছে। একই সময়ে সারাদেশে ডেঙ্গু আক্রান্ত হয়ে হাসপাতালে নতুন রোগী ভর্তি হয়েছেন ২ হাজার ৩৩৩ জন।
+      <enclosure url="https://img.bbarta24.net/resize/600x400x0/assets/news_photos/2026/11/08/image-329926.jpg" length="0" type="image/jpeg" />
+      <media:content url="https://img.bbarta24.net/resize/600x400x0/assets/news_photos/2026/11/08/image-329926.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://img.bbarta24.net/resize/600x400x0/assets/news_photos/2026/11/08/image-329926.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="ডেঙ্গুতে আরও ৩ জনের মৃত্যু, হাসপাতালে ভর্তি ২৩৩৩" /&gt;&lt;/p&gt;&lt;p&gt;সারাদেশে ডেঙ্গু আক্রান্ত হয়ে গত ২৪ ঘণ্টায় আরও ৩ জনের মৃত্যু হয়েছে। একই সময়ে সারাদেশে ডেঙ্গু আক্রান্ত হয়ে হাসপাতালে নতুন রোগী ভর্তি হয়েছেন ২ হাজার ৩৩৩ জন।
 
-রবিবার (৮ নভেম্বর) স্বাস্থ্য অধিদপ্তরের হেলথ ইমার্জেন্সি অপারেশন সেন্টার...</description>
+রবিবার (৮ নভেম্বর) স্বাস্থ্য অধিদপ্তরের হেলথ ইমার্জেন্সি অপারেশন সেন্টার...&lt;/p&gt;</description>
       <source url="https://www.bbarta24.net/headline-news/329926">BBARTA24.NET</source>
     </item>
     <item>
@@ -107,9 +125,11 @@
       <link>https://www.bbarta24.net/national/329925</link>
       <guid isPermaLink="true">https://www.bbarta24.net/national/329925</guid>
       <pubDate>Sun, 08 Nov 2026, 17:33:29</pubDate>
-      <description>জাতীয় সংসদের কার্য উপদেষ্টা কমিটির পঞ্চম বৈঠক শুরু হয়েছে। স্পিকার ও কার্য উপদেষ্টা কমিটির সভাপতি হাফিজ উদ্দিন আহমদের সভাপতিত্বে বৈঠকে যোগ দিয়েছেন প্রধানমন্ত্রী তারেক রহমান।
+      <enclosure url="https://img.bbarta24.net/resize/600x400x0/assets/news_photos/2026/11/08/image-329925.jpg" length="0" type="image/jpeg" />
+      <media:content url="https://img.bbarta24.net/resize/600x400x0/assets/news_photos/2026/11/08/image-329925.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://img.bbarta24.net/resize/600x400x0/assets/news_photos/2026/11/08/image-329925.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="সংসদের কার্য উপদেষ্টা কমিটির বৈঠকে যোগ দিয়েছেন প্রধানমন্ত্রী" /&gt;&lt;/p&gt;&lt;p&gt;জাতীয় সংসদের কার্য উপদেষ্টা কমিটির পঞ্চম বৈঠক শুরু হয়েছে। স্পিকার ও কার্য উপদেষ্টা কমিটির সভাপতি হাফিজ উদ্দিন আহমদের সভাপতিত্বে বৈঠকে যোগ দিয়েছেন প্রধানমন্ত্রী তারেক রহমান।
 
-রবিবার (৮ নভেম্বর) বিকেল ৪টায় জাতীয় সংসদ ভবনের কেবিনেট কক্ষে এ...</description>
+রবিবার (৮ নভেম্বর) বিকেল ৪টায় জাতীয় সংসদ ভবনের কেবিনেট কক্ষে এ...&lt;/p&gt;</description>
       <source url="https://www.bbarta24.net/national/329925">BBARTA24.NET</source>
     </item>
     <item>
@@ -117,9 +137,11 @@
       <link>https://www.bbarta24.net/whole-country/329924</link>
       <guid isPermaLink="true">https://www.bbarta24.net/whole-country/329924</guid>
       <pubDate>Sun, 08 Nov 2026, 17:07:02</pubDate>
-      <description>রাজবাড়ীর পাংশায় সরকারবিরোধী কর্মকাণ্ড ও নাশকতার অভিযোগে ছাত্রলীগের পাঁচ সক্রিয় কর্মীকে গ্রেফতার করেছে পাংশা মডেল থানা পুলিশ।
+      <enclosure url="https://img.bbarta24.net/resize/600x400x0/assets/news_photos/2026/11/08/image-329924.jpg" length="0" type="image/jpeg" />
+      <media:content url="https://img.bbarta24.net/resize/600x400x0/assets/news_photos/2026/11/08/image-329924.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://img.bbarta24.net/resize/600x400x0/assets/news_photos/2026/11/08/image-329924.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="প্রকাশ্যে মিছিল করায় ছাত্রলীগের ৫ কর্মী গ্রেফতার" /&gt;&lt;/p&gt;&lt;p&gt;রাজবাড়ীর পাংশায় সরকারবিরোধী কর্মকাণ্ড ও নাশকতার অভিযোগে ছাত্রলীগের পাঁচ সক্রিয় কর্মীকে গ্রেফতার করেছে পাংশা মডেল থানা পুলিশ।
 
-রবিবার (৮ নভেম্বর) ভোরে ও গত শুক্রবারের বিশেষ অভিযানে তাদের গ্রেফতার করা হয়। পরে পুলিশ প্রহরায় তাদের বিজ্ঞ আদালতে...</description>
+রবিবার (৮ নভেম্বর) ভোরে ও গত শুক্রবারের বিশেষ অভিযানে তাদের গ্রেফতার করা হয়। পরে পুলিশ প্রহরায় তাদের বিজ্ঞ আদালতে...&lt;/p&gt;</description>
       <source url="https://www.bbarta24.net/whole-country/329924">BBARTA24.NET</source>
     </item>
     <item>
@@ -127,9 +149,11 @@
       <link>https://www.bbarta24.net/whole-country/329923</link>
       <guid isPermaLink="true">https://www.bbarta24.net/whole-country/329923</guid>
       <pubDate>Sun, 08 Nov 2026, 16:51:05</pubDate>
-      <description>সুন্দরবনের খালে বিষ ঢেলে মাছ নিধন আর বনরক্ষীদের ওপর দা নিয়ে হামলা, এই দুই অপরাধের পর অবশেষে আইনের জালে ধরা পড়লো বিষচক্রের ২ হোতা।
+      <enclosure url="https://img.bbarta24.net/resize/600x400x0/assets/news_photos/2026/11/08/image-329923.jpg" length="0" type="image/jpeg" />
+      <media:content url="https://img.bbarta24.net/resize/600x400x0/assets/news_photos/2026/11/08/image-329923.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://img.bbarta24.net/resize/600x400x0/assets/news_photos/2026/11/08/image-329923.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="সুন্দরবনে বনরক্ষীদের ওপর হামলা ও বিষচক্রের ২ হোতা গ্রেফতার" /&gt;&lt;/p&gt;&lt;p&gt;সুন্দরবনের খালে বিষ ঢেলে মাছ নিধন আর বনরক্ষীদের ওপর দা নিয়ে হামলা, এই দুই অপরাধের পর অবশেষে আইনের জালে ধরা পড়লো বিষচক্রের ২ হোতা।
 
-শনিবার (৭ নভেম্বর) গভীর রাতে মোংলার জয়মনি এলাকায় যৌথ অভিযান চালিয়ে তাদের...</description>
+শনিবার (৭ নভেম্বর) গভীর রাতে মোংলার জয়মনি এলাকায় যৌথ অভিযান চালিয়ে তাদের...&lt;/p&gt;</description>
       <source url="https://www.bbarta24.net/whole-country/329923">BBARTA24.NET</source>
     </item>
     <item>
@@ -137,7 +161,9 @@
       <link>https://www.bbarta24.net/headline-news/329922</link>
       <guid isPermaLink="true">https://www.bbarta24.net/headline-news/329922</guid>
       <pubDate>Sun, 08 Nov 2026, 16:42:30</pubDate>
-      <description>দেশে গত ২৪ ঘণ্টায় হামের উপসর্গ নিয়ে আরও ২ জনের মৃত্যু হয়েছে। এ নিয়ে চলতি বছরের ১৫ মার্চ থেকে এ পর্যন্ত হাম ও এর উপসর্গে মোট প্রাণহানি ১ হাজার ২৮২ জনে দাঁড়াল। এ ছাড়া গত...</description>
+      <enclosure url="https://img.bbarta24.net/resize/600x400x0/assets/news_photos/2026/11/08/image-329922.jpg" length="0" type="image/jpeg" />
+      <media:content url="https://img.bbarta24.net/resize/600x400x0/assets/news_photos/2026/11/08/image-329922.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://img.bbarta24.net/resize/600x400x0/assets/news_photos/2026/11/08/image-329922.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="হাম উপসর্গে একদিনে আরও ২ জনের মৃত্যু" /&gt;&lt;/p&gt;&lt;p&gt;দেশে গত ২৪ ঘণ্টায় হামের উপসর্গ নিয়ে আরও ২ জনের মৃত্যু হয়েছে। এ নিয়ে চলতি বছরের ১৫ মার্চ থেকে এ পর্যন্ত হাম ও এর উপসর্গে মোট প্রাণহানি ১ হাজার ২৮২ জনে দাঁড়াল। এ ছাড়া গত...&lt;/p&gt;</description>
       <source url="https://www.bbarta24.net/headline-news/329922">BBARTA24.NET</source>
     </item>
     <item>
@@ -145,9 +171,11 @@
       <link>https://www.bbarta24.net/entertainment/329921</link>
       <guid isPermaLink="true">https://www.bbarta24.net/entertainment/329921</guid>
       <pubDate>Sun, 08 Nov 2026, 16:17:51</pubDate>
-      <description>বিয়ের খবর প্রকাশ্যে এনেই আলোচনায় এসেছিলেন তরুণ সংগীতশিল্পী ও অভিনেত্রী পারশা মাহজাবিন। তবে বরের পরিচয় প্রকাশে এখনো আগ্রহী নন তিনি। বিয়ের ছবি প্রকাশ করলেও কৌশলে ফুল দিয়ে আড়াল করেছেন জীবনসঙ্গীর মুখ।
+      <enclosure url="https://img.bbarta24.net/resize/600x400x0/assets/news_photos/2026/11/08/image-329921.jpg" length="0" type="image/jpeg" />
+      <media:content url="https://img.bbarta24.net/resize/600x400x0/assets/news_photos/2026/11/08/image-329921.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://img.bbarta24.net/resize/600x400x0/assets/news_photos/2026/11/08/image-329921.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="পুরুষ ললিপপের মতো: পারশা" /&gt;&lt;/p&gt;&lt;p&gt;বিয়ের খবর প্রকাশ্যে এনেই আলোচনায় এসেছিলেন তরুণ সংগীতশিল্পী ও অভিনেত্রী পারশা মাহজাবিন। তবে বরের পরিচয় প্রকাশে এখনো আগ্রহী নন তিনি। বিয়ের ছবি প্রকাশ করলেও কৌশলে ফুল দিয়ে আড়াল করেছেন জীবনসঙ্গীর মুখ।
 
-এবার সেই রহস্য আরও বাড়িয়ে...</description>
+এবার সেই রহস্য আরও বাড়িয়ে...&lt;/p&gt;</description>
       <source url="https://www.bbarta24.net/entertainment/329921">BBARTA24.NET</source>
     </item>
     <item>
@@ -155,9 +183,11 @@
       <link>https://www.bbarta24.net/headline-news/329920</link>
       <guid isPermaLink="true">https://www.bbarta24.net/headline-news/329920</guid>
       <pubDate>Sun, 08 Nov 2026, 16:11:50</pubDate>
-      <description>সারাদেশে প্রথম ধাপে ১ হাজার ৫০টি ইউনিয়ন পরিষদে (ইউপি) নির্বাচন অনুষ্ঠিত হবে বলে জানিয়েছেন নির্বাচন কমিশনের (ইসি) সিনিয়র সচিব আখতার আহমেদ। তিনি জানান, সদর উপজেলার ইউনিয়নগুলোকে প্রথম ধাপে প্রাধান্য দেওয়া হচ্ছে।
+      <enclosure url="https://img.bbarta24.net/resize/600x400x0/assets/news_photos/2026/11/08/image-329920.jpg" length="0" type="image/jpeg" />
+      <media:content url="https://img.bbarta24.net/resize/600x400x0/assets/news_photos/2026/11/08/image-329920.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://img.bbarta24.net/resize/600x400x0/assets/news_photos/2026/11/08/image-329920.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="প্রথম ধাপে ১ হাজার ৫০ ইউনিয়ন পরিষদে ভোট : ইসি সচিব" /&gt;&lt;/p&gt;&lt;p&gt;সারাদেশে প্রথম ধাপে ১ হাজার ৫০টি ইউনিয়ন পরিষদে (ইউপি) নির্বাচন অনুষ্ঠিত হবে বলে জানিয়েছেন নির্বাচন কমিশনের (ইসি) সিনিয়র সচিব আখতার আহমেদ। তিনি জানান, সদর উপজেলার ইউনিয়নগুলোকে প্রথম ধাপে প্রাধান্য দেওয়া হচ্ছে।
 
-রবিবার (৮ নভেম্বর) নির্বাচন কমিশন...</description>
+রবিবার (৮ নভেম্বর) নির্বাচন কমিশন...&lt;/p&gt;</description>
       <source url="https://www.bbarta24.net/headline-news/329920">BBARTA24.NET</source>
     </item>
   </channel>

@@ -1,17 +1,19 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
   <channel>
     <title>BBC News - আরএসএস ফিড</title>
     <link>https://www.bbc.com</link>
     <description>BBC News এর সর্বশেষ খবর</description>
     <language>bn</language>
-    <lastBuildDate>Sun, 08 Nov 2026 14:12:46 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 14:22:00 +0000</lastBuildDate>
     <item>
       <title>King leads solemn Remembrance service at Cenotaph</title>
       <link>https://www.bbc.co.uk/news/articles/cqy8l0gyvvv2o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cqy8l0gyvvv2o?at_medium=RSS&amp;at_campaign=rss</guid>
       <pubDate>Sun, 08 Nov 2026 13:49:07 GMT</pubDate>
-      <description>Wreaths are laid as 10,000 armed forces veterans, including 12 from World War Two, pay tribute in central London.</description>
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2837/live/b99276c0-db7b-11f1-b1f1-3be4e895d0fe.jpg" length="0" type="image/jpeg" />
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2837/live/b99276c0-db7b-11f1-b1f1-3be4e895d0fe.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2837/live/b99276c0-db7b-11f1-b1f1-3be4e895d0fe.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="King leads solemn Remembrance service at Cenotaph" /&gt;&lt;/p&gt;&lt;p&gt;Wreaths are laid as 10,000 armed forces veterans, including 12 from World War Two, pay tribute in central London.&lt;/p&gt;</description>
       <source url="https://www.bbc.co.uk/news/articles/cqy8l0gyvvv2o?at_medium=RSS&amp;at_campaign=rss">BBC News</source>
     </item>
     <item>
@@ -19,7 +21,9 @@
       <link>https://www.bbc.co.uk/news/videos/cw1l307v4edlo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="true">https://www.bbc.co.uk/news/videos/cw1l307v4edlo?at_medium=RSS&amp;at_campaign=rss</guid>
       <pubDate>Sun, 08 Nov 2026 12:16:10 GMT</pubDate>
-      <description>King Charles has led the annual Remembrance Sunday commemorations, laying a wreath at the solemn ceremony held at the Cenotaph.</description>
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/24b8/live/46915d50-db7e-11f1-a701-fddedf244c16.jpg" length="0" type="image/jpeg" />
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/24b8/live/46915d50-db7e-11f1-a701-fddedf244c16.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/24b8/live/46915d50-db7e-11f1-a701-fddedf244c16.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="Watch: Royals and veterans reflect at Remembrance ceremony" /&gt;&lt;/p&gt;&lt;p&gt;King Charles has led the annual Remembrance Sunday commemorations, laying a wreath at the solemn ceremony held at the Cenotaph.&lt;/p&gt;</description>
       <source url="https://www.bbc.co.uk/news/videos/cw1l307v4edlo?at_medium=RSS&amp;at_campaign=rss">BBC News</source>
     </item>
     <item>
@@ -27,7 +31,9 @@
       <link>https://www.bbc.co.uk/news/articles/ckn9r0zd0ynwo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/ckn9r0zd0ynwo?at_medium=RSS&amp;at_campaign=rss</guid>
       <pubDate>Sun, 08 Nov 2026 13:57:43 GMT</pubDate>
-      <description>Lisa Nandy tells the BBC "many people" in the media industry have come forward to her.</description>
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/faca/live/23423a10-db77-11f1-b1f1-3be4e895d0fe.jpg" length="0" type="image/jpeg" />
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/faca/live/23423a10-db77-11f1-b1f1-3be4e895d0fe.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/faca/live/23423a10-db77-11f1-b1f1-3be4e895d0fe.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="'Time is up': Minister warns media industry to take abuse seriously in wake of Brand case" /&gt;&lt;/p&gt;&lt;p&gt;Lisa Nandy tells the BBC "many people" in the media industry have come forward to her.&lt;/p&gt;</description>
       <source url="https://www.bbc.co.uk/news/articles/ckn9r0zd0ynwo?at_medium=RSS&amp;at_campaign=rss">BBC News</source>
     </item>
     <item>
@@ -35,7 +41,9 @@
       <link>https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&amp;at_campaign=rss</guid>
       <pubDate>Sun, 08 Nov 2026 11:25:32 GMT</pubDate>
-      <description>The culture secretary confirms reports they could be in the list of platforms set to be banned next March.</description>
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1427/live/5d17fd80-db61-11f1-adda-c54f54e3ce6a.jpg" length="0" type="image/jpeg" />
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1427/live/5d17fd80-db61-11f1-adda-c54f54e3ce6a.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1427/live/5d17fd80-db61-11f1-adda-c54f54e3ce6a.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="Government 'looking seriously' at banning under-16s from Vinted and eBay" /&gt;&lt;/p&gt;&lt;p&gt;The culture secretary confirms reports they could be in the list of platforms set to be banned next March.&lt;/p&gt;</description>
       <source url="https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&amp;at_campaign=rss">BBC News</source>
     </item>
     <item>
@@ -43,7 +51,9 @@
       <link>https://www.bbc.co.uk/news/articles/c81dwllzv113o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/c81dwllzv113o?at_medium=RSS&amp;at_campaign=rss</guid>
       <pubDate>Sun, 08 Nov 2026 01:10:21 GMT</pubDate>
-      <description>Els and Jan sought medical intervention to end their lives after 50 happy years of marriage, leaving behind their only child.</description>
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0bdf/live/66ee1fc0-d90d-11f1-b441-2b33b063138f.jpg" length="0" type="image/jpeg" />
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0bdf/live/66ee1fc0-d90d-11f1-b441-2b33b063138f.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0bdf/live/66ee1fc0-d90d-11f1-b441-2b33b063138f.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="My parents chose to die together and I was left to grieve alone" /&gt;&lt;/p&gt;&lt;p&gt;Els and Jan sought medical intervention to end their lives after 50 happy years of marriage, leaving behind their only child.&lt;/p&gt;</description>
       <source url="https://www.bbc.co.uk/news/articles/c81dwllzv113o?at_medium=RSS&amp;at_campaign=rss">BBC News</source>
     </item>
     <item>
@@ -51,7 +61,9 @@
       <link>https://www.bbc.co.uk/news/articles/cm3r5gnxqz3jo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cm3r5gnxqz3jo?at_medium=RSS&amp;at_campaign=rss</guid>
       <pubDate>Sun, 08 Nov 2026 00:52:39 GMT</pubDate>
-      <description>Republicans can stick with Trumpism or chart a new path, writes BBC Washington correspondent Daniel Bush.</description>
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa4b/live/74e0bf70-dae8-11f1-93e1-3b657b665bcf.jpg" length="0" type="image/jpeg" />
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa4b/live/74e0bf70-dae8-11f1-93e1-3b657b665bcf.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa4b/live/74e0bf70-dae8-11f1-93e1-3b657b665bcf.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="The Trump coalition is shattered - what will Republicans do now?" /&gt;&lt;/p&gt;&lt;p&gt;Republicans can stick with Trumpism or chart a new path, writes BBC Washington correspondent Daniel Bush.&lt;/p&gt;</description>
       <source url="https://www.bbc.co.uk/news/articles/cm3r5gnxqz3jo?at_medium=RSS&amp;at_campaign=rss">BBC News</source>
     </item>
     <item>
@@ -59,7 +71,9 @@
       <link>https://www.bbc.co.uk/news/articles/cmvg652l927lo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cmvg652l927lo?at_medium=RSS&amp;at_campaign=rss</guid>
       <pubDate>Sat, 07 Nov 2026 23:02:35 GMT</pubDate>
-      <description>Parent company Pop Mart's revenue has fallen as appetite for the quirky collectible monsters wanes.</description>
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/79bc/live/19d4a530-d90b-11f1-93e1-3b657b665bcf.jpg" length="0" type="image/jpeg" />
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/79bc/live/19d4a530-d90b-11f1-93e1-3b657b665bcf.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/79bc/live/19d4a530-d90b-11f1-93e1-3b657b665bcf.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="Labubu hype seemed unstoppable, now the fluffy monster mania is fading" /&gt;&lt;/p&gt;&lt;p&gt;Parent company Pop Mart's revenue has fallen as appetite for the quirky collectible monsters wanes.&lt;/p&gt;</description>
       <source url="https://www.bbc.co.uk/news/articles/cmvg652l927lo?at_medium=RSS&amp;at_campaign=rss">BBC News</source>
     </item>
     <item>
@@ -67,7 +81,9 @@
       <link>https://www.bbc.co.uk/news/articles/c6rmy9jvgwleo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/c6rmy9jvgwleo?at_medium=RSS&amp;at_campaign=rss</guid>
       <pubDate>Sun, 08 Nov 2026 00:49:00 GMT</pubDate>
-      <description>The actress joins the cast of Black Doves for the second season of Netflix's spy thriller.</description>
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5088/live/40d82940-db54-11f1-a701-fddedf244c16.jpg" length="0" type="image/jpeg" />
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5088/live/40d82940-db54-11f1-a701-fddedf244c16.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5088/live/40d82940-db54-11f1-a701-fddedf244c16.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="Ambika Mod wants to change how South Asian women are seen on-screen" /&gt;&lt;/p&gt;&lt;p&gt;The actress joins the cast of Black Doves for the second season of Netflix's spy thriller.&lt;/p&gt;</description>
       <source url="https://www.bbc.co.uk/news/articles/c6rmy9jvgwleo?at_medium=RSS&amp;at_campaign=rss">BBC News</source>
     </item>
     <item>
@@ -75,7 +91,9 @@
       <link>https://www.bbc.co.uk/news/articles/cm8xznl0n1q4o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cm8xznl0n1q4o?at_medium=RSS&amp;at_campaign=rss</guid>
       <pubDate>Sun, 08 Nov 2026 00:37:45 GMT</pubDate>
-      <description>Nintendo has released its remake of what is considered one of the best games ever made - the BBC's Tom Gerken gives his verdict.</description>
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e2f/live/adc5ae70-d699-11f1-8052-913cc7942a17.jpg" length="0" type="image/jpeg" />
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e2f/live/adc5ae70-d699-11f1-8052-913cc7942a17.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e2f/live/adc5ae70-d699-11f1-8052-913cc7942a17.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="Can the Zelda remake capture the magic of the original?" /&gt;&lt;/p&gt;&lt;p&gt;Nintendo has released its remake of what is considered one of the best games ever made - the BBC's Tom Gerken gives his verdict.&lt;/p&gt;</description>
       <source url="https://www.bbc.co.uk/news/articles/cm8xznl0n1q4o?at_medium=RSS&amp;at_campaign=rss">BBC News</source>
     </item>
     <item>
@@ -83,7 +101,9 @@
       <link>https://www.bbc.co.uk/news/articles/cm87zv70jg9no?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cm87zv70jg9no?at_medium=RSS&amp;at_campaign=rss</guid>
       <pubDate>Sun, 08 Nov 2026 00:45:45 GMT</pubDate>
-      <description>The snappy, high-octane episodes - viewed on your phone - are huge in China and on the up in the UK.</description>
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b15/live/9cf3fa20-d9e1-11f1-a701-fddedf244c16.png" length="0" type="image/jpeg" />
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b15/live/9cf3fa20-d9e1-11f1-a701-fddedf244c16.png" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b15/live/9cf3fa20-d9e1-11f1-a701-fddedf244c16.png" style="max-width:100%;height:auto;margin-bottom:10px;" alt="'Soap operas on steroids': Microdramas are going mainstream" /&gt;&lt;/p&gt;&lt;p&gt;The snappy, high-octane episodes - viewed on your phone - are huge in China and on the up in the UK.&lt;/p&gt;</description>
       <source url="https://www.bbc.co.uk/news/articles/cm87zv70jg9no?at_medium=RSS&amp;at_campaign=rss">BBC News</source>
     </item>
     <item>
@@ -91,7 +111,9 @@
       <link>https://www.bbc.co.uk/news/articles/cmvg72p1zgvlo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cmvg72p1zgvlo?at_medium=RSS&amp;at_campaign=rss</guid>
       <pubDate>Sun, 08 Nov 2026 13:05:30 GMT</pubDate>
-      <description>The culture secretary says the UK rejoining the EU's study and work scheme will help honour wartime sacrifice.</description>
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d4c/live/354198e0-db64-11f1-b441-2b33b063138f.jpg" length="0" type="image/jpeg" />
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d4c/live/354198e0-db64-11f1-b441-2b33b063138f.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d4c/live/354198e0-db64-11f1-b441-2b33b063138f.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="Nandy rejects claims of politicising Remembrance Sunday after Erasmus row" /&gt;&lt;/p&gt;&lt;p&gt;The culture secretary says the UK rejoining the EU's study and work scheme will help honour wartime sacrifice.&lt;/p&gt;</description>
       <source url="https://www.bbc.co.uk/news/articles/cmvg72p1zgvlo?at_medium=RSS&amp;at_campaign=rss">BBC News</source>
     </item>
     <item>
@@ -99,7 +121,9 @@
       <link>https://www.bbc.co.uk/news/articles/cvze47p9jeexo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cvze47p9jeexo?at_medium=RSS&amp;at_campaign=rss</guid>
       <pubDate>Sun, 08 Nov 2026 00:31:53 GMT</pubDate>
-      <description>It was unclear how genuine the president's offer was, although White later said he would travel to Washington for them to meet.</description>
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8536/live/2fdfe760-dafd-11f1-b441-2b33b063138f.jpg" length="0" type="image/jpeg" />
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8536/live/2fdfe760-dafd-11f1-b441-2b33b063138f.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8536/live/2fdfe760-dafd-11f1-b441-2b33b063138f.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="Trump asks UFC boss to be White House press secretary: 'Dana, please take the job!'" /&gt;&lt;/p&gt;&lt;p&gt;It was unclear how genuine the president's offer was, although White later said he would travel to Washington for them to meet.&lt;/p&gt;</description>
       <source url="https://www.bbc.co.uk/news/articles/cvze47p9jeexo?at_medium=RSS&amp;at_campaign=rss">BBC News</source>
     </item>
     <item>
@@ -107,7 +131,9 @@
       <link>https://www.bbc.co.uk/news/articles/cq78p3mlv9rjo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cq78p3mlv9rjo?at_medium=RSS&amp;at_campaign=rss</guid>
       <pubDate>Sun, 08 Nov 2026 07:17:04 GMT</pubDate>
-      <description>Sara Payne says she found out her eight-year-old had died as it was being reported in the news.</description>
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe84/live/dfee1050-db7a-11f1-b1f1-3be4e895d0fe.jpg" length="0" type="image/jpeg" />
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe84/live/dfee1050-db7a-11f1-b1f1-3be4e895d0fe.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe84/live/dfee1050-db7a-11f1-b1f1-3be4e895d0fe.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="I won't let my daughter's killer live in my head, says Sarah Payne's mother" /&gt;&lt;/p&gt;&lt;p&gt;Sara Payne says she found out her eight-year-old had died as it was being reported in the news.&lt;/p&gt;</description>
       <source url="https://www.bbc.co.uk/news/articles/cq78p3mlv9rjo?at_medium=RSS&amp;at_campaign=rss">BBC News</source>
     </item>
     <item>
@@ -115,7 +141,9 @@
       <link>https://www.bbc.co.uk/news/articles/cm74pk1g51nko?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cm74pk1g51nko?at_medium=RSS&amp;at_campaign=rss</guid>
       <pubDate>Sun, 08 Nov 2026 00:48:59 GMT</pubDate>
-      <description>While some believe the site should be partially or completely rebuilt, others want it abandoned and all memory of its Nazi past forgotten.</description>
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d01/live/81eb37e0-d877-11f1-a701-fddedf244c16.jpg" length="0" type="image/jpeg" />
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d01/live/81eb37e0-d877-11f1-a701-fddedf244c16.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d01/live/81eb37e0-d877-11f1-a701-fddedf244c16.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="Germans wrestle with what to do with Hitler's destroyed Eagle's Nest retreat" /&gt;&lt;/p&gt;&lt;p&gt;While some believe the site should be partially or completely rebuilt, others want it abandoned and all memory of its Nazi past forgotten.&lt;/p&gt;</description>
       <source url="https://www.bbc.co.uk/news/articles/cm74pk1g51nko?at_medium=RSS&amp;at_campaign=rss">BBC News</source>
     </item>
     <item>
@@ -123,7 +151,9 @@
       <link>https://www.bbc.co.uk/news/articles/c8046kdw56e2o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/c8046kdw56e2o?at_medium=RSS&amp;at_campaign=rss</guid>
       <pubDate>Sun, 08 Nov 2026 07:04:36 GMT</pubDate>
-      <description>The dementia treatment for children is available in the US, with funding for UK children unclear.</description>
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d48b/live/91c3e9e0-faac-11f0-91f4-a739ab96be22.jpg" length="0" type="image/jpeg" />
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d48b/live/91c3e9e0-faac-11f0-91f4-a739ab96be22.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d48b/live/91c3e9e0-faac-11f0-91f4-a739ab96be22.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="There's finally a treatment for my five-year-old's dementia - but it'll cost me £3m" /&gt;&lt;/p&gt;&lt;p&gt;The dementia treatment for children is available in the US, with funding for UK children unclear.&lt;/p&gt;</description>
       <source url="https://www.bbc.co.uk/news/articles/c8046kdw56e2o?at_medium=RSS&amp;at_campaign=rss">BBC News</source>
     </item>
   </channel>

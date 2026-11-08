@@ -22,6 +22,9 @@ HEADERS = {
     'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
 }
 
+ET.register_namespace('atom', 'http://www.w3.org/2005/Atom')
+ET.register_namespace('media', 'http://search.yahoo.com/mrss/')
+
 def fetch_url(url, timeout=5):
     req = urllib.request.Request(url, headers=HEADERS)
     with urllib.request.urlopen(req, timeout=timeout, context=ctx) as resp:
@@ -39,10 +42,44 @@ def parse_rss_items(xml_str, source_name):
             title = item.findtext('title') or ''
             link = item.findtext('link') or ''
             pub_date = item.findtext('pubDate') or ''
-            desc = item.findtext('description') or ''
+            raw_desc = item.findtext('description') or ''
+            
+            # Extract image from RSS item
+            img_url = None
+            
+            # 1. Enclosure tag
+            enclosure = item.find('enclosure')
+            if enclosure is not None and enclosure.get('url'):
+                enc_url = enclosure.get('url')
+                enc_type = enclosure.get('type', '')
+                if 'image' in enc_type or any(enc_url.lower().endswith(ext) for ext in ['.jpg', '.jpeg', '.png', '.webp', '.gif']):
+                    img_url = enc_url
+            
+            # 2. Media content or thumbnail tag
+            if not img_url:
+                for child in item:
+                    if child.tag.endswith(('content', 'thumbnail')) and child.get('url'):
+                        u = child.get('url')
+                        img_url = u
+                        break
+            
+            # 3. HTML img tag inside description
+            if not img_url and raw_desc:
+                match = re.search(r'<img[^>]+src=[\'"]([^\'"]+)', raw_desc)
+                if match:
+                    img_url = match.group(1)
+                    
+            # 4. HTML img tag inside content:encoded
+            if not img_url:
+                for child in item:
+                    if 'encoded' in child.tag.lower() and child.text:
+                        match = re.search(r'<img[^>]+src=[\'"]([^\'"]+)', child.text)
+                        if match:
+                            img_url = match.group(1)
+                            break
             
             title = re.sub(r'<[^>]+>', '', title).strip()
-            desc = re.sub(r'<[^>]+>', '', desc).strip()[:300]
+            desc = re.sub(r'<[^>]+>', '', raw_desc).strip()[:300]
             
             if title and link:
                 items.append({
@@ -51,7 +88,8 @@ def parse_rss_items(xml_str, source_name):
                     'link': link.strip(),
                     'source': source_name,
                     'pubDate': pub_date or format_datetime(datetime.now(timezone.utc)),
-                    'desc': desc or title
+                    'desc': desc or title,
+                    'image': img_url.strip() if img_url else None
                 })
     except Exception:
         pass
@@ -80,13 +118,37 @@ def scrape_homepage_articles(url, source_name):
                 if full_url not in seen:
                     seen.add(full_url)
                     clean_title = text.split('schedule')[0].strip()
+                    
+                    # Extract thumbnail / featured image
+                    img_url = None
+                    img = a.find('img')
+                    if not img:
+                        container = a.find_parent(['article', 'div', 'li', 'figure', 'section'])
+                        if container:
+                            img = container.find('img')
+                    if img:
+                        src = (img.get('src') or 
+                               img.get('data-src') or 
+                               img.get('data-lazy-src') or 
+                               img.get('data-original') or 
+                               img.get('data-full-url') or '')
+                        if not src or 'data:image' in src or 'blank' in src.lower():
+                            srcset = img.get('srcset') or img.get('data-srcset')
+                            if srcset:
+                                src = srcset.split(',')[0].split(' ')[0]
+                        if src and not src.startswith('data:image'):
+                            src_lower = src.lower()
+                            if not any(bad in src_lower for bad in ['logo', 'brand', 'icon', 'advertisement', 'banner', 'avatar', 'spinner']):
+                                img_url = urllib.parse.urljoin(url, src)
+                    
                     articles.append({
                         'title': clean_title,
                         'raw_title': clean_title,
                         'link': full_url,
                         'source': source_name,
                         'pubDate': format_datetime(datetime.now(timezone.utc)),
-                        'desc': clean_title
+                        'desc': clean_title,
+                        'image': img_url
                     })
             if len(articles) >= 15:
                 break
@@ -139,7 +201,7 @@ def process_single_source(source):
     return s_id, source, items
 
 def build_feed_xml(title, link, desc, items, output_file):
-    rss = ET.Element('rss', version='2.0', attrib={'xmlns:atom': 'http://www.w3.org/2005/Atom'})
+    rss = ET.Element('rss', version='2.0')
     channel = ET.SubElement(rss, 'channel')
 
     ET.SubElement(channel, 'title').text = title
@@ -154,7 +216,21 @@ def build_feed_xml(title, link, desc, items, output_file):
         ET.SubElement(item, 'link').text = art['link']
         ET.SubElement(item, 'guid', isPermaLink='true').text = art['link']
         ET.SubElement(item, 'pubDate').text = art.get('pubDate', format_datetime(datetime.now(timezone.utc)))
-        ET.SubElement(item, 'description').text = art.get('desc', art['title'])
+        
+        desc_text = art.get('desc', art['title'])
+        image_url = art.get('image')
+        
+        if image_url:
+            # Enclosure for RSS readers
+            ET.SubElement(item, 'enclosure', url=image_url, length='0', type='image/jpeg')
+            # Media RSS content tag
+            ET.SubElement(item, '{http://search.yahoo.com/mrss/}content', url=image_url, medium='image')
+            # Rich HTML description with image preview
+            rich_desc = f'<p><img src="{image_url}" style="max-width:100%;height:auto;margin-bottom:10px;" alt="{art["title"]}" /></p><p>{desc_text}</p>'
+            ET.SubElement(item, 'description').text = rich_desc
+        else:
+            ET.SubElement(item, 'description').text = desc_text
+            
         if art.get('source'):
             ET.SubElement(item, 'source', url=art.get('link')).text = art['source']
 

@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<rss version="2.0">
   <channel>
     <title>নয়া দিগন্ত - আরএসএস ফিড</title>
     <link>https://enayadiganta.com</link>
     <description>নয়া দিগন্ত এর সর্বশেষ খবর</description>
     <language>bn</language>
-    <lastBuildDate>Sun, 08 Nov 2026 14:13:14 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 14:22:33 +0000</lastBuildDate>
     <item>
       <title>সালাহউদ্দিন মুহাম্মদ বাবর</title>
       <link>https://enayadiganta.com#</link>
       <guid isPermaLink="true">https://enayadiganta.com#</guid>
-      <pubDate>Sun, 08 Nov 2026 14:13:14 +0000</pubDate>
+      <pubDate>Sun, 08 Nov 2026 14:22:33 +0000</pubDate>
       <description>সালাহউদ্দিন মুহাম্মদ বাবর</description>
       <source url="https://enayadiganta.com#">নয়া দিগন্ত</source>
     </item>
@@ -18,7 +18,7 @@
       <title>শামসুল হুদা, এফসিএ</title>
       <link>tel:০২-৪১০৫৪৫১২</link>
       <guid isPermaLink="true">tel:০২-৪১০৫৪৫১২</guid>
-      <pubDate>Sun, 08 Nov 2026 14:13:14 +0000</pubDate>
+      <pubDate>Sun, 08 Nov 2026 14:22:33 +0000</pubDate>
       <description>শামসুল হুদা, এফসিএ</description>
       <source url="tel:০২-৪১০৫৪৫১২">নয়া দিগন্ত</source>
     </item>
@@ -26,7 +26,7 @@
       <title>দৈনিক নয়া দিগন্ত</title>
       <link>https://enayadiganta.com##</link>
       <guid isPermaLink="true">https://enayadiganta.com##</guid>
-      <pubDate>Sun, 08 Nov 2026 14:13:14 +0000</pubDate>
+      <pubDate>Sun, 08 Nov 2026 14:22:33 +0000</pubDate>
       <description>দৈনিক নয়া দিগন্ত</description>
       <source url="https://enayadiganta.com##">নয়া দিগন্ত</source>
     </item>

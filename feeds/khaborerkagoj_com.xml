@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
   <channel>
     <title>খবরের কাগজ - আরএসএস ফিড</title>
     <link>https://khaborerkagoj.com</link>
     <description>খবরের কাগজ এর সর্বশেষ খবর</description>
     <language>bn</language>
-    <lastBuildDate>Sun, 08 Nov 2026 14:13:31 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 14:23:04 +0000</lastBuildDate>
     <item>
       <title>রোববার, ০৮ নভেম্বর ২০২৬, ২৩ কার্তিক ১৪৩৩</title>
       <link>https://khaborerkagoj.com#</link>
       <guid isPermaLink="true">https://khaborerkagoj.com#</guid>
-      <pubDate>Sun, 08 Nov 2026 14:13:31 +0000</pubDate>
+      <pubDate>Sun, 08 Nov 2026 14:23:04 +0000</pubDate>
       <description>রোববার, ০৮ নভেম্বর ২০২৬, ২৩ কার্তিক ১৪৩৩</description>
       <source url="https://khaborerkagoj.com#">খবরের কাগজ</source>
     </item>
@@ -18,7 +18,7 @@
       <title>মুক্তিসংগ্রামের মার্চ</title>
       <link>https://khaborerkagoj.com/liberation-march</link>
       <guid isPermaLink="true">https://khaborerkagoj.com/liberation-march</guid>
-      <pubDate>Sun, 08 Nov 2026 14:13:31 +0000</pubDate>
+      <pubDate>Sun, 08 Nov 2026 14:23:04 +0000</pubDate>
       <description>মুক্তিসংগ্রামের মার্চ</description>
       <source url="https://khaborerkagoj.com/liberation-march">খবরের কাগজ</source>
     </item>
@@ -26,79 +26,97 @@
       <title>ঢাকা বিশ্ববিদ্যালয়ে ৭ ককটেল বিস্ফোরণ, আটক ২</title>
       <link>https://khaborerkagoj.com/campus/946796</link>
       <guid isPermaLink="true">https://khaborerkagoj.com/campus/946796</guid>
-      <pubDate>Sun, 08 Nov 2026 14:13:31 +0000</pubDate>
-      <description>ঢাকা বিশ্ববিদ্যালয়ে ৭ ককটেল বিস্ফোরণ, আটক ২</description>
+      <pubDate>Sun, 08 Nov 2026 14:23:04 +0000</pubDate>
+      <enclosure url="https://kagoj-bucket.sgp1.cdn.digitaloceanspaces.com/uploads/2026/11/08/mobile/DU-1794145141.jpg" length="0" type="image/jpeg" />
+      <media:content url="https://kagoj-bucket.sgp1.cdn.digitaloceanspaces.com/uploads/2026/11/08/mobile/DU-1794145141.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://kagoj-bucket.sgp1.cdn.digitaloceanspaces.com/uploads/2026/11/08/mobile/DU-1794145141.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="ঢাকা বিশ্ববিদ্যালয়ে ৭ ককটেল বিস্ফোরণ, আটক ২" /&gt;&lt;/p&gt;&lt;p&gt;ঢাকা বিশ্ববিদ্যালয়ে ৭ ককটেল বিস্ফোরণ, আটক ২&lt;/p&gt;</description>
       <source url="https://khaborerkagoj.com/campus/946796">খবরের কাগজ</source>
     </item>
     <item>
       <title>নারীর অর্থনৈতিক উন্নয়নে সমবায়ের ভূমিকা গুরুত্বপূর্ণ: রিজভী</title>
       <link>https://khaborerkagoj.com/politics/946793</link>
       <guid isPermaLink="true">https://khaborerkagoj.com/politics/946793</guid>
-      <pubDate>Sun, 08 Nov 2026 14:13:31 +0000</pubDate>
-      <description>নারীর অর্থনৈতিক উন্নয়নে সমবায়ের ভূমিকা গুরুত্বপূর্ণ: রিজভী</description>
+      <pubDate>Sun, 08 Nov 2026 14:23:04 +0000</pubDate>
+      <enclosure url="https://kagoj-bucket.sgp1.cdn.digitaloceanspaces.com/uploads/2026/11/08/mobile/Untitled-1-1794143420.jpg" length="0" type="image/jpeg" />
+      <media:content url="https://kagoj-bucket.sgp1.cdn.digitaloceanspaces.com/uploads/2026/11/08/mobile/Untitled-1-1794143420.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://kagoj-bucket.sgp1.cdn.digitaloceanspaces.com/uploads/2026/11/08/mobile/Untitled-1-1794143420.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="নারীর অর্থনৈতিক উন্নয়নে সমবায়ের ভূমিকা গুরুত্বপূর্ণ: রিজভী" /&gt;&lt;/p&gt;&lt;p&gt;নারীর অর্থনৈতিক উন্নয়নে সমবায়ের ভূমিকা গুরুত্বপূর্ণ: রিজভী&lt;/p&gt;</description>
       <source url="https://khaborerkagoj.com/politics/946793">খবরের কাগজ</source>
     </item>
     <item>
       <title>জামায়াতসহ ১১ দলীয় জোটের কর্মকাণ্ড স্বাধীনতা-সার্বভৌমত্বের জন্য হুমকি: রাশেদ খাঁন</title>
       <link>https://khaborerkagoj.com/politics/946795</link>
       <guid isPermaLink="true">https://khaborerkagoj.com/politics/946795</guid>
-      <pubDate>Sun, 08 Nov 2026 14:13:31 +0000</pubDate>
-      <description>জামায়াতসহ ১১ দলীয় জোটের কর্মকাণ্ড স্বাধীনতা-সার্বভৌমত্বের জন্য হুমকি: রাশেদ খাঁন</description>
+      <pubDate>Sun, 08 Nov 2026 14:23:04 +0000</pubDate>
+      <enclosure url="https://kagoj-bucket.sgp1.cdn.digitaloceanspaces.com/uploads/2026/11/08/mobile/sdwwqw-1794144584.jpg" length="0" type="image/jpeg" />
+      <media:content url="https://kagoj-bucket.sgp1.cdn.digitaloceanspaces.com/uploads/2026/11/08/mobile/sdwwqw-1794144584.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://kagoj-bucket.sgp1.cdn.digitaloceanspaces.com/uploads/2026/11/08/mobile/sdwwqw-1794144584.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="জামায়াতসহ ১১ দলীয় জোটের কর্মকাণ্ড স্বাধীনতা-সার্বভৌমত্বের জন্য হুমকি: রাশেদ খাঁন" /&gt;&lt;/p&gt;&lt;p&gt;জামায়াতসহ ১১ দলীয় জোটের কর্মকাণ্ড স্বাধীনতা-সার্বভৌমত্বের জন্য হুমকি: রাশেদ খাঁন&lt;/p&gt;</description>
       <source url="https://khaborerkagoj.com/politics/946795">খবরের কাগজ</source>
     </item>
     <item>
       <title>সরকারি শিক্ষকদের মতো একই পে স্কেল পাবেন এমপিওভুক্ত শিক্ষকরা: শিক্ষামন্ত্রী</title>
       <link>https://khaborerkagoj.com/national/946792</link>
       <guid isPermaLink="true">https://khaborerkagoj.com/national/946792</guid>
-      <pubDate>Sun, 08 Nov 2026 14:13:31 +0000</pubDate>
-      <description>সরকারি শিক্ষকদের মতো একই পে স্কেল পাবেন এমপিওভুক্ত শিক্ষকরা: শিক্ষামন্ত্রী</description>
+      <pubDate>Sun, 08 Nov 2026 14:23:04 +0000</pubDate>
+      <enclosure url="https://kagoj-bucket.sgp1.cdn.digitaloceanspaces.com/uploads/2026/11/08/mobile/AHM-1791711640-1794142573.jpg" length="0" type="image/jpeg" />
+      <media:content url="https://kagoj-bucket.sgp1.cdn.digitaloceanspaces.com/uploads/2026/11/08/mobile/AHM-1791711640-1794142573.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://kagoj-bucket.sgp1.cdn.digitaloceanspaces.com/uploads/2026/11/08/mobile/AHM-1791711640-1794142573.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="সরকারি শিক্ষকদের মতো একই পে স্কেল পাবেন এমপিওভুক্ত শিক্ষকরা: শিক্ষামন্ত্রী" /&gt;&lt;/p&gt;&lt;p&gt;সরকারি শিক্ষকদের মতো একই পে স্কেল পাবেন এমপিওভুক্ত শিক্ষকরা: শিক্ষামন্ত্রী&lt;/p&gt;</description>
       <source url="https://khaborerkagoj.com/national/946792">খবরের কাগজ</source>
     </item>
     <item>
       <title>রাজধানীতে স্কুলবাসে আগুন দিল দুর্বৃত্তরা</title>
       <link>https://khaborerkagoj.com/national/946797</link>
       <guid isPermaLink="true">https://khaborerkagoj.com/national/946797</guid>
-      <pubDate>Sun, 08 Nov 2026 14:13:31 +0000</pubDate>
-      <description>রাজধানীতে স্কুলবাসে আগুন দিল দুর্বৃত্তরা</description>
+      <pubDate>Sun, 08 Nov 2026 14:23:04 +0000</pubDate>
+      <enclosure url="https://kagoj-bucket.sgp1.cdn.digitaloceanspaces.com/uploads/2026/11/08/dasew-1794145404.jpg" length="0" type="image/jpeg" />
+      <media:content url="https://kagoj-bucket.sgp1.cdn.digitaloceanspaces.com/uploads/2026/11/08/dasew-1794145404.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://kagoj-bucket.sgp1.cdn.digitaloceanspaces.com/uploads/2026/11/08/dasew-1794145404.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="রাজধানীতে স্কুলবাসে আগুন দিল দুর্বৃত্তরা" /&gt;&lt;/p&gt;&lt;p&gt;রাজধানীতে স্কুলবাসে আগুন দিল দুর্বৃত্তরা&lt;/p&gt;</description>
       <source url="https://khaborerkagoj.com/national/946797">খবরের কাগজ</source>
     </item>
     <item>
       <title>পলাতক আসামি যদি দেশে আসতে চান, তাকে না করেছে কে: সেতুমন্ত্রী</title>
       <link>https://khaborerkagoj.com/national/946788</link>
       <guid isPermaLink="true">https://khaborerkagoj.com/national/946788</guid>
-      <pubDate>Sun, 08 Nov 2026 14:13:31 +0000</pubDate>
-      <description>পলাতক আসামি যদি দেশে আসতে চান, তাকে না করেছে কে: সেতুমন্ত্রী</description>
+      <pubDate>Sun, 08 Nov 2026 14:23:04 +0000</pubDate>
+      <enclosure url="https://kagoj-bucket.sgp1.cdn.digitaloceanspaces.com/uploads/2026/11/08/mobile/Untitled-1-1794144223.jpg" length="0" type="image/jpeg" />
+      <media:content url="https://kagoj-bucket.sgp1.cdn.digitaloceanspaces.com/uploads/2026/11/08/mobile/Untitled-1-1794144223.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://kagoj-bucket.sgp1.cdn.digitaloceanspaces.com/uploads/2026/11/08/mobile/Untitled-1-1794144223.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="পলাতক আসামি যদি দেশে আসতে চান, তাকে না করেছে কে: সেতুমন্ত্রী" /&gt;&lt;/p&gt;&lt;p&gt;পলাতক আসামি যদি দেশে আসতে চান, তাকে না করেছে কে: সেতুমন্ত্রী&lt;/p&gt;</description>
       <source url="https://khaborerkagoj.com/national/946788">খবরের কাগজ</source>
     </item>
     <item>
       <title>ডিসেম্বরের মধ্যে নতুন শিক্ষাবর্ষের বই বিতরণের নির্দেশ</title>
       <link>https://khaborerkagoj.com/national/946785</link>
       <guid isPermaLink="true">https://khaborerkagoj.com/national/946785</guid>
-      <pubDate>Sun, 08 Nov 2026 14:13:31 +0000</pubDate>
-      <description>ডিসেম্বরের মধ্যে নতুন শিক্ষাবর্ষের বই বিতরণের নির্দেশ</description>
+      <pubDate>Sun, 08 Nov 2026 14:23:04 +0000</pubDate>
+      <enclosure url="https://kagoj-bucket.sgp1.cdn.digitaloceanspaces.com/uploads/2026/11/08/mobile/17-1794140331.jpg" length="0" type="image/jpeg" />
+      <media:content url="https://kagoj-bucket.sgp1.cdn.digitaloceanspaces.com/uploads/2026/11/08/mobile/17-1794140331.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://kagoj-bucket.sgp1.cdn.digitaloceanspaces.com/uploads/2026/11/08/mobile/17-1794140331.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="ডিসেম্বরের মধ্যে নতুন শিক্ষাবর্ষের বই বিতরণের নির্দেশ" /&gt;&lt;/p&gt;&lt;p&gt;ডিসেম্বরের মধ্যে নতুন শিক্ষাবর্ষের বই বিতরণের নির্দেশ&lt;/p&gt;</description>
       <source url="https://khaborerkagoj.com/national/946785">খবরের কাগজ</source>
     </item>
     <item>
       <title>প্রথম ধাপে ১০৫০ ইউপিতে ভোট, ৬ বছরেই এনআইডি নিবন্ধন: ইসি সচিব</title>
       <link>https://khaborerkagoj.com/national/946772</link>
       <guid isPermaLink="true">https://khaborerkagoj.com/national/946772</guid>
-      <pubDate>Sun, 08 Nov 2026 14:13:31 +0000</pubDate>
-      <description>প্রথম ধাপে ১০৫০ ইউপিতে ভোট, ৬ বছরেই এনআইডি নিবন্ধন: ইসি সচিব</description>
+      <pubDate>Sun, 08 Nov 2026 14:23:04 +0000</pubDate>
+      <enclosure url="https://kagoj-bucket.sgp1.cdn.digitaloceanspaces.com/uploads/2026/11/08/mobile/sdww-1794136775.jpg" length="0" type="image/jpeg" />
+      <media:content url="https://kagoj-bucket.sgp1.cdn.digitaloceanspaces.com/uploads/2026/11/08/mobile/sdww-1794136775.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://kagoj-bucket.sgp1.cdn.digitaloceanspaces.com/uploads/2026/11/08/mobile/sdww-1794136775.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="প্রথম ধাপে ১০৫০ ইউপিতে ভোট, ৬ বছরেই এনআইডি নিবন্ধন: ইসি সচিব" /&gt;&lt;/p&gt;&lt;p&gt;প্রথম ধাপে ১০৫০ ইউপিতে ভোট, ৬ বছরেই এনআইডি নিবন্ধন: ইসি সচিব&lt;/p&gt;</description>
       <source url="https://khaborerkagoj.com/national/946772">খবরের কাগজ</source>
     </item>
     <item>
       <title>বন্দরের অর্থ সরকারি ব্যাংকে রাখার সুপারিশ সংসদীয় কমিটির</title>
       <link>https://khaborerkagoj.com/national/946787</link>
       <guid isPermaLink="true">https://khaborerkagoj.com/national/946787</guid>
-      <pubDate>Sun, 08 Nov 2026 14:13:31 +0000</pubDate>
-      <description>বন্দরের অর্থ সরকারি ব্যাংকে রাখার সুপারিশ সংসদীয় কমিটির</description>
+      <pubDate>Sun, 08 Nov 2026 14:23:04 +0000</pubDate>
+      <enclosure url="https://kagoj-bucket.sgp1.cdn.digitaloceanspaces.com/uploads/2026/11/08/mobile/18-1794141462.jpg" length="0" type="image/jpeg" />
+      <media:content url="https://kagoj-bucket.sgp1.cdn.digitaloceanspaces.com/uploads/2026/11/08/mobile/18-1794141462.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://kagoj-bucket.sgp1.cdn.digitaloceanspaces.com/uploads/2026/11/08/mobile/18-1794141462.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="বন্দরের অর্থ সরকারি ব্যাংকে রাখার সুপারিশ সংসদীয় কমিটির" /&gt;&lt;/p&gt;&lt;p&gt;বন্দরের অর্থ সরকারি ব্যাংকে রাখার সুপারিশ সংসদীয় কমিটির&lt;/p&gt;</description>
       <source url="https://khaborerkagoj.com/national/946787">খবরের কাগজ</source>
     </item>
     <item>
       <title>সন্তান না হওয়ায় ৭ বছরের সংসার ছাড়লেন স্বামী, পা জড়িয়ে কাঁদলেন স্ত্রী</title>
       <link>https://khaborerkagoj.com/videos/4854</link>
       <guid isPermaLink="true">https://khaborerkagoj.com/videos/4854</guid>
-      <pubDate>Sun, 08 Nov 2026 14:13:31 +0000</pubDate>
+      <pubDate>Sun, 08 Nov 2026 14:23:04 +0000</pubDate>
       <description>সন্তান না হওয়ায় ৭ বছরের সংসার ছাড়লেন স্বামী, পা জড়িয়ে কাঁদলেন স্ত্রী</description>
       <source url="https://khaborerkagoj.com/videos/4854">খবরের কাগজ</source>
     </item>
@@ -106,7 +124,7 @@
       <title>আমি জিতলে বাংলাদেশ জিতে যাবে: সামিরা খান মাহি</title>
       <link>https://khaborerkagoj.com/videos/4853</link>
       <guid isPermaLink="true">https://khaborerkagoj.com/videos/4853</guid>
-      <pubDate>Sun, 08 Nov 2026 14:13:31 +0000</pubDate>
+      <pubDate>Sun, 08 Nov 2026 14:23:04 +0000</pubDate>
       <description>আমি জিতলে বাংলাদেশ জিতে যাবে: সামিরা খান মাহি</description>
       <source url="https://khaborerkagoj.com/videos/4853">খবরের কাগজ</source>
     </item>
@@ -114,7 +132,7 @@
       <title>নিউজিল্যান্ডের উপকূলে আটকে পড়ে ৪৩ পাইলট হোয়েলের মৃ/ত্যু, ব্যর্থ হলো উদ্ধারকর্মী</title>
       <link>https://khaborerkagoj.com/videos/4852</link>
       <guid isPermaLink="true">https://khaborerkagoj.com/videos/4852</guid>
-      <pubDate>Sun, 08 Nov 2026 14:13:31 +0000</pubDate>
+      <pubDate>Sun, 08 Nov 2026 14:23:04 +0000</pubDate>
       <description>নিউজিল্যান্ডের উপকূলে আটকে পড়ে ৪৩ পাইলট হোয়েলের মৃ/ত্যু, ব্যর্থ হলো উদ্ধারকর্মী</description>
       <source url="https://khaborerkagoj.com/videos/4852">খবরের কাগজ</source>
     </item>
@@ -122,7 +140,7 @@
       <title>প্রাথমিকের শিক্ষার্থীদের এনআইডি দেওয়ার পরিকল্পনা ইসির</title>
       <link>https://khaborerkagoj.com/videos/4851</link>
       <guid isPermaLink="true">https://khaborerkagoj.com/videos/4851</guid>
-      <pubDate>Sun, 08 Nov 2026 14:13:31 +0000</pubDate>
+      <pubDate>Sun, 08 Nov 2026 14:23:04 +0000</pubDate>
       <description>প্রাথমিকের শিক্ষার্থীদের এনআইডি দেওয়ার পরিকল্পনা ইসির</description>
       <source url="https://khaborerkagoj.com/videos/4851">খবরের কাগজ</source>
     </item>

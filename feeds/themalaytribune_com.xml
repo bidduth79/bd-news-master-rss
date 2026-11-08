@@ -1,17 +1,19 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
   <channel>
     <title>Malay Tribune - আরএসএস ফিড</title>
     <link>https://themalaytribune.com</link>
     <description>Malay Tribune এর সর্বশেষ খবর</description>
     <language>bn</language>
-    <lastBuildDate>Sun, 08 Nov 2026 14:14:04 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 14:23:31 +0000</lastBuildDate>
     <item>
       <title>Dari Pasar Tamu Ke Kokpit Airbus, Kisah Inspirasi Suriati Sukardi Kejar Impian</title>
       <link>https://themalaytribune.com/dari-pasar-tamu-ke-kokpit-airbus-kisah-inspirasi-suriati-sukardi-kejar-impian/</link>
       <guid isPermaLink="true">https://themalaytribune.com/dari-pasar-tamu-ke-kokpit-airbus-kisah-inspirasi-suriati-sukardi-kejar-impian/</guid>
       <pubDate>Tue, 13 Oct 2026 08:40:00 +0000</pubDate>
-      <description>Siapa sangka, gadis yang dahulunya membantu ibu berniaga di kedai runcit dan pasar tamu kini berjaya menggapai impian bergelar juruterbang [&amp;#8230;]</description>
+      <enclosure url="https://cdn.hijabista.com.my/2026/10/Untitled-design-2026-10-13T163821.284.jpg.webp" length="0" type="image/jpeg" />
+      <media:content url="https://cdn.hijabista.com.my/2026/10/Untitled-design-2026-10-13T163821.284.jpg.webp" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://cdn.hijabista.com.my/2026/10/Untitled-design-2026-10-13T163821.284.jpg.webp" style="max-width:100%;height:auto;margin-bottom:10px;" alt="Dari Pasar Tamu Ke Kokpit Airbus, Kisah Inspirasi Suriati Sukardi Kejar Impian" /&gt;&lt;/p&gt;&lt;p&gt;Siapa sangka, gadis yang dahulunya membantu ibu berniaga di kedai runcit dan pasar tamu kini berjaya menggapai impian bergelar juruterbang [&amp;#8230;]&lt;/p&gt;</description>
       <source url="https://themalaytribune.com/dari-pasar-tamu-ke-kokpit-airbus-kisah-inspirasi-suriati-sukardi-kejar-impian/">Malay Tribune</source>
     </item>
     <item>
@@ -19,7 +21,9 @@
       <link>https://themalaytribune.com/amaran-awal-indonesia/</link>
       <guid isPermaLink="true">https://themalaytribune.com/amaran-awal-indonesia/</guid>
       <pubDate>Fri, 25 Sep 2026 15:35:00 +0000</pubDate>
-      <description>Jakarta: Indonesia membuka kempen Piala ASEAN FIFA 2026 dengan langkah bergaya apabila menewaskan Singapura 2-0 dalam aksi Divisyen 1 Kumpulan [&amp;#8230;]</description>
+      <enclosure url="https://assets.hmetro.com.my/images/articles/spo-indonn_HMfield_image_socialmedia.var_1790350540.jpg" length="0" type="image/jpeg" />
+      <media:content url="https://assets.hmetro.com.my/images/articles/spo-indonn_HMfield_image_socialmedia.var_1790350540.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://assets.hmetro.com.my/images/articles/spo-indonn_HMfield_image_socialmedia.var_1790350540.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="Amaran awal Indonesia" /&gt;&lt;/p&gt;&lt;p&gt;Jakarta: Indonesia membuka kempen Piala ASEAN FIFA 2026 dengan langkah bergaya apabila menewaskan Singapura 2-0 dalam aksi Divisyen 1 Kumpulan [&amp;#8230;]&lt;/p&gt;</description>
       <source url="https://themalaytribune.com/amaran-awal-indonesia/">Malay Tribune</source>
     </item>
     <item>
@@ -27,7 +31,9 @@
       <link>https://themalaytribune.com/azeem-gagahkan-diri-habiskan-final-100m-walau-kaki-kejang/</link>
       <guid isPermaLink="true">https://themalaytribune.com/azeem-gagahkan-diri-habiskan-final-100m-walau-kaki-kejang/</guid>
       <pubDate>Fri, 25 Sep 2026 14:20:00 +0000</pubDate>
-      <description>JAGUH pecut negara, Muhammad Azeem Mohd Fahmi tetap menggagahkan diri menghabiskan larian walaupun mengalami kekejangan kaki ketika final 100 meter [&amp;#8230;]</description>
+      <enclosure url="https://www.sinarharian.com.my/uploads/images/2026/09/25/3658992.webp" length="0" type="image/jpeg" />
+      <media:content url="https://www.sinarharian.com.my/uploads/images/2026/09/25/3658992.webp" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://www.sinarharian.com.my/uploads/images/2026/09/25/3658992.webp" style="max-width:100%;height:auto;margin-bottom:10px;" alt="Azeem gagahkan diri habiskan final 100m walau kaki kejang" /&gt;&lt;/p&gt;&lt;p&gt;JAGUH pecut negara, Muhammad Azeem Mohd Fahmi tetap menggagahkan diri menghabiskan larian walaupun mengalami kekejangan kaki ketika final 100 meter [&amp;#8230;]&lt;/p&gt;</description>
       <source url="https://themalaytribune.com/azeem-gagahkan-diri-habiskan-final-100m-walau-kaki-kejang/">Malay Tribune</source>
     </item>
     <item>
@@ -35,7 +41,9 @@
       <link>https://themalaytribune.com/belanjawan-2027-pm-anwar-beri-bayangan-peruntukan-usahawan-kecil-bakal-ditambah/</link>
       <guid isPermaLink="true">https://themalaytribune.com/belanjawan-2027-pm-anwar-beri-bayangan-peruntukan-usahawan-kecil-bakal-ditambah/</guid>
       <pubDate>Fri, 25 Sep 2026 14:08:00 +0000</pubDate>
-      <description>Kerajaan berhasrat menambah peruntukan untuk membantu usahawan kecil menerusi Belanjawan 2027 yang akan dibentangkan bulan depan, kata Perdana Menteri, Datuk [&amp;#8230;]</description>
+      <enclosure url="https://ohmymedia.cc/wp-content/uploads/2026/09/anwar-1.png" length="0" type="image/jpeg" />
+      <media:content url="https://ohmymedia.cc/wp-content/uploads/2026/09/anwar-1.png" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://ohmymedia.cc/wp-content/uploads/2026/09/anwar-1.png" style="max-width:100%;height:auto;margin-bottom:10px;" alt="Belanjawan 2027: PM Anwar beri bayangan peruntukan usahawan kecil bakal ditambah" /&gt;&lt;/p&gt;&lt;p&gt;Kerajaan berhasrat menambah peruntukan untuk membantu usahawan kecil menerusi Belanjawan 2027 yang akan dibentangkan bulan depan, kata Perdana Menteri, Datuk [&amp;#8230;]&lt;/p&gt;</description>
       <source url="https://themalaytribune.com/belanjawan-2027-pm-anwar-beri-bayangan-peruntukan-usahawan-kecil-bakal-ditambah/">Malay Tribune</source>
     </item>
     <item>
@@ -43,7 +51,9 @@
       <link>https://themalaytribune.com/nepal-pm-calls-glacial-collapse-floods-a-warning-to-the-world-as-he-presses-un-for-climate-support/</link>
       <guid isPermaLink="true">https://themalaytribune.com/nepal-pm-calls-glacial-collapse-floods-a-warning-to-the-world-as-he-presses-un-for-climate-support/</guid>
       <pubDate>Fri, 25 Sep 2026 13:00:00 +0000</pubDate>
-      <description>NEW YORK, Sept 25 — Nepal’s catastrophic flooding last month “was a warning to the world” about the rising dangers [&amp;#8230;]</description>
+      <enclosure url="https://www.malaymail.com/malaymail/uploads/images/2026/09/25/364525.jpg" length="0" type="image/jpeg" />
+      <media:content url="https://www.malaymail.com/malaymail/uploads/images/2026/09/25/364525.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://www.malaymail.com/malaymail/uploads/images/2026/09/25/364525.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="Nepal PM calls glacial‑collapse floods ‘a warning to the world’ as he presses UN for climate support" /&gt;&lt;/p&gt;&lt;p&gt;NEW YORK, Sept 25 — Nepal’s catastrophic flooding last month “was a warning to the world” about the rising dangers [&amp;#8230;]&lt;/p&gt;</description>
       <source url="https://themalaytribune.com/nepal-pm-calls-glacial-collapse-floods-a-warning-to-the-world-as-he-presses-un-for-climate-support/">Malay Tribune</source>
     </item>
     <item>
@@ -51,7 +61,9 @@
       <link>https://themalaytribune.com/susan-sarandon-hannah-einbinder-antara-103-ditahan-bantah-netanyahu-di-new-york/</link>
       <guid isPermaLink="true">https://themalaytribune.com/susan-sarandon-hannah-einbinder-antara-103-ditahan-bantah-netanyahu-di-new-york/</guid>
       <pubDate>Fri, 25 Sep 2026 12:31:00 +0000</pubDate>
-      <description>New York: Pelakon dan pemenang anugerah, Susan Sarandon serta bintang siri Hacks, Hannah Einbinder antara puluhan penunjuk perasaan yang ditahan [&amp;#8230;]</description>
+      <enclosure url="https://assets.hmetro.com.my/images/articles/sosan_HMfield_image_socialmedia.var_1790339478.jpg" length="0" type="image/jpeg" />
+      <media:content url="https://assets.hmetro.com.my/images/articles/sosan_HMfield_image_socialmedia.var_1790339478.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://assets.hmetro.com.my/images/articles/sosan_HMfield_image_socialmedia.var_1790339478.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="Susan Sarandon, Hannah Einbinder antara 103 ditahan, bantah Netanyahu di New York" /&gt;&lt;/p&gt;&lt;p&gt;New York: Pelakon dan pemenang anugerah, Susan Sarandon serta bintang siri Hacks, Hannah Einbinder antara puluhan penunjuk perasaan yang ditahan [&amp;#8230;]&lt;/p&gt;</description>
       <source url="https://themalaytribune.com/susan-sarandon-hannah-einbinder-antara-103-ditahan-bantah-netanyahu-di-new-york/">Malay Tribune</source>
     </item>
     <item>
@@ -59,7 +71,9 @@
       <link>https://themalaytribune.com/quantexa-meraih-pengiktirafan-tertinggi-daripada-chartis-research-bagi-pemantauan-transaksi-aml-dan-dalam-risktech100/</link>
       <guid isPermaLink="true">https://themalaytribune.com/quantexa-meraih-pengiktirafan-tertinggi-daripada-chartis-research-bagi-pemantauan-transaksi-aml-dan-dalam-risktech100/</guid>
       <pubDate>Thu, 24 Sep 2026 22:43:00 +0000</pubDate>
-      <description>Perintis Kecerdasan Keputusan diiktiraf sebagai Peneraju Kategori dalam Kemas Kini Kuadran Pemantauan Transaksi AML 2026 terbitan Chartis Quantexa menduduki tempat [&amp;#8230;]</description>
+      <enclosure url="https://ml-eu.globenewswire.com/Resource/Download/66aa781f-ed10-4376-a60a-b3eee5a3f3a7" length="0" type="image/jpeg" />
+      <media:content url="https://ml-eu.globenewswire.com/Resource/Download/66aa781f-ed10-4376-a60a-b3eee5a3f3a7" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://ml-eu.globenewswire.com/Resource/Download/66aa781f-ed10-4376-a60a-b3eee5a3f3a7" style="max-width:100%;height:auto;margin-bottom:10px;" alt="Quantexa Meraih Pengiktirafan Tertinggi daripada Chartis Research bagi Pemantauan Transaksi AML dan dalam RiskTech100" /&gt;&lt;/p&gt;&lt;p&gt;Perintis Kecerdasan Keputusan diiktiraf sebagai Peneraju Kategori dalam Kemas Kini Kuadran Pemantauan Transaksi AML 2026 terbitan Chartis Quantexa menduduki tempat [&amp;#8230;]&lt;/p&gt;</description>
       <source url="https://themalaytribune.com/quantexa-meraih-pengiktirafan-tertinggi-daripada-chartis-research-bagi-pemantauan-transaksi-aml-dan-dalam-risktech100/">Malay Tribune</source>
     </item>
     <item>
@@ -67,7 +81,9 @@
       <link>https://themalaytribune.com/bebas-kesan-putih-kuning-sensasi-segar-serta-haruman-eksklusif-beri-perlindungan-hingga-72-jam-bersama-nivea-di-keretapi-sarong-2026/</link>
       <guid isPermaLink="true">https://themalaytribune.com/bebas-kesan-putih-kuning-sensasi-segar-serta-haruman-eksklusif-beri-perlindungan-hingga-72-jam-bersama-nivea-di-keretapi-sarong-2026/</guid>
       <pubDate>Thu, 24 Sep 2026 02:31:00 +0000</pubDate>
-      <description>Di khabarkan hari ini, 8 November, akan berlaku fenomena Gerhana Bulan Penuh pada kedudukan yang paling jauh dengan Bumi (apogee) [&amp;#8230;]</description>
+      <enclosure url="https://cdn.hijabista.com.my/2026/09/Hilton-98.jpg.webp" length="0" type="image/jpeg" />
+      <media:content url="https://cdn.hijabista.com.my/2026/09/Hilton-98.jpg.webp" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://cdn.hijabista.com.my/2026/09/Hilton-98.jpg.webp" style="max-width:100%;height:auto;margin-bottom:10px;" alt="Bebas Kesan Putih &amp; Kuning, Sensasi Segar Serta Haruman Eksklusif Beri Perlindungan Hingga 72 Jam Bersama NIVEA Di Keretapi Sarong 2026" /&gt;&lt;/p&gt;&lt;p&gt;Di khabarkan hari ini, 8 November, akan berlaku fenomena Gerhana Bulan Penuh pada kedudukan yang paling jauh dengan Bumi (apogee) [&amp;#8230;]&lt;/p&gt;</description>
       <source url="https://themalaytribune.com/bebas-kesan-putih-kuning-sensasi-segar-serta-haruman-eksklusif-beri-perlindungan-hingga-72-jam-bersama-nivea-di-keretapi-sarong-2026/">Malay Tribune</source>
     </item>
     <item>
