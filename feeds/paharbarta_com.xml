@@ -1,110 +1,130 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+<rss version="2.0">
   <channel>
     <title>পাহাড়বার্তা - আরএসএস ফিড</title>
     <link>https://paharbarta.com</link>
     <description>পাহাড়বার্তা এর সর্বশেষ খবর</description>
     <language>bn</language>
-    <lastBuildDate>Sun, 08 Nov 2026 14:37:37 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 19:26:26 +0000</lastBuildDate>
     <item>
-      <title>চিম্বুক পাহাড়ে পরিচ্ছন্নতা অভিযান, ম্রো পাড়ায় পানি সরবরাহের আশ্বাস পার্বত্য মন্ত্রীর</title>
+      <title>পাহাড়বার্তা পরিবার</title>
+      <link>https://paharbarta.com/family/</link>
+      <guid isPermaLink="true">https://paharbarta.com/family/</guid>
+      <pubDate>Sun, 08 Nov 2026 19:26:26 +0000</pubDate>
+      <description>পাহাড়বার্তা পরিবার</description>
+      <source url="https://paharbarta.com/family/">পাহাড়বার্তা</source>
+    </item>
+    <item>
+      <title>গুরুত্বপূর্ণ লিংক</title>
+      <link>https://paharbarta.com/chtlinks/</link>
+      <guid isPermaLink="true">https://paharbarta.com/chtlinks/</guid>
+      <pubDate>Sun, 08 Nov 2026 19:26:26 +0000</pubDate>
+      <description>গুরুত্বপূর্ণ লিংক</description>
+      <source url="https://paharbarta.com/chtlinks/">পাহাড়বার্তা</source>
+    </item>
+    <item>
+      <title>বান্দরবানে পৌর যুবদল নেতার লাশ উদ্ধার</title>
+      <link>https://paharbarta.com/%e0%a6%ac%e0%a6%be%e0%a6%a8%e0%a7%8d%e0%a6%a6%e0%a6%b0%e0%a6%ac%e0%a6%be%e0%a6%a8%e0%a7%87-%e0%a6%aa%e0%a7%8c%e0%a6%b0-%e0%a6%af%e0%a7%81%e0%a6%ac%e0%a6%a6%e0%a6%b2-%e0%a6%a8%e0%a7%87%e0%a6%a4/</link>
+      <guid isPermaLink="true">https://paharbarta.com/%e0%a6%ac%e0%a6%be%e0%a6%a8%e0%a7%8d%e0%a6%a6%e0%a6%b0%e0%a6%ac%e0%a6%be%e0%a6%a8%e0%a7%87-%e0%a6%aa%e0%a7%8c%e0%a6%b0-%e0%a6%af%e0%a7%81%e0%a6%ac%e0%a6%a6%e0%a6%b2-%e0%a6%a8%e0%a7%87%e0%a6%a4/</guid>
+      <pubDate>Sun, 08 Nov 2026 19:26:26 +0000</pubDate>
+      <description>বান্দরবানে পৌর যুবদল নেতার লাশ উদ্ধার</description>
+      <source url="https://paharbarta.com/%e0%a6%ac%e0%a6%be%e0%a6%a8%e0%a7%8d%e0%a6%a6%e0%a6%b0%e0%a6%ac%e0%a6%be%e0%a6%a8%e0%a7%87-%e0%a6%aa%e0%a7%8c%e0%a6%b0-%e0%a6%af%e0%a7%81%e0%a6%ac%e0%a6%a6%e0%a6%b2-%e0%a6%a8%e0%a7%87%e0%a6%a4/">পাহাড়বার্তা</source>
+    </item>
+    <item>
+      <title>খাগড়াছড়িতে অগ্নিকাণ্ডে ৯টি দোকান ভস্মীভূত</title>
+      <link>https://paharbarta.com/%e0%a6%96%e0%a6%be%e0%a6%97%e0%a6%a1%e0%a6%bc%e0%a6%be%e0%a6%9b%e0%a6%a1%e0%a6%bc%e0%a6%bf%e0%a6%a4%e0%a7%87-%e0%a6%85%e0%a6%97%e0%a7%8d%e0%a6%a8%e0%a6%bf%e0%a6%95%e0%a6%be%e0%a6%a3%e0%a7%8d%e0%a6%a1/</link>
+      <guid isPermaLink="true">https://paharbarta.com/%e0%a6%96%e0%a6%be%e0%a6%97%e0%a6%a1%e0%a6%bc%e0%a6%be%e0%a6%9b%e0%a6%a1%e0%a6%bc%e0%a6%bf%e0%a6%a4%e0%a7%87-%e0%a6%85%e0%a6%97%e0%a7%8d%e0%a6%a8%e0%a6%bf%e0%a6%95%e0%a6%be%e0%a6%a3%e0%a7%8d%e0%a6%a1/</guid>
+      <pubDate>Sun, 08 Nov 2026 19:26:26 +0000</pubDate>
+      <description>খাগড়াছড়িতে অগ্নিকাণ্ডে ৯টি দোকান ভস্মীভূত</description>
+      <source url="https://paharbarta.com/%e0%a6%96%e0%a6%be%e0%a6%97%e0%a6%a1%e0%a6%bc%e0%a6%be%e0%a6%9b%e0%a6%a1%e0%a6%bc%e0%a6%bf%e0%a6%a4%e0%a7%87-%e0%a6%85%e0%a6%97%e0%a7%8d%e0%a6%a8%e0%a6%bf%e0%a6%95%e0%a6%be%e0%a6%a3%e0%a7%8d%e0%a6%a1/">পাহাড়বার্তা</source>
+    </item>
+    <item>
+      <title>বান্দরবানে নতুন আক্রান্ত ১১জন ডেঙ্গু রোগী</title>
+      <link>https://paharbarta.com/%e0%a6%ac%e0%a6%be%e0%a6%a8%e0%a7%8d%e0%a6%a6%e0%a6%b0%e0%a6%ac%e0%a6%be%e0%a6%a8%e0%a7%87-%e0%a6%a8%e0%a6%a4%e0%a7%81%e0%a6%a8-%e0%a6%86%e0%a6%95%e0%a7%8d%e0%a6%b0%e0%a6%be%e0%a6%a8%e0%a7%8d%e0%a6%a4/</link>
+      <guid isPermaLink="true">https://paharbarta.com/%e0%a6%ac%e0%a6%be%e0%a6%a8%e0%a7%8d%e0%a6%a6%e0%a6%b0%e0%a6%ac%e0%a6%be%e0%a6%a8%e0%a7%87-%e0%a6%a8%e0%a6%a4%e0%a7%81%e0%a6%a8-%e0%a6%86%e0%a6%95%e0%a7%8d%e0%a6%b0%e0%a6%be%e0%a6%a8%e0%a7%8d%e0%a6%a4/</guid>
+      <pubDate>Sun, 08 Nov 2026 19:26:26 +0000</pubDate>
+      <description>বান্দরবানে নতুন আক্রান্ত ১১জন ডেঙ্গু রোগী</description>
+      <source url="https://paharbarta.com/%e0%a6%ac%e0%a6%be%e0%a6%a8%e0%a7%8d%e0%a6%a6%e0%a6%b0%e0%a6%ac%e0%a6%be%e0%a6%a8%e0%a7%87-%e0%a6%a8%e0%a6%a4%e0%a7%81%e0%a6%a8-%e0%a6%86%e0%a6%95%e0%a7%8d%e0%a6%b0%e0%a6%be%e0%a6%a8%e0%a7%8d%e0%a6%a4/">পাহাড়বার্তা</source>
+    </item>
+    <item>
+      <title>সড়ক দুর্ঘটনা কমাতে সম্মিলিত উদ্যোগ জরুরি : দীপেন দেওয়ান এমপি</title>
+      <link>https://paharbarta.com/%e0%a6%b8%e0%a6%a1%e0%a6%bc%e0%a6%95-%e0%a6%a6%e0%a7%81%e0%a6%b0%e0%a7%8d%e0%a6%98%e0%a6%9f%e0%a6%a8%e0%a6%be-%e0%a6%95%e0%a6%ae%e0%a6%be%e0%a6%a4%e0%a7%87-%e0%a6%b8%e0%a6%ae%e0%a7%8d%e0%a6%ae/</link>
+      <guid isPermaLink="true">https://paharbarta.com/%e0%a6%b8%e0%a6%a1%e0%a6%bc%e0%a6%95-%e0%a6%a6%e0%a7%81%e0%a6%b0%e0%a7%8d%e0%a6%98%e0%a6%9f%e0%a6%a8%e0%a6%be-%e0%a6%95%e0%a6%ae%e0%a6%be%e0%a6%a4%e0%a7%87-%e0%a6%b8%e0%a6%ae%e0%a7%8d%e0%a6%ae/</guid>
+      <pubDate>Sun, 08 Nov 2026 19:26:26 +0000</pubDate>
+      <description>সড়ক দুর্ঘটনা কমাতে সম্মিলিত উদ্যোগ জরুরি : দীপেন দেওয়ান এমপি</description>
+      <source url="https://paharbarta.com/%e0%a6%b8%e0%a6%a1%e0%a6%bc%e0%a6%95-%e0%a6%a6%e0%a7%81%e0%a6%b0%e0%a7%8d%e0%a6%98%e0%a6%9f%e0%a6%a8%e0%a6%be-%e0%a6%95%e0%a6%ae%e0%a6%be%e0%a6%a4%e0%a7%87-%e0%a6%b8%e0%a6%ae%e0%a7%8d%e0%a6%ae/">পাহাড়বার্তা</source>
+    </item>
+    <item>
+      <title>রংধনু জাতি গঠনে সবাইকে কাজ করতে হবে : বান্দরবানে সংস্কৃতি মন্ত্রী</title>
+      <link>https://paharbarta.com/%e0%a6%b0%e0%a6%82%e0%a6%a7%e0%a6%a8%e0%a7%81-%e0%a6%9c%e0%a6%be%e0%a6%a4%e0%a6%bf-%e0%a6%97%e0%a6%a0%e0%a6%a8%e0%a7%87-%e0%a6%b8%e0%a6%ac%e0%a6%be%e0%a6%87%e0%a6%95%e0%a7%87-%e0%a6%95%e0%a6%be/</link>
+      <guid isPermaLink="true">https://paharbarta.com/%e0%a6%b0%e0%a6%82%e0%a6%a7%e0%a6%a8%e0%a7%81-%e0%a6%9c%e0%a6%be%e0%a6%a4%e0%a6%bf-%e0%a6%97%e0%a6%a0%e0%a6%a8%e0%a7%87-%e0%a6%b8%e0%a6%ac%e0%a6%be%e0%a6%87%e0%a6%95%e0%a7%87-%e0%a6%95%e0%a6%be/</guid>
+      <pubDate>Sun, 08 Nov 2026 19:26:26 +0000</pubDate>
+      <description>রংধনু জাতি গঠনে সবাইকে কাজ করতে হবে : বান্দরবানে সংস্কৃতি মন্ত্রী</description>
+      <source url="https://paharbarta.com/%e0%a6%b0%e0%a6%82%e0%a6%a7%e0%a6%a8%e0%a7%81-%e0%a6%9c%e0%a6%be%e0%a6%a4%e0%a6%bf-%e0%a6%97%e0%a6%a0%e0%a6%a8%e0%a7%87-%e0%a6%b8%e0%a6%ac%e0%a6%be%e0%a6%87%e0%a6%95%e0%a7%87-%e0%a6%95%e0%a6%be/">পাহাড়বার্তা</source>
+    </item>
+    <item>
+      <title>চিম্বুক পাহাড়ে পরিচ্ছন্নতা অভিযান, ম্রো পাড়ায় পানি সরবরাহের আশ্বাস…</title>
       <link>https://paharbarta.com/%e0%a6%9a%e0%a6%bf%e0%a6%ae%e0%a7%8d%e0%a6%ac%e0%a7%81%e0%a6%95-%e0%a6%aa%e0%a6%be%e0%a6%b9%e0%a6%be%e0%a6%a1%e0%a6%bc%e0%a7%87-%e0%a6%aa%e0%a6%b0%e0%a6%bf%e0%a6%9a%e0%a7%8d%e0%a6%9b%e0%a6%a8%e0%a7%8d/</link>
       <guid isPermaLink="true">https://paharbarta.com/%e0%a6%9a%e0%a6%bf%e0%a6%ae%e0%a7%8d%e0%a6%ac%e0%a7%81%e0%a6%95-%e0%a6%aa%e0%a6%be%e0%a6%b9%e0%a6%be%e0%a6%a1%e0%a6%bc%e0%a7%87-%e0%a6%aa%e0%a6%b0%e0%a6%bf%e0%a6%9a%e0%a7%8d%e0%a6%9b%e0%a6%a8%e0%a7%8d/</guid>
-      <pubDate>Sat, 07 Nov 2026 12:16:59 +0000</pubDate>
-      <enclosure url="https://paharbarta.com/wp-content/uploads/minister-pic-1-3.jpg" length="0" type="image/jpeg" />
-      <media:content url="https://paharbarta.com/wp-content/uploads/minister-pic-1-3.jpg" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://paharbarta.com/wp-content/uploads/minister-pic-1-3.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="চিম্বুক পাহাড়ে পরিচ্ছন্নতা অভিযান, ম্রো পাড়ায় পানি সরবরাহের আশ্বাস পার্বত্য মন্ত্রীর" /&gt;&lt;/p&gt;&lt;p&gt;বাংলাদেশের সংকটময় মুহূর্তে শহীদ রাষ্ট্রপতি জিয়াউর রহমান ধূমকেতুর মতো ত্রাতার ভূমিকায় আবির্ভূত হয়েছিলেন বলে মন্তব্য করেছেন পার্বত্য চট্টগ্রাম বিষয়ক মন্ত্রণালয়ের মন্ত্রী সাচিংপ্রু জেরী। তিনি বলেন, প্রধানমন্ত্রী ৭ নভেম্বরকে রাষ্ট্রীয়ভাবে জাতীয় বিপ্লব ও সংহতি দিবস হিসেবে ঘোষণা করেছেন এবং সরকারি ছুটি নির&lt;/p&gt;</description>
+      <pubDate>Sun, 08 Nov 2026 19:26:26 +0000</pubDate>
+      <description>চিম্বুক পাহাড়ে পরিচ্ছন্নতা অভিযান, ম্রো পাড়ায় পানি সরবরাহের আশ্বাস…</description>
       <source url="https://paharbarta.com/%e0%a6%9a%e0%a6%bf%e0%a6%ae%e0%a7%8d%e0%a6%ac%e0%a7%81%e0%a6%95-%e0%a6%aa%e0%a6%be%e0%a6%b9%e0%a6%be%e0%a6%a1%e0%a6%bc%e0%a7%87-%e0%a6%aa%e0%a6%b0%e0%a6%bf%e0%a6%9a%e0%a7%8d%e0%a6%9b%e0%a6%a8%e0%a7%8d/">পাহাড়বার্তা</source>
-    </item>
-    <item>
-      <title>প্রথাগত নেতৃত্বে নতুন প্রজন্মের প্রতিনিধি : ইখিন চৌধুরীর স্বপ্ন, সংগ্রাম ও প্রত্যয়</title>
-      <link>https://paharbarta.com/%e0%a6%aa%e0%a7%8d%e0%a6%b0%e0%a6%a5%e0%a6%be%e0%a6%97%e0%a6%a4-%e0%a6%a8%e0%a7%87%e0%a6%a4%e0%a7%83%e0%a6%a4%e0%a7%8d%e0%a6%ac%e0%a7%87-%e0%a6%a8%e0%a6%a4%e0%a7%81%e0%a6%a8-%e0%a6%aa%e0%a7%8d/</link>
-      <guid isPermaLink="true">https://paharbarta.com/%e0%a6%aa%e0%a7%8d%e0%a6%b0%e0%a6%a5%e0%a6%be%e0%a6%97%e0%a6%a4-%e0%a6%a8%e0%a7%87%e0%a6%a4%e0%a7%83%e0%a6%a4%e0%a7%8d%e0%a6%ac%e0%a7%87-%e0%a6%a8%e0%a6%a4%e0%a7%81%e0%a6%a8-%e0%a6%aa%e0%a7%8d/</guid>
-      <pubDate>Sat, 07 Nov 2026 12:03:56 +0000</pubDate>
-      <enclosure url="https://paharbarta.com/wp-content/uploads/Ekhin-Chy-4.jpeg.jpg" length="0" type="image/jpeg" />
-      <media:content url="https://paharbarta.com/wp-content/uploads/Ekhin-Chy-4.jpeg.jpg" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://paharbarta.com/wp-content/uploads/Ekhin-Chy-4.jpeg.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="প্রথাগত নেতৃত্বে নতুন প্রজন্মের প্রতিনিধি : ইখিন চৌধুরীর স্বপ্ন, সংগ্রাম ও প্রত্যয়" /&gt;&lt;/p&gt;&lt;p&gt;পার্বত্য চট্টগ্রামের ভূমি ও বাজার ব্যবস্থাপনার রয়েছে দীর্ঘ ঐতিহাসিক প্রেক্ষাপট। ১৮৬০ সালের ২০ জুন পার্বত্য চট্টগ্রাম জেলা গঠনের মধ্য দিয়ে এ অঞ্চলে প্রথম ব্রিটিশ ভারতের প্রশাসনিক নিয়ন্ত্রণ প্রতিষ্ঠিত হয়। পরবর্তী সময়ে বিভিন্ন আইন ও বিধির ধারাবাহিকতায় ১৯০০ সালে প্রণীত হয় ‘চিটাগাং হিল ট্র্যাক্টস রেগুলেশ&lt;/p&gt;</description>
-      <source url="https://paharbarta.com/%e0%a6%aa%e0%a7%8d%e0%a6%b0%e0%a6%a5%e0%a6%be%e0%a6%97%e0%a6%a4-%e0%a6%a8%e0%a7%87%e0%a6%a4%e0%a7%83%e0%a6%a4%e0%a7%8d%e0%a6%ac%e0%a7%87-%e0%a6%a8%e0%a6%a4%e0%a7%81%e0%a6%a8-%e0%a6%aa%e0%a7%8d/">পাহাড়বার্তা</source>
-    </item>
-    <item>
-      <title>বান্দরবানের আম্রকানন গৌতম বিহারে কঠিন চীবর দানোৎসব</title>
-      <link>https://paharbarta.com/%e0%a6%ac%e0%a6%be%e0%a6%a8%e0%a7%8d%e0%a6%a6%e0%a6%b0%e0%a6%ac%e0%a6%be%e0%a6%a8%e0%a7%87%e0%a6%b0-%e0%a6%86%e0%a6%ae%e0%a7%8d%e0%a6%b0%e0%a6%95%e0%a6%be%e0%a6%a8%e0%a6%a8-%e0%a6%97%e0%a7%8c-2/</link>
-      <guid isPermaLink="true">https://paharbarta.com/%e0%a6%ac%e0%a6%be%e0%a6%a8%e0%a7%8d%e0%a6%a6%e0%a6%b0%e0%a6%ac%e0%a6%be%e0%a6%a8%e0%a7%87%e0%a6%b0-%e0%a6%86%e0%a6%ae%e0%a7%8d%e0%a6%b0%e0%a6%95%e0%a6%be%e0%a6%a8%e0%a6%a8-%e0%a6%97%e0%a7%8c-2/</guid>
-      <pubDate>Sat, 07 Nov 2026 11:56:47 +0000</pubDate>
-      <enclosure url="https://paharbarta.com/wp-content/uploads/Pic-Bandarban-Gotam-Bihar-5.jpg" length="0" type="image/jpeg" />
-      <media:content url="https://paharbarta.com/wp-content/uploads/Pic-Bandarban-Gotam-Bihar-5.jpg" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://paharbarta.com/wp-content/uploads/Pic-Bandarban-Gotam-Bihar-5.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="বান্দরবানের আম্রকানন গৌতম বিহারে কঠিন চীবর দানোৎসব" /&gt;&lt;/p&gt;&lt;p&gt;বান্দরবান সদরের কালাঘাটা বড়ুয়ার টেক আম্রকানন গৌতম বিহারে দানোত্তম শুভ কঠিন চীবর দানোৎসব উদযাপিত হয়েছে। আজ শনিবার (০৭ নভেম্বর) সকালে বান্দরবান সদরের কালাঘাটা বড়ুয়ার টেক আম্রকানন গৌতম বিহার পরিচালনা কমিটি ও দায়ক-দায়িকার আয়োজনে বিত্তহীন বড়ুয়া কল্যাণ সমিতির সহযোগিতায় দানোত্তম এই শুভ কঠিন চীবর দানোৎসব উদ&lt;/p&gt;</description>
-      <source url="https://paharbarta.com/%e0%a6%ac%e0%a6%be%e0%a6%a8%e0%a7%8d%e0%a6%a6%e0%a6%b0%e0%a6%ac%e0%a6%be%e0%a6%a8%e0%a7%87%e0%a6%b0-%e0%a6%86%e0%a6%ae%e0%a7%8d%e0%a6%b0%e0%a6%95%e0%a6%be%e0%a6%a8%e0%a6%a8-%e0%a6%97%e0%a7%8c-2/">পাহাড়বার্তা</source>
     </item>
     <item>
       <title>খাগড়াছড়িতে দাঁড়িয়ে থাকা বিআরটিসি বাসে অগ্নিসংযোগ, পুড়ে ছাই</title>
       <link>https://paharbarta.com/%e0%a6%96%e0%a6%be%e0%a6%97%e0%a6%a1%e0%a6%bc%e0%a6%be%e0%a6%9b%e0%a6%a1%e0%a6%bc%e0%a6%bf%e0%a6%a4%e0%a7%87-%e0%a6%a6%e0%a6%be%e0%a6%81%e0%a6%a1%e0%a6%bc%e0%a6%bf%e0%a6%af%e0%a6%bc%e0%a7%87-%e0%a6%a5/</link>
       <guid isPermaLink="true">https://paharbarta.com/%e0%a6%96%e0%a6%be%e0%a6%97%e0%a6%a1%e0%a6%bc%e0%a6%be%e0%a6%9b%e0%a6%a1%e0%a6%bc%e0%a6%bf%e0%a6%a4%e0%a7%87-%e0%a6%a6%e0%a6%be%e0%a6%81%e0%a6%a1%e0%a6%bc%e0%a6%bf%e0%a6%af%e0%a6%bc%e0%a7%87-%e0%a6%a5/</guid>
-      <pubDate>Sat, 07 Nov 2026 11:49:34 +0000</pubDate>
-      <enclosure url="https://paharbarta.com/wp-content/uploads/FB_IMG_1794027759198.jpg" length="0" type="image/jpeg" />
-      <media:content url="https://paharbarta.com/wp-content/uploads/FB_IMG_1794027759198.jpg" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://paharbarta.com/wp-content/uploads/FB_IMG_1794027759198.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="খাগড়াছড়িতে দাঁড়িয়ে থাকা বিআরটিসি বাসে অগ্নিসংযোগ, পুড়ে ছাই" /&gt;&lt;/p&gt;&lt;p&gt;খাগড়াছড়ি পৌর শহরের মহাজনপাড়ায় দাঁড়িয়ে থাকা বাংলাদেশ সড়ক পরিবহন করপোরেশনের (বিআরটিসি) একটি দূরপাল্লার বাসে অগ্নিকাণ্ডের ঘটনা ঘটেছে। আগুনে বাসটি সম্পূর্ণ ভস্মীভূত হয়ে গেছে। আজ ​শনিবার (৭ নভেম্বর) ভোর আনুমানিক ৪টার দিকে এ অগ্নিকাণ্ডের ঘটনা ঘটে। ​খাগড়াছড়ি ফায়ার সার্ভিস স্টেশন সূত্রে জানা যায়, ভোর ৪টা ২৫&lt;/p&gt;</description>
+      <pubDate>Sun, 08 Nov 2026 19:26:26 +0000</pubDate>
+      <description>খাগড়াছড়িতে দাঁড়িয়ে থাকা বিআরটিসি বাসে অগ্নিসংযোগ, পুড়ে ছাই</description>
       <source url="https://paharbarta.com/%e0%a6%96%e0%a6%be%e0%a6%97%e0%a6%a1%e0%a6%bc%e0%a6%be%e0%a6%9b%e0%a6%a1%e0%a6%bc%e0%a6%bf%e0%a6%a4%e0%a7%87-%e0%a6%a6%e0%a6%be%e0%a6%81%e0%a6%a1%e0%a6%bc%e0%a6%bf%e0%a6%af%e0%a6%bc%e0%a7%87-%e0%a6%a5/">পাহাড়বার্তা</source>
     </item>
     <item>
-      <title>শহীদ জিয়ার স্মৃতিবিজড়িত চিম্বুক-নীলগিরি সড়কে ম্রো তরুণদের পরিচ্ছন্নতা অভিযান</title>
+      <title>শহীদ জিয়ার স্মৃতিবিজড়িত চিম্বুক-নীলগিরি সড়কে ম্রো তরুণদের…</title>
       <link>https://paharbarta.com/%e0%a6%b6%e0%a6%b9%e0%a7%80%e0%a6%a6-%e0%a6%9c%e0%a6%bf%e0%a6%af%e0%a6%bc%e0%a6%be%e0%a6%b0-%e0%a6%b8%e0%a7%8d%e0%a6%ae%e0%a7%83%e0%a6%a4%e0%a6%bf%e0%a6%ac%e0%a6%bf%e0%a6%9c%e0%a6%a1%e0%a6%bc%e0%a6%bf/</link>
       <guid isPermaLink="true">https://paharbarta.com/%e0%a6%b6%e0%a6%b9%e0%a7%80%e0%a6%a6-%e0%a6%9c%e0%a6%bf%e0%a6%af%e0%a6%bc%e0%a6%be%e0%a6%b0-%e0%a6%b8%e0%a7%8d%e0%a6%ae%e0%a7%83%e0%a6%a4%e0%a6%bf%e0%a6%ac%e0%a6%bf%e0%a6%9c%e0%a6%a1%e0%a6%bc%e0%a6%bf/</guid>
-      <pubDate>Sat, 07 Nov 2026 11:42:18 +0000</pubDate>
-      <enclosure url="https://paharbarta.com/wp-content/uploads/1000738132.jpg" length="0" type="image/jpeg" />
-      <media:content url="https://paharbarta.com/wp-content/uploads/1000738132.jpg" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://paharbarta.com/wp-content/uploads/1000738132.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="শহীদ জিয়ার স্মৃতিবিজড়িত চিম্বুক-নীলগিরি সড়কে ম্রো তরুণদের পরিচ্ছন্নতা অভিযান" /&gt;&lt;/p&gt;&lt;p&gt;জাতীয় বিপ্লব ও সংহতি দিবস উপলক্ষে শহীদ রাষ্ট্রপতি জিয়াউর রহমানের স্মৃতিবিজড়িত বান্দরবানের চিম্বুক-নীলগিরি সড়ক পরিচ্ছন্ন ও নান্দনিক করে তুলতে শুভ পদযাত্রা ও পরিচ্ছন্নতা কর্মসূচি শুরু হয়েছে। এতে ম্রো (মুরুং) সম্প্রদায়ের কয়েকশ তরুণ-তরুণী ও নারী-পুরুষ অংশ নেন। আজ শনিবার (৭ নভেম্বর) সকাল ৭টা থেকে &lt;/p&gt;</description>
+      <pubDate>Sun, 08 Nov 2026 19:26:26 +0000</pubDate>
+      <description>শহীদ জিয়ার স্মৃতিবিজড়িত চিম্বুক-নীলগিরি সড়কে ম্রো তরুণদের…</description>
       <source url="https://paharbarta.com/%e0%a6%b6%e0%a6%b9%e0%a7%80%e0%a6%a6-%e0%a6%9c%e0%a6%bf%e0%a6%af%e0%a6%bc%e0%a6%be%e0%a6%b0-%e0%a6%b8%e0%a7%8d%e0%a6%ae%e0%a7%83%e0%a6%a4%e0%a6%bf%e0%a6%ac%e0%a6%bf%e0%a6%9c%e0%a6%a1%e0%a6%bc%e0%a6%bf/">পাহাড়বার্তা</source>
     </item>
     <item>
       <title>জাতীয় বিপ্লব ও সংহতি দিবস উপলক্ষে বান্দরবানে বিএনপির সমাবেশ</title>
       <link>https://paharbarta.com/%e0%a6%9c%e0%a6%be%e0%a6%a4%e0%a7%80%e0%a6%af%e0%a6%bc-%e0%a6%ac%e0%a6%bf%e0%a6%aa%e0%a7%8d%e0%a6%b2%e0%a6%ac-%e0%a6%93-%e0%a6%b8%e0%a6%82%e0%a6%b9%e0%a6%a4%e0%a6%bf-%e0%a6%a6%e0%a6%bf%e0%a6%ac/</link>
       <guid isPermaLink="true">https://paharbarta.com/%e0%a6%9c%e0%a6%be%e0%a6%a4%e0%a7%80%e0%a6%af%e0%a6%bc-%e0%a6%ac%e0%a6%bf%e0%a6%aa%e0%a7%8d%e0%a6%b2%e0%a6%ac-%e0%a6%93-%e0%a6%b8%e0%a6%82%e0%a6%b9%e0%a6%a4%e0%a6%bf-%e0%a6%a6%e0%a6%bf%e0%a6%ac/</guid>
-      <pubDate>Sat, 07 Nov 2026 11:36:55 +0000</pubDate>
-      <enclosure url="https://paharbarta.com/wp-content/uploads/Pic-Bandarban-Bnp-1-2.jpg" length="0" type="image/jpeg" />
-      <media:content url="https://paharbarta.com/wp-content/uploads/Pic-Bandarban-Bnp-1-2.jpg" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://paharbarta.com/wp-content/uploads/Pic-Bandarban-Bnp-1-2.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="জাতীয় বিপ্লব ও সংহতি দিবস উপলক্ষে বান্দরবানে বিএনপির সমাবেশ" /&gt;&lt;/p&gt;&lt;p&gt;ঐতিহাসিক ৭ নভেম্বর জাতীয় বিপ্লব ও সংহতি দিবস উপলক্ষে বাংলাদেশ জাতীয়তাবাদী দল বিএনপি বান্দরবান জেলা বিএনপির বর্ণাঢ্য র‌্যালী ও র‌্যালীত্তোর সমাবেশ অনুষ্ঠিত হয়েছে। আজ শনিবার (৭ নভেম্বর) বিকালে শহরের রাজার মাঠ থেকে এক বর্ণাঢ্য র‌্যালী বের হয়ে শহরের বিভিন্ন সড়ক প্রদক্ষিণ শেষে মুক্তমঞ্চে এসে সমাবেশে মিলি&lt;/p&gt;</description>
+      <pubDate>Sun, 08 Nov 2026 19:26:26 +0000</pubDate>
+      <description>জাতীয় বিপ্লব ও সংহতি দিবস উপলক্ষে বান্দরবানে বিএনপির সমাবেশ</description>
       <source url="https://paharbarta.com/%e0%a6%9c%e0%a6%be%e0%a6%a4%e0%a7%80%e0%a6%af%e0%a6%bc-%e0%a6%ac%e0%a6%bf%e0%a6%aa%e0%a7%8d%e0%a6%b2%e0%a6%ac-%e0%a6%93-%e0%a6%b8%e0%a6%82%e0%a6%b9%e0%a6%a4%e0%a6%bf-%e0%a6%a6%e0%a6%bf%e0%a6%ac/">পাহাড়বার্তা</source>
+    </item>
+    <item>
+      <title>দাবি ও সুপারিশ নিয়ে বান্দরবানে পার্বত্য চট্টগ্রাম নাগরিক পরিষদের সংবাদ সম্মেলন</title>
+      <link>https://paharbarta.com/%e0%a6%a6%e0%a6%be%e0%a6%ac%e0%a6%bf-%e0%a6%93-%e0%a6%b8%e0%a7%81%e0%a6%aa%e0%a6%be%e0%a6%b0%e0%a6%bf%e0%a6%b6-%e0%a6%a8%e0%a6%bf%e0%a6%af%e0%a6%bc%e0%a7%87-%e0%a6%ac%e0%a6%be%e0%a6%a8%e0%a7%8d/</link>
+      <guid isPermaLink="true">https://paharbarta.com/%e0%a6%a6%e0%a6%be%e0%a6%ac%e0%a6%bf-%e0%a6%93-%e0%a6%b8%e0%a7%81%e0%a6%aa%e0%a6%be%e0%a6%b0%e0%a6%bf%e0%a6%b6-%e0%a6%a8%e0%a6%bf%e0%a6%af%e0%a6%bc%e0%a7%87-%e0%a6%ac%e0%a6%be%e0%a6%a8%e0%a7%8d/</guid>
+      <pubDate>Sun, 08 Nov 2026 19:26:26 +0000</pubDate>
+      <description>দাবি ও সুপারিশ নিয়ে বান্দরবানে পার্বত্য চট্টগ্রাম নাগরিক পরিষদের সংবাদ সম্মেলন</description>
+      <source url="https://paharbarta.com/%e0%a6%a6%e0%a6%be%e0%a6%ac%e0%a6%bf-%e0%a6%93-%e0%a6%b8%e0%a7%81%e0%a6%aa%e0%a6%be%e0%a6%b0%e0%a6%bf%e0%a6%b6-%e0%a6%a8%e0%a6%bf%e0%a6%af%e0%a6%bc%e0%a7%87-%e0%a6%ac%e0%a6%be%e0%a6%a8%e0%a7%8d/">পাহাড়বার্তা</source>
+    </item>
+    <item>
+      <title>প্রথাগত নেতৃত্বে নতুন প্রজন্মের প্রতিনিধি : ইখিন চৌধুরীর স্বপ্ন, সংগ্রাম ও প্রত্যয়</title>
+      <link>https://paharbarta.com/%e0%a6%aa%e0%a7%8d%e0%a6%b0%e0%a6%a5%e0%a6%be%e0%a6%97%e0%a6%a4-%e0%a6%a8%e0%a7%87%e0%a6%a4%e0%a7%83%e0%a6%a4%e0%a7%8d%e0%a6%ac%e0%a7%87-%e0%a6%a8%e0%a6%a4%e0%a7%81%e0%a6%a8-%e0%a6%aa%e0%a7%8d/</link>
+      <guid isPermaLink="true">https://paharbarta.com/%e0%a6%aa%e0%a7%8d%e0%a6%b0%e0%a6%a5%e0%a6%be%e0%a6%97%e0%a6%a4-%e0%a6%a8%e0%a7%87%e0%a6%a4%e0%a7%83%e0%a6%a4%e0%a7%8d%e0%a6%ac%e0%a7%87-%e0%a6%a8%e0%a6%a4%e0%a7%81%e0%a6%a8-%e0%a6%aa%e0%a7%8d/</guid>
+      <pubDate>Sun, 08 Nov 2026 19:26:26 +0000</pubDate>
+      <description>প্রথাগত নেতৃত্বে নতুন প্রজন্মের প্রতিনিধি : ইখিন চৌধুরীর স্বপ্ন, সংগ্রাম ও প্রত্যয়</description>
+      <source url="https://paharbarta.com/%e0%a6%aa%e0%a7%8d%e0%a6%b0%e0%a6%a5%e0%a6%be%e0%a6%97%e0%a6%a4-%e0%a6%a8%e0%a7%87%e0%a6%a4%e0%a7%83%e0%a6%a4%e0%a7%8d%e0%a6%ac%e0%a7%87-%e0%a6%a8%e0%a6%a4%e0%a7%81%e0%a6%a8-%e0%a6%aa%e0%a7%8d/">পাহাড়বার্তা</source>
+    </item>
+    <item>
+      <title>বান্দরবানের আম্রকানন গৌতম বিহারে কঠিন চীবর দানোৎসব</title>
+      <link>https://paharbarta.com/%e0%a6%ac%e0%a6%be%e0%a6%a8%e0%a7%8d%e0%a6%a6%e0%a6%b0%e0%a6%ac%e0%a6%be%e0%a6%a8%e0%a7%87%e0%a6%b0-%e0%a6%86%e0%a6%ae%e0%a7%8d%e0%a6%b0%e0%a6%95%e0%a6%be%e0%a6%a8%e0%a6%a8-%e0%a6%97%e0%a7%8c-2/</link>
+      <guid isPermaLink="true">https://paharbarta.com/%e0%a6%ac%e0%a6%be%e0%a6%a8%e0%a7%8d%e0%a6%a6%e0%a6%b0%e0%a6%ac%e0%a6%be%e0%a6%a8%e0%a7%87%e0%a6%b0-%e0%a6%86%e0%a6%ae%e0%a7%8d%e0%a6%b0%e0%a6%95%e0%a6%be%e0%a6%a8%e0%a6%a8-%e0%a6%97%e0%a7%8c-2/</guid>
+      <pubDate>Sun, 08 Nov 2026 19:26:26 +0000</pubDate>
+      <description>বান্দরবানের আম্রকানন গৌতম বিহারে কঠিন চীবর দানোৎসব</description>
+      <source url="https://paharbarta.com/%e0%a6%ac%e0%a6%be%e0%a6%a8%e0%a7%8d%e0%a6%a6%e0%a6%b0%e0%a6%ac%e0%a6%be%e0%a6%a8%e0%a7%87%e0%a6%b0-%e0%a6%86%e0%a6%ae%e0%a7%8d%e0%a6%b0%e0%a6%95%e0%a6%be%e0%a6%a8%e0%a6%a8-%e0%a6%97%e0%a7%8c-2/">পাহাড়বার্তা</source>
     </item>
     <item>
       <title>কাপ্তাইয়ের দেবতাছড়িতে ১০ম কঠিন চীবর দানোৎসব</title>
       <link>https://paharbarta.com/%e0%a6%95%e0%a6%be%e0%a6%aa%e0%a7%8d%e0%a6%a4%e0%a6%be%e0%a6%87%e0%a6%af%e0%a6%bc%e0%a7%87%e0%a6%b0-%e0%a6%a6%e0%a7%87%e0%a6%ac%e0%a6%a4%e0%a6%be%e0%a6%9b%e0%a6%a1%e0%a6%bc%e0%a6%bf%e0%a6%a4%e0%a7%87/</link>
       <guid isPermaLink="true">https://paharbarta.com/%e0%a6%95%e0%a6%be%e0%a6%aa%e0%a7%8d%e0%a6%a4%e0%a6%be%e0%a6%87%e0%a6%af%e0%a6%bc%e0%a7%87%e0%a6%b0-%e0%a6%a6%e0%a7%87%e0%a6%ac%e0%a6%a4%e0%a6%be%e0%a6%9b%e0%a6%a1%e0%a6%bc%e0%a6%bf%e0%a6%a4%e0%a7%87/</guid>
-      <pubDate>Fri, 06 Nov 2026 12:26:29 +0000</pubDate>
-      <enclosure url="https://paharbarta.com/wp-content/uploads/287907.jpg" length="0" type="image/jpeg" />
-      <media:content url="https://paharbarta.com/wp-content/uploads/287907.jpg" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://paharbarta.com/wp-content/uploads/287907.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="কাপ্তাইয়ের দেবতাছড়িতে ১০ম কঠিন চীবর দানোৎসব" /&gt;&lt;/p&gt;&lt;p&gt;রাঙামাটির কাপ্তাই উপজেলার ওয়াগ্গা ইউনিয়নের দেবতাছড়ি মহাজন পাড়া স্বধর্ম জ্যোতি বৌদ্ধ বিহারে নানা ধর্মীয় আচার-অনুষ্ঠান ও উৎসাহ-উদ্দীপনার মধ্য দিয়ে ১০ম শুভ কঠিন চীবর দানোৎসব অনুষ্ঠিত হয়েছে। আজ শুক্রবার (৬ নভেম্বর) বিহার প্রাঙ্গণে আয়োজিত এ দানোৎসবে বৌদ্ধ ধর্মাবলম্বীদের ব্যাপক সমাগম ঘটে। অনুষ্ঠানে সভাপতি&lt;/p&gt;</description>
+      <pubDate>Sun, 08 Nov 2026 19:26:26 +0000</pubDate>
+      <description>কাপ্তাইয়ের দেবতাছড়িতে ১০ম কঠিন চীবর দানোৎসব</description>
       <source url="https://paharbarta.com/%e0%a6%95%e0%a6%be%e0%a6%aa%e0%a7%8d%e0%a6%a4%e0%a6%be%e0%a6%87%e0%a6%af%e0%a6%bc%e0%a7%87%e0%a6%b0-%e0%a6%a6%e0%a7%87%e0%a6%ac%e0%a6%a4%e0%a6%be%e0%a6%9b%e0%a6%a1%e0%a6%bc%e0%a6%bf%e0%a6%a4%e0%a7%87/">পাহাড়বার্তা</source>
-    </item>
-    <item>
-      <title>মাতৃভাষায় খ্রিষ্টধর্মের বাণী প্রচারে নতুন দিগন্ত উন্মোচন করবে আর্চবিশপলরেন্স সুব্রত হাওলাদার</title>
-      <link>https://paharbarta.com/%e0%a6%ae%e0%a6%be%e0%a6%a4%e0%a7%83%e0%a6%ad%e0%a6%be%e0%a6%b7%e0%a6%be%e0%a6%af%e0%a6%bc-%e0%a6%96%e0%a7%8d%e0%a6%b0%e0%a6%bf%e0%a6%b7%e0%a7%8d%e0%a6%9f%e0%a6%a7%e0%a6%b0%e0%a7%8d%e0%a6%ae%e0%a7%87/</link>
-      <guid isPermaLink="true">https://paharbarta.com/%e0%a6%ae%e0%a6%be%e0%a6%a4%e0%a7%83%e0%a6%ad%e0%a6%be%e0%a6%b7%e0%a6%be%e0%a6%af%e0%a6%bc-%e0%a6%96%e0%a7%8d%e0%a6%b0%e0%a6%bf%e0%a6%b7%e0%a7%8d%e0%a6%9f%e0%a6%a7%e0%a6%b0%e0%a7%8d%e0%a6%ae%e0%a7%87/</guid>
-      <pubDate>Fri, 06 Nov 2026 12:22:40 +0000</pubDate>
-      <enclosure url="https://paharbarta.com/wp-content/uploads/1000418398.jpg" length="0" type="image/jpeg" />
-      <media:content url="https://paharbarta.com/wp-content/uploads/1000418398.jpg" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://paharbarta.com/wp-content/uploads/1000418398.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="মাতৃভাষায় খ্রিষ্টধর্মের বাণী প্রচারে নতুন দিগন্ত উন্মোচন করবে আর্চবিশপলরেন্স সুব্রত হাওলাদার" /&gt;&lt;/p&gt;&lt;p&gt;দীর্ঘ ত্যাগ ও সাধনার পর বান্দরবানের দুর্গম থানচি উপজেলার ত্রিপুরা সম্প্রদায় থেকে একজন যোগ্য যাজক (ফাদার) পাওয়া পুরো অঞ্চলের জন্য বিরাট আশীর্বাদ। নব-অভিষিক্ত ফাদার ফ্রান্সিস সাধুমনির মাধ্যমে এখন থেকে বাংলা ভাষার পাশাপাশি ত্রিপুরা সম্প্রদায়ের নিজস্ব মাতৃভাষায়ও খ্রিষ্টধর্মের বাণী প্রচার ও ধর্মীয় শিক্ষা&lt;/p&gt;</description>
-      <source url="https://paharbarta.com/%e0%a6%ae%e0%a6%be%e0%a6%a4%e0%a7%83%e0%a6%ad%e0%a6%be%e0%a6%b7%e0%a6%be%e0%a6%af%e0%a6%bc-%e0%a6%96%e0%a7%8d%e0%a6%b0%e0%a6%bf%e0%a6%b7%e0%a7%8d%e0%a6%9f%e0%a6%a7%e0%a6%b0%e0%a7%8d%e0%a6%ae%e0%a7%87/">পাহাড়বার্তা</source>
-    </item>
-    <item>
-      <title>অপরুপ দীঘিনালার হাজাছড়া বিল : মন জুড়াচ্ছে দর্শণার্থীদের</title>
-      <link>https://paharbarta.com/%e0%a6%85%e0%a6%aa%e0%a6%b0%e0%a7%81%e0%a6%aa-%e0%a6%a6%e0%a7%80%e0%a6%98%e0%a6%bf%e0%a6%a8%e0%a6%be%e0%a6%b2%e0%a6%be%e0%a6%b0-%e0%a6%b9%e0%a6%be%e0%a6%9c%e0%a6%be%e0%a6%9b%e0%a6%a1%e0%a6%bc%e0%a6%be/</link>
-      <guid isPermaLink="true">https://paharbarta.com/%e0%a6%85%e0%a6%aa%e0%a6%b0%e0%a7%81%e0%a6%aa-%e0%a6%a6%e0%a7%80%e0%a6%98%e0%a6%bf%e0%a6%a8%e0%a6%be%e0%a6%b2%e0%a6%be%e0%a6%b0-%e0%a6%b9%e0%a6%be%e0%a6%9c%e0%a6%be%e0%a6%9b%e0%a6%a1%e0%a6%bc%e0%a6%be/</guid>
-      <pubDate>Fri, 06 Nov 2026 12:14:28 +0000</pubDate>
-      <enclosure url="https://paharbarta.com/wp-content/uploads/32.jpeg-3.jpg" length="0" type="image/jpeg" />
-      <media:content url="https://paharbarta.com/wp-content/uploads/32.jpeg-3.jpg" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://paharbarta.com/wp-content/uploads/32.jpeg-3.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="অপরুপ দীঘিনালার হাজাছড়া বিল : মন জুড়াচ্ছে দর্শণার্থীদের" /&gt;&lt;/p&gt;&lt;p&gt;‘শাপলা’ আমাদের জাতীয় ফুল হলেও বছরের নির্ধারিত সময় ছাড়া এই ফুলের দেখা মেলা ভার। দেশের কম বেশি সব জায়গায় এই সময়ে শাপলার দেখা মিললেও একসাথে দিগন্ত-বিস্তৃতভাবে চোখ জুড়ানো শাপলার বিল এখন খুবই বিরল। তেমনই একটি জলমগ্ন বিলে লাল শাপলার রাজ্য গড়ে উঠেছে খাগড়াছড়ির দীঘিনালা উপজেলায়। উপজেলা সদর থেকে যে কোন যানযোগ&lt;/p&gt;</description>
-      <source url="https://paharbarta.com/%e0%a6%85%e0%a6%aa%e0%a6%b0%e0%a7%81%e0%a6%aa-%e0%a6%a6%e0%a7%80%e0%a6%98%e0%a6%bf%e0%a6%a8%e0%a6%be%e0%a6%b2%e0%a6%be%e0%a6%b0-%e0%a6%b9%e0%a6%be%e0%a6%9c%e0%a6%be%e0%a6%9b%e0%a6%a1%e0%a6%bc%e0%a6%be/">পাহাড়বার্তা</source>
-    </item>
-    <item>
-      <title>জগন্নাথ মন্দিরের প্রধান পুরোহিতের চিকিৎসাধীন অবস্থায় মৃত্যু</title>
-      <link>https://paharbarta.com/%e0%a6%9c%e0%a6%97%e0%a6%a8%e0%a7%8d%e0%a6%a8%e0%a6%be%e0%a6%a5-%e0%a6%ae%e0%a6%a8%e0%a7%8d%e0%a6%a6%e0%a6%bf%e0%a6%b0%e0%a7%87%e0%a6%b0-%e0%a6%aa%e0%a7%8d%e0%a6%b0%e0%a6%a7%e0%a6%be%e0%a6%a8/</link>
-      <guid isPermaLink="true">https://paharbarta.com/%e0%a6%9c%e0%a6%97%e0%a6%a8%e0%a7%8d%e0%a6%a8%e0%a6%be%e0%a6%a5-%e0%a6%ae%e0%a6%a8%e0%a7%8d%e0%a6%a6%e0%a6%bf%e0%a6%b0%e0%a7%87%e0%a6%b0-%e0%a6%aa%e0%a7%8d%e0%a6%b0%e0%a6%a7%e0%a6%be%e0%a6%a8/</guid>
-      <pubDate>Fri, 06 Nov 2026 12:08:34 +0000</pubDate>
-      <enclosure url="https://paharbarta.com/wp-content/uploads/8237593-copy.jpg" length="0" type="image/jpeg" />
-      <media:content url="https://paharbarta.com/wp-content/uploads/8237593-copy.jpg" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://paharbarta.com/wp-content/uploads/8237593-copy.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="জগন্নাথ মন্দিরের প্রধান পুরোহিতের চিকিৎসাধীন অবস্থায় মৃত্যু" /&gt;&lt;/p&gt;&lt;p&gt;রাঙামাটির কাপ্তাই উপজেলা সদর বড়ইছড়ি শ্রীশ্রী জগন্নাথ মন্দিরের প্রধান পুরোহিত শ্রী রনধীর চক্রবর্তী (৬০) সড়ক দুর্ঘটনায় গুরুতর আহত হওয়ার পর চিকিৎসাধীন অবস্থায় মারা গেছেন। আজ শুক্রবার (৬ নভেম্বর) সকাল ১১ টায় তিনি চিকিৎসাধীন অবস্থায় চট্টগ্রাম মেডিকেল কলেজ হাসপাতালে মৃত্যু বরণ করেন। গত ১৯ অক্টোবর দুর্গা প&lt;/p&gt;</description>
-      <source url="https://paharbarta.com/%e0%a6%9c%e0%a6%97%e0%a6%a8%e0%a7%8d%e0%a6%a8%e0%a6%be%e0%a6%a5-%e0%a6%ae%e0%a6%a8%e0%a7%8d%e0%a6%a6%e0%a6%bf%e0%a6%b0%e0%a7%87%e0%a6%b0-%e0%a6%aa%e0%a7%8d%e0%a6%b0%e0%a6%a7%e0%a6%be%e0%a6%a8/">পাহাড়বার্তা</source>
     </item>
   </channel>
 </rss>
