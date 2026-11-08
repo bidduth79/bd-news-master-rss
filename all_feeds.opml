@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>Bangladesh Newspapers RSS Feeds</title>
+  </head>
+  <body>
+    <outline text="বাংলাদেশ সংবাদপত্র ও লোকাল পত্রিকা" title="বাংলাদেশ সংবাদপত্র ও লোকাল পত্রিকা">
+      <outline type="rss" text="★ মাস্টার আরএসএস ফিড (সব পত্রিকা একসাথে)" title="★ মাস্টার আরএসএস ফিড (সব পত্রিকা একসাথে)" xmlUrl="https://bidduth79.github.io/bd-news-master-rss/master_rss.xml" htmlUrl="https://bidduth79.github.io/bd-news-master-rss" />
+      <outline type="rss" text="দৈনিক আজাদী" title="দৈনিক আজাদী" xmlUrl="https://bidduth79.github.io/bd-news-master-rss/feeds/dainikazadi_net.xml" htmlUrl="https://dainikazadi.net/" />
+      <outline type="rss" text="BBC Bangla - মূলপাতা" title="BBC Bangla - মূলপাতা" xmlUrl="https://bidduth79.github.io/bd-news-master-rss/feeds/bbcbengali_com.xml" htmlUrl="https://www.bbcbengali.com/" />
+      <outline type="rss" text="দৈনিক জনকণ্ঠ || DailyJanakantha - Home" title="দৈনিক জনকণ্ঠ || DailyJanakantha - Home" xmlUrl="https://bidduth79.github.io/bd-news-master-rss/feeds/dailyjanakantha_com.xml" htmlUrl="https://www.dailyjanakantha.com/" />
+      <outline type="rss" text="বাংলা ট্রিবিউন" title="বাংলা ট্রিবিউন" xmlUrl="https://bidduth79.github.io/bd-news-master-rss/feeds/banglatribune_com.xml" htmlUrl="https://www.banglatribune.com/" />
+      <outline type="rss" text="চট্টলার খবর" title="চট্টলার খবর" xmlUrl="https://bidduth79.github.io/bd-news-master-rss/feeds/chattolarkhabor_com.xml" htmlUrl="https://chattolarkhabor.com/" />
+      <outline type="rss" text="দৈনিক মাথাভাঙ্গা" title="দৈনিক মাথাভাঙ্গা" xmlUrl="https://bidduth79.github.io/bd-news-master-rss/feeds/mathabhanga_com.xml" htmlUrl="https://mathabhanga.com" />
+      <outline type="rss" text="Prothom Alo" title="Prothom Alo" xmlUrl="https://bidduth79.github.io/bd-news-master-rss/feeds/prothomalo_com.xml" htmlUrl="https://www.prothomalo.com/" />
+      <outline type="rss" text="Dhaka Tribune" title="Dhaka Tribune" xmlUrl="https://bidduth79.github.io/bd-news-master-rss/feeds/dhakatribune_com.xml" htmlUrl="https://www.dhakatribune.com/" />
+      <outline type="rss" text="বাংলা বার্তা || Bangla Barta - Home" title="বাংলা বার্তা || Bangla Barta - Home" xmlUrl="https://bidduth79.github.io/bd-news-master-rss/feeds/banglabartabd_com.xml" htmlUrl="https://www.banglabartabd.com/" />
+      <outline type="rss" text="Silkcity News" title="Silkcity News" xmlUrl="https://bidduth79.github.io/bd-news-master-rss/feeds/silkcitynews_com.xml" htmlUrl="https://silkcitynews.com/" />
+      <outline type="rss" text="Protidiner Post" title="Protidiner Post" xmlUrl="https://bidduth79.github.io/bd-news-master-rss/feeds/protidinerpost_com.xml" htmlUrl="https://protidinerpost.com/" />
+      <outline type="rss" text="BD24Live.com" title="BD24Live.com" xmlUrl="https://bidduth79.github.io/bd-news-master-rss/feeds/bd24live_com.xml" htmlUrl="https://www.bd24live.com" />
+      <outline type="rss" text="Lakshmipur24.com" title="Lakshmipur24.com" xmlUrl="https://bidduth79.github.io/bd-news-master-rss/feeds/lakshmipur24_com.xml" htmlUrl="https://lakshmipur24.com/" />
+      <outline type="rss" text="গ্রামের কাগজ নিউজ" title="গ্রামের কাগজ নিউজ" xmlUrl="https://bidduth79.github.io/bd-news-master-rss/feeds/gramerkagoj_com.xml" htmlUrl="https://www.gramerkagoj.com" />
+      <outline type="rss" text="চাঁদপুর টাইমস" title="চাঁদপুর টাইমস" xmlUrl="https://bidduth79.github.io/bd-news-master-rss/feeds/chandpurtimes_com.xml" htmlUrl="https://chandpurtimes.com/" />
+      <outline type="rss" text="Jugantor Latest News" title="Jugantor Latest News" xmlUrl="https://bidduth79.github.io/bd-news-master-rss/feeds/jugantor_com.xml" htmlUrl="https://www.jugantor.com/" />
+      <outline type="rss" text="Bogra Sangbad" title="Bogra Sangbad" xmlUrl="https://bidduth79.github.io/bd-news-master-rss/feeds/bograsangbad_com.xml" htmlUrl="https://bograsangbad.com/" />
+      <outline type="rss" text="বাংলা টেলিগ্রাফ" title="বাংলা টেলিগ্রাফ" xmlUrl="https://bidduth79.github.io/bd-news-master-rss/feeds/banglatelegraph_com.xml" htmlUrl="http://www.banglatelegraph.com/" />
+      <outline type="rss" text="দৈনিক ইত্তেফাক" title="দৈনিক ইত্তেফাক" xmlUrl="https://bidduth79.github.io/bd-news-master-rss/feeds/ittefaq_com_bd.xml" htmlUrl="https://www.ittefaq.com.bd/" />
+      <outline type="rss" text="এসএফ টিভি নিউজ বিডি" title="এসএফ টিভি নিউজ বিডি" xmlUrl="https://bidduth79.github.io/bd-news-master-rss/feeds/sftvbd_com.xml" htmlUrl="https://sftvbd.com/" />
+      <outline type="rss" text="CoxsbazarNEWS.Com – CBN" title="CoxsbazarNEWS.Com – CBN" xmlUrl="https://bidduth79.github.io/bd-news-master-rss/feeds/coxsbazarnews_com.xml" htmlUrl="https://www.coxsbazarnews.com/" />
+      <outline type="rss" text="সংবাদ প্রতিদিন" title="সংবাদ প্রতিদিন" xmlUrl="https://bidduth79.github.io/bd-news-master-rss/feeds/sangbadpratidin_in.xml" htmlUrl="https://www.sangbadpratidin.in/" />
+      <outline type="rss" text="jagonews24.com Bangla" title="jagonews24.com Bangla" xmlUrl="https://bidduth79.github.io/bd-news-master-rss/feeds/jagonews24_com.xml" htmlUrl="https://www.jagonews24.com/" />
+      <outline type="rss" text="Dhaka Protidin" title="Dhaka Protidin" xmlUrl="https://bidduth79.github.io/bd-news-master-rss/feeds/dhakaprotidin_com.xml" htmlUrl="https://www.dhakaprotidin.com/" />
+      <outline type="rss" text="সময়ের কন্ঠস্বর" title="সময়ের কন্ঠস্বর" xmlUrl="https://bidduth79.github.io/bd-news-master-rss/feeds/somoyerkonthosor_com.xml" htmlUrl="https://www.somoyerkonthosor.com/" />
+      <outline type="rss" text="নাগরিক" title="নাগরিক" xmlUrl="https://bidduth79.github.io/bd-news-master-rss/feeds/nagorik_com.xml" htmlUrl="https://nagorik.com" />
+      <outline type="rss" text="গ্রাম নগর বার্তা" title="গ্রাম নগর বার্তা" xmlUrl="https://bidduth79.github.io/bd-news-master-rss/feeds/gramnagarbarta_com.xml" htmlUrl="https://gramnagarbarta.com" />
+      <outline type="rss" text="Dhaka News 24" title="Dhaka News 24" xmlUrl="https://bidduth79.github.io/bd-news-master-rss/feeds/dhakanews24_com.xml" htmlUrl="https://www.dhakanews24.com/" />
+      <outline type="rss" text="ডেইলি আমার সংবাদ" title="ডেইলি আমার সংবাদ" xmlUrl="https://bidduth79.github.io/bd-news-master-rss/feeds/amarsangbad_com.xml" htmlUrl="https://www.amarsangbad.com/" />
+      <outline type="rss" text="Weekly Laksambarta" title="Weekly Laksambarta" xmlUrl="https://bidduth79.github.io/bd-news-master-rss/feeds/weeklylaksambarta_com.xml" htmlUrl="https://weeklylaksambarta.com/" />
+      <outline type="rss" text="Amader Barisal – First online Newspaper of Greater Barisal – Stay with Barisal 24×7" title="Amader Barisal – First online Newspaper of Greater Barisal – Stay with Barisal 24×7" xmlUrl="https://bidduth79.github.io/bd-news-master-rss/feeds/amaderbarisal_com.xml" htmlUrl="https://www.amaderbarisal.com/" />
+      <outline type="rss" text="সোনালী সংবাদ" title="সোনালী সংবাদ" xmlUrl="https://bidduth79.github.io/bd-news-master-rss/feeds/sonalisangbad_com.xml" htmlUrl="https://sonalisangbad.com/" />
+      <outline type="rss" text="Bangla news" title="Bangla news" xmlUrl="https://bidduth79.github.io/bd-news-master-rss/feeds/inews_zoombangla_com.xml" htmlUrl="https://inews.zoombangla.com/" />
+      <outline type="rss" text="Citizens Voice" title="Citizens Voice" xmlUrl="https://bidduth79.github.io/bd-news-master-rss/feeds/citizensvoicebd_com.xml" htmlUrl="https://citizensvoicebd.com/" />
+      <outline type="rss" text="Rupali Bangladesh" title="Rupali Bangladesh" xmlUrl="https://bidduth79.github.io/bd-news-master-rss/feeds/rupalibangladesh_com.xml" htmlUrl="https://rupalibangladesh.com/" />
+      <outline type="rss" text="Southeast Asia Journal" title="Southeast Asia Journal" xmlUrl="https://bidduth79.github.io/bd-news-master-rss/feeds/southeast-asiajournal_com.xml" htmlUrl="https://southeast-asiajournal.com/" />
+      <outline type="rss" text="আলোর মনি" title="আলোর মনি" xmlUrl="https://bidduth79.github.io/bd-news-master-rss/feeds/alormoni_com.xml" htmlUrl="https://www.alormoni.com/" />
+      <outline type="rss" text="প্রতিদিনের বাংলাদেশ .কম" title="প্রতিদিনের বাংলাদেশ .কম" xmlUrl="https://bidduth79.github.io/bd-news-master-rss/feeds/protidiner-bd_com.xml" htmlUrl="https://protidiner-bd.com/" />
+      <outline type="rss" text="BBARTA24.NET" title="BBARTA24.NET" xmlUrl="https://bidduth79.github.io/bd-news-master-rss/feeds/bbarta24_net.xml" htmlUrl="https://www.bbarta24.net/" />
+      <outline type="rss" text="উখিয়া নিউজ" title="উখিয়া নিউজ" xmlUrl="https://bidduth79.github.io/bd-news-master-rss/feeds/ukhiyanews_com.xml" htmlUrl="https://www.ukhiyanews.com/" />
+      <outline type="rss" text="দৈনিক পূর্বাঞ্চল" title="দৈনিক পূর্বাঞ্চল" xmlUrl="https://bidduth79.github.io/bd-news-master-rss/feeds/purbanchal_com.xml" htmlUrl="https://purbanchal.com/" />
+      <outline type="rss" text="Suprobhat Bangladesh" title="Suprobhat Bangladesh" xmlUrl="https://bidduth79.github.io/bd-news-master-rss/feeds/suprobhat_com.xml" htmlUrl="https://suprobhat.com/" />
+      <outline type="rss" text="states" title="states" xmlUrl="https://bidduth79.github.io/bd-news-master-rss/feeds/bengali_abplive_com.xml" htmlUrl="https://bengali.abplive.com/states/feed" />
+      <outline type="rss" text="&quot;bangladesh &quot; - Google News" title="&quot;bangladesh &quot; - Google News" xmlUrl="https://bidduth79.github.io/bd-news-master-rss/feeds/news_google_com.xml" htmlUrl="https://news.google.com/search?q=bangladesh+&amp;hl=en-US&amp;gl=US&amp;ceid=US:en" />
+      <outline type="rss" text="Bangladesh | The Guardian" title="Bangladesh | The Guardian" xmlUrl="https://bidduth79.github.io/bd-news-master-rss/feeds/theguardian_com.xml" htmlUrl="http://www.theguardian.com/world/bangladesh" />
+      <outline type="rss" text="Al Jazeera English" title="Al Jazeera English" xmlUrl="https://bidduth79.github.io/bd-news-master-rss/feeds/aljazeera_com.xml" htmlUrl="https://www.aljazeera.com/default.html" />
+      <outline type="rss" text="Kalbela News | RSS Feed" title="Kalbela News | RSS Feed" xmlUrl="https://bidduth79.github.io/bd-news-master-rss/feeds/kalbela_com.xml" htmlUrl="https://www.kalbela.com/" />
+      <outline type="rss" text="পাতাকুঁডির দেশ" title="পাতাকুঁডির দেশ" xmlUrl="https://bidduth79.github.io/bd-news-master-rss/feeds/patakuri_com.xml" htmlUrl="https://www.patakuri.com/" />
+      <outline type="rss" text="Ei Muhurte Breaking News in Bangla, বাংলা খবর, বাংলার আজকের খবর এই মুহূর্তে" title="Ei Muhurte Breaking News in Bangla, বাংলা খবর, বাংলার আজকের খবর এই মুহূর্তে" xmlUrl="https://bidduth79.github.io/bd-news-master-rss/feeds/eimuhurte_com.xml" htmlUrl="https://www.eimuhurte.com/" />
+      <outline type="rss" text="World" title="World" xmlUrl="https://bidduth79.github.io/bd-news-master-rss/feeds/ft_com.xml" htmlUrl="https://www.ft.com/stream/sectionsId/MQ==-U2VjdGlvbnM=" />
+      <outline type="rss" text="BBC News - World" title="BBC News - World" xmlUrl="https://bidduth79.github.io/bd-news-master-rss/feeds/bbc_co_uk.xml" htmlUrl="https://www.bbc.co.uk/news/world/#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa" />
+      <outline type="rss" text="BBC News" title="BBC News" xmlUrl="https://bidduth79.github.io/bd-news-master-rss/feeds/bbc_com.xml" htmlUrl="https://www.bbc.com" />
+      <outline type="rss" text="Crime Sylhet" title="Crime Sylhet" xmlUrl="https://bidduth79.github.io/bd-news-master-rss/feeds/crimesylhet_com.xml" htmlUrl="https://www.crimesylhet.com/" />
+      <outline type="rss" text="Latest Bangla News | Online Bangla News Portal | thedhakapost" title="Latest Bangla News | Online Bangla News Portal | thedhakapost" xmlUrl="https://bidduth79.github.io/bd-news-master-rss/feeds/thedhakapost_com.xml" htmlUrl="https://www.thedhakapost.com/" />
+      <outline type="rss" text="দৈনিক বাংলাভূমি" title="দৈনিক বাংলাভূমি" xmlUrl="https://bidduth79.github.io/bd-news-master-rss/feeds/dailybanglabhumi_com.xml" htmlUrl="https://www.dailybanglabhumi.com/" />
+      <outline type="rss" text="Fox News" title="Fox News" xmlUrl="https://bidduth79.github.io/bd-news-master-rss/feeds/foxnews_com.xml" htmlUrl="https://www.foxnews.com/" />
+      <outline type="rss" text="The New York Times" title="The New York Times" xmlUrl="https://bidduth79.github.io/bd-news-master-rss/feeds/nytimes_com.xml" htmlUrl="https://www.nytimes.com/pages/index.html?partner=rss&amp;emc=rss" />
+      <outline type="rss" text="NDTV News - Recent" title="NDTV News - Recent" xmlUrl="https://bidduth79.github.io/bd-news-master-rss/feeds/ndtv_com.xml" htmlUrl="https://www.ndtv.com/" />
+      <outline type="rss" text="দৈনিক ঘোষণা" title="দৈনিক ঘোষণা" xmlUrl="https://bidduth79.github.io/bd-news-master-rss/feeds/dailyghoshana_com_bd.xml" htmlUrl="http://dailyghoshana.com.bd" />
+    </outline>
+  </body>
+</opml>

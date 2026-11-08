@@ -1,0 +1,3786 @@
+[
+  {
+    "id": "mathabhanga_com",
+    "name": "দৈনিক মাথাভাঙ্গা",
+    "domain": "mathabhanga.com",
+    "site": "https://mathabhanga.com",
+    "type": "scraper",
+    "rss": ""
+  },
+  {
+    "id": "gramerkagoj_com",
+    "name": "গ্রামের কাগজ নিউজ",
+    "domain": "gramerkagoj.com",
+    "site": "https://www.gramerkagoj.com",
+    "type": "scraper",
+    "rss": ""
+  },
+  {
+    "id": "gramnagarbarta_com",
+    "name": "গ্রাম নগর বার্তা",
+    "domain": "gramnagarbarta.com",
+    "site": "https://gramnagarbarta.com",
+    "type": "scraper",
+    "rss": ""
+  },
+  {
+    "id": "dailyghoshana_com_bd",
+    "name": "দৈনিক ঘোষণা",
+    "domain": "dailyghoshana.com.bd",
+    "site": "http://dailyghoshana.com.bd",
+    "type": "rss",
+    "rss": "http://dailyghoshana.com.bd/feed"
+  },
+  {
+    "id": "parbattanews_com",
+    "name": "পার্বত্য নিউজ",
+    "domain": "parbattanews.com",
+    "site": "https://www.parbattanews.com",
+    "type": "scraper",
+    "rss": ""
+  },
+  {
+    "id": "facebook_com",
+    "name": "Jamuna Television Page",
+    "domain": "facebook.com",
+    "site": "https://www.facebook.com/JamunaTelevision",
+    "type": "rss",
+    "rss": "https://rss.app/feeds/GVWC8nWEdMoHZMRq.xml"
+  },
+  {
+    "id": "dainikazadi_net",
+    "name": "দৈনিক আজাদী",
+    "domain": "dainikazadi.net",
+    "site": "https://dainikazadi.net/",
+    "type": "rss",
+    "rss": "https://dainikazadi.net/feed/"
+  },
+  {
+    "id": "dailyjanakantha_com",
+    "name": "দৈনিক জনকণ্ঠ || DailyJanakantha - Home",
+    "domain": "dailyjanakantha.com",
+    "site": "https://www.dailyjanakantha.com/",
+    "type": "rss",
+    "rss": "https://www.dailyjanakantha.com/rss/rss.xml"
+  },
+  {
+    "id": "prothomalo_com",
+    "name": "Prothom Alo",
+    "domain": "prothomalo.com",
+    "site": "https://www.prothomalo.com/",
+    "type": "rss",
+    "rss": "https://www.prothomalo.com/feed"
+  },
+  {
+    "id": "dhakamail_com",
+    "name": "Dhaka Mail: খবর, সর্বশেষ খবর, ব্রেকিং নিউজ, বাংলা নিউজ",
+    "domain": "dhakamail.com",
+    "site": "https://dhakamail.com/",
+    "type": "rss",
+    "rss": "https://rss.app/feeds/cWfbZQ1yKV0iOLPP.xml"
+  },
+  {
+    "id": "bd-pratidin_com",
+    "name": "Bangladesh Pratidin",
+    "domain": "bd-pratidin.com",
+    "site": "https://www.bd-pratidin.com/",
+    "type": "rss",
+    "rss": "https://www.bd-pratidin.com/rss.xml"
+  },
+  {
+    "id": "dhakapost_com",
+    "name": "Dhakapost.com - Bangla News Portal, Breaking News, Bd News and Videos",
+    "domain": "dhakapost.com",
+    "site": "https://www.dhakapost.com/",
+    "type": "rss",
+    "rss": "https://rss.app/feeds/9bOOGDtgc8b9sqqH.xml"
+  },
+  {
+    "id": "banglatelegraph_com",
+    "name": "বাংলা টেলিগ্রাফ",
+    "domain": "banglatelegraph.com",
+    "site": "http://www.banglatelegraph.com/",
+    "type": "rss",
+    "rss": "https://www.banglatelegraph.com/feed"
+  },
+  {
+    "id": "bbcbengali_com",
+    "name": "BBC Bangla - মূলপাতা",
+    "domain": "bbcbengali.com",
+    "site": "https://www.bbcbengali.com/",
+    "type": "rss",
+    "rss": "https://feeds.bbci.co.uk/bengali/rss.xml"
+  },
+  {
+    "id": "jugantor_com",
+    "name": "Jugantor Latest News",
+    "domain": "jugantor.com",
+    "site": "https://www.jugantor.com/",
+    "type": "rss",
+    "rss": "https://evilgodfahim.github.io/ju/rss.xml"
+  },
+  {
+    "id": "banglatribune_com",
+    "name": "বাংলা ট্রিবিউন",
+    "domain": "banglatribune.com",
+    "site": "https://www.banglatribune.com/",
+    "type": "rss",
+    "rss": "https://www.banglatribune.com/feed/"
+  },
+  {
+    "id": "ittefaq_com_bd",
+    "name": "দৈনিক ইত্তেফাক",
+    "domain": "ittefaq.com.bd",
+    "site": "https://www.ittefaq.com.bd/",
+    "type": "rss",
+    "rss": "https://www.ittefaq.com.bd/feed/"
+  },
+  {
+    "id": "kalbela_com",
+    "name": "Kalbela News | RSS Feed",
+    "domain": "kalbela.com",
+    "site": "https://www.kalbela.com/",
+    "type": "rss",
+    "rss": "https://www.kalbela.com/rss/latest-rss.xml"
+  },
+  {
+    "id": "evilgodfahim_github_io",
+    "name": "আজকের আন্তর্জাতিক খবর - বিশ্ব সংবাদ | World News প্রথম আলো",
+    "domain": "evilgodfahim.github.io",
+    "site": "https://evilgodfahim.github.io/paint/opinion.html",
+    "type": "rss",
+    "rss": "https://politepol.com/fd/k1sSZOE7O3bQ.xml"
+  },
+  {
+    "id": "kalerkantho_com",
+    "name": "kalerkantho.com RSS",
+    "domain": "kalerkantho.com",
+    "site": "https://www.kalerkantho.com/",
+    "type": "rss",
+    "rss": "https://www.kalerkantho.com/rss.xml"
+  },
+  {
+    "id": "dhakatribune_com",
+    "name": "Dhaka Tribune",
+    "domain": "dhakatribune.com",
+    "site": "https://www.dhakatribune.com/",
+    "type": "rss",
+    "rss": "https://www.dhakatribune.com/feed/"
+  },
+  {
+    "id": "ajkerpatrika_com",
+    "name": "আন্তর্জাতিক খবর, বিশ্ব সংবাদ | World News, International News | Ajker Patrika",
+    "domain": "ajkerpatrika.com",
+    "site": "https://www.ajkerpatrika.com/international",
+    "type": "rss",
+    "rss": "https://politepol.com/fd/b62KSNHm8rIH.xml"
+  },
+  {
+    "id": "nagorik_com",
+    "name": "নাগরিক",
+    "domain": "nagorik.com",
+    "site": "https://nagorik.com",
+    "type": "rss",
+    "rss": "https://nagorik.com/feed/"
+  },
+  {
+    "id": "chattolarkhabor_com",
+    "name": "চট্টলার খবর",
+    "domain": "chattolarkhabor.com",
+    "site": "https://chattolarkhabor.com/",
+    "type": "rss",
+    "rss": "https://chattolarkhabor.com/feed/"
+  },
+  {
+    "id": "banglabartabd_com",
+    "name": "বাংলা বার্তা || Bangla Barta - Home",
+    "domain": "banglabartabd.com",
+    "site": "https://www.banglabartabd.com/",
+    "type": "rss",
+    "rss": "https://www.banglabartabd.com/rss/rss.xml"
+  },
+  {
+    "id": "somoyerkonthosor_com",
+    "name": "সময়ের কন্ঠস্বর",
+    "domain": "somoyerkonthosor.com",
+    "site": "https://www.somoyerkonthosor.com/",
+    "type": "rss",
+    "rss": "https://www.somoyerkonthosor.com/feed"
+  },
+  {
+    "id": "deltatimes24_com",
+    "name": "ডেল্টা টাইমস",
+    "domain": "deltatimes24.com",
+    "site": "https://www.deltatimes24.com/",
+    "type": "rss",
+    "rss": "https://www.deltatimes24.com/rss.php"
+  },
+  {
+    "id": "dhakanews24_com",
+    "name": "Dhaka News 24",
+    "domain": "dhakanews24.com",
+    "site": "https://www.dhakanews24.com/",
+    "type": "rss",
+    "rss": "https://www.dhakanews24.com/feed/"
+  },
+  {
+    "id": "silkcitynews_com",
+    "name": "Silkcity News",
+    "domain": "silkcitynews.com",
+    "site": "https://silkcitynews.com/",
+    "type": "rss",
+    "rss": "https://silkcitynews.com/feed/"
+  },
+  {
+    "id": "lakshmipur24_com",
+    "name": "Lakshmipur24.com",
+    "domain": "lakshmipur24.com",
+    "site": "https://lakshmipur24.com/",
+    "type": "rss",
+    "rss": "https://lakshmipur24.com/feed/"
+  },
+  {
+    "id": "bd24live_com",
+    "name": "BD24Live.com",
+    "domain": "bd24live.com",
+    "site": "https://www.bd24live.com",
+    "type": "rss",
+    "rss": "https://www.bd24live.com/feed/"
+  },
+  {
+    "id": "chandpurtimes_com",
+    "name": "চাঁদপুর টাইমস",
+    "domain": "chandpurtimes.com",
+    "site": "https://chandpurtimes.com/",
+    "type": "rss",
+    "rss": "https://chandpurtimes.com/feed/"
+  },
+  {
+    "id": "protidinerpost_com",
+    "name": "Protidiner Post",
+    "domain": "protidinerpost.com",
+    "site": "https://protidinerpost.com/",
+    "type": "rss",
+    "rss": "https://protidinerpost.com/feed/"
+  },
+  {
+    "id": "newsbijoy24_com",
+    "name": "Newsbijoy24.com",
+    "domain": "newsbijoy24.com",
+    "site": "https://www.newsbijoy24.com/",
+    "type": "rss",
+    "rss": "https://www.newsbijoy24.com/feed/"
+  },
+  {
+    "id": "somoyerbulletin_com",
+    "name": "Somoyer Bulletin",
+    "domain": "somoyerbulletin.com",
+    "site": "https://somoyerbulletin.com/",
+    "type": "rss",
+    "rss": "https://somoyerbulletin.com/feed"
+  },
+  {
+    "id": "bograsangbad_com",
+    "name": "Bogra Sangbad",
+    "domain": "bograsangbad.com",
+    "site": "https://bograsangbad.com/",
+    "type": "rss",
+    "rss": "https://bograsangbad.com/feed"
+  },
+  {
+    "id": "sangbadpratidin_in",
+    "name": "সংবাদ প্রতিদিন",
+    "domain": "sangbadpratidin.in",
+    "site": "https://www.sangbadpratidin.in/",
+    "type": "rss",
+    "rss": "https://www.sangbadpratidin.in/feed/"
+  },
+  {
+    "id": "weeklylaksambarta_com",
+    "name": "Weekly Laksambarta",
+    "domain": "weeklylaksambarta.com",
+    "site": "https://weeklylaksambarta.com/",
+    "type": "rss",
+    "rss": "https://weeklylaksambarta.com/feed"
+  },
+  {
+    "id": "amaderbarisal_com",
+    "name": "Amader Barisal – First online Newspaper of Greater Barisal – Stay with Barisal 24×7",
+    "domain": "amaderbarisal.com",
+    "site": "https://www.amaderbarisal.com/",
+    "type": "rss",
+    "rss": "https://www.amaderbarisal.com/feed"
+  },
+  {
+    "id": "sftvbd_com",
+    "name": "এসএফ টিভি নিউজ বিডি",
+    "domain": "sftvbd.com",
+    "site": "https://sftvbd.com/",
+    "type": "rss",
+    "rss": "https://sftvbd.com/feed/"
+  },
+  {
+    "id": "coxsbazarnews_com",
+    "name": "CoxsbazarNEWS.Com – CBN",
+    "domain": "coxsbazarnews.com",
+    "site": "https://www.coxsbazarnews.com/",
+    "type": "rss",
+    "rss": "https://www.coxsbazarnews.com/feed"
+  },
+  {
+    "id": "citizensvoicebd_com",
+    "name": "Citizens Voice",
+    "domain": "citizensvoicebd.com",
+    "site": "https://citizensvoicebd.com/",
+    "type": "rss",
+    "rss": "https://citizensvoicebd.com/feed/"
+  },
+  {
+    "id": "dhakaprotidin_com",
+    "name": "Dhaka Protidin",
+    "domain": "dhakaprotidin.com",
+    "site": "https://www.dhakaprotidin.com/",
+    "type": "rss",
+    "rss": "https://www.dhakaprotidin.com/feed/"
+  },
+  {
+    "id": "protidiner-bd_com",
+    "name": "প্রতিদিনের বাংলাদেশ .কম",
+    "domain": "protidiner-bd.com",
+    "site": "https://protidiner-bd.com/",
+    "type": "rss",
+    "rss": "https://protidiner-bd.com/feed"
+  },
+  {
+    "id": "jagonews24_com",
+    "name": "jagonews24.com Bangla",
+    "domain": "jagonews24.com",
+    "site": "https://www.jagonews24.com/",
+    "type": "rss",
+    "rss": "https://www.jagonews24.com/rss/rss.xml"
+  },
+  {
+    "id": "khoborpatrabd_com",
+    "name": "Daily Khoborpatra",
+    "domain": "khoborpatrabd.com",
+    "site": "https://khoborpatrabd.com/",
+    "type": "rss",
+    "rss": "https://khoborpatrabd.com/feed"
+  },
+  {
+    "id": "dailyghoshana_com",
+    "name": "দৈনিক ঘোষণা",
+    "domain": "dailyghoshana.com",
+    "site": "https://dailyghoshana.com/",
+    "type": "rss",
+    "rss": "https://dailyghoshana.com/feed/"
+  },
+  {
+    "id": "gonokantho_com",
+    "name": "দৈনিক গণকন্ঠ",
+    "domain": "gonokantho.com",
+    "site": "https://gonokantho.com/rss.php",
+    "type": "rss",
+    "rss": "https://gonokantho.com/rss.php"
+  },
+  {
+    "id": "daily-destiny_com",
+    "name": "Daily Destiny",
+    "domain": "daily-destiny.com",
+    "site": "https://daily-destiny.com/",
+    "type": "rss",
+    "rss": "https://daily-destiny.com/?feed=rss2"
+  },
+  {
+    "id": "inews_zoombangla_com",
+    "name": "Bangla news",
+    "domain": "inews.zoombangla.com",
+    "site": "https://inews.zoombangla.com/",
+    "type": "rss",
+    "rss": "https://inews.zoombangla.com/feed/"
+  },
+  {
+    "id": "sonalisangbad_com",
+    "name": "সোনালী সংবাদ",
+    "domain": "sonalisangbad.com",
+    "site": "https://sonalisangbad.com/",
+    "type": "rss",
+    "rss": "https://sonalisangbad.com/feed/"
+  },
+  {
+    "id": "amarsangbad_com",
+    "name": "ডেইলি আমার সংবাদ",
+    "domain": "amarsangbad.com",
+    "site": "https://www.amarsangbad.com/",
+    "type": "rss",
+    "rss": "https://www.amarsangbad.com/rss/rss.xml"
+  },
+  {
+    "id": "dailybanglabhumi_com",
+    "name": "দৈনিক বাংলাভূমি",
+    "domain": "dailybanglabhumi.com",
+    "site": "https://www.dailybanglabhumi.com/",
+    "type": "rss",
+    "rss": "https://www.dailybanglabhumi.com/feed/"
+  },
+  {
+    "id": "purbanchal_com",
+    "name": "দৈনিক পূর্বাঞ্চল",
+    "domain": "purbanchal.com",
+    "site": "https://purbanchal.com/",
+    "type": "rss",
+    "rss": "https://purbanchal.com/feed/"
+  },
+  {
+    "id": "alormoni_com",
+    "name": "আলোর মনি",
+    "domain": "alormoni.com",
+    "site": "https://www.alormoni.com/",
+    "type": "rss",
+    "rss": "https://www.alormoni.com/feed"
+  },
+  {
+    "id": "unnayansangbad_com",
+    "name": "উন্নয়নসংবাদডটকম",
+    "domain": "unnayansangbad.com",
+    "site": "https://www.unnayansangbad.com/",
+    "type": "rss",
+    "rss": "https://www.unnayansangbad.com/feed/"
+  },
+  {
+    "id": "rupalibangladesh_com",
+    "name": "Rupali Bangladesh",
+    "domain": "rupalibangladesh.com",
+    "site": "https://rupalibangladesh.com/",
+    "type": "rss",
+    "rss": "https://www.rupalibangladesh.com/rss/rss.xml"
+  },
+  {
+    "id": "risingbd_com",
+    "name": "রাইজিং বিডি",
+    "domain": "risingbd.com",
+    "site": "https://www.risingbd.com/",
+    "type": "rss",
+    "rss": "https://www.risingbd.com/rss/rss.xml"
+  },
+  {
+    "id": "news_google_com",
+    "name": "\"bangladesh \" - Google News",
+    "domain": "news.google.com",
+    "site": "https://news.google.com/search?q=bangladesh+&hl=en-US&gl=US&ceid=US:en",
+    "type": "rss",
+    "rss": "https://news.google.com/news/rss/search?q=bangladesh%20&hl=en"
+  },
+  {
+    "id": "bbarta24_net",
+    "name": "BBARTA24.NET",
+    "domain": "bbarta24.net",
+    "site": "https://www.bbarta24.net/",
+    "type": "rss",
+    "rss": "https://www.bbarta24.net/feed/latest-rss.xml"
+  },
+  {
+    "id": "southeast-asiajournal_com",
+    "name": "Southeast Asia Journal",
+    "domain": "southeast-asiajournal.com",
+    "site": "https://southeast-asiajournal.com/",
+    "type": "rss",
+    "rss": "https://southeast-asiajournal.com/feed"
+  },
+  {
+    "id": "patakuri_com",
+    "name": "পাতাকুঁডির দেশ",
+    "domain": "patakuri.com",
+    "site": "https://www.patakuri.com/",
+    "type": "rss",
+    "rss": "https://www.patakuri.com/feed/"
+  },
+  {
+    "id": "crimesylhet_com",
+    "name": "Crime Sylhet",
+    "domain": "crimesylhet.com",
+    "site": "https://www.crimesylhet.com/",
+    "type": "rss",
+    "rss": "https://www.crimesylhet.com/feed/"
+  },
+  {
+    "id": "suprobhat_com",
+    "name": "Suprobhat Bangladesh",
+    "domain": "suprobhat.com",
+    "site": "https://suprobhat.com/",
+    "type": "rss",
+    "rss": "https://suprobhat.com/feed/"
+  },
+  {
+    "id": "ukhiyanews_com",
+    "name": "উখিয়া নিউজ",
+    "domain": "ukhiyanews.com",
+    "site": "https://www.ukhiyanews.com/",
+    "type": "rss",
+    "rss": "https://www.ukhiyanews.com/feed/"
+  },
+  {
+    "id": "bengali_abplive_com",
+    "name": "states",
+    "domain": "bengali.abplive.com",
+    "site": "https://bengali.abplive.com/states/feed",
+    "type": "rss",
+    "rss": "https://bengali.abplive.com/states/feed"
+  },
+  {
+    "id": "eimuhurte_com",
+    "name": "Ei Muhurte Breaking News in Bangla, বাংলা খবর, বাংলার আজকের খবর এই মুহূর্তে",
+    "domain": "eimuhurte.com",
+    "site": "https://www.eimuhurte.com/",
+    "type": "rss",
+    "rss": "https://www.eimuhurte.com/feed/"
+  },
+  {
+    "id": "aamadermalda_in",
+    "name": "Aamader Malda Newspaper",
+    "domain": "aamadermalda.in",
+    "site": "https://www.aamadermalda.in/article",
+    "type": "rss",
+    "rss": "https://www.aamadermalda.in/blog-feed.xml"
+  },
+  {
+    "id": "theguardian_com",
+    "name": "Bangladesh | The Guardian",
+    "domain": "theguardian.com",
+    "site": "http://www.theguardian.com/world/bangladesh",
+    "type": "rss",
+    "rss": "https://www.theguardian.com/world/bangladesh/rss"
+  },
+  {
+    "id": "hindustantimes_com",
+    "name": "Hindustan Times  - india-news",
+    "domain": "hindustantimes.com",
+    "site": "https://www.hindustantimes.com/",
+    "type": "rss",
+    "rss": "https://www.hindustantimes.com/feeds/rss/india-news/rssfeed.xml"
+  },
+  {
+    "id": "aljazeera_com",
+    "name": "Al Jazeera English",
+    "domain": "aljazeera.com",
+    "site": "https://www.aljazeera.com/default.html",
+    "type": "rss",
+    "rss": "https://www.aljazeera.com/xml/rss/all.xml"
+  },
+  {
+    "id": "ft_com",
+    "name": "World",
+    "domain": "ft.com",
+    "site": "https://www.ft.com/stream/sectionsId/MQ==-U2VjdGlvbnM=",
+    "type": "rss",
+    "rss": "https://www.ft.com/world?format=rss"
+  },
+  {
+    "id": "nytimes_com",
+    "name": "The New York Times",
+    "domain": "nytimes.com",
+    "site": "https://www.nytimes.com/pages/index.html?partner=rss&emc=rss",
+    "type": "rss",
+    "rss": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml"
+  },
+  {
+    "id": "today_thefinancialexpress_com_bd",
+    "name": "Finance News: Latest Financial News, Finance News today in Bangladesh",
+    "domain": "today.thefinancialexpress.com.bd",
+    "site": "https://today.thefinancialexpress.com.bd/",
+    "type": "rss",
+    "rss": "https://politepol.com/fd/BaUjoEn6s1Rx.xml"
+  },
+  {
+    "id": "foxnews_com",
+    "name": "Fox News",
+    "domain": "foxnews.com",
+    "site": "https://www.foxnews.com/",
+    "type": "rss",
+    "rss": "https://moxie.foxnews.com/google-publisher/latest.xml"
+  },
+  {
+    "id": "ndtv_com",
+    "name": "NDTV News - Recent",
+    "domain": "ndtv.com",
+    "site": "https://www.ndtv.com/",
+    "type": "rss",
+    "rss": "https://feeds.feedburner.com/NDTV-LatestNews"
+  },
+  {
+    "id": "bangladeshpost_net",
+    "name": "All latest news - Bangladesh Post",
+    "domain": "bangladeshpost.net",
+    "site": "https://bangladeshpost.net/all-news",
+    "type": "rss",
+    "rss": "https://politepol.com/fd/f00yRr7PLSMu.xml"
+  },
+  {
+    "id": "thedhakapost_com",
+    "name": "Latest Bangla News | Online Bangla News Portal | thedhakapost",
+    "domain": "thedhakapost.com",
+    "site": "https://www.thedhakapost.com/",
+    "type": "rss",
+    "rss": "https://thedhakapost.com/rss.xml"
+  },
+  {
+    "id": "bbc_co_uk",
+    "name": "BBC News - World",
+    "domain": "bbc.co.uk",
+    "site": "https://www.bbc.co.uk/news/world/#sa-ns_mchannel=rss&ns_source=PublicRSS20-sa",
+    "type": "rss",
+    "rss": "https://feeds.bbci.co.uk/news/world/rss.xml"
+  },
+  {
+    "id": "bbc_com",
+    "name": "BBC News",
+    "domain": "bbc.com",
+    "site": "https://www.bbc.com",
+    "type": "rss",
+    "rss": "https://feeds.bbci.co.uk/news/rss.xml"
+  },
+  {
+    "id": "businessnews-bd_net",
+    "name": "Bangladesh Business News",
+    "domain": "businessnews-bd.net",
+    "site": "https://businessnews-bd.net/",
+    "type": "rss",
+    "rss": "https://businessnews-bd.net/feed/"
+  },
+  {
+    "id": "news_yahoo_com",
+    "name": "Yahoo News - Latest News & Headlines",
+    "domain": "news.yahoo.com",
+    "site": "https://news.yahoo.com/",
+    "type": "rss",
+    "rss": "https://news.yahoo.com/rss/"
+  },
+  {
+    "id": "themoscowtimes_com",
+    "name": "The Moscow Times News",
+    "domain": "themoscowtimes.com",
+    "site": "https://www.themoscowtimes.com/news/",
+    "type": "rss",
+    "rss": "https://www.themoscowtimes.com/rss/news"
+  },
+  {
+    "id": "itvbd_com",
+    "name": "Independent Television",
+    "domain": "itvbd.com",
+    "site": "https://www.itvbd.com/",
+    "type": "rss",
+    "rss": "https://www.itvbd.com/feed/"
+  },
+  {
+    "id": "voabangla_com",
+    "name": "ভয়েস অব আমেরিকা",
+    "domain": "voabangla.com",
+    "site": "https://www.voabangla.com/",
+    "type": "rss",
+    "rss": "https://www.voabangla.com/api/"
+  },
+  {
+    "id": "parstoday_ir",
+    "name": "PARS TODAY",
+    "domain": "parstoday.ir",
+    "site": "https://parstoday.ir/bn",
+    "type": "rss",
+    "rss": "https://parstoday.ir/bn/rss"
+  },
+  {
+    "id": "maasranga_tv",
+    "name": "Maasranga Television",
+    "domain": "maasranga.tv",
+    "site": "https://maasranga.tv/",
+    "type": "rss",
+    "rss": "https://maasranga.tv/feed/"
+  },
+  {
+    "id": "satv_tv",
+    "name": "SATV",
+    "domain": "satv.tv",
+    "site": "https://www.satv.tv",
+    "type": "rss",
+    "rss": "https://www.satv.tv/feed/"
+  },
+  {
+    "id": "gazitv_com",
+    "name": "Gazi TV",
+    "domain": "gazitv.com",
+    "site": "https://gazitv.com/",
+    "type": "rss",
+    "rss": "https://gazitv.com/feed/"
+  },
+  {
+    "id": "ekattor_tv",
+    "name": "একাত্তর",
+    "domain": "ekattor.tv",
+    "site": "https://ekattor.tv/",
+    "type": "rss",
+    "rss": "https://ekattor.tv/feed/"
+  },
+  {
+    "id": "channelionline_com",
+    "name": "চ্যানেল আই অনলাইন",
+    "domain": "channelionline.com",
+    "site": "https://www.channelionline.com/",
+    "type": "rss",
+    "rss": "https://www.channelionline.com/feed/"
+  },
+  {
+    "id": "ekushey-tv_com",
+    "name": "Ekushey Television - Home",
+    "domain": "ekushey-tv.com",
+    "site": "http://www.ekushey-tv.com/",
+    "type": "rss",
+    "rss": "https://www.ekushey-tv.com/rss/rss.xml"
+  },
+  {
+    "id": "youtube_com",
+    "name": "SOMOY TV",
+    "domain": "youtube.com",
+    "site": "https://www.youtube.com/channel/UCxHoBXkY88Tb8z1Ssj6CWsQ",
+    "type": "rss",
+    "rss": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxHoBXkY88Tb8z1Ssj6CWsQ"
+  },
+  {
+    "id": "samakal_com",
+    "name": "সমকাল",
+    "domain": "samakal.com",
+    "site": "https://samakal.com",
+    "type": "auto",
+    "rss": "https://samakal.com/feed/"
+  },
+  {
+    "id": "dailynayadiganta_com",
+    "name": "নয়া দিগন্ত",
+    "domain": "dailynayadiganta.com",
+    "site": "https://dailynayadiganta.com",
+    "type": "auto",
+    "rss": "https://dailynayadiganta.com/feed/"
+  },
+  {
+    "id": "nayadiganta_com",
+    "name": "নয়া দিগন্ত",
+    "domain": "nayadiganta.com",
+    "site": "https://nayadiganta.com",
+    "type": "auto",
+    "rss": "https://nayadiganta.com/feed/"
+  },
+  {
+    "id": "bdpratidin_com",
+    "name": "বাংলাদেশ প্রতিদিন",
+    "domain": "bdpratidin.com",
+    "site": "https://bdpratidin.com",
+    "type": "auto",
+    "rss": "https://bdpratidin.com/feed/"
+  },
+  {
+    "id": "protidinersangbad_com",
+    "name": "প্রতিদিনের সংবাদ",
+    "domain": "protidinersangbad.com",
+    "site": "https://protidinersangbad.com",
+    "type": "auto",
+    "rss": "https://protidinersangbad.com/feed/"
+  },
+  {
+    "id": "dailysangram_com",
+    "name": "সংগ্রাম",
+    "domain": "dailysangram.com",
+    "site": "https://dailysangram.com",
+    "type": "auto",
+    "rss": "https://dailysangram.com/feed/"
+  },
+  {
+    "id": "sangram_com_bd",
+    "name": "সংগ্রাম",
+    "domain": "sangram.com.bd",
+    "site": "https://sangram.com.bd",
+    "type": "auto",
+    "rss": "https://sangram.com.bd/feed/"
+  },
+  {
+    "id": "mzamin_com",
+    "name": "মানবজমিন",
+    "domain": "mzamin.com",
+    "site": "https://mzamin.com",
+    "type": "auto",
+    "rss": "https://mzamin.com/feed/"
+  },
+  {
+    "id": "amadershomoy_com",
+    "name": "আমাদের সময়",
+    "domain": "amadershomoy.com",
+    "site": "https://amadershomoy.com",
+    "type": "auto",
+    "rss": "https://amadershomoy.com/feed/"
+  },
+  {
+    "id": "dainikamadershomoy_com",
+    "name": "আমাদের সময়",
+    "domain": "dainikamadershomoy.com",
+    "site": "https://dainikamadershomoy.com",
+    "type": "auto",
+    "rss": "https://dainikamadershomoy.com/feed/"
+  },
+  {
+    "id": "bonikbarta_net",
+    "name": "বণিক বার্তা",
+    "domain": "bonikbarta.net",
+    "site": "https://bonikbarta.net",
+    "type": "auto",
+    "rss": "https://bonikbarta.net/feed/"
+  },
+  {
+    "id": "janakantha_com",
+    "name": "জনকণ্ঠ",
+    "domain": "janakantha.com",
+    "site": "https://janakantha.com",
+    "type": "auto",
+    "rss": "https://janakantha.com/feed/"
+  },
+  {
+    "id": "jaijaidinbd_com",
+    "name": "যায়যায়দিন",
+    "domain": "jaijaidinbd.com",
+    "site": "https://jaijaidinbd.com",
+    "type": "auto",
+    "rss": "https://jaijaidinbd.com/feed/"
+  },
+  {
+    "id": "jjdin_com",
+    "name": "যায়যায়দিন",
+    "domain": "jjdin.com",
+    "site": "https://jjdin.com",
+    "type": "auto",
+    "rss": "https://jjdin.com/feed/"
+  },
+  {
+    "id": "bhorerkagoj_com",
+    "name": "ভোরের কাগজ",
+    "domain": "bhorerkagoj.com",
+    "site": "https://bhorerkagoj.com",
+    "type": "auto",
+    "rss": "https://bhorerkagoj.com/feed/"
+  },
+  {
+    "id": "bhorerkagoj_net",
+    "name": "ভোরের কাগজ",
+    "domain": "bhorerkagoj.net",
+    "site": "https://bhorerkagoj.net",
+    "type": "auto",
+    "rss": "https://bhorerkagoj.net/feed/"
+  },
+  {
+    "id": "arthoniteerkagoj_com",
+    "name": "অর্থনীতির কাগজ",
+    "domain": "arthoniteerkagoj.com",
+    "site": "https://arthoniteerkagoj.com",
+    "type": "auto",
+    "rss": "https://arthoniteerkagoj.com/feed/"
+  },
+  {
+    "id": "dailyinqilab_com",
+    "name": "ইনকিলাব",
+    "domain": "dailyinqilab.com",
+    "site": "https://dailyinqilab.com",
+    "type": "auto",
+    "rss": "https://dailyinqilab.com/feed/"
+  },
+  {
+    "id": "inqilab_com",
+    "name": "ইনকিলাব",
+    "domain": "inqilab.com",
+    "site": "https://inqilab.com",
+    "type": "auto",
+    "rss": "https://inqilab.com/feed/"
+  },
+  {
+    "id": "thesangbad_net",
+    "name": "সংবাদ",
+    "domain": "thesangbad.net",
+    "site": "https://thesangbad.net",
+    "type": "auto",
+    "rss": "https://thesangbad.net/feed/"
+  },
+  {
+    "id": "manobkantha_com_bd",
+    "name": "মানবকণ্ঠ",
+    "domain": "manobkantha.com.bd",
+    "site": "https://manobkantha.com.bd",
+    "type": "auto",
+    "rss": "https://manobkantha.com.bd/feed/"
+  },
+  {
+    "id": "manobkantha_com",
+    "name": "মানবকণ্ঠ",
+    "domain": "manobkantha.com",
+    "site": "https://manobkantha.com",
+    "type": "auto",
+    "rss": "https://manobkantha.com/feed/"
+  },
+  {
+    "id": "bdjournal_com",
+    "name": "বাংলাদেশ জার্নাল",
+    "domain": "bdjournal.com",
+    "site": "https://bdjournal.com",
+    "type": "auto",
+    "rss": "https://bdjournal.com/feed/"
+  },
+  {
+    "id": "dailydinkal_net",
+    "name": "দিনকাল",
+    "domain": "dailydinkal.net",
+    "site": "https://dailydinkal.net",
+    "type": "auto",
+    "rss": "https://dailydinkal.net/feed/"
+  },
+  {
+    "id": "alokitobangladesh_com",
+    "name": "আলোকিত বাংলাদেশ",
+    "domain": "alokitobangladesh.com",
+    "site": "https://alokitobangladesh.com",
+    "type": "auto",
+    "rss": "https://alokitobangladesh.com/feed/"
+  },
+  {
+    "id": "ajkerbazzar_com",
+    "name": "আজকের বাজার",
+    "domain": "ajkerbazzar.com",
+    "site": "https://ajkerbazzar.com",
+    "type": "auto",
+    "rss": "https://ajkerbazzar.com/feed/"
+  },
+  {
+    "id": "amaderorthoneeti_com",
+    "name": "আমাদের অর্থনীতি",
+    "domain": "amaderorthoneeti.com",
+    "site": "https://amaderorthoneeti.com",
+    "type": "auto",
+    "rss": "https://amaderorthoneeti.com/feed/"
+  },
+  {
+    "id": "sorejominbarta_com",
+    "name": "সরেজমিন",
+    "domain": "sorejominbarta.com",
+    "site": "https://sorejominbarta.com",
+    "type": "auto",
+    "rss": "https://sorejominbarta.com/feed/"
+  },
+  {
+    "id": "khabarpatrabd_com",
+    "name": "খবরপত্র",
+    "domain": "khabarpatrabd.com",
+    "site": "https://khabarpatrabd.com",
+    "type": "auto",
+    "rss": "https://khabarpatrabd.com/feed/"
+  },
+  {
+    "id": "vorerpata_com",
+    "name": "ভোরের পাতা",
+    "domain": "vorerpata.com",
+    "site": "https://vorerpata.com",
+    "type": "auto",
+    "rss": "https://vorerpata.com/feed/"
+  },
+  {
+    "id": "shomoyeralo_com",
+    "name": "সময়ের আলো",
+    "domain": "shomoyeralo.com",
+    "site": "https://shomoyeralo.com",
+    "type": "auto",
+    "rss": "https://shomoyeralo.com/feed/"
+  },
+  {
+    "id": "sharebiz_net",
+    "name": "শেয়ার বিজ",
+    "domain": "sharebiz.net",
+    "site": "https://sharebiz.net",
+    "type": "auto",
+    "rss": "https://sharebiz.net/feed/"
+  },
+  {
+    "id": "dailybartoman_com",
+    "name": "বর্তমান",
+    "domain": "dailybartoman.com",
+    "site": "https://dailybartoman.com",
+    "type": "auto",
+    "rss": "https://dailybartoman.com/feed/"
+  },
+  {
+    "id": "ajkalerkhobor_com",
+    "name": "আজকালের খবর",
+    "domain": "ajkalerkhobor.com",
+    "site": "https://ajkalerkhobor.com",
+    "type": "auto",
+    "rss": "https://ajkalerkhobor.com/feed/"
+  },
+  {
+    "id": "sangbadkonika_com",
+    "name": "সংবাদ কণিকা",
+    "domain": "sangbadkonika.com",
+    "site": "https://sangbadkonika.com",
+    "type": "auto",
+    "rss": "https://sangbadkonika.com/feed/"
+  },
+  {
+    "id": "kholakagojbd_com",
+    "name": "খোলা কাগজ",
+    "domain": "kholakagojbd.com",
+    "site": "https://kholakagojbd.com",
+    "type": "auto",
+    "rss": "https://kholakagojbd.com/feed/"
+  },
+  {
+    "id": "thedailystar_net",
+    "name": "ডেইলি স্টার",
+    "domain": "thedailystar.net",
+    "site": "https://thedailystar.net",
+    "type": "auto",
+    "rss": "https://thedailystar.net/feed/"
+  },
+  {
+    "id": "observerbd_com",
+    "name": "ডেইলি অবজার্ভার",
+    "domain": "observerbd.com",
+    "site": "https://observerbd.com",
+    "type": "auto",
+    "rss": "https://observerbd.com/feed/"
+  },
+  {
+    "id": "thefinancialexpress_com_bd",
+    "name": "ফিন্যান্সিয়াল এক্সপ্রেস",
+    "domain": "thefinancialexpress.com.bd",
+    "site": "https://thefinancialexpress.com.bd",
+    "type": "auto",
+    "rss": "https://thefinancialexpress.com.bd/feed/"
+  },
+  {
+    "id": "deshrupantor_com",
+    "name": "দেশ রূপান্তর",
+    "domain": "deshrupantor.com",
+    "site": "https://deshrupantor.com",
+    "type": "auto",
+    "rss": "https://deshrupantor.com/feed/"
+  },
+  {
+    "id": "bangladesherkhabor_net",
+    "name": "বাংলাদেশের খবর",
+    "domain": "bangladesherkhabor.net",
+    "site": "https://bangladesherkhabor.net",
+    "type": "auto",
+    "rss": "https://bangladesherkhabor.net/feed/"
+  },
+  {
+    "id": "bdbulletin_com",
+    "name": "বাংলাদেশ বুলেটিন",
+    "domain": "bdbulletin.com",
+    "site": "https://bdbulletin.com",
+    "type": "auto",
+    "rss": "https://bdbulletin.com/feed/"
+  },
+  {
+    "id": "dailyjagran_com",
+    "name": "জাগরণ",
+    "domain": "dailyjagran.com",
+    "site": "https://dailyjagran.com",
+    "type": "auto",
+    "rss": "https://dailyjagran.com/feed/"
+  },
+  {
+    "id": "tbsnews_net",
+    "name": "দ্য বিজনেস স্ট্যান্ডার্ড",
+    "domain": "tbsnews.net",
+    "site": "https://tbsnews.net",
+    "type": "auto",
+    "rss": "https://tbsnews.net/feed/"
+  },
+  {
+    "id": "businesspostbd_com",
+    "name": "বিজনেস পোস্ট",
+    "domain": "businesspostbd.com",
+    "site": "https://businesspostbd.com",
+    "type": "auto",
+    "rss": "https://businesspostbd.com/feed/"
+  },
+  {
+    "id": "dainikbangla_com_bd",
+    "name": "দৈনিক বাংলা",
+    "domain": "dainikbangla.com.bd",
+    "site": "https://dainikbangla.com.bd",
+    "type": "auto",
+    "rss": "https://dainikbangla.com.bd/feed/"
+  },
+  {
+    "id": "dailysun_com",
+    "name": "ডেইলি সান",
+    "domain": "dailysun.com",
+    "site": "https://dailysun.com",
+    "type": "auto",
+    "rss": "https://dailysun.com/feed/"
+  },
+  {
+    "id": "newagebd_net",
+    "name": "নিউ এজ",
+    "domain": "newagebd.net",
+    "site": "https://newagebd.net",
+    "type": "auto",
+    "rss": "https://newagebd.net/feed/"
+  },
+  {
+    "id": "ajkerdarpon_com",
+    "name": "আজকের দর্পণ",
+    "domain": "ajkerdarpon.com",
+    "site": "https://ajkerdarpon.com",
+    "type": "auto",
+    "rss": "https://ajkerdarpon.com/feed/"
+  },
+  {
+    "id": "shokalershomoy_com",
+    "name": "সকালের সময়",
+    "domain": "shokalershomoy.com",
+    "site": "https://shokalershomoy.com",
+    "type": "auto",
+    "rss": "https://shokalershomoy.com/feed/"
+  },
+  {
+    "id": "bdnews24_com",
+    "name": "বিডিনিউজ টোয়েন্টিফোর",
+    "domain": "bdnews24.com",
+    "site": "https://bdnews24.com",
+    "type": "auto",
+    "rss": "https://bdnews24.com/feed/"
+  },
+  {
+    "id": "banglanews24_com",
+    "name": "বাংলানিউজ টোয়েন্টিফোর",
+    "domain": "banglanews24.com",
+    "site": "https://banglanews24.com",
+    "type": "auto",
+    "rss": "https://banglanews24.com/feed/"
+  },
+  {
+    "id": "shyamalsylhet_net",
+    "name": "শ্যামল সিলেট",
+    "domain": "shyamalsylhet.net",
+    "site": "https://shyamalsylhet.net",
+    "type": "auto",
+    "rss": "https://shyamalsylhet.net/feed/"
+  },
+  {
+    "id": "newsg24_com",
+    "name": "নিউজজি২৪",
+    "domain": "newsg24.com",
+    "site": "https://newsg24.com",
+    "type": "auto",
+    "rss": "https://newsg24.com/feed/"
+  },
+  {
+    "id": "tv9bangla_com",
+    "name": "টিভি৯ বাংলা",
+    "domain": "tv9bangla.com",
+    "site": "https://tv9bangla.com",
+    "type": "auto",
+    "rss": "https://tv9bangla.com/feed/"
+  },
+  {
+    "id": "thewall_in",
+    "name": "দ্য ওয়াল",
+    "domain": "thewall.in",
+    "site": "https://thewall.in",
+    "type": "auto",
+    "rss": "https://thewall.in/feed/"
+  },
+  {
+    "id": "tripurainfo_com",
+    "name": "ত্রিপুরা ইনফো",
+    "domain": "tripurainfo.com",
+    "site": "https://tripurainfo.com",
+    "type": "auto",
+    "rss": "https://tripurainfo.com/feed/"
+  },
+  {
+    "id": "bangla_hindustantimes_com",
+    "name": "হিন্দুস্তান টাইমস বাংলা",
+    "domain": "bangla.hindustantimes.com",
+    "site": "https://bangla.hindustantimes.com",
+    "type": "auto",
+    "rss": "https://bangla.hindustantimes.com/feed/"
+  },
+  {
+    "id": "priyo_com",
+    "name": "প্রিয়.কম",
+    "domain": "priyo.com",
+    "site": "https://priyo.com",
+    "type": "auto",
+    "rss": "https://priyo.com/feed/"
+  },
+  {
+    "id": "daily-bangladesh_com",
+    "name": "ডেইলি বাংলাদেশ",
+    "domain": "daily-bangladesh.com",
+    "site": "https://daily-bangladesh.com",
+    "type": "auto",
+    "rss": "https://daily-bangladesh.com/feed/"
+  },
+  {
+    "id": "gonews24_com",
+    "name": "গোনিউজ২৪",
+    "domain": "gonews24.com",
+    "site": "https://gonews24.com",
+    "type": "auto",
+    "rss": "https://gonews24.com/feed/"
+  },
+  {
+    "id": "banglainsider_com",
+    "name": "বাংলা ইনসাইডার",
+    "domain": "banglainsider.com",
+    "site": "https://banglainsider.com",
+    "type": "auto",
+    "rss": "https://banglainsider.com/feed/"
+  },
+  {
+    "id": "unb_com_bd",
+    "name": "ইউএনবি",
+    "domain": "unb.com.bd",
+    "site": "https://unb.com.bd",
+    "type": "auto",
+    "rss": "https://unb.com.bd/feed/"
+  },
+  {
+    "id": "bssnews_net",
+    "name": "বাসস",
+    "domain": "bssnews.net",
+    "site": "https://bssnews.net",
+    "type": "auto",
+    "rss": "https://bssnews.net/feed/"
+  },
+  {
+    "id": "barta24_com",
+    "name": "বার্তা২৪",
+    "domain": "barta24.com",
+    "site": "https://barta24.com",
+    "type": "auto",
+    "rss": "https://barta24.com/feed/"
+  },
+  {
+    "id": "amardeshonline_com",
+    "name": "আমার দেশ",
+    "domain": "amardeshonline.com",
+    "site": "https://amardeshonline.com",
+    "type": "auto",
+    "rss": "https://amardeshonline.com/feed/"
+  },
+  {
+    "id": "amardesh_com",
+    "name": "আমার দেশ",
+    "domain": "amardesh.com",
+    "site": "https://amardesh.com",
+    "type": "auto",
+    "rss": "https://amardesh.com/feed/"
+  },
+  {
+    "id": "sarabangla_net",
+    "name": "সারাবাংলা",
+    "domain": "sarabangla.net",
+    "site": "https://sarabangla.net",
+    "type": "auto",
+    "rss": "https://sarabangla.net/feed/"
+  },
+  {
+    "id": "dhakatimes24_com",
+    "name": "ঢাকা টাইমস",
+    "domain": "dhakatimes24.com",
+    "site": "https://dhakatimes24.com",
+    "type": "auto",
+    "rss": "https://dhakatimes24.com/feed/"
+  },
+  {
+    "id": "dmpnews_org",
+    "name": "ডিএমপি নিউজ",
+    "domain": "dmpnews.org",
+    "site": "https://dmpnews.org",
+    "type": "auto",
+    "rss": "https://dmpnews.org/feed/"
+  },
+  {
+    "id": "thereport24_com",
+    "name": "দ্য রিপোর্ট ২৪",
+    "domain": "thereport24.com",
+    "site": "https://thereport24.com",
+    "type": "auto",
+    "rss": "https://thereport24.com/feed/"
+  },
+  {
+    "id": "arthosuchak_com",
+    "name": "অর্থসূচক",
+    "domain": "arthosuchak.com",
+    "site": "https://arthosuchak.com",
+    "type": "auto",
+    "rss": "https://arthosuchak.com/feed/"
+  },
+  {
+    "id": "sharenews24_com",
+    "name": "শেয়ার নিউজ ২৪",
+    "domain": "sharenews24.com",
+    "site": "https://sharenews24.com",
+    "type": "auto",
+    "rss": "https://sharenews24.com/feed/"
+  },
+  {
+    "id": "sunbd24_com",
+    "name": "সানবিডি২৪",
+    "domain": "sunbd24.com",
+    "site": "https://sunbd24.com",
+    "type": "auto",
+    "rss": "https://sunbd24.com/feed/"
+  },
+  {
+    "id": "orthosongbad_com",
+    "name": "অর্থসংবাদ",
+    "domain": "orthosongbad.com",
+    "site": "https://orthosongbad.com",
+    "type": "auto",
+    "rss": "https://orthosongbad.com/feed/"
+  },
+  {
+    "id": "sottasangbad_com",
+    "name": "সত্য সংবাদ",
+    "domain": "sottasangbad.com",
+    "site": "https://sottasangbad.com",
+    "type": "auto",
+    "rss": "https://sottasangbad.com/feed/"
+  },
+  {
+    "id": "1newsbd_com",
+    "name": "ওয়ান নিউজ বিডি",
+    "domain": "1newsbd.com",
+    "site": "https://1newsbd.com",
+    "type": "auto",
+    "rss": "https://1newsbd.com/feed/"
+  },
+  {
+    "id": "deshnews_net",
+    "name": "দেশ নিউজ",
+    "domain": "deshnews.net",
+    "site": "https://deshnews.net",
+    "type": "auto",
+    "rss": "https://deshnews.net/feed/"
+  },
+  {
+    "id": "deshersangbad_com",
+    "name": "দেশের সংবাদ",
+    "domain": "deshersangbad.com",
+    "site": "https://deshersangbad.com",
+    "type": "auto",
+    "rss": "https://deshersangbad.com/feed/"
+  },
+  {
+    "id": "lastnewsbd_com",
+    "name": "লাস্ট নিউজ বিডি",
+    "domain": "lastnewsbd.com",
+    "site": "https://lastnewsbd.com",
+    "type": "auto",
+    "rss": "https://lastnewsbd.com/feed/"
+  },
+  {
+    "id": "bangladaily24_com",
+    "name": "বাংলা ডেইলি ২৪",
+    "domain": "bangladaily24.com",
+    "site": "https://bangladaily24.com",
+    "type": "auto",
+    "rss": "https://bangladaily24.com/feed/"
+  },
+  {
+    "id": "protikhon_com",
+    "name": "প্রতিক্ষণ",
+    "domain": "protikhon.com",
+    "site": "https://protikhon.com",
+    "type": "auto",
+    "rss": "https://protikhon.com/feed/"
+  },
+  {
+    "id": "bartabangla_com",
+    "name": "বার্তা বাংলা",
+    "domain": "bartabangla.com",
+    "site": "https://bartabangla.com",
+    "type": "auto",
+    "rss": "https://bartabangla.com/feed/"
+  },
+  {
+    "id": "bdtype_com",
+    "name": "বিডি টাইপ",
+    "domain": "bdtype.com",
+    "site": "https://bdtype.com",
+    "type": "auto",
+    "rss": "https://bdtype.com/feed/"
+  },
+  {
+    "id": "zoombangla_com",
+    "name": "জুমবাংলা",
+    "domain": "zoombangla.com",
+    "site": "https://zoombangla.com",
+    "type": "auto",
+    "rss": "https://zoombangla.com/feed/"
+  },
+  {
+    "id": "snn24_com",
+    "name": "এসএনএন২৪",
+    "domain": "snn24.com",
+    "site": "https://snn24.com",
+    "type": "auto",
+    "rss": "https://snn24.com/feed/"
+  },
+  {
+    "id": "alertnews24_com",
+    "name": "এলার্ট নিউজ",
+    "domain": "alertnews24.com",
+    "site": "https://alertnews24.com",
+    "type": "auto",
+    "rss": "https://alertnews24.com/feed/"
+  },
+  {
+    "id": "khoborprotidin_com",
+    "name": "খবর প্রতিদিন",
+    "domain": "khoborprotidin.com",
+    "site": "https://khoborprotidin.com",
+    "type": "auto",
+    "rss": "https://khoborprotidin.com/feed/"
+  },
+  {
+    "id": "bdcrictime_com",
+    "name": "বিডিক্রিকটাইম",
+    "domain": "bdcrictime.com",
+    "site": "https://bdcrictime.com",
+    "type": "auto",
+    "rss": "https://bdcrictime.com/feed/"
+  },
+  {
+    "id": "tulpar24_com",
+    "name": "তোলপাড়২৪",
+    "domain": "tulpar24.com",
+    "site": "https://tulpar24.com",
+    "type": "auto",
+    "rss": "https://tulpar24.com/feed/"
+  },
+  {
+    "id": "latestbdnews_com",
+    "name": "লেটেস্ট বিডি নিউজ",
+    "domain": "latestbdnews.com",
+    "site": "https://latestbdnews.com",
+    "type": "auto",
+    "rss": "https://latestbdnews.com/feed/"
+  },
+  {
+    "id": "bartabazar_com",
+    "name": "বার্তা বাজার",
+    "domain": "bartabazar.com",
+    "site": "https://bartabazar.com",
+    "type": "auto",
+    "rss": "https://bartabazar.com/feed/"
+  },
+  {
+    "id": "eibela_com",
+    "name": "এইবেলা",
+    "domain": "eibela.com",
+    "site": "https://eibela.com",
+    "type": "auto",
+    "rss": "https://eibela.com/feed/"
+  },
+  {
+    "id": "purboposhchimbd_news",
+    "name": "পূর্বপশ্চিম",
+    "domain": "purboposhchimbd.news",
+    "site": "https://purboposhchimbd.news",
+    "type": "auto",
+    "rss": "https://purboposhchimbd.news/feed/"
+  },
+  {
+    "id": "techshohor_com",
+    "name": "টেকশহর",
+    "domain": "techshohor.com",
+    "site": "https://techshohor.com",
+    "type": "auto",
+    "rss": "https://techshohor.com/feed/"
+  },
+  {
+    "id": "techzoom_tv",
+    "name": "টেক জুম",
+    "domain": "techzoom.tv",
+    "site": "https://techzoom.tv",
+    "type": "auto",
+    "rss": "https://techzoom.tv/feed/"
+  },
+  {
+    "id": "netra_news",
+    "name": "নেত্র নিউজ",
+    "domain": "netra.news",
+    "site": "https://netra.news",
+    "type": "auto",
+    "rss": "https://netra.news/feed/"
+  },
+  {
+    "id": "banglaoutlook_com",
+    "name": "বাংলা আউটলুক",
+    "domain": "banglaoutlook.com",
+    "site": "https://banglaoutlook.com",
+    "type": "auto",
+    "rss": "https://banglaoutlook.com/feed/"
+  },
+  {
+    "id": "themirrorasia_net",
+    "name": "দ্য মিরর এশিয়া",
+    "domain": "themirrorasia.net",
+    "site": "https://themirrorasia.net",
+    "type": "auto",
+    "rss": "https://themirrorasia.net/feed/"
+  },
+  {
+    "id": "independent24_com",
+    "name": "ইনডিপেনডেন্ট টিভি",
+    "domain": "independent24.com",
+    "site": "https://independent24.com",
+    "type": "auto",
+    "rss": "https://independent24.com/feed/"
+  },
+  {
+    "id": "somoynews_tv",
+    "name": "সময় নিউজ",
+    "domain": "somoynews.tv",
+    "site": "https://somoynews.tv",
+    "type": "auto",
+    "rss": "https://somoynews.tv/feed/"
+  },
+  {
+    "id": "ntvbd_com",
+    "name": "এনটিভি",
+    "domain": "ntvbd.com",
+    "site": "https://ntvbd.com",
+    "type": "auto",
+    "rss": "https://ntvbd.com/feed/"
+  },
+  {
+    "id": "channel24bd_tv",
+    "name": "চ্যানেল২৪",
+    "domain": "channel24bd.tv",
+    "site": "https://channel24bd.tv",
+    "type": "auto",
+    "rss": "https://channel24bd.tv/feed/"
+  },
+  {
+    "id": "rtvonline_com",
+    "name": "আরটিভি",
+    "domain": "rtvonline.com",
+    "site": "https://rtvonline.com",
+    "type": "auto",
+    "rss": "https://rtvonline.com/feed/"
+  },
+  {
+    "id": "atnbangla_tv",
+    "name": "এটিএন বাংলা",
+    "domain": "atnbangla.tv",
+    "site": "https://atnbangla.tv",
+    "type": "auto",
+    "rss": "https://atnbangla.tv/feed/"
+  },
+  {
+    "id": "jamuna_tv",
+    "name": "যমুনা টিভি",
+    "domain": "jamuna.tv",
+    "site": "https://jamuna.tv",
+    "type": "auto",
+    "rss": "https://jamuna.tv/feed/"
+  },
+  {
+    "id": "desh_tv",
+    "name": "দেশ টিভি",
+    "domain": "desh.tv",
+    "site": "https://desh.tv",
+    "type": "auto",
+    "rss": "https://desh.tv/feed/"
+  },
+  {
+    "id": "banglavision_tv",
+    "name": "বাংলাভিশন",
+    "domain": "banglavision.tv",
+    "site": "https://banglavision.tv",
+    "type": "auto",
+    "rss": "https://banglavision.tv/feed/"
+  },
+  {
+    "id": "dbcnews_tv",
+    "name": "ডিবিসি নিউজ",
+    "domain": "dbcnews.tv",
+    "site": "https://dbcnews.tv",
+    "type": "auto",
+    "rss": "https://dbcnews.tv/feed/"
+  },
+  {
+    "id": "news24bd_tv",
+    "name": "নিউজ ২৪",
+    "domain": "news24bd.tv",
+    "site": "https://news24bd.tv",
+    "type": "auto",
+    "rss": "https://news24bd.tv/feed/"
+  },
+  {
+    "id": "ekhon_tv",
+    "name": "এখন টিভি",
+    "domain": "ekhon.tv",
+    "site": "https://ekhon.tv",
+    "type": "auto",
+    "rss": "https://ekhon.tv/feed/"
+  },
+  {
+    "id": "atnnewstv_com",
+    "name": "এটিএন নিউজ",
+    "domain": "atnnewstv.com",
+    "site": "https://atnnewstv.com",
+    "type": "auto",
+    "rss": "https://atnnewstv.com/feed/"
+  },
+  {
+    "id": "mytvbd_tv",
+    "name": "মাই টিভি",
+    "domain": "mytvbd.tv",
+    "site": "https://mytvbd.tv",
+    "type": "auto",
+    "rss": "https://mytvbd.tv/feed/"
+  },
+  {
+    "id": "boishakhionline_com",
+    "name": "বৈশাখী টিভি",
+    "domain": "boishakhionline.com",
+    "site": "https://boishakhionline.com",
+    "type": "auto",
+    "rss": "https://boishakhionline.com/feed/"
+  },
+  {
+    "id": "mohonatv_com",
+    "name": "মোহনা টিভি",
+    "domain": "mohonatv.com",
+    "site": "https://mohonatv.com",
+    "type": "auto",
+    "rss": "https://mohonatv.com/feed/"
+  },
+  {
+    "id": "btv_gov_bd",
+    "name": "বিটিভি",
+    "domain": "btv.gov.bd",
+    "site": "https://btv.gov.bd",
+    "type": "auto",
+    "rss": "https://btv.gov.bd/feed/"
+  },
+  {
+    "id": "channel16_tv",
+    "name": "চ্যানেল ১৬",
+    "domain": "channel16.tv",
+    "site": "https://channel16.tv",
+    "type": "auto",
+    "rss": "https://channel16.tv/feed/"
+  },
+  {
+    "id": "gaanbangla_tv",
+    "name": "গান বাংলা",
+    "domain": "gaanbangla.tv",
+    "site": "https://gaanbangla.tv",
+    "type": "auto",
+    "rss": "https://gaanbangla.tv/feed/"
+  },
+  {
+    "id": "dainikpurbokone_net",
+    "name": "দৈনিক পূর্বকোণ",
+    "domain": "dainikpurbokone.net",
+    "site": "https://dainikpurbokone.net",
+    "type": "auto",
+    "rss": "https://dainikpurbokone.net/feed/"
+  },
+  {
+    "id": "karatoa_com_bd",
+    "name": "দৈনিক করতোয়া",
+    "domain": "karatoa.com.bd",
+    "site": "https://karatoa.com.bd",
+    "type": "auto",
+    "rss": "https://karatoa.com.bd/feed/"
+  },
+  {
+    "id": "sylhetview24_com",
+    "name": "সিলেট ভিউ",
+    "domain": "sylhetview24.com",
+    "site": "https://sylhetview24.com",
+    "type": "auto",
+    "rss": "https://sylhetview24.com/feed/"
+  },
+  {
+    "id": "rajshahirsomoy_com",
+    "name": "রাজশাহীর সময়",
+    "domain": "rajshahirsomoy.com",
+    "site": "https://rajshahirsomoy.com",
+    "type": "auto",
+    "rss": "https://rajshahirsomoy.com/feed/"
+  },
+  {
+    "id": "paharbarta_com",
+    "name": "পাহাড়বার্তা",
+    "domain": "paharbarta.com",
+    "site": "https://paharbarta.com",
+    "type": "auto",
+    "rss": "https://paharbarta.com/feed/"
+  },
+  {
+    "id": "bangla_bdnews24_com",
+    "name": "বিডিনিউজ টোয়েন্টিফোর",
+    "domain": "bangla.bdnews24.com",
+    "site": "https://bangla.bdnews24.com",
+    "type": "auto",
+    "rss": "https://bangla.bdnews24.com/feed/"
+  },
+  {
+    "id": "sangbad_net_bd",
+    "name": "সংবাদ",
+    "domain": "sangbad.net.bd",
+    "site": "https://sangbad.net.bd",
+    "type": "auto",
+    "rss": "https://sangbad.net.bd/feed/"
+  },
+  {
+    "id": "bd-journal_com",
+    "name": "বাংলাদেশ জার্নাল",
+    "domain": "bd-journal.com",
+    "site": "https://bd-journal.com",
+    "type": "auto",
+    "rss": "https://bd-journal.com/feed/"
+  },
+  {
+    "id": "dailyvorerpata_com",
+    "name": "ভোরের পাতা",
+    "domain": "dailyvorerpata.com",
+    "site": "https://dailyvorerpata.com",
+    "type": "auto",
+    "rss": "https://dailyvorerpata.com/feed/"
+  },
+  {
+    "id": "bd-bulletin_com",
+    "name": "বাংলাদেশ বুলেটিন",
+    "domain": "bd-bulletin.com",
+    "site": "https://bd-bulletin.com",
+    "type": "auto",
+    "rss": "https://bd-bulletin.com/feed/"
+  },
+  {
+    "id": "dailyjagaran_com",
+    "name": "জাগরণ",
+    "domain": "dailyjagaran.com",
+    "site": "https://dailyjagaran.com",
+    "type": "auto",
+    "rss": "https://dailyjagaran.com/feed/"
+  },
+  {
+    "id": "epaper_prothomalo_com",
+    "name": "প্রথম আলো",
+    "domain": "epaper.prothomalo.com",
+    "site": "https://epaper.prothomalo.com",
+    "type": "auto",
+    "rss": "https://epaper.prothomalo.com/feed/"
+  },
+  {
+    "id": "ebdpratidin_com",
+    "name": "E BD Pratidin",
+    "domain": "ebdpratidin.com",
+    "site": "https://ebdpratidin.com",
+    "type": "auto",
+    "rss": "https://ebdpratidin.com/feed/"
+  },
+  {
+    "id": "epaper_jugantor_com",
+    "name": "যুগান্তর",
+    "domain": "epaper.jugantor.com",
+    "site": "https://epaper.jugantor.com",
+    "type": "auto",
+    "rss": "https://epaper.jugantor.com/feed/"
+  },
+  {
+    "id": "epaper_samakal_com",
+    "name": "সমকাল",
+    "domain": "epaper.samakal.com",
+    "site": "https://epaper.samakal.com",
+    "type": "auto",
+    "rss": "https://epaper.samakal.com/feed/"
+  },
+  {
+    "id": "epaper_dailyjanakantha_com",
+    "name": "জনকণ্ঠ",
+    "domain": "epaper.dailyjanakantha.com",
+    "site": "https://epaper.dailyjanakantha.com",
+    "type": "auto",
+    "rss": "https://epaper.dailyjanakantha.com/feed/"
+  },
+  {
+    "id": "epaper_bonikbarta_net",
+    "name": "বণিক বার্তা",
+    "domain": "epaper.bonikbarta.net",
+    "site": "https://epaper.bonikbarta.net",
+    "type": "auto",
+    "rss": "https://epaper.bonikbarta.net/feed/"
+  },
+  {
+    "id": "enayadiganta_com",
+    "name": "নয়া দিগন্ত",
+    "domain": "enayadiganta.com",
+    "site": "https://enayadiganta.com",
+    "type": "auto",
+    "rss": "https://enayadiganta.com/feed/"
+  },
+  {
+    "id": "epaper_thefinancialexpress_com_bd",
+    "name": "ফিন্যান্সিয়াল এক্সপ্রেস",
+    "domain": "epaper.thefinancialexpress.com.bd",
+    "site": "https://epaper.thefinancialexpress.com.bd",
+    "type": "auto",
+    "rss": "https://epaper.thefinancialexpress.com.bd/feed/"
+  },
+  {
+    "id": "epaper_ittefaq_com_bd",
+    "name": "ইত্তেফাক",
+    "domain": "epaper.ittefaq.com.bd",
+    "site": "https://epaper.ittefaq.com.bd",
+    "type": "auto",
+    "rss": "https://epaper.ittefaq.com.bd/feed/"
+  },
+  {
+    "id": "ekalerkantho_com",
+    "name": "E Kalerkantho",
+    "domain": "ekalerkantho.com",
+    "site": "https://ekalerkantho.com",
+    "type": "auto",
+    "rss": "https://ekalerkantho.com/feed/"
+  },
+  {
+    "id": "epaper_dainikamadershomoy_com",
+    "name": "আমাদের সময়",
+    "domain": "epaper.dainikamadershomoy.com",
+    "site": "https://epaper.dainikamadershomoy.com",
+    "type": "auto",
+    "rss": "https://epaper.dainikamadershomoy.com/feed/"
+  },
+  {
+    "id": "ejjdin_com",
+    "name": "যায়যায়দিন",
+    "domain": "ejjdin.com",
+    "site": "https://ejjdin.com",
+    "type": "auto",
+    "rss": "https://ejjdin.com/feed/"
+  },
+  {
+    "id": "epaper_thedailystar_net",
+    "name": "ডেইলি স্টার",
+    "domain": "epaper.thedailystar.net",
+    "site": "https://epaper.thedailystar.net",
+    "type": "auto",
+    "rss": "https://epaper.thedailystar.net/feed/"
+  },
+  {
+    "id": "epaper_tbsnews_net",
+    "name": "দ্য বিজনেস স্ট্যান্ডার্ড",
+    "domain": "epaper.tbsnews.net",
+    "site": "https://epaper.tbsnews.net",
+    "type": "auto",
+    "rss": "https://epaper.tbsnews.net/feed/"
+  },
+  {
+    "id": "esharebiz_net",
+    "name": "শেয়ার বিজ",
+    "domain": "esharebiz.net",
+    "site": "https://esharebiz.net",
+    "type": "auto",
+    "rss": "https://esharebiz.net/feed/"
+  },
+  {
+    "id": "ebhorerkagoj_com",
+    "name": "ভোরের কাগজ",
+    "domain": "ebhorerkagoj.com",
+    "site": "https://ebhorerkagoj.com",
+    "type": "auto",
+    "rss": "https://ebhorerkagoj.com/feed/"
+  },
+  {
+    "id": "epaper_thebangladeshtoday_com",
+    "name": "E Bangladesh Today",
+    "domain": "epaper.thebangladeshtoday.com",
+    "site": "https://epaper.thebangladeshtoday.com",
+    "type": "auto",
+    "rss": "https://epaper.thebangladeshtoday.com/feed/"
+  },
+  {
+    "id": "amar-desh24_com",
+    "name": "আমার দেশ",
+    "domain": "amar-desh24.com",
+    "site": "https://amar-desh24.com",
+    "type": "auto",
+    "rss": "https://amar-desh24.com/feed/"
+  },
+  {
+    "id": "thedhakatimes_com",
+    "name": "ঢাকা টাইমস",
+    "domain": "thedhakatimes.com",
+    "site": "https://thedhakatimes.com",
+    "type": "auto",
+    "rss": "https://thedhakatimes.com/feed/"
+  },
+  {
+    "id": "ajkersottasangbad24_com",
+    "name": "সত্য সংবাদ",
+    "domain": "ajkersottasangbad24.com",
+    "site": "https://ajkersottasangbad24.com",
+    "type": "auto",
+    "rss": "https://ajkersottasangbad24.com/feed/"
+  },
+  {
+    "id": "onenewsbd_com",
+    "name": "1News BD",
+    "domain": "onenewsbd.com",
+    "site": "https://onenewsbd.com",
+    "type": "auto",
+    "rss": "https://onenewsbd.com/feed/"
+  },
+  {
+    "id": "news_zoombangla_com",
+    "name": "Zoom Bangla",
+    "domain": "news.zoombangla.com",
+    "site": "https://news.zoombangla.com",
+    "type": "auto",
+    "rss": "https://news.zoombangla.com/feed/"
+  },
+  {
+    "id": "khoborprotidin24_com",
+    "name": "খবর প্রতিদিন",
+    "domain": "khoborprotidin24.com",
+    "site": "https://khoborprotidin24.com",
+    "type": "auto",
+    "rss": "https://khoborprotidin24.com/feed/"
+  },
+  {
+    "id": "bdcricteam_com",
+    "name": "BD Cricteam",
+    "domain": "bdcricteam.com",
+    "site": "https://bdcricteam.com",
+    "type": "auto",
+    "rss": "https://bdcricteam.com/feed/"
+  },
+  {
+    "id": "bbc24news_com",
+    "name": "বিবিসি বাংলা",
+    "domain": "bbc24news.com",
+    "site": "https://bbc24news.com",
+    "type": "auto",
+    "rss": "https://bbc24news.com/feed/"
+  },
+  {
+    "id": "pbd_news",
+    "name": "PBD",
+    "domain": "pbd.news",
+    "site": "https://pbd.news",
+    "type": "auto",
+    "rss": "https://pbd.news/feed/"
+  },
+  {
+    "id": "boishakhi_tv",
+    "name": "বৈশাখী টিভি",
+    "domain": "boishakhi.tv",
+    "site": "https://boishakhi.tv",
+    "type": "auto",
+    "rss": "https://boishakhi.tv/feed/"
+  },
+  {
+    "id": "mohona_tv",
+    "name": "Mohona TV",
+    "domain": "mohona.tv",
+    "site": "https://mohona.tv",
+    "type": "auto",
+    "rss": "https://mohona.tv/feed/"
+  },
+  {
+    "id": "channel-16tv_com",
+    "name": "চ্যানেল ১৬",
+    "domain": "channel-16tv.com",
+    "site": "https://channel-16tv.com",
+    "type": "auto",
+    "rss": "https://channel-16tv.com/feed/"
+  },
+  {
+    "id": "dailyamadercomilla_com",
+    "name": "Amader Comilla",
+    "domain": "dailyamadercomilla.com",
+    "site": "https://dailyamadercomilla.com",
+    "type": "auto",
+    "rss": "https://dailyamadercomilla.com/feed/"
+  },
+  {
+    "id": "khulnanews_com",
+    "name": "খুলনা নিউজ",
+    "domain": "khulnanews.com",
+    "site": "https://khulnanews.com",
+    "type": "auto",
+    "rss": "https://khulnanews.com/feed/"
+  },
+  {
+    "id": "rajshahinews24_com",
+    "name": "নিউজ ২৪",
+    "domain": "rajshahinews24.com",
+    "site": "https://rajshahinews24.com",
+    "type": "auto",
+    "rss": "https://rajshahinews24.com/feed/"
+  },
+  {
+    "id": "chattogramnews_com",
+    "name": "Chattagram News",
+    "domain": "chattogramnews.com",
+    "site": "https://chattogramnews.com",
+    "type": "auto",
+    "rss": "https://chattogramnews.com/feed/"
+  },
+  {
+    "id": "dailykhowai_com",
+    "name": "Daily Khowai",
+    "domain": "dailykhowai.com",
+    "site": "https://dailykhowai.com",
+    "type": "auto",
+    "rss": "https://dailykhowai.com/feed/"
+  },
+  {
+    "id": "dainiksylhet_com",
+    "name": "Dainik Sylhet",
+    "domain": "dainiksylhet.com",
+    "site": "https://dainiksylhet.com",
+    "type": "auto",
+    "rss": "https://dainiksylhet.com/feed/"
+  },
+  {
+    "id": "dailycoxsbazar_com",
+    "name": "কক্সবাজার নিউজ",
+    "domain": "dailycoxsbazar.com",
+    "site": "https://dailycoxsbazar.com",
+    "type": "auto",
+    "rss": "https://dailycoxsbazar.com/feed/"
+  },
+  {
+    "id": "euttorpurbo_com",
+    "name": "Uttorpurbo",
+    "domain": "euttorpurbo.com",
+    "site": "https://euttorpurbo.com",
+    "type": "auto",
+    "rss": "https://euttorpurbo.com/feed/"
+  },
+  {
+    "id": "ajkerjamalpur_com",
+    "name": "Ajker Jamalpur",
+    "domain": "ajkerjamalpur.com",
+    "site": "https://ajkerjamalpur.com",
+    "type": "auto",
+    "rss": "https://ajkerjamalpur.com/feed/"
+  },
+  {
+    "id": "surmatimes_com",
+    "name": "সুরমা টাইমস",
+    "domain": "surmatimes.com",
+    "site": "https://surmatimes.com",
+    "type": "auto",
+    "rss": "https://surmatimes.com/feed/"
+  },
+  {
+    "id": "dailysylhet_com",
+    "name": "Daily Sylhet",
+    "domain": "dailysylhet.com",
+    "site": "https://dailysylhet.com",
+    "type": "auto",
+    "rss": "https://dailysylhet.com/feed/"
+  },
+  {
+    "id": "muktokhobor24_com",
+    "name": "Mukto Khobor 24",
+    "domain": "muktokhobor24.com",
+    "site": "https://muktokhobor24.com",
+    "type": "auto",
+    "rss": "https://muktokhobor24.com/feed/"
+  },
+  {
+    "id": "sylhetexpress_com",
+    "name": "সিলেট এক্সপ্রেস",
+    "domain": "sylhetexpress.com",
+    "site": "https://sylhetexpress.com",
+    "type": "auto",
+    "rss": "https://sylhetexpress.com/feed/"
+  },
+  {
+    "id": "prothom-feni_com",
+    "name": "Prothom Feni",
+    "domain": "prothom-feni.com",
+    "site": "https://prothom-feni.com",
+    "type": "auto",
+    "rss": "https://prothom-feni.com/feed/"
+  },
+  {
+    "id": "amarnoakhali_com",
+    "name": "Amar Noakhali",
+    "domain": "amarnoakhali.com",
+    "site": "https://amarnoakhali.com",
+    "type": "auto",
+    "rss": "https://amarnoakhali.com/feed/"
+  },
+  {
+    "id": "chakarianews_com",
+    "name": "Chakaria News",
+    "domain": "chakarianews.com",
+    "site": "https://chakarianews.com",
+    "type": "auto",
+    "rss": "https://chakarianews.com/feed/"
+  },
+  {
+    "id": "khulnanchal_com",
+    "name": "খুলনাঞ্চল",
+    "domain": "khulnanchal.com",
+    "site": "https://khulnanchal.com",
+    "type": "auto",
+    "rss": "https://khulnanchal.com/feed/"
+  },
+  {
+    "id": "afp_com",
+    "name": "AFP",
+    "domain": "afp.com",
+    "site": "https://afp.com",
+    "type": "auto",
+    "rss": "https://afp.com/feed/"
+  },
+  {
+    "id": "abcnews_go_com",
+    "name": "Abc News",
+    "domain": "abcnews.go.com",
+    "site": "https://abcnews.go.com",
+    "type": "auto",
+    "rss": "https://abcnews.go.com/feed/"
+  },
+  {
+    "id": "daily-sun_com",
+    "name": "ডেইলি সান",
+    "domain": "daily-sun.com",
+    "site": "https://daily-sun.com",
+    "type": "auto",
+    "rss": "https://daily-sun.com/feed/"
+  },
+  {
+    "id": "thebangladeshtoday_com",
+    "name": "Bangladesh Today",
+    "domain": "thebangladeshtoday.com",
+    "site": "https://thebangladeshtoday.com",
+    "type": "auto",
+    "rss": "https://thebangladeshtoday.com/feed/"
+  },
+  {
+    "id": "reuters_com",
+    "name": "Reuters",
+    "domain": "reuters.com",
+    "site": "https://reuters.com",
+    "type": "auto",
+    "rss": "https://reuters.com/feed/"
+  },
+  {
+    "id": "geo_tv",
+    "name": "GEO",
+    "domain": "geo.tv",
+    "site": "https://geo.tv",
+    "type": "auto",
+    "rss": "https://geo.tv/feed/"
+  },
+  {
+    "id": "news_sky_com",
+    "name": "Sky News",
+    "domain": "news.sky.com",
+    "site": "https://news.sky.com",
+    "type": "auto",
+    "rss": "https://news.sky.com/feed/"
+  },
+  {
+    "id": "euronews_com",
+    "name": "Euronews",
+    "domain": "euronews.com",
+    "site": "https://euronews.com",
+    "type": "auto",
+    "rss": "https://euronews.com/feed/"
+  },
+  {
+    "id": "presstv_ir",
+    "name": "Press Tv",
+    "domain": "presstv.ir",
+    "site": "https://presstv.ir",
+    "type": "auto",
+    "rss": "https://presstv.ir/feed/"
+  },
+  {
+    "id": "english_cctv_com",
+    "name": "CCTV",
+    "domain": "english.cctv.com",
+    "site": "https://english.cctv.com",
+    "type": "auto",
+    "rss": "https://english.cctv.com/feed/"
+  },
+  {
+    "id": "anandabazar_com",
+    "name": "আনন্দবাজার পত্রিকা",
+    "domain": "anandabazar.com",
+    "site": "https://anandabazar.com",
+    "type": "auto",
+    "rss": "https://anandabazar.com/feed/"
+  },
+  {
+    "id": "aajkaal_in",
+    "name": "Aaj Kaal",
+    "domain": "aajkaal.in",
+    "site": "https://aajkaal.in",
+    "type": "auto",
+    "rss": "https://aajkaal.in/feed/"
+  },
+  {
+    "id": "kolkata24x7_in",
+    "name": "Kolkata24x7",
+    "domain": "kolkata24x7.in",
+    "site": "https://kolkata24x7.in",
+    "type": "auto",
+    "rss": "https://kolkata24x7.in/feed/"
+  },
+  {
+    "id": "syandanpatrika_com",
+    "name": "স্যন্দন পত্রিকা",
+    "domain": "syandanpatrika.com",
+    "site": "https://syandanpatrika.com",
+    "type": "auto",
+    "rss": "https://syandanpatrika.com/feed/"
+  },
+  {
+    "id": "bartamanpatrika_com",
+    "name": "বর্তমান",
+    "domain": "bartamanpatrika.com",
+    "site": "https://bartamanpatrika.com",
+    "type": "auto",
+    "rss": "https://bartamanpatrika.com/feed/"
+  },
+  {
+    "id": "ganashakti_com",
+    "name": "গণশক্তি",
+    "domain": "ganashakti.com",
+    "site": "https://ganashakti.com",
+    "type": "auto",
+    "rss": "https://ganashakti.com/feed/"
+  },
+  {
+    "id": "asomiyapratidin_co_in",
+    "name": "Asomiya Pratidin",
+    "domain": "asomiyapratidin.co.in",
+    "site": "https://asomiyapratidin.co.in",
+    "type": "auto",
+    "rss": "https://asomiyapratidin.co.in/feed/"
+  },
+  {
+    "id": "eisamay_com",
+    "name": "Eisamay",
+    "domain": "eisamay.com",
+    "site": "https://eisamay.com",
+    "type": "auto",
+    "rss": "https://eisamay.com/feed/"
+  },
+  {
+    "id": "uttarbangasambad_com",
+    "name": "উত্তরবঙ্গ সংবাদ",
+    "domain": "uttarbangasambad.com",
+    "site": "https://uttarbangasambad.com",
+    "type": "auto",
+    "rss": "https://uttarbangasambad.com/feed/"
+  },
+  {
+    "id": "ebela_in",
+    "name": "এবেলা",
+    "domain": "ebela.in",
+    "site": "https://ebela.in",
+    "type": "auto",
+    "rss": "https://ebela.in/feed/"
+  },
+  {
+    "id": "dainiksambad_net",
+    "name": "দৈনিক সংবাদ",
+    "domain": "dainiksambad.net",
+    "site": "https://dainiksambad.net",
+    "type": "auto",
+    "rss": "https://dainiksambad.net/feed/"
+  },
+  {
+    "id": "bangla_ganashakti_co_in",
+    "name": "গণশক্তি",
+    "domain": "bangla.ganashakti.co.in",
+    "site": "https://bangla.ganashakti.co.in",
+    "type": "auto",
+    "rss": "https://bangla.ganashakti.co.in/feed/"
+  },
+  {
+    "id": "bangladesherkhela_com",
+    "name": "Education Bangla",
+    "domain": "bangladesherkhela.com",
+    "site": "https://bangladesherkhela.com",
+    "type": "auto",
+    "rss": "https://bangladesherkhela.com/feed/"
+  },
+  {
+    "id": "chandpurkantho_com",
+    "name": "চাঁদপুর কণ্ঠ",
+    "domain": "chandpurkantho.com",
+    "site": "https://chandpurkantho.com",
+    "type": "auto",
+    "rss": "https://chandpurkantho.com/feed/"
+  },
+  {
+    "id": "coxsbazar-news_com",
+    "name": "কক্সবাজার নিউজ",
+    "domain": "coxsbazar-news.com",
+    "site": "https://coxsbazar-news.com",
+    "type": "auto",
+    "rss": "https://coxsbazar-news.com/feed/"
+  },
+  {
+    "id": "cbn24_com",
+    "name": "সিবিএন ২৪",
+    "domain": "cbn24.com",
+    "site": "https://cbn24.com",
+    "type": "auto",
+    "rss": "https://cbn24.com/feed/"
+  },
+  {
+    "id": "chattogramkhobor_com",
+    "name": "চট্টগ্রাম খবর",
+    "domain": "chattogramkhobor.com",
+    "site": "https://chattogramkhobor.com",
+    "type": "auto",
+    "rss": "https://chattogramkhobor.com/feed/"
+  },
+  {
+    "id": "dailykhulna_com",
+    "name": "দৈনিক খুলনা",
+    "domain": "dailykhulna.com",
+    "site": "https://dailykhulna.com",
+    "type": "auto",
+    "rss": "https://dailykhulna.com/feed/"
+  },
+  {
+    "id": "rajshahipost_com",
+    "name": "রাজশাহী পোস্ট",
+    "domain": "rajshahipost.com",
+    "site": "https://rajshahipost.com",
+    "type": "auto",
+    "rss": "https://rajshahipost.com/feed/"
+  },
+  {
+    "id": "uttaranchal24_com",
+    "name": "উত্তরাঞ্চল ২৪",
+    "domain": "uttaranchal24.com",
+    "site": "https://uttaranchal24.com",
+    "type": "auto",
+    "rss": "https://uttaranchal24.com/feed/"
+  },
+  {
+    "id": "barishalnews_com",
+    "name": "বরিশাল নিউজ",
+    "domain": "barishalnews.com",
+    "site": "https://barishalnews.com",
+    "type": "auto",
+    "rss": "https://barishalnews.com/feed/"
+  },
+  {
+    "id": "shahnama_com_bd",
+    "name": "দৈনিক শাহনামা",
+    "domain": "shahnama.com.bd",
+    "site": "https://shahnama.com.bd",
+    "type": "auto",
+    "rss": "https://shahnama.com.bd/feed/"
+  },
+  {
+    "id": "dailyprotidinerkolom_com",
+    "name": "প্রতিদিনের কলম",
+    "domain": "dailyprotidinerkolom.com",
+    "site": "https://dailyprotidinerkolom.com",
+    "type": "auto",
+    "rss": "https://dailyprotidinerkolom.com/feed/"
+  },
+  {
+    "id": "bhorerkagoj_live",
+    "name": "ভোরের কাগজ",
+    "domain": "bhorerkagoj.live",
+    "site": "https://bhorerkagoj.live",
+    "type": "auto",
+    "rss": "https://bhorerkagoj.live/feed/"
+  },
+  {
+    "id": "dainikshiksha_com",
+    "name": "দৈনিক শিক্ষা",
+    "domain": "dainikshiksha.com",
+    "site": "https://dainikshiksha.com",
+    "type": "auto",
+    "rss": "https://dainikshiksha.com/feed/"
+  },
+  {
+    "id": "campustimes_press",
+    "name": "ক্যাম্পাস টাইমস",
+    "domain": "campustimes.press",
+    "site": "https://campustimes.press",
+    "type": "auto",
+    "rss": "https://campustimes.press/feed/"
+  },
+  {
+    "id": "prothom-alo_com",
+    "name": "প্রথম আলো",
+    "domain": "prothom-alo.com",
+    "site": "https://prothom-alo.com",
+    "type": "auto",
+    "rss": "https://prothom-alo.com/feed/"
+  },
+  {
+    "id": "dw_com",
+    "name": "ডয়চে ভেলে",
+    "domain": "dw.com",
+    "site": "https://dw.com",
+    "type": "auto",
+    "rss": "https://dw.com/feed/"
+  },
+  {
+    "id": "bengali_cri_cn",
+    "name": "China Bangla News",
+    "domain": "bengali.cri.cn",
+    "site": "https://bengali.cri.cn",
+    "type": "auto",
+    "rss": "https://bengali.cri.cn/feed/"
+  },
+  {
+    "id": "samakal_net",
+    "name": "সমকাল",
+    "domain": "samakal.net",
+    "site": "https://samakal.net",
+    "type": "auto",
+    "rss": "https://samakal.net/feed/"
+  },
+  {
+    "id": "bhorer-dak_com",
+    "name": "ভোরের ডাক",
+    "domain": "bhorer-dak.com",
+    "site": "https://bhorer-dak.com",
+    "type": "auto",
+    "rss": "https://bhorer-dak.com/feed/"
+  },
+  {
+    "id": "bonikbarta_com",
+    "name": "বণিক বার্তা",
+    "domain": "bonikbarta.com",
+    "site": "https://bonikbarta.com",
+    "type": "auto",
+    "rss": "https://bonikbarta.com/feed/"
+  },
+  {
+    "id": "dailysokalersomoy_com",
+    "name": "সকালের সময়",
+    "domain": "dailysokalersomoy.com",
+    "site": "https://dailysokalersomoy.com",
+    "type": "auto",
+    "rss": "https://dailysokalersomoy.com/feed/"
+  },
+  {
+    "id": "thikananews_com",
+    "name": "Thikana News",
+    "domain": "thikananews.com",
+    "site": "https://thikananews.com",
+    "type": "auto",
+    "rss": "https://thikananews.com/feed/"
+  },
+  {
+    "id": "dailyamardesh_com",
+    "name": "আমার দেশ",
+    "domain": "dailyamardesh.com",
+    "site": "https://dailyamardesh.com",
+    "type": "auto",
+    "rss": "https://dailyamardesh.com/feed/"
+  },
+  {
+    "id": "dailynabochatona_com",
+    "name": "dailynabochatona.com",
+    "domain": "dailynabochatona.com",
+    "site": "https://dailynabochatona.com",
+    "type": "auto",
+    "rss": "https://dailynabochatona.com/feed/"
+  },
+  {
+    "id": "khaborerkagoj_com",
+    "name": "খবরের কাগজ",
+    "domain": "khaborerkagoj.com",
+    "site": "https://khaborerkagoj.com",
+    "type": "auto",
+    "rss": "https://khaborerkagoj.com/feed/"
+  },
+  {
+    "id": "news_priyo_com",
+    "name": "প্রিয়.কম",
+    "domain": "news.priyo.com",
+    "site": "https://news.priyo.com",
+    "type": "auto",
+    "rss": "https://news.priyo.com/feed/"
+  },
+  {
+    "id": "asia-post_com",
+    "name": "Asia Post",
+    "domain": "asia-post.com",
+    "site": "https://asia-post.com",
+    "type": "auto",
+    "rss": "https://asia-post.com/feed/"
+  },
+  {
+    "id": "onfieldnews_com",
+    "name": "onfieldnews.com",
+    "domain": "onfieldnews.com",
+    "site": "https://onfieldnews.com",
+    "type": "auto",
+    "rss": "https://onfieldnews.com/feed/"
+  },
+  {
+    "id": "banglaedition_com",
+    "name": "বাংলা এডিশন",
+    "domain": "banglaedition.com",
+    "site": "https://banglaedition.com",
+    "type": "auto",
+    "rss": "https://banglaedition.com/feed/"
+  },
+  {
+    "id": "newsbangla24_com",
+    "name": "newsbangla24.com",
+    "domain": "newsbangla24.com",
+    "site": "https://newsbangla24.com",
+    "type": "auto",
+    "rss": "https://newsbangla24.com/feed/"
+  },
+  {
+    "id": "malay_news",
+    "name": "Malay News Bangla",
+    "domain": "malay.news",
+    "site": "https://malay.news",
+    "type": "auto",
+    "rss": "https://malay.news/feed/"
+  },
+  {
+    "id": "bdmorning_com",
+    "name": "bdmorning.com",
+    "domain": "bdmorning.com",
+    "site": "https://bdmorning.com",
+    "type": "auto",
+    "rss": "https://bdmorning.com/feed/"
+  },
+  {
+    "id": "shershanews24_com",
+    "name": "নিউজ ২৪",
+    "domain": "shershanews24.com",
+    "site": "https://shershanews24.com",
+    "type": "auto",
+    "rss": "https://shershanews24.com/feed/"
+  },
+  {
+    "id": "bdview24_com",
+    "name": "bdview24.com",
+    "domain": "bdview24.com",
+    "site": "https://bdview24.com",
+    "type": "auto",
+    "rss": "https://bdview24.com/feed/"
+  },
+  {
+    "id": "rtnn_net",
+    "name": "Real Time News",
+    "domain": "rtnn.net",
+    "site": "https://rtnn.net",
+    "type": "auto",
+    "rss": "https://rtnn.net/feed/"
+  },
+  {
+    "id": "mtnews24_com",
+    "name": "নিউজ ২৪",
+    "domain": "mtnews24.com",
+    "site": "https://mtnews24.com",
+    "type": "auto",
+    "rss": "https://mtnews24.com/feed/"
+  },
+  {
+    "id": "bdpress_agency",
+    "name": "BD Press Agency",
+    "domain": "bdpress.agency",
+    "site": "https://bdpress.agency",
+    "type": "auto",
+    "rss": "https://bdpress.agency/feed/"
+  },
+  {
+    "id": "deshsangbad_com",
+    "name": "সংবাদ",
+    "domain": "deshsangbad.com",
+    "site": "https://deshsangbad.com",
+    "type": "auto",
+    "rss": "https://deshsangbad.com/feed/"
+  },
+  {
+    "id": "ukbdnews_com",
+    "name": "ukbdnews.com",
+    "domain": "ukbdnews.com",
+    "site": "https://ukbdnews.com",
+    "type": "auto",
+    "rss": "https://ukbdnews.com/feed/"
+  },
+  {
+    "id": "natunbarta_com",
+    "name": "ইউএনবি",
+    "domain": "natunbarta.com",
+    "site": "https://natunbarta.com",
+    "type": "auto",
+    "rss": "https://natunbarta.com/feed/"
+  },
+  {
+    "id": "odhikar_news",
+    "name": "দৈনিক অধিকার",
+    "domain": "odhikar.news",
+    "site": "https://odhikar.news",
+    "type": "auto",
+    "rss": "https://odhikar.news/feed/"
+  },
+  {
+    "id": "primenewsbd_com",
+    "name": "Primenewsbd.com",
+    "domain": "primenewsbd.com",
+    "site": "https://primenewsbd.com",
+    "type": "auto",
+    "rss": "https://primenewsbd.com/feed/"
+  },
+  {
+    "id": "eurobdnews_com",
+    "name": "Eurobdnews.com",
+    "domain": "eurobdnews.com",
+    "site": "https://eurobdnews.com",
+    "type": "auto",
+    "rss": "https://eurobdnews.com/feed/"
+  },
+  {
+    "id": "eyenewsbd_com",
+    "name": "Eye News",
+    "domain": "eyenewsbd.com",
+    "site": "https://eyenewsbd.com",
+    "type": "auto",
+    "rss": "https://eyenewsbd.com/feed/"
+  },
+  {
+    "id": "facethepeople_net",
+    "name": "Face The People",
+    "domain": "facethepeople.net",
+    "site": "https://facethepeople.net",
+    "type": "auto",
+    "rss": "https://facethepeople.net/feed/"
+  },
+  {
+    "id": "bartakontho_com",
+    "name": "bartakontho.com",
+    "domain": "bartakontho.com",
+    "site": "https://bartakontho.com",
+    "type": "auto",
+    "rss": "https://bartakontho.com/feed/"
+  },
+  {
+    "id": "deshebideshe_com",
+    "name": "deshebideshe.com",
+    "domain": "deshebideshe.com",
+    "site": "https://deshebideshe.com",
+    "type": "auto",
+    "rss": "https://deshebideshe.com/feed/"
+  },
+  {
+    "id": "71sangbad_com",
+    "name": "সংবাদ",
+    "domain": "71sangbad.com",
+    "site": "https://71sangbad.com",
+    "type": "auto",
+    "rss": "https://71sangbad.com/feed/"
+  },
+  {
+    "id": "nabadut_com",
+    "name": "Nabadut",
+    "domain": "nabadut.com",
+    "site": "https://nabadut.com",
+    "type": "auto",
+    "rss": "https://nabadut.com/feed/"
+  },
+  {
+    "id": "bangladeshonline24_com",
+    "name": "bangladeshonline24.com",
+    "domain": "bangladeshonline24.com",
+    "site": "https://bangladeshonline24.com",
+    "type": "auto",
+    "rss": "https://bangladeshonline24.com/feed/"
+  },
+  {
+    "id": "bangla24_com_bd",
+    "name": "bangla24.com.bd",
+    "domain": "bangla24.com.bd",
+    "site": "https://bangla24.com.bd",
+    "type": "auto",
+    "rss": "https://bangla24.com.bd/feed/"
+  },
+  {
+    "id": "sangbadprotidin24_com",
+    "name": "সংবাদ",
+    "domain": "sangbadprotidin24.com",
+    "site": "https://sangbadprotidin24.com",
+    "type": "auto",
+    "rss": "https://sangbadprotidin24.com/feed/"
+  },
+  {
+    "id": "bbsbangla_com_bd",
+    "name": "BBS Bangla",
+    "domain": "bbsbangla.com.bd",
+    "site": "https://bbsbangla.com.bd",
+    "type": "auto",
+    "rss": "https://bbsbangla.com.bd/feed/"
+  },
+  {
+    "id": "sheershasangbad_com",
+    "name": "সংবাদ",
+    "domain": "sheershasangbad.com",
+    "site": "https://sheershasangbad.com",
+    "type": "auto",
+    "rss": "https://sheershasangbad.com/feed/"
+  },
+  {
+    "id": "dhakareport_com",
+    "name": "dhakareport.com",
+    "domain": "dhakareport.com",
+    "site": "https://dhakareport.com",
+    "type": "auto",
+    "rss": "https://dhakareport.com/feed/"
+  },
+  {
+    "id": "justnewsbd_com",
+    "name": "justnewsbd.com",
+    "domain": "justnewsbd.com",
+    "site": "https://justnewsbd.com",
+    "type": "auto",
+    "rss": "https://justnewsbd.com/feed/"
+  },
+  {
+    "id": "cricfrenzy_com",
+    "name": "চীন আন্তর্জাতিক বেতার",
+    "domain": "cricfrenzy.com",
+    "site": "https://cricfrenzy.com",
+    "type": "auto",
+    "rss": "https://cricfrenzy.com/feed/"
+  },
+  {
+    "id": "provatnews_com",
+    "name": "provatnews.com",
+    "domain": "provatnews.com",
+    "site": "https://provatnews.com",
+    "type": "auto",
+    "rss": "https://provatnews.com/feed/"
+  },
+  {
+    "id": "alorkantho24_com",
+    "name": "alorkantho24.com",
+    "domain": "alorkantho24.com",
+    "site": "https://alorkantho24.com",
+    "type": "auto",
+    "rss": "https://alorkantho24.com/feed/"
+  },
+  {
+    "id": "corporatesangbad_com",
+    "name": "সংবাদ",
+    "domain": "corporatesangbad.com",
+    "site": "https://corporatesangbad.com",
+    "type": "auto",
+    "rss": "https://corporatesangbad.com/feed/"
+  },
+  {
+    "id": "uttaranbarta_com",
+    "name": "uttaranbarta.com",
+    "domain": "uttaranbarta.com",
+    "site": "https://uttaranbarta.com",
+    "type": "auto",
+    "rss": "https://uttaranbarta.com/feed/"
+  },
+  {
+    "id": "jagobd_com",
+    "name": "jagobd.com",
+    "domain": "jagobd.com",
+    "site": "https://jagobd.com",
+    "type": "auto",
+    "rss": "https://jagobd.com/feed/"
+  },
+  {
+    "id": "thebdexpress_com",
+    "name": "thebdexpress.com",
+    "domain": "thebdexpress.com",
+    "site": "https://thebdexpress.com",
+    "type": "auto",
+    "rss": "https://thebdexpress.com/feed/"
+  },
+  {
+    "id": "shadhinbangla24_com",
+    "name": "shadhinbangla24.com",
+    "domain": "shadhinbangla24.com",
+    "site": "https://shadhinbangla24.com",
+    "type": "auto",
+    "rss": "https://shadhinbangla24.com/feed/"
+  },
+  {
+    "id": "outlookbangla_com",
+    "name": "outlookbangla.com",
+    "domain": "outlookbangla.com",
+    "site": "https://outlookbangla.com",
+    "type": "auto",
+    "rss": "https://outlookbangla.com/feed/"
+  },
+  {
+    "id": "ctnews7_com",
+    "name": "Ctnews7",
+    "domain": "ctnews7.com",
+    "site": "https://ctnews7.com",
+    "type": "auto",
+    "rss": "https://ctnews7.com/feed/"
+  },
+  {
+    "id": "sadakalo24_com",
+    "name": "sadakalo24.com",
+    "domain": "sadakalo24.com",
+    "site": "https://sadakalo24.com",
+    "type": "auto",
+    "rss": "https://sadakalo24.com/feed/"
+  },
+  {
+    "id": "livepress24_com",
+    "name": "livepress24.com",
+    "domain": "livepress24.com",
+    "site": "https://livepress24.com",
+    "type": "auto",
+    "rss": "https://livepress24.com/feed/"
+  },
+  {
+    "id": "prottashitoalo_com",
+    "name": "Prottshito Alo",
+    "domain": "prottashitoalo.com",
+    "site": "https://prottashitoalo.com",
+    "type": "auto",
+    "rss": "https://prottashitoalo.com/feed/"
+  },
+  {
+    "id": "gnewsbd24_com",
+    "name": "gnewsbd24.com",
+    "domain": "gnewsbd24.com",
+    "site": "https://gnewsbd24.com",
+    "type": "auto",
+    "rss": "https://gnewsbd24.com/feed/"
+  },
+  {
+    "id": "cbna24_com",
+    "name": "cbna24.com",
+    "domain": "cbna24.com",
+    "site": "https://cbna24.com",
+    "type": "auto",
+    "rss": "https://cbna24.com/feed/"
+  },
+  {
+    "id": "morningsun24_com",
+    "name": "Morningsun24.com",
+    "domain": "morningsun24.com",
+    "site": "https://morningsun24.com",
+    "type": "auto",
+    "rss": "https://morningsun24.com/feed/"
+  },
+  {
+    "id": "dhakareport24_com",
+    "name": "dhakareport24.com",
+    "domain": "dhakareport24.com",
+    "site": "https://dhakareport24.com",
+    "type": "auto",
+    "rss": "https://dhakareport24.com/feed/"
+  },
+  {
+    "id": "thebengalitimes_com",
+    "name": "thebengalitimes.com",
+    "domain": "thebengalitimes.com",
+    "site": "https://thebengalitimes.com",
+    "type": "auto",
+    "rss": "https://thebengalitimes.com/feed/"
+  },
+  {
+    "id": "binodon-sarabela_com",
+    "name": "binodon-sarabela.com",
+    "domain": "binodon-sarabela.com",
+    "site": "https://binodon-sarabela.com",
+    "type": "auto",
+    "rss": "https://binodon-sarabela.com/feed/"
+  },
+  {
+    "id": "bdlawnews_com",
+    "name": "bdlawnews.com",
+    "domain": "bdlawnews.com",
+    "site": "https://bdlawnews.com",
+    "type": "auto",
+    "rss": "https://bdlawnews.com/feed/"
+  },
+  {
+    "id": "shamolbangla24_com",
+    "name": "shamolbangla24.com",
+    "domain": "shamolbangla24.com",
+    "site": "https://shamolbangla24.com",
+    "type": "auto",
+    "rss": "https://shamolbangla24.com/feed/"
+  },
+  {
+    "id": "bangla24live_com",
+    "name": "bangla24live.com",
+    "domain": "bangla24live.com",
+    "site": "https://bangla24live.com",
+    "type": "auto",
+    "rss": "https://bangla24live.com/feed/"
+  },
+  {
+    "id": "yesnews24_com",
+    "name": "নিউজ ২৪",
+    "domain": "yesnews24.com",
+    "site": "https://yesnews24.com",
+    "type": "auto",
+    "rss": "https://yesnews24.com/feed/"
+  },
+  {
+    "id": "sarengbd_com",
+    "name": "sarengbd.com",
+    "domain": "sarengbd.com",
+    "site": "https://sarengbd.com",
+    "type": "auto",
+    "rss": "https://sarengbd.com/feed/"
+  },
+  {
+    "id": "tazakhobor_org",
+    "name": "tazakhobor.org",
+    "domain": "tazakhobor.org",
+    "site": "https://tazakhobor.org",
+    "type": "auto",
+    "rss": "https://tazakhobor.org/feed/"
+  },
+  {
+    "id": "timewatch_com_bd",
+    "name": "timewatch.com.bd",
+    "domain": "timewatch.com.bd",
+    "site": "https://timewatch.com.bd",
+    "type": "auto",
+    "rss": "https://timewatch.com.bd/feed/"
+  },
+  {
+    "id": "crifosports_com",
+    "name": "চীন আন্তর্জাতিক বেতার",
+    "domain": "crifosports.com",
+    "site": "https://crifosports.com",
+    "type": "auto",
+    "rss": "https://crifosports.com/feed/"
+  },
+  {
+    "id": "ntvbd_tv",
+    "name": "এনটিভি",
+    "domain": "ntvbd.tv",
+    "site": "https://ntvbd.tv",
+    "type": "auto",
+    "rss": "https://ntvbd.tv/feed/"
+  },
+  {
+    "id": "channelninebd_tv",
+    "name": "Channel Nine",
+    "domain": "channelninebd.tv",
+    "site": "https://channelninebd.tv",
+    "type": "auto",
+    "rss": "https://channelninebd.tv/feed/"
+  },
+  {
+    "id": "channel-i-tv_com",
+    "name": "চ্যানেল আই",
+    "domain": "channel-i-tv.com",
+    "site": "https://channel-i-tv.com",
+    "type": "auto",
+    "rss": "https://channel-i-tv.com/feed/"
+  },
+  {
+    "id": "digantatv_com",
+    "name": "digantatv.com",
+    "domain": "digantatv.com",
+    "site": "https://digantatv.com",
+    "type": "auto",
+    "rss": "https://digantatv.com/feed/"
+  },
+  {
+    "id": "asiantvonline_com",
+    "name": "Asian TV",
+    "domain": "asiantvonline.com",
+    "site": "https://asiantvonline.com",
+    "type": "auto",
+    "rss": "https://asiantvonline.com/feed/"
+  },
+  {
+    "id": "islamictv_com_bd",
+    "name": "islamictv.com.bd",
+    "domain": "islamictv.com.bd",
+    "site": "https://islamictv.com.bd",
+    "type": "auto",
+    "rss": "https://islamictv.com.bd/feed/"
+  },
+  {
+    "id": "bijoy_tv",
+    "name": "bijoytv.com",
+    "domain": "bijoy.tv",
+    "site": "https://bijoy.tv",
+    "type": "auto",
+    "rss": "https://bijoy.tv/feed/"
+  },
+  {
+    "id": "probashibangla_tv",
+    "name": "probashibangla.tv",
+    "domain": "probashibangla.tv",
+    "site": "https://probashibangla.tv",
+    "type": "auto",
+    "rss": "https://probashibangla.tv/feed/"
+  },
+  {
+    "id": "zeebangla_com",
+    "name": "zeebangla.com",
+    "domain": "zeebangla.com",
+    "site": "https://zeebangla.com",
+    "type": "auto",
+    "rss": "https://zeebangla.com/feed/"
+  },
+  {
+    "id": "peacetvbangla_com",
+    "name": "peacetvbangla.com",
+    "domain": "peacetvbangla.com",
+    "site": "https://peacetvbangla.com",
+    "type": "auto",
+    "rss": "https://peacetvbangla.com/feed/"
+  },
+  {
+    "id": "banglatv_com",
+    "name": "www.banglatv.com",
+    "domain": "banglatv.com",
+    "site": "https://banglatv.com",
+    "type": "auto",
+    "rss": "https://banglatv.com/feed/"
+  },
+  {
+    "id": "chsuk_tv",
+    "name": "chsuk.tv",
+    "domain": "chsuk.tv",
+    "site": "https://chsuk.tv",
+    "type": "auto",
+    "rss": "https://chsuk.tv/feed/"
+  },
+  {
+    "id": "bangla21_tv",
+    "name": "bangla21.tv",
+    "domain": "bangla21.tv",
+    "site": "https://bangla21.tv",
+    "type": "auto",
+    "rss": "https://bangla21.tv/feed/"
+  },
+  {
+    "id": "banglatv_co_uk",
+    "name": "banglatv.co.uk",
+    "domain": "banglatv.co.uk",
+    "site": "https://banglatv.co.uk",
+    "type": "auto",
+    "rss": "https://banglatv.co.uk/feed/"
+  },
+  {
+    "id": "abtvus_com",
+    "name": "বিটিভি",
+    "domain": "abtvus.com",
+    "site": "https://abtvus.com",
+    "type": "auto",
+    "rss": "https://abtvus.com/feed/"
+  },
+  {
+    "id": "csbnewsbd_com",
+    "name": "CSB NEWS",
+    "domain": "csbnewsbd.com",
+    "site": "https://csbnewsbd.com",
+    "type": "auto",
+    "rss": "https://csbnewsbd.com/feed/"
+  },
+  {
+    "id": "noakhali_tv",
+    "name": "noakhali.tv",
+    "domain": "noakhali.tv",
+    "site": "https://noakhali.tv",
+    "type": "auto",
+    "rss": "https://noakhali.tv/feed/"
+  },
+  {
+    "id": "dainikazadi_org",
+    "name": "দৈনিক আজাদী",
+    "domain": "dainikazadi.org",
+    "site": "https://dainikazadi.org",
+    "type": "auto",
+    "rss": "https://dainikazadi.org/feed/"
+  },
+  {
+    "id": "dailysomoyersomikoron_com",
+    "name": "Somoyer Somikoron",
+    "domain": "dailysomoyersomikoron.com",
+    "site": "https://dailysomoyersomikoron.com",
+    "type": "auto",
+    "rss": "https://dailysomoyersomikoron.com/feed/"
+  },
+  {
+    "id": "chattagramnews_com",
+    "name": "Chattagramnews.com",
+    "domain": "chattagramnews.com",
+    "site": "https://chattagramnews.com",
+    "type": "auto",
+    "rss": "https://chattagramnews.com/feed/"
+  },
+  {
+    "id": "satkhiranews_com",
+    "name": "Satkhira News",
+    "domain": "satkhiranews.com",
+    "site": "https://satkhiranews.com",
+    "type": "auto",
+    "rss": "https://satkhiranews.com/feed/"
+  },
+  {
+    "id": "thakurgaonlive_com",
+    "name": "Thakurgaon Live",
+    "domain": "thakurgaonlive.com",
+    "site": "https://thakurgaonlive.com",
+    "type": "auto",
+    "rss": "https://thakurgaonlive.com/feed/"
+  },
+  {
+    "id": "risingcumilla_com",
+    "name": "Rising Cumilla",
+    "domain": "risingcumilla.com",
+    "site": "https://risingcumilla.com",
+    "type": "auto",
+    "rss": "https://risingcumilla.com/feed/"
+  },
+  {
+    "id": "rangpurchitra_com",
+    "name": "Rangpur chitra",
+    "domain": "rangpurchitra.com",
+    "site": "https://rangpurchitra.com",
+    "type": "auto",
+    "rss": "https://rangpurchitra.com/feed/"
+  },
+  {
+    "id": "amaderbrahmanbaria_com",
+    "name": "Amader Brahmanbaria",
+    "domain": "amaderbrahmanbaria.com",
+    "site": "https://amaderbrahmanbaria.com",
+    "type": "auto",
+    "rss": "https://amaderbrahmanbaria.com/feed/"
+  },
+  {
+    "id": "tangailtimes24_com",
+    "name": "tangailtimes24.com",
+    "domain": "tangailtimes24.com",
+    "site": "https://tangailtimes24.com",
+    "type": "auto",
+    "rss": "https://tangailtimes24.com/feed/"
+  },
+  {
+    "id": "kuakatanews_com",
+    "name": "kuakatanews.com",
+    "domain": "kuakatanews.com",
+    "site": "https://kuakatanews.com",
+    "type": "auto",
+    "rss": "https://kuakatanews.com/feed/"
+  },
+  {
+    "id": "onabil_net",
+    "name": "onabil.net",
+    "domain": "onabil.net",
+    "site": "https://onabil.net",
+    "type": "auto",
+    "rss": "https://onabil.net/feed/"
+  },
+  {
+    "id": "ctgbanglanews24_com",
+    "name": "বাংলানিউজ টোয়েন্টিফোর",
+    "domain": "ctgbanglanews24.com",
+    "site": "https://ctgbanglanews24.com",
+    "type": "auto",
+    "rss": "https://ctgbanglanews24.com/feed/"
+  },
+  {
+    "id": "chandpurweb_com",
+    "name": "Chandpurweb.com",
+    "domain": "chandpurweb.com",
+    "site": "https://chandpurweb.com",
+    "type": "auto",
+    "rss": "https://chandpurweb.com/feed/"
+  },
+  {
+    "id": "barisallive24_com",
+    "name": "barisallive24.com",
+    "domain": "barisallive24.com",
+    "site": "https://barisallive24.com",
+    "type": "auto",
+    "rss": "https://barisallive24.com/feed/"
+  },
+  {
+    "id": "sylhetnewsprotidin_com",
+    "name": "sylhetnewsprotidin.com",
+    "domain": "sylhetnewsprotidin.com",
+    "site": "https://sylhetnewsprotidin.com",
+    "type": "auto",
+    "rss": "https://sylhetnewsprotidin.com/feed/"
+  },
+  {
+    "id": "ajkerbarisal_com",
+    "name": "Ajker Barisal",
+    "domain": "ajkerbarisal.com",
+    "site": "https://ajkerbarisal.com",
+    "type": "auto",
+    "rss": "https://ajkerbarisal.com/feed/"
+  },
+  {
+    "id": "cnnbangladesh_com",
+    "name": "cnnbangladesh.com",
+    "domain": "cnnbangladesh.com",
+    "site": "https://cnnbangladesh.com",
+    "type": "auto",
+    "rss": "https://cnnbangladesh.com/feed/"
+  },
+  {
+    "id": "e-kantho24_com",
+    "name": "e-kantho24.com",
+    "domain": "e-kantho24.com",
+    "site": "https://e-kantho24.com",
+    "type": "auto",
+    "rss": "https://e-kantho24.com/feed/"
+  },
+  {
+    "id": "shamprotikshawdesh_com",
+    "name": "shamprotikshawdesh.com",
+    "domain": "shamprotikshawdesh.com",
+    "site": "https://shamprotikshawdesh.com",
+    "type": "auto",
+    "rss": "https://shamprotikshawdesh.com/feed/"
+  },
+  {
+    "id": "ctgnews_com",
+    "name": "ctgnews.com",
+    "domain": "ctgnews.com",
+    "site": "https://ctgnews.com",
+    "type": "auto",
+    "rss": "https://ctgnews.com/feed/"
+  },
+  {
+    "id": "theindependentbd_com",
+    "name": "ইনডিপেনডেন্ট",
+    "domain": "theindependentbd.com",
+    "site": "https://theindependentbd.com",
+    "type": "auto",
+    "rss": "https://theindependentbd.com/feed/"
+  },
+  {
+    "id": "newstoday_com_bd",
+    "name": "News Today",
+    "domain": "newstoday.com.bd",
+    "site": "https://newstoday.com.bd",
+    "type": "auto",
+    "rss": "https://newstoday.com.bd/feed/"
+  },
+  {
+    "id": "thefinancialexpress-bd_com",
+    "name": "ফিন্যান্সিয়াল এক্সপ্রেস",
+    "domain": "thefinancialexpress-bd.com",
+    "site": "https://thefinancialexpress-bd.com",
+    "type": "auto",
+    "rss": "https://thefinancialexpress-bd.com/feed/"
+  },
+  {
+    "id": "australiangazette_com",
+    "name": "Australian Gazette",
+    "domain": "australiangazette.com",
+    "site": "https://australiangazette.com",
+    "type": "auto",
+    "rss": "https://australiangazette.com/feed/"
+  },
+  {
+    "id": "themalaytribune_com",
+    "name": "Malay Tribune",
+    "domain": "themalaytribune.com",
+    "site": "https://themalaytribune.com",
+    "type": "auto",
+    "rss": "https://themalaytribune.com/feed/"
+  },
+  {
+    "id": "abcradiobd_fm",
+    "name": "ABC RADIO",
+    "domain": "abcradiobd.fm",
+    "site": "https://abcradiobd.fm",
+    "type": "auto",
+    "rss": "https://abcradiobd.fm/feed/"
+  },
+  {
+    "id": "radiotodaybd_fm",
+    "name": "Radio Today",
+    "domain": "radiotodaybd.fm",
+    "site": "https://radiotodaybd.fm",
+    "type": "auto",
+    "rss": "https://radiotodaybd.fm/feed/"
+  },
+  {
+    "id": "bangla_irib_ir",
+    "name": "Radio Tehran Bangla",
+    "domain": "bangla.irib.ir",
+    "site": "https://bangla.irib.ir",
+    "type": "auto",
+    "rss": "https://bangla.irib.ir/feed/"
+  },
+  {
+    "id": "dw_de",
+    "name": "ডয়চে ভেলে",
+    "domain": "dw.de",
+    "site": "https://dw.de",
+    "type": "auto",
+    "rss": "https://dw.de/feed/"
+  },
+  {
+    "id": "dhakafm904_com",
+    "name": "Dhaka FM",
+    "domain": "dhakafm904.com",
+    "site": "https://dhakafm904.com",
+    "type": "auto",
+    "rss": "https://dhakafm904.com/feed/"
+  },
+  {
+    "id": "radiofoorti_fm",
+    "name": "Radio Foorti",
+    "domain": "radiofoorti.fm",
+    "site": "https://radiofoorti.fm",
+    "type": "auto",
+    "rss": "https://radiofoorti.fm/feed/"
+  },
+  {
+    "id": "radioaamar_com",
+    "name": "Radio Aamar",
+    "domain": "radioaamar.com",
+    "site": "https://radioaamar.com",
+    "type": "auto",
+    "rss": "https://radioaamar.com/feed/"
+  },
+  {
+    "id": "betar_org_bd",
+    "name": "Bangladesh Betar",
+    "domain": "betar.org.bd",
+    "site": "https://betar.org.bd",
+    "type": "auto",
+    "rss": "https://betar.org.bd/feed/"
+  },
+  {
+    "id": "peoplesradio_fm",
+    "name": "Peoples Radio",
+    "domain": "peoplesradio.fm",
+    "site": "https://peoplesradio.fm",
+    "type": "auto",
+    "rss": "https://peoplesradio.fm/feed/"
+  },
+  {
+    "id": "radioshadhin_fm",
+    "name": "Radio Shadhin",
+    "domain": "radioshadhin.fm",
+    "site": "https://radioshadhin.fm",
+    "type": "auto",
+    "rss": "https://radioshadhin.fm/feed/"
+  },
+  {
+    "id": "radiobhumi_fm",
+    "name": "Radio Bhumi",
+    "domain": "radiobhumi.fm",
+    "site": "https://radiobhumi.fm",
+    "type": "auto",
+    "rss": "https://radiobhumi.fm/feed/"
+  },
+  {
+    "id": "radiotarunno_com",
+    "name": "radiotarunno.com",
+    "domain": "radiotarunno.com",
+    "site": "https://radiotarunno.com",
+    "type": "auto",
+    "rss": "https://radiotarunno.com/feed/"
+  },
+  {
+    "id": "atnradio24_com",
+    "name": "atnradio24.com",
+    "domain": "atnradio24.com",
+    "site": "https://atnradio24.com",
+    "type": "auto",
+    "rss": "https://atnradio24.com/feed/"
+  },
+  {
+    "id": "banglaradio24_com",
+    "name": "banglaradio24.com",
+    "domain": "banglaradio24.com",
+    "site": "https://banglaradio24.com",
+    "type": "auto",
+    "rss": "https://banglaradio24.com/feed/"
+  },
+  {
+    "id": "radioshadhindesh_com",
+    "name": "radioshadhindesh.com",
+    "domain": "radioshadhindesh.com",
+    "site": "https://radioshadhindesh.com",
+    "type": "auto",
+    "rss": "https://radioshadhindesh.com/feed/"
+  },
+  {
+    "id": "radiogoongoon_com",
+    "name": "radiogoongoon.com",
+    "domain": "radiogoongoon.com",
+    "site": "https://radiogoongoon.com",
+    "type": "auto",
+    "rss": "https://radiogoongoon.com/feed/"
+  },
+  {
+    "id": "hellodhaka_net",
+    "name": "hellodhaka.net",
+    "domain": "hellodhaka.net",
+    "site": "https://hellodhaka.net",
+    "type": "auto",
+    "rss": "https://hellodhaka.net/feed/"
+  },
+  {
+    "id": "radio2fun_com",
+    "name": "radio2fun.com",
+    "domain": "radio2fun.com",
+    "site": "https://radio2fun.com",
+    "type": "auto",
+    "rss": "https://radio2fun.com/feed/"
+  },
+  {
+    "id": "radiodurbar_com",
+    "name": "radiodurbar.com",
+    "domain": "radiodurbar.com",
+    "site": "https://radiodurbar.com",
+    "type": "auto",
+    "rss": "https://radiodurbar.com/feed/"
+  },
+  {
+    "id": "radiomunna_com",
+    "name": "radiomunna.com",
+    "domain": "radiomunna.com",
+    "site": "https://radiomunna.com",
+    "type": "auto",
+    "rss": "https://radiomunna.com/feed/"
+  },
+  {
+    "id": "jago_fm",
+    "name": "jago.fm",
+    "domain": "jago.fm",
+    "site": "https://jago.fm",
+    "type": "auto",
+    "rss": "https://jago.fm/feed/"
+  },
+  {
+    "id": "radiobangla_it",
+    "name": "radiobangla.it",
+    "domain": "radiobangla.it",
+    "site": "https://radiobangla.it",
+    "type": "auto",
+    "rss": "https://radiobangla.it/feed/"
+  },
+  {
+    "id": "radiosaradin_com",
+    "name": "radiosaradin.com",
+    "domain": "radiosaradin.com",
+    "site": "https://radiosaradin.com",
+    "type": "auto",
+    "rss": "https://radiosaradin.com/feed/"
+  },
+  {
+    "id": "liveonlineradio_net",
+    "name": "radio-dream-24",
+    "domain": "liveonlineradio.net",
+    "site": "https://liveonlineradio.net",
+    "type": "auto",
+    "rss": "https://liveonlineradio.net/feed/"
+  },
+  {
+    "id": "radiocirclebd_com",
+    "name": "radiocirclebd.com",
+    "domain": "radiocirclebd.com",
+    "site": "https://radiocirclebd.com",
+    "type": "auto",
+    "rss": "https://radiocirclebd.com/feed/"
+  },
+  {
+    "id": "radiobd24_com",
+    "name": "radiobd24.com",
+    "domain": "radiobd24.com",
+    "site": "https://radiobd24.com",
+    "type": "auto",
+    "rss": "https://radiobd24.com/feed/"
+  },
+  {
+    "id": "banglawadio_com",
+    "name": "banglawadio.com",
+    "domain": "banglawadio.com",
+    "site": "https://banglawadio.com",
+    "type": "auto",
+    "rss": "https://banglawadio.com/feed/"
+  },
+  {
+    "id": "radioadda_net",
+    "name": "radioadda.net",
+    "domain": "radioadda.net",
+    "site": "https://radioadda.net",
+    "type": "auto",
+    "rss": "https://radioadda.net/feed/"
+  },
+  {
+    "id": "edition_cnn_com",
+    "name": "CNN NEWS",
+    "domain": "edition.cnn.com",
+    "site": "https://edition.cnn.com",
+    "type": "auto",
+    "rss": "https://edition.cnn.com/feed/"
+  },
+  {
+    "id": "english_alarabiya_net",
+    "name": "Al Arabiya",
+    "domain": "english.alarabiya.net",
+    "site": "https://english.alarabiya.net",
+    "type": "auto",
+    "rss": "https://english.alarabiya.net/feed/"
+  },
+  {
+    "id": "kbs_co_kr",
+    "name": "KBS TV",
+    "domain": "kbs.co.kr",
+    "site": "https://kbs.co.kr",
+    "type": "auto",
+    "rss": "https://kbs.co.kr/feed/"
+  },
+  {
+    "id": "english_cntv_cn",
+    "name": "CCTV Chaina",
+    "domain": "english.cntv.cn",
+    "site": "https://english.cntv.cn",
+    "type": "auto",
+    "rss": "https://english.cntv.cn/feed/"
+  },
+  {
+    "id": "bengali_news18_com",
+    "name": "News18 Bangla",
+    "domain": "bengali.news18.com",
+    "site": "https://bengali.news18.com",
+    "type": "auto",
+    "rss": "https://bengali.news18.com/feed/"
+  },
+  {
+    "id": "zeenews_india_com",
+    "name": "Zee 24 Ghanta",
+    "domain": "zeenews.india.com",
+    "site": "https://zeenews.india.com",
+    "type": "auto",
+    "rss": "https://zeenews.india.com/feed/"
+  },
+  {
+    "id": "abplive_com",
+    "name": "ABP Bangla",
+    "domain": "abplive.com",
+    "site": "https://abplive.com",
+    "type": "auto",
+    "rss": "https://abplive.com/feed/"
+  },
+  {
+    "id": "asomiyapratidin_in",
+    "name": "asomiyapratidin.in",
+    "domain": "asomiyapratidin.in",
+    "site": "https://asomiyapratidin.in",
+    "type": "auto",
+    "rss": "https://asomiyapratidin.in/feed/"
+  },
+  {
+    "id": "dailydesherkatha_net",
+    "name": "Desherkatha",
+    "domain": "dailydesherkatha.net",
+    "site": "https://dailydesherkatha.net",
+    "type": "auto",
+    "rss": "https://dailydesherkatha.net/feed/"
+  },
+  {
+    "id": "bengali_oneindia_com",
+    "name": "One India Bengali",
+    "domain": "bengali.oneindia.com",
+    "site": "https://bengali.oneindia.com",
+    "type": "auto",
+    "rss": "https://bengali.oneindia.com/feed/"
+  },
+  {
+    "id": "epaper_eisamay_com",
+    "name": "epaper.eisamay.com",
+    "domain": "epaper.eisamay.com",
+    "site": "https://epaper.eisamay.com",
+    "type": "auto",
+    "rss": "https://epaper.eisamay.com/feed/"
+  },
+  {
+    "id": "dainikjanambhumi_co_in",
+    "name": "Dainik Janam Bhumi",
+    "domain": "dainikjanambhumi.co.in",
+    "site": "https://dainikjanambhumi.co.in",
+    "type": "auto",
+    "rss": "https://dainikjanambhumi.co.in/feed/"
+  },
+  {
+    "id": "suprovat_com",
+    "name": "suprovat.com",
+    "domain": "suprovat.com",
+    "site": "https://suprovat.com",
+    "type": "auto",
+    "rss": "https://suprovat.com/feed/"
+  },
+  {
+    "id": "jagarantripura_com",
+    "name": "জাগরণ",
+    "domain": "jagarantripura.com",
+    "site": "https://jagarantripura.com",
+    "type": "auto",
+    "rss": "https://jagarantripura.com/feed/"
+  },
+  {
+    "id": "ekdin-epaper_com",
+    "name": "Ekdin",
+    "domain": "ekdin-epaper.com",
+    "site": "https://ekdin-epaper.com",
+    "type": "auto",
+    "rss": "https://ekdin-epaper.com/feed/"
+  },
+  {
+    "id": "ganadabi_com",
+    "name": "Ganadabi",
+    "domain": "ganadabi.com",
+    "site": "https://ganadabi.com",
+    "type": "auto",
+    "rss": "https://ganadabi.com/feed/"
+  },
+  {
+    "id": "nababartaprasanga_com",
+    "name": "nababartaprasanga.com",
+    "domain": "nababartaprasanga.com",
+    "site": "https://nababartaprasanga.com",
+    "type": "auto",
+    "rss": "https://nababartaprasanga.com/feed/"
+  },
+  {
+    "id": "puberkalom_com",
+    "name": "Purber Kalom",
+    "domain": "puberkalom.com",
+    "site": "https://puberkalom.com",
+    "type": "auto",
+    "rss": "https://puberkalom.com/feed/"
+  },
+  {
+    "id": "banglahunt_com",
+    "name": "Bangla Hunt",
+    "domain": "banglahunt.com",
+    "site": "https://banglahunt.com",
+    "type": "auto",
+    "rss": "https://banglahunt.com/feed/"
+  },
+  {
+    "id": "weeklyajkal_com",
+    "name": "Weekly Ajkal",
+    "domain": "weeklyajkal.com",
+    "site": "https://weeklyajkal.com",
+    "type": "auto",
+    "rss": "https://weeklyajkal.com/feed/"
+  },
+  {
+    "id": "ghurunchi_com",
+    "name": "Gurunchi Magazine",
+    "domain": "ghurunchi.com",
+    "site": "https://ghurunchi.com",
+    "type": "auto",
+    "rss": "https://ghurunchi.com/feed/"
+  },
+  {
+    "id": "weeklybangalee_com",
+    "name": "Bangalee",
+    "domain": "weeklybangalee.com",
+    "site": "https://weeklybangalee.com",
+    "type": "auto",
+    "rss": "https://weeklybangalee.com/feed/"
+  },
+  {
+    "id": "dhakacourier_com_bd",
+    "name": "Dhaka Courier",
+    "domain": "dhakacourier.com.bd",
+    "site": "https://dhakacourier.com.bd",
+    "type": "auto",
+    "rss": "https://dhakacourier.com.bd/feed/"
+  },
+  {
+    "id": "bichitra_org",
+    "name": "Bichitra Magazine",
+    "domain": "bichitra.org",
+    "site": "https://bichitra.org",
+    "type": "auto",
+    "rss": "https://bichitra.org/feed/"
+  },
+  {
+    "id": "comjagat_com",
+    "name": "Computer Jagat",
+    "domain": "comjagat.com",
+    "site": "https://comjagat.com",
+    "type": "auto",
+    "rss": "https://comjagat.com/feed/"
+  },
+  {
+    "id": "kaliokalam_com",
+    "name": "কালি ও কলম",
+    "domain": "kaliokalam.com",
+    "site": "https://kaliokalam.com",
+    "type": "auto",
+    "rss": "https://kaliokalam.com/feed/"
+  },
+  {
+    "id": "scientificbangladesh_com",
+    "name": "Scientific Bangladesh",
+    "domain": "scientificbangladesh.com",
+    "site": "https://scientificbangladesh.com",
+    "type": "auto",
+    "rss": "https://scientificbangladesh.com/feed/"
+  },
+  {
+    "id": "bangladeshmonitor_net",
+    "name": "Bangladesh Monitor",
+    "domain": "bangladeshmonitor.net",
+    "site": "https://bangladeshmonitor.net",
+    "type": "auto",
+    "rss": "https://bangladeshmonitor.net/feed/"
+  },
+  {
+    "id": "nayadigantajobs_com",
+    "name": "নয়া দিগন্ত",
+    "domain": "nayadigantajobs.com",
+    "site": "https://nayadigantajobs.com",
+    "type": "auto",
+    "rss": "https://nayadigantajobs.com/feed/"
+  },
+  {
+    "id": "espncricinfo_com",
+    "name": "চীন আন্তর্জাতিক বেতার",
+    "domain": "espncricinfo.com",
+    "site": "https://espncricinfo.com",
+    "type": "auto",
+    "rss": "https://espncricinfo.com/feed/"
+  }
+]

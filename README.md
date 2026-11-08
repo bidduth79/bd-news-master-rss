@@ -1,2 +1,19 @@
-# bd-news-master-rss
-Master RSS Feed &amp; Scrapers for Bangladesh Newspapers (National &amp; Regional)
+# 🇧🇩 বাংলাদেশ সংবাদপত্র মাস্টার আরএসএস হাব (BD Newspapers Master RSS)
+
+সকল জাতীয়, আঞ্চলিক ও স্থানীয় পত্রিকার সংবাদের কেন্দ্রীয় মাস্টার আরএসএস (Master RSS) ফিড জেনারেটর।
+
+## 🔗 লাইভ লিঙ্কসমূহ
+
+* **🌐 ওয়েবসাইট ড্যাশবোর্ড:** [https://bidduth79.github.io/bd-news-master-rss/](https://bidduth79.github.io/bd-news-master-rss/)
+* **★ মাস্টার আরএসএস ফিড (Master RSS Feed):**  
+  `https://bidduth79.github.io/bd-news-master-rss/master_rss.xml`  
+  *(এই একটি মাত্র লিংক Inoreader বা যেকোনো আরএসএস রিডারে সাবস্ক্রাইব করলে সকল জাতীয় ও স্থানীয় পত্রিকার তাজা খবর এক সাথে পাওয়া যাবে)*
+* **📥 Inoreader OPML ফাইল (১-ক্লিক ইমপোর্ট):**  
+  `https://bidduth79.github.io/bd-news-master-rss/all_feeds.opml`
+
+---
+
+## ⚡ সুবিধাসমূহ
+1. **সকল পত্রিকা এক সাথে:** জাতীয় শীর্ষ পত্রিকা থেকে শুরু করে যেসব স্থানীয় পত্রিকার কোনো নিজস্ব RSS নেই (যেমন: দৈনিক মাথাভাঙ্গা, গ্রামের কাগজ, গ্রাম নগর বার্তা ইত্যাদি)—সবগুলো স্ক্র্যাপ করে আরএসএস তৈরি করা হয়েছে।
+2. **সম্পূর্ণ স্বয়ংক্রিয় (Automated):** GitHub Actions ক্রন-জব প্রতি ২ ঘণ্টা পর পর স্বয়ংক্রিয়ভাবে নতুন সংবাদ সংগ্রহ করে ফিড আপডেট করে।
+3. **১০০% ফ্রি ও লাইফটাইম:** কোনো থার্ড-পার্টি সাবস্ক্রিপশন ফি বা মেয়াদ শেষের ভয় নেই।
