@@ -46,7 +46,7 @@ def parse_rss_items(xml_str, source_name):
             
             if title and link:
                 items.append({
-                    'title': f"[{source_name}] {title}",
+                    'title': title,
                     'raw_title': title,
                     'link': link.strip(),
                     'source': source_name,
@@ -81,7 +81,7 @@ def scrape_homepage_articles(url, source_name):
                     seen.add(full_url)
                     clean_title = text.split('schedule')[0].strip()
                     articles.append({
-                        'title': f"[{source_name}] {clean_title}",
+                        'title': clean_title,
                         'raw_title': clean_title,
                         'link': full_url,
                         'source': source_name,
