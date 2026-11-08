@@ -7,11 +7,10 @@ import urllib.request
 import urllib.parse
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime, timezone
-from email.utils import format_datetime, parsedate_to_datetime
+from email.utils import format_datetime
 import xml.etree.ElementTree as ET
 from bs4 import BeautifulSoup
 
-# Base URL for GitHub Pages
 BASE_URL = "https://bidduth79.github.io/bd-news-master-rss"
 
 ctx = ssl.create_default_context()
@@ -23,7 +22,7 @@ HEADERS = {
     'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
 }
 
-def fetch_url(url, timeout=7):
+def fetch_url(url, timeout=5):
     req = urllib.request.Request(url, headers=HEADERS)
     with urllib.request.urlopen(req, timeout=timeout, context=ctx) as resp:
         return resp.read().decode('utf-8', errors='ignore')
@@ -31,21 +30,19 @@ def fetch_url(url, timeout=7):
 def parse_rss_items(xml_str, source_name):
     items = []
     try:
-        # Strip potential garbage before <?xml
         if '<?xml' in xml_str:
             xml_str = xml_str[xml_str.find('<?xml'):]
         elif '<rss' in xml_str:
             xml_str = xml_str[xml_str.find('<rss'):]
         root = ET.fromstring(xml_str)
-        for item in root.findall('.//item')[:10]:
+        for item in root.findall('.//item')[:15]:
             title = item.findtext('title') or ''
             link = item.findtext('link') or ''
             pub_date = item.findtext('pubDate') or ''
             desc = item.findtext('description') or ''
             
-            # Clean html tags from title
             title = re.sub(r'<[^>]+>', '', title).strip()
-            desc = re.sub(r'<[^>]+>', '', desc).strip()[:250]
+            desc = re.sub(r'<[^>]+>', '', desc).strip()[:300]
             
             if title and link:
                 items.append({
@@ -60,102 +57,84 @@ def parse_rss_items(xml_str, source_name):
         pass
     return items
 
-# Scraper for Mathabhanga
-def scrape_mathabhanga(source):
+def scrape_homepage_articles(url, source_name):
     articles = []
     try:
-        html = fetch_url('https://mathabhanga.com')
+        html = fetch_url(url, timeout=5)
         soup = BeautifulSoup(html, 'html.parser')
         seen = set()
+        
+        # Collect candidate anchor tags
         for a in soup.find_all('a', href=True):
             href = a['href']
             text = a.get_text(' ', strip=True)
-            if text and len(text) > 15 and any(k in href for k in ['/শীর্ষ-সংবাদ/', '/এলাকার-খবর/', '/সারাদেশ/', '/রাজনীতি/']):
-                full_url = urllib.parse.urljoin('https://mathabhanga.com', href)
+            # Must have Bengali characters and reasonable headline length
+            if text and len(text) >= 16 and re.search(r'[\u0980-\u09FF]', text):
+                # Exclude menu items, categories, tags, policies
+                if any(x in href.lower() for x in ['tag/', 'category/', 'author/', 'archive/', 'privacy', 'about', 'contact', 'terms', 'signin', 'login']):
+                    continue
+                if any(x == text for x in ['হোম', 'বাংলাদেশ', 'আন্তর্জাতিক', 'খেলা', 'বিনোদন', 'অর্থনীতি', 'মতামত', 'লাইভ']):
+                    continue
+                
+                full_url = urllib.parse.urljoin(url, href)
                 if full_url not in seen:
                     seen.add(full_url)
                     clean_title = text.split('schedule')[0].strip()
                     articles.append({
-                        'title': f"[{source['name']}] {clean_title}",
+                        'title': f"[{source_name}] {clean_title}",
                         'raw_title': clean_title,
                         'link': full_url,
-                        'source': source['name'],
+                        'source': source_name,
                         'pubDate': format_datetime(datetime.now(timezone.utc)),
                         'desc': clean_title
                     })
-    except Exception as e:
-        print(f"Error scraping Mathabhanga: {e}")
-    return articles[:15]
+            if len(articles) >= 15:
+                break
+    except Exception:
+        pass
+    return articles
 
-# Scraper for Gramer Kagoj
-def scrape_gramerkagoj(source):
-    articles = []
-    try:
-        html = fetch_url('https://www.gramerkagoj.com')
-        soup = BeautifulSoup(html, 'html.parser')
-        seen = set()
-        for a in soup.find_all('a', href=True):
-            href = a['href']
-            text = a.get_text(' ', strip=True)
-            if text and len(text) > 18 and any(k in href for k in ['/national/', '/jashore/', '/khulna/', '/country/', '/sports/']):
-                full_url = urllib.parse.urljoin('https://www.gramerkagoj.com', href)
-                if full_url not in seen:
-                    seen.add(full_url)
-                    articles.append({
-                        'title': f"[{source['name']}] {text}",
-                        'raw_title': text,
-                        'link': full_url,
-                        'source': source['name'],
-                        'pubDate': format_datetime(datetime.now(timezone.utc)),
-                        'desc': text
-                    })
-    except Exception as e:
-        print(f"Error scraping Gramer Kagoj: {e}")
-    return articles[:15]
-
-# Scraper for Gram Nagar Barta
-def scrape_gramnagarbarta(source):
-    articles = []
-    try:
-        html = fetch_url('https://gramnagarbarta.com')
-        soup = BeautifulSoup(html, 'html.parser')
-        seen = set()
-        for a in soup.find_all('a', href=True):
-            href = a['href']
-            text = a.get_text(' ', strip=True)
-            if text and len(text) > 20 and not any(k in href.lower() for k in ['tag', 'category', 'author']):
-                full_url = urllib.parse.urljoin('https://gramnagarbarta.com', href)
-                if full_url not in seen:
-                    seen.add(full_url)
-                    articles.append({
-                        'title': f"[{source['name']}] {text}",
-                        'raw_title': text,
-                        'link': full_url,
-                        'source': source['name'],
-                        'pubDate': format_datetime(datetime.now(timezone.utc)),
-                        'desc': text
-                    })
-    except Exception as e:
-        print(f"Error scraping Gram Nagar Barta: {e}")
-    return articles[:15]
-
-def process_source(source):
+def process_single_source(source):
     s_id = source['id']
-    s_type = source.get('type')
+    s_name = source['name']
+    s_domain = source['domain']
     items = []
-    
-    if source['domain'] == 'mathabhanga.com':
-        items = scrape_mathabhanga(source)
-    elif source['domain'] == 'gramerkagoj.com':
-        items = scrape_gramerkagoj(source)
-    elif source['domain'] == 'gramnagarbarta.com':
-        items = scrape_gramnagarbarta(source)
-    elif source.get('rss'):
+
+    # 1. Try explicitly configured RSS if present
+    if source.get('rss'):
         try:
-            content = fetch_url(source['rss'], timeout=6)
-            items = parse_rss_items(content, source['name'])
+            content = fetch_url(source['rss'], timeout=5)
+            items = parse_rss_items(content, s_name)
         except Exception:
             pass
+
+    # 2. If no items yet, try standard RSS paths
+    if not items:
+        standard_feeds = [
+            f"https://{s_domain}/feed/",
+            f"https://{s_domain}/rss.xml",
+            f"http://{s_domain}/feed/",
+            f"https://www.{s_domain}/feed/",
+            f"https://{s_domain}/?feed=rss2"
+        ]
+        for feed_url in standard_feeds:
+            try:
+                content = fetch_url(feed_url, timeout=4)
+                if 'xml' in content[:100].lower() or '<rss' in content[:200].lower():
+                    parsed = parse_rss_items(content, s_name)
+                    if parsed:
+                        items = parsed
+                        break
+            except Exception:
+                continue
+
+    # 3. If still no items, run Universal Homepage Scraper
+    if not items:
+        for proto in ['https', 'http']:
+            home_url = f"{proto}://{s_domain}"
+            items = scrape_homepage_articles(home_url, s_name)
+            if items:
+                break
 
     return s_id, source, items
 
@@ -183,98 +162,7 @@ def build_feed_xml(title, link, desc, items, output_file):
     ET.indent(tree, space='  ', level=0)
     tree.write(output_file, encoding='utf-8', xml_declaration=True)
 
-def main():
-    root_dir = os.path.dirname(os.path.abspath(__file__))
-    sources_file = os.path.join(root_dir, 'sources.json')
-    feeds_dir = os.path.join(root_dir, 'feeds')
-    os.makedirs(feeds_dir, exist_ok=True)
-
-    with open(sources_file, 'r', encoding='utf-8') as f:
-        sources = json.load(f)
-
-    print(f"Starting news aggregation for {len(sources)} sources...")
-
-    # We prioritize active custom scrapers and known good RSS feeds (first ~60-80 top sources)
-    # to maintain fast run times on GitHub Actions
-    priority_sources = [s for s in sources if s.get('type') in ['scraper', 'rss']][:80]
-    
-    all_master_items = []
-    active_sources = []
-
-    with ThreadPoolExecutor(max_workers=15) as executor:
-        futures = {executor.submit(process_source, s): s for s in priority_sources}
-        for future in as_completed(futures):
-            s_id, s_info, items = future.result()
-            if items:
-                active_sources.append(s_info)
-                # Build individual feed
-                feed_path = os.path.join(feeds_dir, f"{s_id}.xml")
-                build_feed_xml(
-                    title=f"{s_info['name']} - আরএসএস ফিড",
-                    link=s_info['site'],
-                    desc=f"{s_info['name']} এর সর্বশেষ খবর",
-                    items=items,
-                    output_file=feed_path
-                )
-                all_master_items.extend(items)
-                print(f"[OK] {s_info['name']}: {len(items)} items")
-
-    # Deduplicate master items by link
-    seen_links = set()
-    deduped_master = []
-    for item in all_master_items:
-        if item['link'] not in seen_links:
-            seen_links.add(item['link'])
-            deduped_master.append(item)
-
-    print(f"\nTotal aggregated items across all sources: {len(deduped_master)}")
-    
-    # Write master_rss.xml
-    master_path = os.path.join(root_dir, 'master_rss.xml')
-    build_feed_xml(
-        title="বাংলাদেশ সংবাদপত্র মাস্টার আরএসএস (All-in-One Master Feed)",
-        link=BASE_URL,
-        desc="জাতীয় ও স্থানীয় সকল পত্রিকার সকল সর্বশেষ খবরের সম্মিলিত মাস্টার আরএসএস ফিড",
-        items=deduped_master[:250],
-        output_file=master_path
-    )
-    print(f"[SUCCESS] master_rss.xml generated with {len(deduped_master[:250])} top items!")
-
-    # Build all_feeds.opml for Inoreader import
-    opml = ET.Element('opml', version='2.0')
-    head = ET.SubElement(opml, 'head')
-    ET.SubElement(head, 'title').text = 'Bangladesh Newspapers RSS Feeds'
-    body = ET.SubElement(opml, 'body')
-
-    folder = ET.SubElement(body, 'outline', text='বাংলাদেশ সংবাদপত্র ও লোকাল পত্রিকা', title='বাংলাদেশ সংবাদপত্র ও লোকাল পত্রিকা')
-    # Add Master Feed first
-    ET.SubElement(folder, 'outline', 
-                  type='rss', 
-                  text='★ মাস্টার আরএসএস ফিড (সব পত্রিকা একসাথে)', 
-                  title='★ মাস্টার আরএসএস ফিড (সব পত্রিকা একসাথে)', 
-                  xmlUrl=f"{BASE_URL}/master_rss.xml", 
-                  htmlUrl=BASE_URL)
-
-    for s in active_sources:
-        s_id = s['id']
-        feed_url = f"{BASE_URL}/feeds/{s_id}.xml"
-        ET.SubElement(folder, 'outline', 
-                      type='rss', 
-                      text=s['name'], 
-                      title=s['name'], 
-                      xmlUrl=feed_url, 
-                      htmlUrl=s['site'])
-
-    opml_tree = ET.ElementTree(opml)
-    ET.indent(opml_tree, space='  ', level=0)
-    opml_path = os.path.join(root_dir, 'all_feeds.opml')
-    opml_tree.write(opml_path, encoding='utf-8', xml_declaration=True)
-    print(f"[SUCCESS] all_feeds.opml generated with {len(active_sources) + 1} feeds!")
-
-    # Build index.html Dashboard
-    build_html_dashboard(root_dir, active_sources, len(deduped_master))
-
-def build_html_dashboard(root_dir, active_sources, total_items_count):
+def build_html_dashboard(root_dir, active_sources, total_items_count, total_sources_count):
     cards_html = ""
     for s in sorted(active_sources, key=lambda x: x['name']):
         s_id = s['id']
@@ -283,7 +171,7 @@ def build_html_dashboard(root_dir, active_sources, total_items_count):
         <div class="card" data-name="{s['name'].lower()} {s['domain'].lower()}">
             <div class="card-header">
                 <h3>{s['name']}</h3>
-                <span class="badge">সচল</span>
+                <span class="badge">সচল ({s['item_count']} খবর)</span>
             </div>
             <p class="site-link"><a href="{s['site']}" target="_blank">🌐 {s['domain']}</a></p>
             <div class="url-box">
@@ -298,22 +186,40 @@ def build_html_dashboard(root_dir, active_sources, total_items_count):
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>বাংলাদেশ সংবাদপত্র মাস্টার আরএসএস ফিড (BD Newspapers Master RSS)</title>
+    <title>বাংলাদেশ সংবাদপত্র মাস্টার আরএসএস হাব (BD Newspapers Master RSS)</title>
     <link href="https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@400;600;700&display=swap" rel="stylesheet">
     <style>
         * {{ margin: 0; padding: 0; box-sizing: border-box; }}
         body {{ font-family: 'Hind Siliguri', sans-serif; background: #f0f4f8; color: #1e293b; padding: 20px; }}
-        .container {{ max-width: 1000px; margin: 0 auto; }}
-        header {{ text-align: center; margin-bottom: 30px; }}
-        h1 {{ font-size: 32px; color: #0f172a; margin-bottom: 10px; }}
+        .container {{ max-width: 1100px; margin: 0 auto; }}
+        header {{ text-align: center; margin-bottom: 25px; }}
+        h1 {{ font-size: 32px; color: #0f172a; margin-bottom: 8px; }}
         p.subtitle {{ color: #475569; font-size: 18px; }}
         
+        .stats-bar {{
+            display: flex;
+            gap: 15px;
+            justify-content: center;
+            margin-bottom: 25px;
+            flex-wrap: wrap;
+        }}
+        .stat-card {{
+            background: white;
+            padding: 12px 24px;
+            border-radius: 12px;
+            border: 1px solid #e2e8f0;
+            text-align: center;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.03);
+        }}
+        .stat-num {{ font-size: 24px; font-weight: 700; color: #2563eb; }}
+        .stat-label {{ font-size: 14px; color: #64748b; }}
+
         .master-box {{
-            background: linear-gradient(135deg, #1e3a8a, #3b82f6);
+            background: linear-gradient(135deg, #1e3a8a, #2563eb);
             color: white;
             padding: 25px;
             border-radius: 16px;
-            box-shadow: 0 10px 25px -5px rgba(59, 130, 246, 0.4);
+            box-shadow: 0 10px 25px -5px rgba(37, 99, 235, 0.4);
             margin-bottom: 30px;
         }}
         .master-box h2 {{ font-size: 24px; margin-bottom: 8px; display: flex; align-items: center; gap: 8px; }}
@@ -353,7 +259,7 @@ def build_html_dashboard(root_dir, active_sources, total_items_count):
             gap: 15px;
             margin-bottom: 25px;
         }}
-        .search-box {{ flex: 1; max-width: 400px; }}
+        .search-box {{ flex: 1; max-width: 450px; }}
         .search-box input {{
             width: 100%;
             padding: 12px 18px;
@@ -362,11 +268,11 @@ def build_html_dashboard(root_dir, active_sources, total_items_count):
             font-size: 16px;
             font-family: inherit;
         }}
-        .search-box input:focus {{ border-color: #3b82f6; outline: none; }}
+        .search-box input:focus {{ border-color: #2563eb; outline: none; }}
         
         .grid {{
             display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
             gap: 15px;
         }}
         .card {{
@@ -397,26 +303,41 @@ def build_html_dashboard(root_dir, active_sources, total_items_count):
         .url-box button {{
             padding: 8px 14px;
             border: none;
-            background: #3b82f6;
+            background: #2563eb;
             color: white;
             border-radius: 6px;
             cursor: pointer;
             font-size: 13px;
             font-family: inherit;
         }}
-        .url-box button:hover {{ background: #2563eb; }}
+        .url-box button:hover {{ background: #1d4ed8; }}
     </style>
 </head>
 <body>
     <div class="container">
         <header>
             <h1>🇧🇩 বাংলাদেশ সংবাদপত্র মাস্টার আরএসএস হাব</h1>
-            <p class="subtitle">সকল জাতীয়, আঞ্চলিক ও স্থানীয় পত্রিকার স্বয়ংক্রিয় লাইভ RSS ফিড</p>
+            <p class="subtitle">সকল জাতীয়, আঞ্চলিক ও স্থানীয় পত্রিকার সংবাদের কেন্দ্রীয় আরএসএস নেটওয়ার্ক</p>
         </header>
 
+        <div class="stats-bar">
+            <div class="stat-card">
+                <div class="stat-num">{total_sources_count}</div>
+                <div class="stat-label">মোট তালিকাভুক্ত পত্রিকা</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-num">{len(active_sources)}</div>
+                <div class="stat-label">সফল ও সচল ফিড</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-num">{total_items_count}</div>
+                <div class="stat-label">সর্বমোট সংগৃহীত তাজা খবর</div>
+            </div>
+        </div>
+
         <div class="master-box">
-            <h2>★ মাস্টার আরএসএস ফিড (Master RSS Feed)</h2>
-            <p>এই একটি মাত্র লিংক Inoreader বা যেকোনো আরএসএস রিডারে যোগ করলে একসাথে সকল জাতীয় ও স্থানীয় পত্রিকার তাজা খবর পেয়ে যাবেন।</p>
+            <h2>★ কেন্দ্রীয় মাস্টার আরএসএস ফিড (Master RSS Feed)</h2>
+            <p>এই একটি মাত্র লিংক Inoreader বা যেকোনো আরএসএস রিডারে সাবস্ক্রাইব করলে সবগুলো পত্রিকার সর্বশেষ সংবাদ একসাথে সরাসরি চলে আসবে।</p>
             <div class="copy-group">
                 <input type="text" value="{BASE_URL}/master_rss.xml" id="master_url" readonly>
                 <button class="btn btn-success" onclick="copyToClipboard('master_url', this)">মাস্টার লিংক কপি</button>
@@ -428,7 +349,7 @@ def build_html_dashboard(root_dir, active_sources, total_items_count):
                 <input type="text" id="searchInput" placeholder="🔍 পত্রিকা বা ডোমেইন সার্চ করুন..." onkeyup="filterCards()">
             </div>
             <div>
-                <a href="{BASE_URL}/all_feeds.opml" download class="btn btn-dark">📥 ১-ক্লিকে Inoreader OPML ডাউনলোড</a>
+                <a href="{BASE_URL}/all_feeds.opml" download class="btn btn-dark">📥 ১-ক্লিকে Inoreader OPML ফাইল ডাউনলোড</a>
             </div>
         </div>
 
@@ -466,7 +387,99 @@ def build_html_dashboard(root_dir, active_sources, total_items_count):
     """
     with open(os.path.join(root_dir, 'index.html'), 'w', encoding='utf-8') as f:
         f.write(html)
-    print("[SUCCESS] index.html dashboard generated!")
+
+def main():
+    root_dir = os.path.dirname(os.path.abspath(__file__))
+    sources_file = os.path.join(root_dir, 'sources.json')
+    feeds_dir = os.path.join(root_dir, 'feeds')
+    os.makedirs(feeds_dir, exist_ok=True)
+
+    with open(sources_file, 'r', encoding='utf-8') as f:
+        sources = json.load(f)
+
+    print(f"Aggregating ALL {len(sources)} newspaper sources...")
+
+    all_master_items = []
+    active_sources = []
+
+    # Run across ALL sources concurrently
+    with ThreadPoolExecutor(max_workers=35) as executor:
+        futures = {executor.submit(process_single_source, s): s for s in sources}
+        completed_count = 0
+        for future in as_completed(futures):
+            completed_count += 1
+            s_id, s_info, items = future.result()
+            if items:
+                s_info['item_count'] = len(items)
+                active_sources.append(s_info)
+                # Build individual feed
+                feed_path = os.path.join(feeds_dir, f"{s_id}.xml")
+                build_feed_xml(
+                    title=f"{s_info['name']} - আরএসএস ফিড",
+                    link=s_info['site'],
+                    desc=f"{s_info['name']} এর সর্বশেষ খবর",
+                    items=items,
+                    output_file=feed_path
+                )
+                all_master_items.extend(items)
+                if completed_count % 25 == 0 or len(items) > 0:
+                    print(f"[{completed_count}/{len(sources)}] [OK] {s_info['name']}: {len(items)} items")
+
+    # Deduplicate master items by link
+    seen_links = set()
+    deduped_master = []
+    for item in all_master_items:
+        if item['link'] not in seen_links:
+            seen_links.add(item['link'])
+            deduped_master.append(item)
+
+    print(f"\nTotal active newspapers with news: {len(active_sources)}")
+    print(f"Total deduplicated news articles: {len(deduped_master)}")
+    
+    # Write master_rss.xml with top 500 items
+    master_path = os.path.join(root_dir, 'master_rss.xml')
+    build_feed_xml(
+        title="বাংলাদেশ সংবাদপত্র মাস্টার আরএসএস (All-in-One Master Feed)",
+        link=BASE_URL,
+        desc="সকল জাতীয় ও স্থানীয় পত্রিকার সকল সর্বশেষ খবরের সম্মিলিত মাস্টার আরএসএস ফিড",
+        items=deduped_master[:500],
+        output_file=master_path
+    )
+    print(f"[SUCCESS] master_rss.xml updated with {len(deduped_master[:500])} items!")
+
+    # Build all_feeds.opml
+    opml = ET.Element('opml', version='2.0')
+    head = ET.SubElement(opml, 'head')
+    ET.SubElement(head, 'title').text = 'Bangladesh Newspapers All Feeds'
+    body = ET.SubElement(opml, 'body')
+
+    folder = ET.SubElement(body, 'outline', text='বাংলাদেশ সকল সংবাদপত্র', title='বাংলাদেশ সকল সংবাদপত্র')
+    ET.SubElement(folder, 'outline', 
+                  type='rss', 
+                  text='★ মাস্টার আরএসএস ফিড (সকল পত্রিকা এক সাথে)', 
+                  title='★ মাস্টার আরএসএস ফিড (সকল পত্রিকা এক সাথে)', 
+                  xmlUrl=f"{BASE_URL}/master_rss.xml", 
+                  htmlUrl=BASE_URL)
+
+    for s in active_sources:
+        s_id = s['id']
+        feed_url = f"{BASE_URL}/feeds/{s_id}.xml"
+        ET.SubElement(folder, 'outline', 
+                      type='rss', 
+                      text=s['name'], 
+                      title=s['name'], 
+                      xmlUrl=feed_url, 
+                      htmlUrl=s['site'])
+
+    opml_tree = ET.ElementTree(opml)
+    ET.indent(opml_tree, space='  ', level=0)
+    opml_path = os.path.join(root_dir, 'all_feeds.opml')
+    opml_tree.write(opml_path, encoding='utf-8', xml_declaration=True)
+    print(f"[SUCCESS] all_feeds.opml generated with {len(active_sources) + 1} feeds!")
+
+    # Build index.html
+    build_html_dashboard(root_dir, active_sources, len(deduped_master), len(sources))
+    print("[SUCCESS] index.html dashboard updated!")
 
 if __name__ == '__main__':
     main()

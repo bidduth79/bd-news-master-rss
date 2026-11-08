@@ -3,22 +3,40 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>বাংলাদেশ সংবাদপত্র মাস্টার আরএসএস ফিড (BD Newspapers Master RSS)</title>
+    <title>বাংলাদেশ সংবাদপত্র মাস্টার আরএসএস হাব (BD Newspapers Master RSS)</title>
     <link href="https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@400;600;700&display=swap" rel="stylesheet">
     <style>
         * { margin: 0; padding: 0; box-sizing: border-box; }
         body { font-family: 'Hind Siliguri', sans-serif; background: #f0f4f8; color: #1e293b; padding: 20px; }
-        .container { max-width: 1000px; margin: 0 auto; }
-        header { text-align: center; margin-bottom: 30px; }
-        h1 { font-size: 32px; color: #0f172a; margin-bottom: 10px; }
+        .container { max-width: 1100px; margin: 0 auto; }
+        header { text-align: center; margin-bottom: 25px; }
+        h1 { font-size: 32px; color: #0f172a; margin-bottom: 8px; }
         p.subtitle { color: #475569; font-size: 18px; }
         
+        .stats-bar {
+            display: flex;
+            gap: 15px;
+            justify-content: center;
+            margin-bottom: 25px;
+            flex-wrap: wrap;
+        }
+        .stat-card {
+            background: white;
+            padding: 12px 24px;
+            border-radius: 12px;
+            border: 1px solid #e2e8f0;
+            text-align: center;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.03);
+        }
+        .stat-num { font-size: 24px; font-weight: 700; color: #2563eb; }
+        .stat-label { font-size: 14px; color: #64748b; }
+
         .master-box {
-            background: linear-gradient(135deg, #1e3a8a, #3b82f6);
+            background: linear-gradient(135deg, #1e3a8a, #2563eb);
             color: white;
             padding: 25px;
             border-radius: 16px;
-            box-shadow: 0 10px 25px -5px rgba(59, 130, 246, 0.4);
+            box-shadow: 0 10px 25px -5px rgba(37, 99, 235, 0.4);
             margin-bottom: 30px;
         }
         .master-box h2 { font-size: 24px; margin-bottom: 8px; display: flex; align-items: center; gap: 8px; }
@@ -58,7 +76,7 @@
             gap: 15px;
             margin-bottom: 25px;
         }
-        .search-box { flex: 1; max-width: 400px; }
+        .search-box { flex: 1; max-width: 450px; }
         .search-box input {
             width: 100%;
             padding: 12px 18px;
@@ -67,11 +85,11 @@
             font-size: 16px;
             font-family: inherit;
         }
-        .search-box input:focus { border-color: #3b82f6; outline: none; }
+        .search-box input:focus { border-color: #2563eb; outline: none; }
         
         .grid {
             display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
             gap: 15px;
         }
         .card {
@@ -102,26 +120,41 @@
         .url-box button {
             padding: 8px 14px;
             border: none;
-            background: #3b82f6;
+            background: #2563eb;
             color: white;
             border-radius: 6px;
             cursor: pointer;
             font-size: 13px;
             font-family: inherit;
         }
-        .url-box button:hover { background: #2563eb; }
+        .url-box button:hover { background: #1d4ed8; }
     </style>
 </head>
 <body>
     <div class="container">
         <header>
             <h1>🇧🇩 বাংলাদেশ সংবাদপত্র মাস্টার আরএসএস হাব</h1>
-            <p class="subtitle">সকল জাতীয়, আঞ্চলিক ও স্থানীয় পত্রিকার স্বয়ংক্রিয় লাইভ RSS ফিড</p>
+            <p class="subtitle">সকল জাতীয়, আঞ্চলিক ও স্থানীয় পত্রিকার সংবাদের কেন্দ্রীয় আরএসএস নেটওয়ার্ক</p>
         </header>
 
+        <div class="stats-bar">
+            <div class="stat-card">
+                <div class="stat-num">473</div>
+                <div class="stat-label">মোট তালিকাভুক্ত পত্রিকা</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-num">268</div>
+                <div class="stat-label">সফল ও সচল ফিড</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-num">3087</div>
+                <div class="stat-label">সর্বমোট সংগৃহীত তাজা খবর</div>
+            </div>
+        </div>
+
         <div class="master-box">
-            <h2>★ মাস্টার আরএসএস ফিড (Master RSS Feed)</h2>
-            <p>এই একটি মাত্র লিংক Inoreader বা যেকোনো আরএসএস রিডারে যোগ করলে একসাথে সকল জাতীয় ও স্থানীয় পত্রিকার তাজা খবর পেয়ে যাবেন।</p>
+            <h2>★ কেন্দ্রীয় মাস্টার আরএসএস ফিড (Master RSS Feed)</h2>
+            <p>এই একটি মাত্র লিংক Inoreader বা যেকোনো আরএসএস রিডারে সাবস্ক্রাইব করলে সবগুলো পত্রিকার সর্বশেষ সংবাদ একসাথে সরাসরি চলে আসবে।</p>
             <div class="copy-group">
                 <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/master_rss.xml" id="master_url" readonly>
                 <button class="btn btn-success" onclick="copyToClipboard('master_url', this)">মাস্টার লিংক কপি</button>
@@ -133,7 +166,7 @@
                 <input type="text" id="searchInput" placeholder="🔍 পত্রিকা বা ডোমেইন সার্চ করুন..." onkeyup="filterCards()">
             </div>
             <div>
-                <a href="https://bidduth79.github.io/bd-news-master-rss/all_feeds.opml" download class="btn btn-dark">📥 ১-ক্লিকে Inoreader OPML ডাউনলোড</a>
+                <a href="https://bidduth79.github.io/bd-news-master-rss/all_feeds.opml" download class="btn btn-dark">📥 ১-ক্লিকে Inoreader OPML ফাইল ডাউনলোড</a>
             </div>
         </div>
 
@@ -142,7 +175,7 @@
         <div class="card" data-name=""bangladesh " - google news news.google.com">
             <div class="card-header">
                 <h3>"bangladesh " - Google News</h3>
-                <span class="badge">সচল</span>
+                <span class="badge">সচল (15 খবর)</span>
             </div>
             <p class="site-link"><a href="https://news.google.com/search?q=bangladesh+&hl=en-US&gl=US&ceid=US:en" target="_blank">🌐 news.google.com</a></p>
             <div class="url-box">
@@ -151,10 +184,58 @@
             </div>
         </div>
         
+        <div class="card" data-name="1news bd onenewsbd.com">
+            <div class="card-header">
+                <h3>1News BD</h3>
+                <span class="badge">সচল (15 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://onenewsbd.com" target="_blank">🌐 onenewsbd.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/onenewsbd_com.xml" readonly id="feed_onenewsbd_com">
+                <button onclick="copyToClipboard('feed_onenewsbd_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="abc radio abcradiobd.fm">
+            <div class="card-header">
+                <h3>ABC RADIO</h3>
+                <span class="badge">সচল (5 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://abcradiobd.fm" target="_blank">🌐 abcradiobd.fm</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/abcradiobd_fm.xml" readonly id="feed_abcradiobd_fm">
+                <button onclick="copyToClipboard('feed_abcradiobd_fm', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="aaj kaal aajkaal.in">
+            <div class="card-header">
+                <h3>Aaj Kaal</h3>
+                <span class="badge">সচল (15 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://aajkaal.in" target="_blank">🌐 aajkaal.in</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/aajkaal_in.xml" readonly id="feed_aajkaal_in">
+                <button onclick="copyToClipboard('feed_aajkaal_in', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="ajker jamalpur ajkerjamalpur.com">
+            <div class="card-header">
+                <h3>Ajker Jamalpur</h3>
+                <span class="badge">সচল (10 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://ajkerjamalpur.com" target="_blank">🌐 ajkerjamalpur.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/ajkerjamalpur_com.xml" readonly id="feed_ajkerjamalpur_com">
+                <button onclick="copyToClipboard('feed_ajkerjamalpur_com', this)">কপি</button>
+            </div>
+        </div>
+        
         <div class="card" data-name="al jazeera english aljazeera.com">
             <div class="card-header">
                 <h3>Al Jazeera English</h3>
-                <span class="badge">সচল</span>
+                <span class="badge">সচল (15 খবর)</span>
             </div>
             <p class="site-link"><a href="https://www.aljazeera.com/default.html" target="_blank">🌐 aljazeera.com</a></p>
             <div class="url-box">
@@ -163,10 +244,22 @@
             </div>
         </div>
         
+        <div class="card" data-name="all latest news - bangladesh post bangladeshpost.net">
+            <div class="card-header">
+                <h3>All latest news - Bangladesh Post</h3>
+                <span class="badge">সচল (1 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://bangladeshpost.net/all-news" target="_blank">🌐 bangladeshpost.net</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/bangladeshpost_net.xml" readonly id="feed_bangladeshpost_net">
+                <button onclick="copyToClipboard('feed_bangladeshpost_net', this)">কপি</button>
+            </div>
+        </div>
+        
         <div class="card" data-name="amader barisal – first online newspaper of greater barisal – stay with barisal 24×7 amaderbarisal.com">
             <div class="card-header">
                 <h3>Amader Barisal – First online Newspaper of Greater Barisal – Stay with Barisal 24×7</h3>
-                <span class="badge">সচল</span>
+                <span class="badge">সচল (10 খবর)</span>
             </div>
             <p class="site-link"><a href="https://www.amaderbarisal.com/" target="_blank">🌐 amaderbarisal.com</a></p>
             <div class="url-box">
@@ -175,10 +268,58 @@
             </div>
         </div>
         
+        <div class="card" data-name="amader brahmanbaria amaderbrahmanbaria.com">
+            <div class="card-header">
+                <h3>Amader Brahmanbaria</h3>
+                <span class="badge">সচল (15 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://amaderbrahmanbaria.com" target="_blank">🌐 amaderbrahmanbaria.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/amaderbrahmanbaria_com.xml" readonly id="feed_amaderbrahmanbaria_com">
+                <button onclick="copyToClipboard('feed_amaderbrahmanbaria_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="amar noakhali amarnoakhali.com">
+            <div class="card-header">
+                <h3>Amar Noakhali</h3>
+                <span class="badge">সচল (15 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://amarnoakhali.com" target="_blank">🌐 amarnoakhali.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/amarnoakhali_com.xml" readonly id="feed_amarnoakhali_com">
+                <button onclick="copyToClipboard('feed_amarnoakhali_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="asia post asia-post.com">
+            <div class="card-header">
+                <h3>Asia Post</h3>
+                <span class="badge">সচল (15 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://asia-post.com" target="_blank">🌐 asia-post.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/asia-post_com.xml" readonly id="feed_asia-post_com">
+                <button onclick="copyToClipboard('feed_asia-post_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="asian tv asiantvonline.com">
+            <div class="card-header">
+                <h3>Asian TV</h3>
+                <span class="badge">সচল (15 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://asiantvonline.com" target="_blank">🌐 asiantvonline.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/asiantvonline_com.xml" readonly id="feed_asiantvonline_com">
+                <button onclick="copyToClipboard('feed_asiantvonline_com', this)">কপি</button>
+            </div>
+        </div>
+        
         <div class="card" data-name="bbarta24.net bbarta24.net">
             <div class="card-header">
                 <h3>BBARTA24.NET</h3>
-                <span class="badge">সচল</span>
+                <span class="badge">সচল (15 খবর)</span>
             </div>
             <p class="site-link"><a href="https://www.bbarta24.net/" target="_blank">🌐 bbarta24.net</a></p>
             <div class="url-box">
@@ -190,7 +331,7 @@
         <div class="card" data-name="bbc bangla - মূলপাতা bbcbengali.com">
             <div class="card-header">
                 <h3>BBC Bangla - মূলপাতা</h3>
-                <span class="badge">সচল</span>
+                <span class="badge">সচল (13 খবর)</span>
             </div>
             <p class="site-link"><a href="https://www.bbcbengali.com/" target="_blank">🌐 bbcbengali.com</a></p>
             <div class="url-box">
@@ -202,7 +343,7 @@
         <div class="card" data-name="bbc news bbc.com">
             <div class="card-header">
                 <h3>BBC News</h3>
-                <span class="badge">সচল</span>
+                <span class="badge">সচল (15 খবর)</span>
             </div>
             <p class="site-link"><a href="https://www.bbc.com" target="_blank">🌐 bbc.com</a></p>
             <div class="url-box">
@@ -214,7 +355,7 @@
         <div class="card" data-name="bbc news - world bbc.co.uk">
             <div class="card-header">
                 <h3>BBC News - World</h3>
-                <span class="badge">সচল</span>
+                <span class="badge">সচল (15 খবর)</span>
             </div>
             <p class="site-link"><a href="https://www.bbc.co.uk/news/world/#sa-ns_mchannel=rss&ns_source=PublicRSS20-sa" target="_blank">🌐 bbc.co.uk</a></p>
             <div class="url-box">
@@ -226,7 +367,7 @@
         <div class="card" data-name="bd24live.com bd24live.com">
             <div class="card-header">
                 <h3>BD24Live.com</h3>
-                <span class="badge">সচল</span>
+                <span class="badge">সচল (10 খবর)</span>
             </div>
             <p class="site-link"><a href="https://www.bd24live.com" target="_blank">🌐 bd24live.com</a></p>
             <div class="url-box">
@@ -235,10 +376,34 @@
             </div>
         </div>
         
+        <div class="card" data-name="bangalee weeklybangalee.com">
+            <div class="card-header">
+                <h3>Bangalee</h3>
+                <span class="badge">সচল (15 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://weeklybangalee.com" target="_blank">🌐 weeklybangalee.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/weeklybangalee_com.xml" readonly id="feed_weeklybangalee_com">
+                <button onclick="copyToClipboard('feed_weeklybangalee_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="bangla hunt banglahunt.com">
+            <div class="card-header">
+                <h3>Bangla Hunt</h3>
+                <span class="badge">সচল (10 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://banglahunt.com" target="_blank">🌐 banglahunt.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/banglahunt_com.xml" readonly id="feed_banglahunt_com">
+                <button onclick="copyToClipboard('feed_banglahunt_com', this)">কপি</button>
+            </div>
+        </div>
+        
         <div class="card" data-name="bangla news inews.zoombangla.com">
             <div class="card-header">
                 <h3>Bangla news</h3>
-                <span class="badge">সচল</span>
+                <span class="badge">সচল (15 খবর)</span>
             </div>
             <p class="site-link"><a href="https://inews.zoombangla.com/" target="_blank">🌐 inews.zoombangla.com</a></p>
             <div class="url-box">
@@ -247,10 +412,46 @@
             </div>
         </div>
         
+        <div class="card" data-name="bangladesh business news businessnews-bd.net">
+            <div class="card-header">
+                <h3>Bangladesh Business News</h3>
+                <span class="badge">সচল (10 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://businessnews-bd.net/" target="_blank">🌐 businessnews-bd.net</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/businessnews-bd_net.xml" readonly id="feed_businessnews-bd_net">
+                <button onclick="copyToClipboard('feed_businessnews-bd_net', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="bangladesh monitor bangladeshmonitor.net">
+            <div class="card-header">
+                <h3>Bangladesh Monitor</h3>
+                <span class="badge">সচল (15 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://bangladeshmonitor.net" target="_blank">🌐 bangladeshmonitor.net</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/bangladeshmonitor_net.xml" readonly id="feed_bangladeshmonitor_net">
+                <button onclick="copyToClipboard('feed_bangladeshmonitor_net', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="bangladesh today thebangladeshtoday.com">
+            <div class="card-header">
+                <h3>Bangladesh Today</h3>
+                <span class="badge">সচল (10 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://thebangladeshtoday.com" target="_blank">🌐 thebangladeshtoday.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/thebangladeshtoday_com.xml" readonly id="feed_thebangladeshtoday_com">
+                <button onclick="copyToClipboard('feed_thebangladeshtoday_com', this)">কপি</button>
+            </div>
+        </div>
+        
         <div class="card" data-name="bangladesh | the guardian theguardian.com">
             <div class="card-header">
                 <h3>Bangladesh | The Guardian</h3>
-                <span class="badge">সচল</span>
+                <span class="badge">সচল (15 খবর)</span>
             </div>
             <p class="site-link"><a href="http://www.theguardian.com/world/bangladesh" target="_blank">🌐 theguardian.com</a></p>
             <div class="url-box">
@@ -262,7 +463,7 @@
         <div class="card" data-name="bogra sangbad bograsangbad.com">
             <div class="card-header">
                 <h3>Bogra Sangbad</h3>
-                <span class="badge">সচল</span>
+                <span class="badge">সচল (10 খবর)</span>
             </div>
             <p class="site-link"><a href="https://bograsangbad.com/" target="_blank">🌐 bograsangbad.com</a></p>
             <div class="url-box">
@@ -271,10 +472,70 @@
             </div>
         </div>
         
+        <div class="card" data-name="csb news csbnewsbd.com">
+            <div class="card-header">
+                <h3>CSB NEWS</h3>
+                <span class="badge">সচল (15 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://csbnewsbd.com" target="_blank">🌐 csbnewsbd.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/csbnewsbd_com.xml" readonly id="feed_csbnewsbd_com">
+                <button onclick="copyToClipboard('feed_csbnewsbd_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="chakaria news chakarianews.com">
+            <div class="card-header">
+                <h3>Chakaria News</h3>
+                <span class="badge">সচল (10 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://chakarianews.com" target="_blank">🌐 chakarianews.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/chakarianews_com.xml" readonly id="feed_chakarianews_com">
+                <button onclick="copyToClipboard('feed_chakarianews_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="channel nine channelninebd.tv">
+            <div class="card-header">
+                <h3>Channel Nine</h3>
+                <span class="badge">সচল (10 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://channelninebd.tv" target="_blank">🌐 channelninebd.tv</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/channelninebd_tv.xml" readonly id="feed_channelninebd_tv">
+                <button onclick="copyToClipboard('feed_channelninebd_tv', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="chattagram news chattogramnews.com">
+            <div class="card-header">
+                <h3>Chattagram News</h3>
+                <span class="badge">সচল (15 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://chattogramnews.com" target="_blank">🌐 chattogramnews.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/chattogramnews_com.xml" readonly id="feed_chattogramnews_com">
+                <button onclick="copyToClipboard('feed_chattogramnews_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="china bangla news bengali.cri.cn">
+            <div class="card-header">
+                <h3>China Bangla News</h3>
+                <span class="badge">সচল (15 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://bengali.cri.cn" target="_blank">🌐 bengali.cri.cn</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/bengali_cri_cn.xml" readonly id="feed_bengali_cri_cn">
+                <button onclick="copyToClipboard('feed_bengali_cri_cn', this)">কপি</button>
+            </div>
+        </div>
+        
         <div class="card" data-name="citizens voice citizensvoicebd.com">
             <div class="card-header">
                 <h3>Citizens Voice</h3>
-                <span class="badge">সচল</span>
+                <span class="badge">সচল (10 খবর)</span>
             </div>
             <p class="site-link"><a href="https://citizensvoicebd.com/" target="_blank">🌐 citizensvoicebd.com</a></p>
             <div class="url-box">
@@ -286,7 +547,7 @@
         <div class="card" data-name="coxsbazarnews.com – cbn coxsbazarnews.com">
             <div class="card-header">
                 <h3>CoxsbazarNEWS.Com – CBN</h3>
-                <span class="badge">সচল</span>
+                <span class="badge">সচল (10 খবর)</span>
             </div>
             <p class="site-link"><a href="https://www.coxsbazarnews.com/" target="_blank">🌐 coxsbazarnews.com</a></p>
             <div class="url-box">
@@ -298,7 +559,7 @@
         <div class="card" data-name="crime sylhet crimesylhet.com">
             <div class="card-header">
                 <h3>Crime Sylhet</h3>
-                <span class="badge">সচল</span>
+                <span class="badge">সচল (9 খবর)</span>
             </div>
             <p class="site-link"><a href="https://www.crimesylhet.com/" target="_blank">🌐 crimesylhet.com</a></p>
             <div class="url-box">
@@ -307,10 +568,82 @@
             </div>
         </div>
         
+        <div class="card" data-name="ctnews7 ctnews7.com">
+            <div class="card-header">
+                <h3>Ctnews7</h3>
+                <span class="badge">সচল (10 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://ctnews7.com" target="_blank">🌐 ctnews7.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/ctnews7_com.xml" readonly id="feed_ctnews7_com">
+                <button onclick="copyToClipboard('feed_ctnews7_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="daily khoborpatra khoborpatrabd.com">
+            <div class="card-header">
+                <h3>Daily Khoborpatra</h3>
+                <span class="badge">সচল (10 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://khoborpatrabd.com/" target="_blank">🌐 khoborpatrabd.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/khoborpatrabd_com.xml" readonly id="feed_khoborpatrabd_com">
+                <button onclick="copyToClipboard('feed_khoborpatrabd_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="daily khowai dailykhowai.com">
+            <div class="card-header">
+                <h3>Daily Khowai</h3>
+                <span class="badge">সচল (10 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://dailykhowai.com" target="_blank">🌐 dailykhowai.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/dailykhowai_com.xml" readonly id="feed_dailykhowai_com">
+                <button onclick="copyToClipboard('feed_dailykhowai_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="daily sylhet dailysylhet.com">
+            <div class="card-header">
+                <h3>Daily Sylhet</h3>
+                <span class="badge">সচল (15 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://dailysylhet.com" target="_blank">🌐 dailysylhet.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/dailysylhet_com.xml" readonly id="feed_dailysylhet_com">
+                <button onclick="copyToClipboard('feed_dailysylhet_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="dainik sylhet dainiksylhet.com">
+            <div class="card-header">
+                <h3>Dainik Sylhet</h3>
+                <span class="badge">সচল (12 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://dainiksylhet.com" target="_blank">🌐 dainiksylhet.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/dainiksylhet_com.xml" readonly id="feed_dainiksylhet_com">
+                <button onclick="copyToClipboard('feed_dainiksylhet_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="dhaka mail: খবর, সর্বশেষ খবর, ব্রেকিং নিউজ, বাংলা নিউজ dhakamail.com">
+            <div class="card-header">
+                <h3>Dhaka Mail: খবর, সর্বশেষ খবর, ব্রেকিং নিউজ, বাংলা নিউজ</h3>
+                <span class="badge">সচল (15 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://dhakamail.com/" target="_blank">🌐 dhakamail.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/dhakamail_com.xml" readonly id="feed_dhakamail_com">
+                <button onclick="copyToClipboard('feed_dhakamail_com', this)">কপি</button>
+            </div>
+        </div>
+        
         <div class="card" data-name="dhaka news 24 dhakanews24.com">
             <div class="card-header">
                 <h3>Dhaka News 24</h3>
-                <span class="badge">সচল</span>
+                <span class="badge">সচল (10 খবর)</span>
             </div>
             <p class="site-link"><a href="https://www.dhakanews24.com/" target="_blank">🌐 dhakanews24.com</a></p>
             <div class="url-box">
@@ -322,7 +655,7 @@
         <div class="card" data-name="dhaka protidin dhakaprotidin.com">
             <div class="card-header">
                 <h3>Dhaka Protidin</h3>
-                <span class="badge">সচল</span>
+                <span class="badge">সচল (10 খবর)</span>
             </div>
             <p class="site-link"><a href="https://www.dhakaprotidin.com/" target="_blank">🌐 dhakaprotidin.com</a></p>
             <div class="url-box">
@@ -334,7 +667,7 @@
         <div class="card" data-name="dhaka tribune dhakatribune.com">
             <div class="card-header">
                 <h3>Dhaka Tribune</h3>
-                <span class="badge">সচল</span>
+                <span class="badge">সচল (15 খবর)</span>
             </div>
             <p class="site-link"><a href="https://www.dhakatribune.com/" target="_blank">🌐 dhakatribune.com</a></p>
             <div class="url-box">
@@ -343,10 +676,34 @@
             </div>
         </div>
         
+        <div class="card" data-name="dhakapost.com - bangla news portal, breaking news, bd news and videos dhakapost.com">
+            <div class="card-header">
+                <h3>Dhakapost.com - Bangla News Portal, Breaking News, Bd News and Videos</h3>
+                <span class="badge">সচল (15 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://www.dhakapost.com/" target="_blank">🌐 dhakapost.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/dhakapost_com.xml" readonly id="feed_dhakapost_com">
+                <button onclick="copyToClipboard('feed_dhakapost_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="education bangla bangladesherkhela.com">
+            <div class="card-header">
+                <h3>Education Bangla</h3>
+                <span class="badge">সচল (15 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://bangladesherkhela.com" target="_blank">🌐 bangladesherkhela.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/bangladesherkhela_com.xml" readonly id="feed_bangladesherkhela_com">
+                <button onclick="copyToClipboard('feed_bangladesherkhela_com', this)">কপি</button>
+            </div>
+        </div>
+        
         <div class="card" data-name="ei muhurte breaking news in bangla, বাংলা খবর, বাংলার আজকের খবর এই মুহূর্তে eimuhurte.com">
             <div class="card-header">
                 <h3>Ei Muhurte Breaking News in Bangla, বাংলা খবর, বাংলার আজকের খবর এই মুহূর্তে</h3>
-                <span class="badge">সচল</span>
+                <span class="badge">সচল (15 খবর)</span>
             </div>
             <p class="site-link"><a href="https://www.eimuhurte.com/" target="_blank">🌐 eimuhurte.com</a></p>
             <div class="url-box">
@@ -355,10 +712,58 @@
             </div>
         </div>
         
+        <div class="card" data-name="eisamay eisamay.com">
+            <div class="card-header">
+                <h3>Eisamay</h3>
+                <span class="badge">সচল (15 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://eisamay.com" target="_blank">🌐 eisamay.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/eisamay_com.xml" readonly id="feed_eisamay_com">
+                <button onclick="copyToClipboard('feed_eisamay_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="ekushey television - home ekushey-tv.com">
+            <div class="card-header">
+                <h3>Ekushey Television - Home</h3>
+                <span class="badge">সচল (15 খবর)</span>
+            </div>
+            <p class="site-link"><a href="http://www.ekushey-tv.com/" target="_blank">🌐 ekushey-tv.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/ekushey-tv_com.xml" readonly id="feed_ekushey-tv_com">
+                <button onclick="copyToClipboard('feed_ekushey-tv_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="eye news eyenewsbd.com">
+            <div class="card-header">
+                <h3>Eye News</h3>
+                <span class="badge">সচল (15 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://eyenewsbd.com" target="_blank">🌐 eyenewsbd.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/eyenewsbd_com.xml" readonly id="feed_eyenewsbd_com">
+                <button onclick="copyToClipboard('feed_eyenewsbd_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="face the people facethepeople.net">
+            <div class="card-header">
+                <h3>Face The People</h3>
+                <span class="badge">সচল (15 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://facethepeople.net" target="_blank">🌐 facethepeople.net</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/facethepeople_net.xml" readonly id="feed_facethepeople_net">
+                <button onclick="copyToClipboard('feed_facethepeople_net', this)">কপি</button>
+            </div>
+        </div>
+        
         <div class="card" data-name="fox news foxnews.com">
             <div class="card-header">
                 <h3>Fox News</h3>
-                <span class="badge">সচল</span>
+                <span class="badge">সচল (15 খবর)</span>
             </div>
             <p class="site-link"><a href="https://www.foxnews.com/" target="_blank">🌐 foxnews.com</a></p>
             <div class="url-box">
@@ -367,10 +772,58 @@
             </div>
         </div>
         
+        <div class="card" data-name="ganadabi ganadabi.com">
+            <div class="card-header">
+                <h3>Ganadabi</h3>
+                <span class="badge">সচল (10 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://ganadabi.com" target="_blank">🌐 ganadabi.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/ganadabi_com.xml" readonly id="feed_ganadabi_com">
+                <button onclick="copyToClipboard('feed_ganadabi_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="gazi tv gazitv.com">
+            <div class="card-header">
+                <h3>Gazi TV</h3>
+                <span class="badge">সচল (3 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://gazitv.com/" target="_blank">🌐 gazitv.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/gazitv_com.xml" readonly id="feed_gazitv_com">
+                <button onclick="copyToClipboard('feed_gazitv_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="gurunchi magazine ghurunchi.com">
+            <div class="card-header">
+                <h3>Gurunchi Magazine</h3>
+                <span class="badge">সচল (10 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://ghurunchi.com" target="_blank">🌐 ghurunchi.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/ghurunchi_com.xml" readonly id="feed_ghurunchi_com">
+                <button onclick="copyToClipboard('feed_ghurunchi_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="independent television itvbd.com">
+            <div class="card-header">
+                <h3>Independent Television</h3>
+                <span class="badge">সচল (15 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://www.itvbd.com/" target="_blank">🌐 itvbd.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/itvbd_com.xml" readonly id="feed_itvbd_com">
+                <button onclick="copyToClipboard('feed_itvbd_com', this)">কপি</button>
+            </div>
+        </div>
+        
         <div class="card" data-name="jugantor latest news jugantor.com">
             <div class="card-header">
                 <h3>Jugantor Latest News</h3>
-                <span class="badge">সচল</span>
+                <span class="badge">সচল (15 খবর)</span>
             </div>
             <p class="site-link"><a href="https://www.jugantor.com/" target="_blank">🌐 jugantor.com</a></p>
             <div class="url-box">
@@ -382,7 +835,7 @@
         <div class="card" data-name="kalbela news | rss feed kalbela.com">
             <div class="card-header">
                 <h3>Kalbela News | RSS Feed</h3>
-                <span class="badge">সচল</span>
+                <span class="badge">সচল (15 খবর)</span>
             </div>
             <p class="site-link"><a href="https://www.kalbela.com/" target="_blank">🌐 kalbela.com</a></p>
             <div class="url-box">
@@ -391,10 +844,22 @@
             </div>
         </div>
         
+        <div class="card" data-name="kolkata24x7 kolkata24x7.in">
+            <div class="card-header">
+                <h3>Kolkata24x7</h3>
+                <span class="badge">সচল (15 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://kolkata24x7.in" target="_blank">🌐 kolkata24x7.in</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/kolkata24x7_in.xml" readonly id="feed_kolkata24x7_in">
+                <button onclick="copyToClipboard('feed_kolkata24x7_in', this)">কপি</button>
+            </div>
+        </div>
+        
         <div class="card" data-name="lakshmipur24.com lakshmipur24.com">
             <div class="card-header">
                 <h3>Lakshmipur24.com</h3>
-                <span class="badge">সচল</span>
+                <span class="badge">সচল (10 খবর)</span>
             </div>
             <p class="site-link"><a href="https://lakshmipur24.com/" target="_blank">🌐 lakshmipur24.com</a></p>
             <div class="url-box">
@@ -406,7 +871,7 @@
         <div class="card" data-name="latest bangla news | online bangla news portal | thedhakapost thedhakapost.com">
             <div class="card-header">
                 <h3>Latest Bangla News | Online Bangla News Portal | thedhakapost</h3>
-                <span class="badge">সচল</span>
+                <span class="badge">সচল (15 খবর)</span>
             </div>
             <p class="site-link"><a href="https://www.thedhakapost.com/" target="_blank">🌐 thedhakapost.com</a></p>
             <div class="url-box">
@@ -415,10 +880,34 @@
             </div>
         </div>
         
+        <div class="card" data-name="malay news bangla malay.news">
+            <div class="card-header">
+                <h3>Malay News Bangla</h3>
+                <span class="badge">সচল (10 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://malay.news" target="_blank">🌐 malay.news</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/malay_news.xml" readonly id="feed_malay_news">
+                <button onclick="copyToClipboard('feed_malay_news', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="mohona tv mohona.tv">
+            <div class="card-header">
+                <h3>Mohona TV</h3>
+                <span class="badge">সচল (10 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://mohona.tv" target="_blank">🌐 mohona.tv</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/mohona_tv.xml" readonly id="feed_mohona_tv">
+                <button onclick="copyToClipboard('feed_mohona_tv', this)">কপি</button>
+            </div>
+        </div>
+        
         <div class="card" data-name="ndtv news - recent ndtv.com">
             <div class="card-header">
                 <h3>NDTV News - Recent</h3>
-                <span class="badge">সচল</span>
+                <span class="badge">সচল (15 খবর)</span>
             </div>
             <p class="site-link"><a href="https://www.ndtv.com/" target="_blank">🌐 ndtv.com</a></p>
             <div class="url-box">
@@ -427,10 +916,46 @@
             </div>
         </div>
         
+        <div class="card" data-name="newsbijoy24.com newsbijoy24.com">
+            <div class="card-header">
+                <h3>Newsbijoy24.com</h3>
+                <span class="badge">সচল (10 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://www.newsbijoy24.com/" target="_blank">🌐 newsbijoy24.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/newsbijoy24_com.xml" readonly id="feed_newsbijoy24_com">
+                <button onclick="copyToClipboard('feed_newsbijoy24_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="one india bengali bengali.oneindia.com">
+            <div class="card-header">
+                <h3>One India Bengali</h3>
+                <span class="badge">সচল (15 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://bengali.oneindia.com" target="_blank">🌐 bengali.oneindia.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/bengali_oneindia_com.xml" readonly id="feed_bengali_oneindia_com">
+                <button onclick="copyToClipboard('feed_bengali_oneindia_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="press tv presstv.ir">
+            <div class="card-header">
+                <h3>Press Tv</h3>
+                <span class="badge">সচল (15 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://presstv.ir" target="_blank">🌐 presstv.ir</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/presstv_ir.xml" readonly id="feed_presstv_ir">
+                <button onclick="copyToClipboard('feed_presstv_ir', this)">কপি</button>
+            </div>
+        </div>
+        
         <div class="card" data-name="prothom alo prothomalo.com">
             <div class="card-header">
                 <h3>Prothom Alo</h3>
-                <span class="badge">সচল</span>
+                <span class="badge">সচল (15 খবর)</span>
             </div>
             <p class="site-link"><a href="https://www.prothomalo.com/" target="_blank">🌐 prothomalo.com</a></p>
             <div class="url-box">
@@ -442,7 +967,7 @@
         <div class="card" data-name="protidiner post protidinerpost.com">
             <div class="card-header">
                 <h3>Protidiner Post</h3>
-                <span class="badge">সচল</span>
+                <span class="badge">সচল (10 খবর)</span>
             </div>
             <p class="site-link"><a href="https://protidinerpost.com/" target="_blank">🌐 protidinerpost.com</a></p>
             <div class="url-box">
@@ -451,10 +976,46 @@
             </div>
         </div>
         
+        <div class="card" data-name="purber kalom puberkalom.com">
+            <div class="card-header">
+                <h3>Purber Kalom</h3>
+                <span class="badge">সচল (15 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://puberkalom.com" target="_blank">🌐 puberkalom.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/puberkalom_com.xml" readonly id="feed_puberkalom_com">
+                <button onclick="copyToClipboard('feed_puberkalom_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="radio bhumi radiobhumi.fm">
+            <div class="card-header">
+                <h3>Radio Bhumi</h3>
+                <span class="badge">সচল (5 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://radiobhumi.fm" target="_blank">🌐 radiobhumi.fm</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/radiobhumi_fm.xml" readonly id="feed_radiobhumi_fm">
+                <button onclick="copyToClipboard('feed_radiobhumi_fm', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="rising cumilla risingcumilla.com">
+            <div class="card-header">
+                <h3>Rising Cumilla</h3>
+                <span class="badge">সচল (15 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://risingcumilla.com" target="_blank">🌐 risingcumilla.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/risingcumilla_com.xml" readonly id="feed_risingcumilla_com">
+                <button onclick="copyToClipboard('feed_risingcumilla_com', this)">কপি</button>
+            </div>
+        </div>
+        
         <div class="card" data-name="rupali bangladesh rupalibangladesh.com">
             <div class="card-header">
                 <h3>Rupali Bangladesh</h3>
-                <span class="badge">সচল</span>
+                <span class="badge">সচল (10 খবর)</span>
             </div>
             <p class="site-link"><a href="https://rupalibangladesh.com/" target="_blank">🌐 rupalibangladesh.com</a></p>
             <div class="url-box">
@@ -463,10 +1024,46 @@
             </div>
         </div>
         
+        <div class="card" data-name="satv satv.tv">
+            <div class="card-header">
+                <h3>SATV</h3>
+                <span class="badge">সচল (10 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://www.satv.tv" target="_blank">🌐 satv.tv</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/satv_tv.xml" readonly id="feed_satv_tv">
+                <button onclick="copyToClipboard('feed_satv_tv', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="somoy tv youtube.com">
+            <div class="card-header">
+                <h3>SOMOY TV</h3>
+                <span class="badge">সচল (2 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://www.youtube.com/channel/UCxHoBXkY88Tb8z1Ssj6CWsQ" target="_blank">🌐 youtube.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/youtube_com.xml" readonly id="feed_youtube_com">
+                <button onclick="copyToClipboard('feed_youtube_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="scientific bangladesh scientificbangladesh.com">
+            <div class="card-header">
+                <h3>Scientific Bangladesh</h3>
+                <span class="badge">সচল (3 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://scientificbangladesh.com" target="_blank">🌐 scientificbangladesh.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/scientificbangladesh_com.xml" readonly id="feed_scientificbangladesh_com">
+                <button onclick="copyToClipboard('feed_scientificbangladesh_com', this)">কপি</button>
+            </div>
+        </div>
+        
         <div class="card" data-name="silkcity news silkcitynews.com">
             <div class="card-header">
                 <h3>Silkcity News</h3>
-                <span class="badge">সচল</span>
+                <span class="badge">সচল (5 খবর)</span>
             </div>
             <p class="site-link"><a href="https://silkcitynews.com/" target="_blank">🌐 silkcitynews.com</a></p>
             <div class="url-box">
@@ -475,10 +1072,34 @@
             </div>
         </div>
         
+        <div class="card" data-name="somoyer bulletin somoyerbulletin.com">
+            <div class="card-header">
+                <h3>Somoyer Bulletin</h3>
+                <span class="badge">সচল (10 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://somoyerbulletin.com/" target="_blank">🌐 somoyerbulletin.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/somoyerbulletin_com.xml" readonly id="feed_somoyerbulletin_com">
+                <button onclick="copyToClipboard('feed_somoyerbulletin_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="somoyer somikoron dailysomoyersomikoron.com">
+            <div class="card-header">
+                <h3>Somoyer Somikoron</h3>
+                <span class="badge">সচল (15 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://dailysomoyersomikoron.com" target="_blank">🌐 dailysomoyersomikoron.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/dailysomoyersomikoron_com.xml" readonly id="feed_dailysomoyersomikoron_com">
+                <button onclick="copyToClipboard('feed_dailysomoyersomikoron_com', this)">কপি</button>
+            </div>
+        </div>
+        
         <div class="card" data-name="southeast asia journal southeast-asiajournal.com">
             <div class="card-header">
                 <h3>Southeast Asia Journal</h3>
-                <span class="badge">সচল</span>
+                <span class="badge">সচল (10 খবর)</span>
             </div>
             <p class="site-link"><a href="https://southeast-asiajournal.com/" target="_blank">🌐 southeast-asiajournal.com</a></p>
             <div class="url-box">
@@ -490,7 +1111,7 @@
         <div class="card" data-name="suprobhat bangladesh suprobhat.com">
             <div class="card-header">
                 <h3>Suprobhat Bangladesh</h3>
-                <span class="badge">সচল</span>
+                <span class="badge">সচল (10 খবর)</span>
             </div>
             <p class="site-link"><a href="https://suprobhat.com/" target="_blank">🌐 suprobhat.com</a></p>
             <div class="url-box">
@@ -499,10 +1120,22 @@
             </div>
         </div>
         
+        <div class="card" data-name="the moscow times news themoscowtimes.com">
+            <div class="card-header">
+                <h3>The Moscow Times News</h3>
+                <span class="badge">সচল (15 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://www.themoscowtimes.com/news/" target="_blank">🌐 themoscowtimes.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/themoscowtimes_com.xml" readonly id="feed_themoscowtimes_com">
+                <button onclick="copyToClipboard('feed_themoscowtimes_com', this)">কপি</button>
+            </div>
+        </div>
+        
         <div class="card" data-name="the new york times nytimes.com">
             <div class="card-header">
                 <h3>The New York Times</h3>
-                <span class="badge">সচল</span>
+                <span class="badge">সচল (14 খবর)</span>
             </div>
             <p class="site-link"><a href="https://www.nytimes.com/pages/index.html?partner=rss&emc=rss" target="_blank">🌐 nytimes.com</a></p>
             <div class="url-box">
@@ -511,10 +1144,34 @@
             </div>
         </div>
         
+        <div class="card" data-name="thikana news thikananews.com">
+            <div class="card-header">
+                <h3>Thikana News</h3>
+                <span class="badge">সচল (15 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://thikananews.com" target="_blank">🌐 thikananews.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/thikananews_com.xml" readonly id="feed_thikananews_com">
+                <button onclick="copyToClipboard('feed_thikananews_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="uttorpurbo euttorpurbo.com">
+            <div class="card-header">
+                <h3>Uttorpurbo</h3>
+                <span class="badge">সচল (2 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://euttorpurbo.com" target="_blank">🌐 euttorpurbo.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/euttorpurbo_com.xml" readonly id="feed_euttorpurbo_com">
+                <button onclick="copyToClipboard('feed_euttorpurbo_com', this)">কপি</button>
+            </div>
+        </div>
+        
         <div class="card" data-name="weekly laksambarta weeklylaksambarta.com">
             <div class="card-header">
                 <h3>Weekly Laksambarta</h3>
-                <span class="badge">সচল</span>
+                <span class="badge">সচল (15 খবর)</span>
             </div>
             <p class="site-link"><a href="https://weeklylaksambarta.com/" target="_blank">🌐 weeklylaksambarta.com</a></p>
             <div class="url-box">
@@ -526,7 +1183,7 @@
         <div class="card" data-name="world ft.com">
             <div class="card-header">
                 <h3>World</h3>
-                <span class="badge">সচল</span>
+                <span class="badge">সচল (15 খবর)</span>
             </div>
             <p class="site-link"><a href="https://www.ft.com/stream/sectionsId/MQ==-U2VjdGlvbnM=" target="_blank">🌐 ft.com</a></p>
             <div class="url-box">
@@ -535,10 +1192,202 @@
             </div>
         </div>
         
+        <div class="card" data-name="yahoo news - latest news & headlines news.yahoo.com">
+            <div class="card-header">
+                <h3>Yahoo News - Latest News & Headlines</h3>
+                <span class="badge">সচল (9 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://news.yahoo.com/" target="_blank">🌐 news.yahoo.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/news_yahoo_com.xml" readonly id="feed_news_yahoo_com">
+                <button onclick="copyToClipboard('feed_news_yahoo_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="asomiyapratidin.in asomiyapratidin.in">
+            <div class="card-header">
+                <h3>asomiyapratidin.in</h3>
+                <span class="badge">সচল (15 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://asomiyapratidin.in" target="_blank">🌐 asomiyapratidin.in</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/asomiyapratidin_in.xml" readonly id="feed_asomiyapratidin_in">
+                <button onclick="copyToClipboard('feed_asomiyapratidin_in', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="barisallive24.com barisallive24.com">
+            <div class="card-header">
+                <h3>barisallive24.com</h3>
+                <span class="badge">সচল (10 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://barisallive24.com" target="_blank">🌐 barisallive24.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/barisallive24_com.xml" readonly id="feed_barisallive24_com">
+                <button onclick="copyToClipboard('feed_barisallive24_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="bartakontho.com bartakontho.com">
+            <div class="card-header">
+                <h3>bartakontho.com</h3>
+                <span class="badge">সচল (15 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://bartakontho.com" target="_blank">🌐 bartakontho.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/bartakontho_com.xml" readonly id="feed_bartakontho_com">
+                <button onclick="copyToClipboard('feed_bartakontho_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="bdview24.com bdview24.com">
+            <div class="card-header">
+                <h3>bdview24.com</h3>
+                <span class="badge">সচল (10 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://bdview24.com" target="_blank">🌐 bdview24.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/bdview24_com.xml" readonly id="feed_bdview24_com">
+                <button onclick="copyToClipboard('feed_bdview24_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="bijoytv.com bijoy.tv">
+            <div class="card-header">
+                <h3>bijoytv.com</h3>
+                <span class="badge">সচল (10 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://bijoy.tv" target="_blank">🌐 bijoy.tv</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/bijoy_tv.xml" readonly id="feed_bijoy_tv">
+                <button onclick="copyToClipboard('feed_bijoy_tv', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="cbna24.com cbna24.com">
+            <div class="card-header">
+                <h3>cbna24.com</h3>
+                <span class="badge">সচল (15 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://cbna24.com" target="_blank">🌐 cbna24.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/cbna24_com.xml" readonly id="feed_cbna24_com">
+                <button onclick="copyToClipboard('feed_cbna24_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="chsuk.tv chsuk.tv">
+            <div class="card-header">
+                <h3>chsuk.tv</h3>
+                <span class="badge">সচল (10 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://chsuk.tv" target="_blank">🌐 chsuk.tv</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/chsuk_tv.xml" readonly id="feed_chsuk_tv">
+                <button onclick="copyToClipboard('feed_chsuk_tv', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="ctgnews.com ctgnews.com">
+            <div class="card-header">
+                <h3>ctgnews.com</h3>
+                <span class="badge">সচল (15 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://ctgnews.com" target="_blank">🌐 ctgnews.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/ctgnews_com.xml" readonly id="feed_ctgnews_com">
+                <button onclick="copyToClipboard('feed_ctgnews_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="dailynabochatona.com dailynabochatona.com">
+            <div class="card-header">
+                <h3>dailynabochatona.com</h3>
+                <span class="badge">সচল (12 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://dailynabochatona.com" target="_blank">🌐 dailynabochatona.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/dailynabochatona_com.xml" readonly id="feed_dailynabochatona_com">
+                <button onclick="copyToClipboard('feed_dailynabochatona_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="deshebideshe.com deshebideshe.com">
+            <div class="card-header">
+                <h3>deshebideshe.com</h3>
+                <span class="badge">সচল (10 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://deshebideshe.com" target="_blank">🌐 deshebideshe.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/deshebideshe_com.xml" readonly id="feed_deshebideshe_com">
+                <button onclick="copyToClipboard('feed_deshebideshe_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="dhakareport.com dhakareport.com">
+            <div class="card-header">
+                <h3>dhakareport.com</h3>
+                <span class="badge">সচল (10 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://dhakareport.com" target="_blank">🌐 dhakareport.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/dhakareport_com.xml" readonly id="feed_dhakareport_com">
+                <button onclick="copyToClipboard('feed_dhakareport_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="dhakareport24.com dhakareport24.com">
+            <div class="card-header">
+                <h3>dhakareport24.com</h3>
+                <span class="badge">সচল (15 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://dhakareport24.com" target="_blank">🌐 dhakareport24.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/dhakareport24_com.xml" readonly id="feed_dhakareport24_com">
+                <button onclick="copyToClipboard('feed_dhakareport24_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="e-kantho24.com e-kantho24.com">
+            <div class="card-header">
+                <h3>e-kantho24.com</h3>
+                <span class="badge">সচল (13 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://e-kantho24.com" target="_blank">🌐 e-kantho24.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/e-kantho24_com.xml" readonly id="feed_e-kantho24_com">
+                <button onclick="copyToClipboard('feed_e-kantho24_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="gnewsbd24.com gnewsbd24.com">
+            <div class="card-header">
+                <h3>gnewsbd24.com</h3>
+                <span class="badge">সচল (15 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://gnewsbd24.com" target="_blank">🌐 gnewsbd24.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/gnewsbd24_com.xml" readonly id="feed_gnewsbd24_com">
+                <button onclick="copyToClipboard('feed_gnewsbd24_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="jagobd.com jagobd.com">
+            <div class="card-header">
+                <h3>jagobd.com</h3>
+                <span class="badge">সচল (10 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://jagobd.com" target="_blank">🌐 jagobd.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/jagobd_com.xml" readonly id="feed_jagobd_com">
+                <button onclick="copyToClipboard('feed_jagobd_com', this)">কপি</button>
+            </div>
+        </div>
+        
         <div class="card" data-name="jagonews24.com bangla jagonews24.com">
             <div class="card-header">
                 <h3>jagonews24.com Bangla</h3>
-                <span class="badge">সচল</span>
+                <span class="badge">সচল (15 খবর)</span>
             </div>
             <p class="site-link"><a href="https://www.jagonews24.com/" target="_blank">🌐 jagonews24.com</a></p>
             <div class="url-box">
@@ -547,10 +1396,142 @@
             </div>
         </div>
         
+        <div class="card" data-name="justnewsbd.com justnewsbd.com">
+            <div class="card-header">
+                <h3>justnewsbd.com</h3>
+                <span class="badge">সচল (15 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://justnewsbd.com" target="_blank">🌐 justnewsbd.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/justnewsbd_com.xml" readonly id="feed_justnewsbd_com">
+                <button onclick="copyToClipboard('feed_justnewsbd_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="kuakatanews.com kuakatanews.com">
+            <div class="card-header">
+                <h3>kuakatanews.com</h3>
+                <span class="badge">সচল (15 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://kuakatanews.com" target="_blank">🌐 kuakatanews.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/kuakatanews_com.xml" readonly id="feed_kuakatanews_com">
+                <button onclick="copyToClipboard('feed_kuakatanews_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="newsbangla24.com newsbangla24.com">
+            <div class="card-header">
+                <h3>newsbangla24.com</h3>
+                <span class="badge">সচল (15 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://newsbangla24.com" target="_blank">🌐 newsbangla24.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/newsbangla24_com.xml" readonly id="feed_newsbangla24_com">
+                <button onclick="copyToClipboard('feed_newsbangla24_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="onabil.net onabil.net">
+            <div class="card-header">
+                <h3>onabil.net</h3>
+                <span class="badge">সচল (10 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://onabil.net" target="_blank">🌐 onabil.net</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/onabil_net.xml" readonly id="feed_onabil_net">
+                <button onclick="copyToClipboard('feed_onabil_net', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="onfieldnews.com onfieldnews.com">
+            <div class="card-header">
+                <h3>onfieldnews.com</h3>
+                <span class="badge">সচল (10 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://onfieldnews.com" target="_blank">🌐 onfieldnews.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/onfieldnews_com.xml" readonly id="feed_onfieldnews_com">
+                <button onclick="copyToClipboard('feed_onfieldnews_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="outlookbangla.com outlookbangla.com">
+            <div class="card-header">
+                <h3>outlookbangla.com</h3>
+                <span class="badge">সচল (10 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://outlookbangla.com" target="_blank">🌐 outlookbangla.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/outlookbangla_com.xml" readonly id="feed_outlookbangla_com">
+                <button onclick="copyToClipboard('feed_outlookbangla_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="provatnews.com provatnews.com">
+            <div class="card-header">
+                <h3>provatnews.com</h3>
+                <span class="badge">সচল (10 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://provatnews.com" target="_blank">🌐 provatnews.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/provatnews_com.xml" readonly id="feed_provatnews_com">
+                <button onclick="copyToClipboard('feed_provatnews_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="radio-dream-24 liveonlineradio.net">
+            <div class="card-header">
+                <h3>radio-dream-24</h3>
+                <span class="badge">সচল (5 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://liveonlineradio.net" target="_blank">🌐 liveonlineradio.net</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/liveonlineradio_net.xml" readonly id="feed_liveonlineradio_net">
+                <button onclick="copyToClipboard('feed_liveonlineradio_net', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="radiodurbar.com radiodurbar.com">
+            <div class="card-header">
+                <h3>radiodurbar.com</h3>
+                <span class="badge">সচল (10 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://radiodurbar.com" target="_blank">🌐 radiodurbar.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/radiodurbar_com.xml" readonly id="feed_radiodurbar_com">
+                <button onclick="copyToClipboard('feed_radiodurbar_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="shamolbangla24.com shamolbangla24.com">
+            <div class="card-header">
+                <h3>shamolbangla24.com</h3>
+                <span class="badge">সচল (10 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://shamolbangla24.com" target="_blank">🌐 shamolbangla24.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/shamolbangla24_com.xml" readonly id="feed_shamolbangla24_com">
+                <button onclick="copyToClipboard('feed_shamolbangla24_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="shamprotikshawdesh.com shamprotikshawdesh.com">
+            <div class="card-header">
+                <h3>shamprotikshawdesh.com</h3>
+                <span class="badge">সচল (15 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://shamprotikshawdesh.com" target="_blank">🌐 shamprotikshawdesh.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/shamprotikshawdesh_com.xml" readonly id="feed_shamprotikshawdesh_com">
+                <button onclick="copyToClipboard('feed_shamprotikshawdesh_com', this)">কপি</button>
+            </div>
+        </div>
+        
         <div class="card" data-name="states bengali.abplive.com">
             <div class="card-header">
                 <h3>states</h3>
-                <span class="badge">সচল</span>
+                <span class="badge">সচল (10 খবর)</span>
             </div>
             <p class="site-link"><a href="https://bengali.abplive.com/states/feed" target="_blank">🌐 bengali.abplive.com</a></p>
             <div class="url-box">
@@ -559,10 +1540,226 @@
             </div>
         </div>
         
+        <div class="card" data-name="tangailtimes24.com tangailtimes24.com">
+            <div class="card-header">
+                <h3>tangailtimes24.com</h3>
+                <span class="badge">সচল (15 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://tangailtimes24.com" target="_blank">🌐 tangailtimes24.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/tangailtimes24_com.xml" readonly id="feed_tangailtimes24_com">
+                <button onclick="copyToClipboard('feed_tangailtimes24_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="thebengalitimes.com thebengalitimes.com">
+            <div class="card-header">
+                <h3>thebengalitimes.com</h3>
+                <span class="badge">সচল (10 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://thebengalitimes.com" target="_blank">🌐 thebengalitimes.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/thebengalitimes_com.xml" readonly id="feed_thebengalitimes_com">
+                <button onclick="copyToClipboard('feed_thebengalitimes_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="timewatch.com.bd timewatch.com.bd">
+            <div class="card-header">
+                <h3>timewatch.com.bd</h3>
+                <span class="badge">সচল (10 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://timewatch.com.bd" target="_blank">🌐 timewatch.com.bd</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/timewatch_com_bd.xml" readonly id="feed_timewatch_com_bd">
+                <button onclick="copyToClipboard('feed_timewatch_com_bd', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="ukbdnews.com ukbdnews.com">
+            <div class="card-header">
+                <h3>ukbdnews.com</h3>
+                <span class="badge">সচল (10 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://ukbdnews.com" target="_blank">🌐 ukbdnews.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/ukbdnews_com.xml" readonly id="feed_ukbdnews_com">
+                <button onclick="copyToClipboard('feed_ukbdnews_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="অর্থনীতির কাগজ arthoniteerkagoj.com">
+            <div class="card-header">
+                <h3>অর্থনীতির কাগজ</h3>
+                <span class="badge">সচল (1 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://arthoniteerkagoj.com" target="_blank">🌐 arthoniteerkagoj.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/arthoniteerkagoj_com.xml" readonly id="feed_arthoniteerkagoj_com">
+                <button onclick="copyToClipboard('feed_arthoniteerkagoj_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="অর্থসংবাদ orthosongbad.com">
+            <div class="card-header">
+                <h3>অর্থসংবাদ</h3>
+                <span class="badge">সচল (10 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://orthosongbad.com" target="_blank">🌐 orthosongbad.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/orthosongbad_com.xml" readonly id="feed_orthosongbad_com">
+                <button onclick="copyToClipboard('feed_orthosongbad_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="অর্থসূচক arthosuchak.com">
+            <div class="card-header">
+                <h3>অর্থসূচক</h3>
+                <span class="badge">সচল (10 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://arthosuchak.com" target="_blank">🌐 arthosuchak.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/arthosuchak_com.xml" readonly id="feed_arthosuchak_com">
+                <button onclick="copyToClipboard('feed_arthosuchak_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="আজকালের খবর ajkalerkhobor.com">
+            <div class="card-header">
+                <h3>আজকালের খবর</h3>
+                <span class="badge">সচল (15 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://ajkalerkhobor.com" target="_blank">🌐 ajkalerkhobor.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/ajkalerkhobor_com.xml" readonly id="feed_ajkalerkhobor_com">
+                <button onclick="copyToClipboard('feed_ajkalerkhobor_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="আজকের দর্পণ ajkerdarpon.com">
+            <div class="card-header">
+                <h3>আজকের দর্পণ</h3>
+                <span class="badge">সচল (15 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://ajkerdarpon.com" target="_blank">🌐 ajkerdarpon.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/ajkerdarpon_com.xml" readonly id="feed_ajkerdarpon_com">
+                <button onclick="copyToClipboard('feed_ajkerdarpon_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="আজকের বাজার ajkerbazzar.com">
+            <div class="card-header">
+                <h3>আজকের বাজার</h3>
+                <span class="badge">সচল (10 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://ajkerbazzar.com" target="_blank">🌐 ajkerbazzar.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/ajkerbazzar_com.xml" readonly id="feed_ajkerbazzar_com">
+                <button onclick="copyToClipboard('feed_ajkerbazzar_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="আন্তর্জাতিক খবর, বিশ্ব সংবাদ | world news, international news | ajker patrika ajkerpatrika.com">
+            <div class="card-header">
+                <h3>আন্তর্জাতিক খবর, বিশ্ব সংবাদ | World News, International News | Ajker Patrika</h3>
+                <span class="badge">সচল (15 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://www.ajkerpatrika.com/international" target="_blank">🌐 ajkerpatrika.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/ajkerpatrika_com.xml" readonly id="feed_ajkerpatrika_com">
+                <button onclick="copyToClipboard('feed_ajkerpatrika_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="আমাদের অর্থনীতি amaderorthoneeti.com">
+            <div class="card-header">
+                <h3>আমাদের অর্থনীতি</h3>
+                <span class="badge">সচল (9 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://amaderorthoneeti.com" target="_blank">🌐 amaderorthoneeti.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/amaderorthoneeti_com.xml" readonly id="feed_amaderorthoneeti_com">
+                <button onclick="copyToClipboard('feed_amaderorthoneeti_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="আমাদের সময় amadershomoy.com">
+            <div class="card-header">
+                <h3>আমাদের সময়</h3>
+                <span class="badge">সচল (15 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://amadershomoy.com" target="_blank">🌐 amadershomoy.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/amadershomoy_com.xml" readonly id="feed_amadershomoy_com">
+                <button onclick="copyToClipboard('feed_amadershomoy_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="আমাদের সময় epaper.dainikamadershomoy.com">
+            <div class="card-header">
+                <h3>আমাদের সময়</h3>
+                <span class="badge">সচল (2 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://epaper.dainikamadershomoy.com" target="_blank">🌐 epaper.dainikamadershomoy.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/epaper_dainikamadershomoy_com.xml" readonly id="feed_epaper_dainikamadershomoy_com">
+                <button onclick="copyToClipboard('feed_epaper_dainikamadershomoy_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="আমার দেশ amardesh.com">
+            <div class="card-header">
+                <h3>আমার দেশ</h3>
+                <span class="badge">সচল (4 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://amardesh.com" target="_blank">🌐 amardesh.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/amardesh_com.xml" readonly id="feed_amardesh_com">
+                <button onclick="copyToClipboard('feed_amardesh_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="আমার দেশ amar-desh24.com">
+            <div class="card-header">
+                <h3>আমার দেশ</h3>
+                <span class="badge">সচল (3 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://amar-desh24.com" target="_blank">🌐 amar-desh24.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/amar-desh24_com.xml" readonly id="feed_amar-desh24_com">
+                <button onclick="copyToClipboard('feed_amar-desh24_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="আমার দেশ dailyamardesh.com">
+            <div class="card-header">
+                <h3>আমার দেশ</h3>
+                <span class="badge">সচল (15 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://dailyamardesh.com" target="_blank">🌐 dailyamardesh.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/dailyamardesh_com.xml" readonly id="feed_dailyamardesh_com">
+                <button onclick="copyToClipboard('feed_dailyamardesh_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="আরটিভি rtvonline.com">
+            <div class="card-header">
+                <h3>আরটিভি</h3>
+                <span class="badge">সচল (11 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://rtvonline.com" target="_blank">🌐 rtvonline.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/rtvonline_com.xml" readonly id="feed_rtvonline_com">
+                <button onclick="copyToClipboard('feed_rtvonline_com', this)">কপি</button>
+            </div>
+        </div>
+        
         <div class="card" data-name="আলোর মনি alormoni.com">
             <div class="card-header">
                 <h3>আলোর মনি</h3>
-                <span class="badge">সচল</span>
+                <span class="badge">সচল (10 খবর)</span>
             </div>
             <p class="site-link"><a href="https://www.alormoni.com/" target="_blank">🌐 alormoni.com</a></p>
             <div class="url-box">
@@ -571,10 +1768,58 @@
             </div>
         </div>
         
+        <div class="card" data-name="ইউএনবি unb.com.bd">
+            <div class="card-header">
+                <h3>ইউএনবি</h3>
+                <span class="badge">সচল (3 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://unb.com.bd" target="_blank">🌐 unb.com.bd</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/unb_com_bd.xml" readonly id="feed_unb_com_bd">
+                <button onclick="copyToClipboard('feed_unb_com_bd', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="ইউএনবি natunbarta.com">
+            <div class="card-header">
+                <h3>ইউএনবি</h3>
+                <span class="badge">সচল (15 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://natunbarta.com" target="_blank">🌐 natunbarta.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/natunbarta_com.xml" readonly id="feed_natunbarta_com">
+                <button onclick="copyToClipboard('feed_natunbarta_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="ইনকিলাব dailyinqilab.com">
+            <div class="card-header">
+                <h3>ইনকিলাব</h3>
+                <span class="badge">সচল (15 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://dailyinqilab.com" target="_blank">🌐 dailyinqilab.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/dailyinqilab_com.xml" readonly id="feed_dailyinqilab_com">
+                <button onclick="copyToClipboard('feed_dailyinqilab_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="ইনডিপেনডেন্ট টিভি independent24.com">
+            <div class="card-header">
+                <h3>ইনডিপেনডেন্ট টিভি</h3>
+                <span class="badge">সচল (15 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://independent24.com" target="_blank">🌐 independent24.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/independent24_com.xml" readonly id="feed_independent24_com">
+                <button onclick="copyToClipboard('feed_independent24_com', this)">কপি</button>
+            </div>
+        </div>
+        
         <div class="card" data-name="উখিয়া নিউজ ukhiyanews.com">
             <div class="card-header">
                 <h3>উখিয়া নিউজ</h3>
-                <span class="badge">সচল</span>
+                <span class="badge">সচল (10 খবর)</span>
             </div>
             <p class="site-link"><a href="https://www.ukhiyanews.com/" target="_blank">🌐 ukhiyanews.com</a></p>
             <div class="url-box">
@@ -583,10 +1828,106 @@
             </div>
         </div>
         
+        <div class="card" data-name="উত্তরবঙ্গ সংবাদ uttarbangasambad.com">
+            <div class="card-header">
+                <h3>উত্তরবঙ্গ সংবাদ</h3>
+                <span class="badge">সচল (10 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://uttarbangasambad.com" target="_blank">🌐 uttarbangasambad.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/uttarbangasambad_com.xml" readonly id="feed_uttarbangasambad_com">
+                <button onclick="copyToClipboard('feed_uttarbangasambad_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="একাত্তর ekattor.tv">
+            <div class="card-header">
+                <h3>একাত্তর</h3>
+                <span class="badge">সচল (15 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://ekattor.tv/" target="_blank">🌐 ekattor.tv</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/ekattor_tv.xml" readonly id="feed_ekattor_tv">
+                <button onclick="copyToClipboard('feed_ekattor_tv', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="এখন টিভি ekhon.tv">
+            <div class="card-header">
+                <h3>এখন টিভি</h3>
+                <span class="badge">সচল (15 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://ekhon.tv" target="_blank">🌐 ekhon.tv</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/ekhon_tv.xml" readonly id="feed_ekhon_tv">
+                <button onclick="copyToClipboard('feed_ekhon_tv', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="এটিএন নিউজ atnnewstv.com">
+            <div class="card-header">
+                <h3>এটিএন নিউজ</h3>
+                <span class="badge">সচল (3 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://atnnewstv.com" target="_blank">🌐 atnnewstv.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/atnnewstv_com.xml" readonly id="feed_atnnewstv_com">
+                <button onclick="copyToClipboard('feed_atnnewstv_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="এটিএন বাংলা atnbangla.tv">
+            <div class="card-header">
+                <h3>এটিএন বাংলা</h3>
+                <span class="badge">সচল (15 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://atnbangla.tv" target="_blank">🌐 atnbangla.tv</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/atnbangla_tv.xml" readonly id="feed_atnbangla_tv">
+                <button onclick="copyToClipboard('feed_atnbangla_tv', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="এনটিভি ntvbd.com">
+            <div class="card-header">
+                <h3>এনটিভি</h3>
+                <span class="badge">সচল (10 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://ntvbd.com" target="_blank">🌐 ntvbd.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/ntvbd_com.xml" readonly id="feed_ntvbd_com">
+                <button onclick="copyToClipboard('feed_ntvbd_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="এনটিভি ntvbd.tv">
+            <div class="card-header">
+                <h3>এনটিভি</h3>
+                <span class="badge">সচল (15 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://ntvbd.tv" target="_blank">🌐 ntvbd.tv</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/ntvbd_tv.xml" readonly id="feed_ntvbd_tv">
+                <button onclick="copyToClipboard('feed_ntvbd_tv', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="এলার্ট নিউজ alertnews24.com">
+            <div class="card-header">
+                <h3>এলার্ট নিউজ</h3>
+                <span class="badge">সচল (10 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://alertnews24.com" target="_blank">🌐 alertnews24.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/alertnews24_com.xml" readonly id="feed_alertnews24_com">
+                <button onclick="copyToClipboard('feed_alertnews24_com', this)">কপি</button>
+            </div>
+        </div>
+        
         <div class="card" data-name="এসএফ টিভি নিউজ বিডি sftvbd.com">
             <div class="card-header">
                 <h3>এসএফ টিভি নিউজ বিডি</h3>
-                <span class="badge">সচল</span>
+                <span class="badge">সচল (10 খবর)</span>
             </div>
             <p class="site-link"><a href="https://sftvbd.com/" target="_blank">🌐 sftvbd.com</a></p>
             <div class="url-box">
@@ -595,22 +1936,118 @@
             </div>
         </div>
         
-        <div class="card" data-name="গ্রাম নগর বার্তা gramnagarbarta.com">
+        <div class="card" data-name="ওয়ান নিউজ বিডি 1newsbd.com">
             <div class="card-header">
-                <h3>গ্রাম নগর বার্তা</h3>
-                <span class="badge">সচল</span>
+                <h3>ওয়ান নিউজ বিডি</h3>
+                <span class="badge">সচল (15 খবর)</span>
             </div>
-            <p class="site-link"><a href="https://gramnagarbarta.com" target="_blank">🌐 gramnagarbarta.com</a></p>
+            <p class="site-link"><a href="https://1newsbd.com" target="_blank">🌐 1newsbd.com</a></p>
             <div class="url-box">
-                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/gramnagarbarta_com.xml" readonly id="feed_gramnagarbarta_com">
-                <button onclick="copyToClipboard('feed_gramnagarbarta_com', this)">কপি</button>
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/1newsbd_com.xml" readonly id="feed_1newsbd_com">
+                <button onclick="copyToClipboard('feed_1newsbd_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="কালি ও কলম kaliokalam.com">
+            <div class="card-header">
+                <h3>কালি ও কলম</h3>
+                <span class="badge">সচল (10 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://kaliokalam.com" target="_blank">🌐 kaliokalam.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/kaliokalam_com.xml" readonly id="feed_kaliokalam_com">
+                <button onclick="copyToClipboard('feed_kaliokalam_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="ক্যাম্পাস টাইমস campustimes.press">
+            <div class="card-header">
+                <h3>ক্যাম্পাস টাইমস</h3>
+                <span class="badge">সচল (15 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://campustimes.press" target="_blank">🌐 campustimes.press</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/campustimes_press.xml" readonly id="feed_campustimes_press">
+                <button onclick="copyToClipboard('feed_campustimes_press', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="খবর প্রতিদিন khoborprotidin24.com">
+            <div class="card-header">
+                <h3>খবর প্রতিদিন</h3>
+                <span class="badge">সচল (15 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://khoborprotidin24.com" target="_blank">🌐 khoborprotidin24.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/khoborprotidin24_com.xml" readonly id="feed_khoborprotidin24_com">
+                <button onclick="copyToClipboard('feed_khoborprotidin24_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="খবরের কাগজ khaborerkagoj.com">
+            <div class="card-header">
+                <h3>খবরের কাগজ</h3>
+                <span class="badge">সচল (15 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://khaborerkagoj.com" target="_blank">🌐 khaborerkagoj.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/khaborerkagoj_com.xml" readonly id="feed_khaborerkagoj_com">
+                <button onclick="copyToClipboard('feed_khaborerkagoj_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="খুলনা নিউজ khulnanews.com">
+            <div class="card-header">
+                <h3>খুলনা নিউজ</h3>
+                <span class="badge">সচল (6 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://khulnanews.com" target="_blank">🌐 khulnanews.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/khulnanews_com.xml" readonly id="feed_khulnanews_com">
+                <button onclick="copyToClipboard('feed_khulnanews_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="খুলনাঞ্চল khulnanchal.com">
+            <div class="card-header">
+                <h3>খুলনাঞ্চল</h3>
+                <span class="badge">সচল (10 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://khulnanchal.com" target="_blank">🌐 khulnanchal.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/khulnanchal_com.xml" readonly id="feed_khulnanchal_com">
+                <button onclick="copyToClipboard('feed_khulnanchal_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="খোলা কাগজ kholakagojbd.com">
+            <div class="card-header">
+                <h3>খোলা কাগজ</h3>
+                <span class="badge">সচল (15 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://kholakagojbd.com" target="_blank">🌐 kholakagojbd.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/kholakagojbd_com.xml" readonly id="feed_kholakagojbd_com">
+                <button onclick="copyToClipboard('feed_kholakagojbd_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="গণশক্তি ganashakti.com">
+            <div class="card-header">
+                <h3>গণশক্তি</h3>
+                <span class="badge">সচল (15 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://ganashakti.com" target="_blank">🌐 ganashakti.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/ganashakti_com.xml" readonly id="feed_ganashakti_com">
+                <button onclick="copyToClipboard('feed_ganashakti_com', this)">কপি</button>
             </div>
         </div>
         
         <div class="card" data-name="গ্রামের কাগজ নিউজ gramerkagoj.com">
             <div class="card-header">
                 <h3>গ্রামের কাগজ নিউজ</h3>
-                <span class="badge">সচল</span>
+                <span class="badge">সচল (15 খবর)</span>
             </div>
             <p class="site-link"><a href="https://www.gramerkagoj.com" target="_blank">🌐 gramerkagoj.com</a></p>
             <div class="url-box">
@@ -622,7 +2059,7 @@
         <div class="card" data-name="চট্টলার খবর chattolarkhabor.com">
             <div class="card-header">
                 <h3>চট্টলার খবর</h3>
-                <span class="badge">সচল</span>
+                <span class="badge">সচল (10 খবর)</span>
             </div>
             <p class="site-link"><a href="https://chattolarkhabor.com/" target="_blank">🌐 chattolarkhabor.com</a></p>
             <div class="url-box">
@@ -634,7 +2071,7 @@
         <div class="card" data-name="চাঁদপুর টাইমস chandpurtimes.com">
             <div class="card-header">
                 <h3>চাঁদপুর টাইমস</h3>
-                <span class="badge">সচল</span>
+                <span class="badge">সচল (10 খবর)</span>
             </div>
             <p class="site-link"><a href="https://chandpurtimes.com/" target="_blank">🌐 chandpurtimes.com</a></p>
             <div class="url-box">
@@ -643,10 +2080,142 @@
             </div>
         </div>
         
+        <div class="card" data-name="চীন আন্তর্জাতিক বেতার crifosports.com">
+            <div class="card-header">
+                <h3>চীন আন্তর্জাতিক বেতার</h3>
+                <span class="badge">সচল (6 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://crifosports.com" target="_blank">🌐 crifosports.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/crifosports_com.xml" readonly id="feed_crifosports_com">
+                <button onclick="copyToClipboard('feed_crifosports_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="চ্যানেল আই অনলাইন channelionline.com">
+            <div class="card-header">
+                <h3>চ্যানেল আই অনলাইন</h3>
+                <span class="badge">সচল (15 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://www.channelionline.com/" target="_blank">🌐 channelionline.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/channelionline_com.xml" readonly id="feed_channelionline_com">
+                <button onclick="copyToClipboard('feed_channelionline_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="চ্যানেল ১৬ channel-16tv.com">
+            <div class="card-header">
+                <h3>চ্যানেল ১৬</h3>
+                <span class="badge">সচল (2 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://channel-16tv.com" target="_blank">🌐 channel-16tv.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/channel-16tv_com.xml" readonly id="feed_channel-16tv_com">
+                <button onclick="copyToClipboard('feed_channel-16tv_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="জাগরণ jagarantripura.com">
+            <div class="card-header">
+                <h3>জাগরণ</h3>
+                <span class="badge">সচল (10 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://jagarantripura.com" target="_blank">🌐 jagarantripura.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/jagarantripura_com.xml" readonly id="feed_jagarantripura_com">
+                <button onclick="copyToClipboard('feed_jagarantripura_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="জুমবাংলা zoombangla.com">
+            <div class="card-header">
+                <h3>জুমবাংলা</h3>
+                <span class="badge">সচল (10 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://zoombangla.com" target="_blank">🌐 zoombangla.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/zoombangla_com.xml" readonly id="feed_zoombangla_com">
+                <button onclick="copyToClipboard('feed_zoombangla_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="টিভি৯ বাংলা tv9bangla.com">
+            <div class="card-header">
+                <h3>টিভি৯ বাংলা</h3>
+                <span class="badge">সচল (15 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://tv9bangla.com" target="_blank">🌐 tv9bangla.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/tv9bangla_com.xml" readonly id="feed_tv9bangla_com">
+                <button onclick="copyToClipboard('feed_tv9bangla_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="টেক জুম techzoom.tv">
+            <div class="card-header">
+                <h3>টেক জুম</h3>
+                <span class="badge">সচল (15 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://techzoom.tv" target="_blank">🌐 techzoom.tv</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/techzoom_tv.xml" readonly id="feed_techzoom_tv">
+                <button onclick="copyToClipboard('feed_techzoom_tv', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="টেকশহর techshohor.com">
+            <div class="card-header">
+                <h3>টেকশহর</h3>
+                <span class="badge">সচল (11 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://techshohor.com" target="_blank">🌐 techshohor.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/techshohor_com.xml" readonly id="feed_techshohor_com">
+                <button onclick="copyToClipboard('feed_techshohor_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="ডিএমপি নিউজ dmpnews.org">
+            <div class="card-header">
+                <h3>ডিএমপি নিউজ</h3>
+                <span class="badge">সচল (10 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://dmpnews.org" target="_blank">🌐 dmpnews.org</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/dmpnews_org.xml" readonly id="feed_dmpnews_org">
+                <button onclick="copyToClipboard('feed_dmpnews_org', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="ডিবিসি নিউজ dbcnews.tv">
+            <div class="card-header">
+                <h3>ডিবিসি নিউজ</h3>
+                <span class="badge">সচল (2 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://dbcnews.tv" target="_blank">🌐 dbcnews.tv</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/dbcnews_tv.xml" readonly id="feed_dbcnews_tv">
+                <button onclick="copyToClipboard('feed_dbcnews_tv', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="ডেইলি অবজার্ভার observerbd.com">
+            <div class="card-header">
+                <h3>ডেইলি অবজার্ভার</h3>
+                <span class="badge">সচল (6 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://observerbd.com" target="_blank">🌐 observerbd.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/observerbd_com.xml" readonly id="feed_observerbd_com">
+                <button onclick="copyToClipboard('feed_observerbd_com', this)">কপি</button>
+            </div>
+        </div>
+        
         <div class="card" data-name="ডেইলি আমার সংবাদ amarsangbad.com">
             <div class="card-header">
                 <h3>ডেইলি আমার সংবাদ</h3>
-                <span class="badge">সচল</span>
+                <span class="badge">সচল (10 খবর)</span>
             </div>
             <p class="site-link"><a href="https://www.amarsangbad.com/" target="_blank">🌐 amarsangbad.com</a></p>
             <div class="url-box">
@@ -655,10 +2224,130 @@
             </div>
         </div>
         
+        <div class="card" data-name="ডেইলি বাংলাদেশ daily-bangladesh.com">
+            <div class="card-header">
+                <h3>ডেইলি বাংলাদেশ</h3>
+                <span class="badge">সচল (10 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://daily-bangladesh.com" target="_blank">🌐 daily-bangladesh.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/daily-bangladesh_com.xml" readonly id="feed_daily-bangladesh_com">
+                <button onclick="copyToClipboard('feed_daily-bangladesh_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="ডেল্টা টাইমস deltatimes24.com">
+            <div class="card-header">
+                <h3>ডেল্টা টাইমস</h3>
+                <span class="badge">সচল (15 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://www.deltatimes24.com/" target="_blank">🌐 deltatimes24.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/deltatimes24_com.xml" readonly id="feed_deltatimes24_com">
+                <button onclick="copyToClipboard('feed_deltatimes24_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="ঢাকা টাইমস thedhakatimes.com">
+            <div class="card-header">
+                <h3>ঢাকা টাইমস</h3>
+                <span class="badge">সচল (15 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://thedhakatimes.com" target="_blank">🌐 thedhakatimes.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/thedhakatimes_com.xml" readonly id="feed_thedhakatimes_com">
+                <button onclick="copyToClipboard('feed_thedhakatimes_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="তোলপাড়২৪ tulpar24.com">
+            <div class="card-header">
+                <h3>তোলপাড়২৪</h3>
+                <span class="badge">সচল (10 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://tulpar24.com" target="_blank">🌐 tulpar24.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/tulpar24_com.xml" readonly id="feed_tulpar24_com">
+                <button onclick="copyToClipboard('feed_tulpar24_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="ত্রিপুরা ইনফো tripurainfo.com">
+            <div class="card-header">
+                <h3>ত্রিপুরা ইনফো</h3>
+                <span class="badge">সচল (6 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://tripurainfo.com" target="_blank">🌐 tripurainfo.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/tripurainfo_com.xml" readonly id="feed_tripurainfo_com">
+                <button onclick="copyToClipboard('feed_tripurainfo_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="দেশ টিভি desh.tv">
+            <div class="card-header">
+                <h3>দেশ টিভি</h3>
+                <span class="badge">সচল (15 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://desh.tv" target="_blank">🌐 desh.tv</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/desh_tv.xml" readonly id="feed_desh_tv">
+                <button onclick="copyToClipboard('feed_desh_tv', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="দেশ নিউজ deshnews.net">
+            <div class="card-header">
+                <h3>দেশ নিউজ</h3>
+                <span class="badge">সচল (12 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://deshnews.net" target="_blank">🌐 deshnews.net</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/deshnews_net.xml" readonly id="feed_deshnews_net">
+                <button onclick="copyToClipboard('feed_deshnews_net', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="দেশ রূপান্তর deshrupantor.com">
+            <div class="card-header">
+                <h3>দেশ রূপান্তর</h3>
+                <span class="badge">সচল (15 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://deshrupantor.com" target="_blank">🌐 deshrupantor.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/deshrupantor_com.xml" readonly id="feed_deshrupantor_com">
+                <button onclick="copyToClipboard('feed_deshrupantor_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="দেশের সংবাদ deshersangbad.com">
+            <div class="card-header">
+                <h3>দেশের সংবাদ</h3>
+                <span class="badge">সচল (10 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://deshersangbad.com" target="_blank">🌐 deshersangbad.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/deshersangbad_com.xml" readonly id="feed_deshersangbad_com">
+                <button onclick="copyToClipboard('feed_deshersangbad_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="দৈনিক অধিকার odhikar.news">
+            <div class="card-header">
+                <h3>দৈনিক অধিকার</h3>
+                <span class="badge">সচল (10 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://odhikar.news" target="_blank">🌐 odhikar.news</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/odhikar_news.xml" readonly id="feed_odhikar_news">
+                <button onclick="copyToClipboard('feed_odhikar_news', this)">কপি</button>
+            </div>
+        </div>
+        
         <div class="card" data-name="দৈনিক আজাদী dainikazadi.net">
             <div class="card-header">
                 <h3>দৈনিক আজাদী</h3>
-                <span class="badge">সচল</span>
+                <span class="badge">সচল (10 খবর)</span>
             </div>
             <p class="site-link"><a href="https://dainikazadi.net/" target="_blank">🌐 dainikazadi.net</a></p>
             <div class="url-box">
@@ -670,7 +2359,7 @@
         <div class="card" data-name="দৈনিক ইত্তেফাক ittefaq.com.bd">
             <div class="card-header">
                 <h3>দৈনিক ইত্তেফাক</h3>
-                <span class="badge">সচল</span>
+                <span class="badge">সচল (15 খবর)</span>
             </div>
             <p class="site-link"><a href="https://www.ittefaq.com.bd/" target="_blank">🌐 ittefaq.com.bd</a></p>
             <div class="url-box">
@@ -679,10 +2368,34 @@
             </div>
         </div>
         
+        <div class="card" data-name="দৈনিক করতোয়া karatoa.com.bd">
+            <div class="card-header">
+                <h3>দৈনিক করতোয়া</h3>
+                <span class="badge">সচল (15 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://karatoa.com.bd" target="_blank">🌐 karatoa.com.bd</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/karatoa_com_bd.xml" readonly id="feed_karatoa_com_bd">
+                <button onclick="copyToClipboard('feed_karatoa_com_bd', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="দৈনিক গণকন্ঠ gonokantho.com">
+            <div class="card-header">
+                <h3>দৈনিক গণকন্ঠ</h3>
+                <span class="badge">সচল (15 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://gonokantho.com/rss.php" target="_blank">🌐 gonokantho.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/gonokantho_com.xml" readonly id="feed_gonokantho_com">
+                <button onclick="copyToClipboard('feed_gonokantho_com', this)">কপি</button>
+            </div>
+        </div>
+        
         <div class="card" data-name="দৈনিক ঘোষণা dailyghoshana.com.bd">
             <div class="card-header">
                 <h3>দৈনিক ঘোষণা</h3>
-                <span class="badge">সচল</span>
+                <span class="badge">সচল (10 খবর)</span>
             </div>
             <p class="site-link"><a href="http://dailyghoshana.com.bd" target="_blank">🌐 dailyghoshana.com.bd</a></p>
             <div class="url-box">
@@ -694,7 +2407,7 @@
         <div class="card" data-name="দৈনিক জনকণ্ঠ || dailyjanakantha - home dailyjanakantha.com">
             <div class="card-header">
                 <h3>দৈনিক জনকণ্ঠ || DailyJanakantha - Home</h3>
-                <span class="badge">সচল</span>
+                <span class="badge">সচল (15 খবর)</span>
             </div>
             <p class="site-link"><a href="https://www.dailyjanakantha.com/" target="_blank">🌐 dailyjanakantha.com</a></p>
             <div class="url-box">
@@ -703,10 +2416,22 @@
             </div>
         </div>
         
+        <div class="card" data-name="দৈনিক পূর্বকোণ dainikpurbokone.net">
+            <div class="card-header">
+                <h3>দৈনিক পূর্বকোণ</h3>
+                <span class="badge">সচল (10 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://dainikpurbokone.net" target="_blank">🌐 dainikpurbokone.net</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/dainikpurbokone_net.xml" readonly id="feed_dainikpurbokone_net">
+                <button onclick="copyToClipboard('feed_dainikpurbokone_net', this)">কপি</button>
+            </div>
+        </div>
+        
         <div class="card" data-name="দৈনিক পূর্বাঞ্চল purbanchal.com">
             <div class="card-header">
                 <h3>দৈনিক পূর্বাঞ্চল</h3>
-                <span class="badge">সচল</span>
+                <span class="badge">সচল (10 খবর)</span>
             </div>
             <p class="site-link"><a href="https://purbanchal.com/" target="_blank">🌐 purbanchal.com</a></p>
             <div class="url-box">
@@ -715,10 +2440,22 @@
             </div>
         </div>
         
+        <div class="card" data-name="দৈনিক বাংলা dainikbangla.com.bd">
+            <div class="card-header">
+                <h3>দৈনিক বাংলা</h3>
+                <span class="badge">সচল (15 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://dainikbangla.com.bd" target="_blank">🌐 dainikbangla.com.bd</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/dainikbangla_com_bd.xml" readonly id="feed_dainikbangla_com_bd">
+                <button onclick="copyToClipboard('feed_dainikbangla_com_bd', this)">কপি</button>
+            </div>
+        </div>
+        
         <div class="card" data-name="দৈনিক বাংলাভূমি dailybanglabhumi.com">
             <div class="card-header">
                 <h3>দৈনিক বাংলাভূমি</h3>
-                <span class="badge">সচল</span>
+                <span class="badge">সচল (2 খবর)</span>
             </div>
             <p class="site-link"><a href="https://www.dailybanglabhumi.com/" target="_blank">🌐 dailybanglabhumi.com</a></p>
             <div class="url-box">
@@ -730,7 +2467,7 @@
         <div class="card" data-name="দৈনিক মাথাভাঙ্গা mathabhanga.com">
             <div class="card-header">
                 <h3>দৈনিক মাথাভাঙ্গা</h3>
-                <span class="badge">সচল</span>
+                <span class="badge">সচল (15 খবর)</span>
             </div>
             <p class="site-link"><a href="https://mathabhanga.com" target="_blank">🌐 mathabhanga.com</a></p>
             <div class="url-box">
@@ -739,10 +2476,46 @@
             </div>
         </div>
         
+        <div class="card" data-name="দ্য ওয়াল thewall.in">
+            <div class="card-header">
+                <h3>দ্য ওয়াল</h3>
+                <span class="badge">সচল (15 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://thewall.in" target="_blank">🌐 thewall.in</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/thewall_in.xml" readonly id="feed_thewall_in">
+                <button onclick="copyToClipboard('feed_thewall_in', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="দ্য বিজনেস স্ট্যান্ডার্ড tbsnews.net">
+            <div class="card-header">
+                <h3>দ্য বিজনেস স্ট্যান্ডার্ড</h3>
+                <span class="badge">সচল (10 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://tbsnews.net" target="_blank">🌐 tbsnews.net</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/tbsnews_net.xml" readonly id="feed_tbsnews_net">
+                <button onclick="copyToClipboard('feed_tbsnews_net', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="দ্য রিপোর্ট ২৪ thereport24.com">
+            <div class="card-header">
+                <h3>দ্য রিপোর্ট ২৪</h3>
+                <span class="badge">সচল (15 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://thereport24.com" target="_blank">🌐 thereport24.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/thereport24_com.xml" readonly id="feed_thereport24_com">
+                <button onclick="copyToClipboard('feed_thereport24_com', this)">কপি</button>
+            </div>
+        </div>
+        
         <div class="card" data-name="নাগরিক nagorik.com">
             <div class="card-header">
                 <h3>নাগরিক</h3>
-                <span class="badge">সচল</span>
+                <span class="badge">সচল (10 খবর)</span>
             </div>
             <p class="site-link"><a href="https://nagorik.com" target="_blank">🌐 nagorik.com</a></p>
             <div class="url-box">
@@ -751,10 +2524,94 @@
             </div>
         </div>
         
+        <div class="card" data-name="নিউ এজ newagebd.net">
+            <div class="card-header">
+                <h3>নিউ এজ</h3>
+                <span class="badge">সচল (1 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://newagebd.net" target="_blank">🌐 newagebd.net</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/newagebd_net.xml" readonly id="feed_newagebd_net">
+                <button onclick="copyToClipboard('feed_newagebd_net', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="নিউজ ২৪ news24bd.tv">
+            <div class="card-header">
+                <h3>নিউজ ২৪</h3>
+                <span class="badge">সচল (15 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://news24bd.tv" target="_blank">🌐 news24bd.tv</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/news24bd_tv.xml" readonly id="feed_news24bd_tv">
+                <button onclick="copyToClipboard('feed_news24bd_tv', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="নিউজ ২৪ rajshahinews24.com">
+            <div class="card-header">
+                <h3>নিউজ ২৪</h3>
+                <span class="badge">সচল (15 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://rajshahinews24.com" target="_blank">🌐 rajshahinews24.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/rajshahinews24_com.xml" readonly id="feed_rajshahinews24_com">
+                <button onclick="copyToClipboard('feed_rajshahinews24_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="নিউজ ২৪ mtnews24.com">
+            <div class="card-header">
+                <h3>নিউজ ২৪</h3>
+                <span class="badge">সচল (15 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://mtnews24.com" target="_blank">🌐 mtnews24.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/mtnews24_com.xml" readonly id="feed_mtnews24_com">
+                <button onclick="copyToClipboard('feed_mtnews24_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="নিউজজি২৪ newsg24.com">
+            <div class="card-header">
+                <h3>নিউজজি২৪</h3>
+                <span class="badge">সচল (15 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://newsg24.com" target="_blank">🌐 newsg24.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/newsg24_com.xml" readonly id="feed_newsg24_com">
+                <button onclick="copyToClipboard('feed_newsg24_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="নয়া দিগন্ত dailynayadiganta.com">
+            <div class="card-header">
+                <h3>নয়া দিগন্ত</h3>
+                <span class="badge">সচল (15 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://dailynayadiganta.com" target="_blank">🌐 dailynayadiganta.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/dailynayadiganta_com.xml" readonly id="feed_dailynayadiganta_com">
+                <button onclick="copyToClipboard('feed_dailynayadiganta_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="নয়া দিগন্ত enayadiganta.com">
+            <div class="card-header">
+                <h3>নয়া দিগন্ত</h3>
+                <span class="badge">সচল (3 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://enayadiganta.com" target="_blank">🌐 enayadiganta.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/enayadiganta_com.xml" readonly id="feed_enayadiganta_com">
+                <button onclick="copyToClipboard('feed_enayadiganta_com', this)">কপি</button>
+            </div>
+        </div>
+        
         <div class="card" data-name="পাতাকুঁডির দেশ patakuri.com">
             <div class="card-header">
                 <h3>পাতাকুঁডির দেশ</h3>
-                <span class="badge">সচল</span>
+                <span class="badge">সচল (10 খবর)</span>
             </div>
             <p class="site-link"><a href="https://www.patakuri.com/" target="_blank">🌐 patakuri.com</a></p>
             <div class="url-box">
@@ -763,10 +2620,34 @@
             </div>
         </div>
         
+        <div class="card" data-name="পাহাড়বার্তা paharbarta.com">
+            <div class="card-header">
+                <h3>পাহাড়বার্তা</h3>
+                <span class="badge">সচল (10 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://paharbarta.com" target="_blank">🌐 paharbarta.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/paharbarta_com.xml" readonly id="feed_paharbarta_com">
+                <button onclick="copyToClipboard('feed_paharbarta_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="প্রতিক্ষণ protikhon.com">
+            <div class="card-header">
+                <h3>প্রতিক্ষণ</h3>
+                <span class="badge">সচল (10 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://protikhon.com" target="_blank">🌐 protikhon.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/protikhon_com.xml" readonly id="feed_protikhon_com">
+                <button onclick="copyToClipboard('feed_protikhon_com', this)">কপি</button>
+            </div>
+        </div>
+        
         <div class="card" data-name="প্রতিদিনের বাংলাদেশ .কম protidiner-bd.com">
             <div class="card-header">
                 <h3>প্রতিদিনের বাংলাদেশ .কম</h3>
-                <span class="badge">সচল</span>
+                <span class="badge">সচল (10 খবর)</span>
             </div>
             <p class="site-link"><a href="https://protidiner-bd.com/" target="_blank">🌐 protidiner-bd.com</a></p>
             <div class="url-box">
@@ -775,10 +2656,118 @@
             </div>
         </div>
         
+        <div class="card" data-name="প্রতিদিনের সংবাদ protidinersangbad.com">
+            <div class="card-header">
+                <h3>প্রতিদিনের সংবাদ</h3>
+                <span class="badge">সচল (15 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://protidinersangbad.com" target="_blank">🌐 protidinersangbad.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/protidinersangbad_com.xml" readonly id="feed_protidinersangbad_com">
+                <button onclick="copyToClipboard('feed_protidinersangbad_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="প্রথম আলো prothom-alo.com">
+            <div class="card-header">
+                <h3>প্রথম আলো</h3>
+                <span class="badge">সচল (15 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://prothom-alo.com" target="_blank">🌐 prothom-alo.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/prothom-alo_com.xml" readonly id="feed_prothom-alo_com">
+                <button onclick="copyToClipboard('feed_prothom-alo_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="ফিন্যান্সিয়াল এক্সপ্রেস thefinancialexpress.com.bd">
+            <div class="card-header">
+                <h3>ফিন্যান্সিয়াল এক্সপ্রেস</h3>
+                <span class="badge">সচল (10 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://thefinancialexpress.com.bd" target="_blank">🌐 thefinancialexpress.com.bd</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/thefinancialexpress_com_bd.xml" readonly id="feed_thefinancialexpress_com_bd">
+                <button onclick="copyToClipboard('feed_thefinancialexpress_com_bd', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="ফিন্যান্সিয়াল এক্সপ্রেস thefinancialexpress-bd.com">
+            <div class="card-header">
+                <h3>ফিন্যান্সিয়াল এক্সপ্রেস</h3>
+                <span class="badge">সচল (10 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://thefinancialexpress-bd.com" target="_blank">🌐 thefinancialexpress-bd.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/thefinancialexpress-bd_com.xml" readonly id="feed_thefinancialexpress-bd_com">
+                <button onclick="copyToClipboard('feed_thefinancialexpress-bd_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="বণিক বার্তা epaper.bonikbarta.net">
+            <div class="card-header">
+                <h3>বণিক বার্তা</h3>
+                <span class="badge">সচল (1 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://epaper.bonikbarta.net" target="_blank">🌐 epaper.bonikbarta.net</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/epaper_bonikbarta_net.xml" readonly id="feed_epaper_bonikbarta_net">
+                <button onclick="copyToClipboard('feed_epaper_bonikbarta_net', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="বরিশাল নিউজ barishalnews.com">
+            <div class="card-header">
+                <h3>বরিশাল নিউজ</h3>
+                <span class="badge">সচল (15 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://barishalnews.com" target="_blank">🌐 barishalnews.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/barishalnews_com.xml" readonly id="feed_barishalnews_com">
+                <button onclick="copyToClipboard('feed_barishalnews_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="বর্তমান dailybartoman.com">
+            <div class="card-header">
+                <h3>বর্তমান</h3>
+                <span class="badge">সচল (15 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://dailybartoman.com" target="_blank">🌐 dailybartoman.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/dailybartoman_com.xml" readonly id="feed_dailybartoman_com">
+                <button onclick="copyToClipboard('feed_dailybartoman_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="বর্তমান bartamanpatrika.com">
+            <div class="card-header">
+                <h3>বর্তমান</h3>
+                <span class="badge">সচল (15 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://bartamanpatrika.com" target="_blank">🌐 bartamanpatrika.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/bartamanpatrika_com.xml" readonly id="feed_bartamanpatrika_com">
+                <button onclick="copyToClipboard('feed_bartamanpatrika_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="বাংলা এডিশন banglaedition.com">
+            <div class="card-header">
+                <h3>বাংলা এডিশন</h3>
+                <span class="badge">সচল (15 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://banglaedition.com" target="_blank">🌐 banglaedition.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/banglaedition_com.xml" readonly id="feed_banglaedition_com">
+                <button onclick="copyToClipboard('feed_banglaedition_com', this)">কপি</button>
+            </div>
+        </div>
+        
         <div class="card" data-name="বাংলা টেলিগ্রাফ banglatelegraph.com">
             <div class="card-header">
                 <h3>বাংলা টেলিগ্রাফ</h3>
-                <span class="badge">সচল</span>
+                <span class="badge">সচল (10 খবর)</span>
             </div>
             <p class="site-link"><a href="http://www.banglatelegraph.com/" target="_blank">🌐 banglatelegraph.com</a></p>
             <div class="url-box">
@@ -790,7 +2779,7 @@
         <div class="card" data-name="বাংলা ট্রিবিউন banglatribune.com">
             <div class="card-header">
                 <h3>বাংলা ট্রিবিউন</h3>
-                <span class="badge">সচল</span>
+                <span class="badge">সচল (15 খবর)</span>
             </div>
             <p class="site-link"><a href="https://www.banglatribune.com/" target="_blank">🌐 banglatribune.com</a></p>
             <div class="url-box">
@@ -799,10 +2788,22 @@
             </div>
         </div>
         
+        <div class="card" data-name="বাংলা ডেইলি ২৪ bangladaily24.com">
+            <div class="card-header">
+                <h3>বাংলা ডেইলি ২৪</h3>
+                <span class="badge">সচল (10 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://bangladaily24.com" target="_blank">🌐 bangladaily24.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/bangladaily24_com.xml" readonly id="feed_bangladaily24_com">
+                <button onclick="copyToClipboard('feed_bangladaily24_com', this)">কপি</button>
+            </div>
+        </div>
+        
         <div class="card" data-name="বাংলা বার্তা || bangla barta - home banglabartabd.com">
             <div class="card-header">
                 <h3>বাংলা বার্তা || Bangla Barta - Home</h3>
-                <span class="badge">সচল</span>
+                <span class="badge">সচল (15 খবর)</span>
             </div>
             <p class="site-link"><a href="https://www.banglabartabd.com/" target="_blank">🌐 banglabartabd.com</a></p>
             <div class="url-box">
@@ -811,10 +2812,430 @@
             </div>
         </div>
         
+        <div class="card" data-name="বাংলাদেশ জার্নাল bd-journal.com">
+            <div class="card-header">
+                <h3>বাংলাদেশ জার্নাল</h3>
+                <span class="badge">সচল (15 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://bd-journal.com" target="_blank">🌐 bd-journal.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/bd-journal_com.xml" readonly id="feed_bd-journal_com">
+                <button onclick="copyToClipboard('feed_bd-journal_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="বাংলাদেশ বুলেটিন bd-bulletin.com">
+            <div class="card-header">
+                <h3>বাংলাদেশ বুলেটিন</h3>
+                <span class="badge">সচল (15 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://bd-bulletin.com" target="_blank">🌐 bd-bulletin.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/bd-bulletin_com.xml" readonly id="feed_bd-bulletin_com">
+                <button onclick="copyToClipboard('feed_bd-bulletin_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="বাংলাদেশের খবর bangladesherkhabor.net">
+            <div class="card-header">
+                <h3>বাংলাদেশের খবর</h3>
+                <span class="badge">সচল (2 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://bangladesherkhabor.net" target="_blank">🌐 bangladesherkhabor.net</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/bangladesherkhabor_net.xml" readonly id="feed_bangladesherkhabor_net">
+                <button onclick="copyToClipboard('feed_bangladesherkhabor_net', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="বাংলানিউজ টোয়েন্টিফোর banglanews24.com">
+            <div class="card-header">
+                <h3>বাংলানিউজ টোয়েন্টিফোর</h3>
+                <span class="badge">সচল (15 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://banglanews24.com" target="_blank">🌐 banglanews24.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/banglanews24_com.xml" readonly id="feed_banglanews24_com">
+                <button onclick="copyToClipboard('feed_banglanews24_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="বাংলানিউজ টোয়েন্টিফোর ctgbanglanews24.com">
+            <div class="card-header">
+                <h3>বাংলানিউজ টোয়েন্টিফোর</h3>
+                <span class="badge">সচল (10 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://ctgbanglanews24.com" target="_blank">🌐 ctgbanglanews24.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/ctgbanglanews24_com.xml" readonly id="feed_ctgbanglanews24_com">
+                <button onclick="copyToClipboard('feed_ctgbanglanews24_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="বার্তা বাংলা bartabangla.com">
+            <div class="card-header">
+                <h3>বার্তা বাংলা</h3>
+                <span class="badge">সচল (10 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://bartabangla.com" target="_blank">🌐 bartabangla.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/bartabangla_com.xml" readonly id="feed_bartabangla_com">
+                <button onclick="copyToClipboard('feed_bartabangla_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="বার্তা বাজার bartabazar.com">
+            <div class="card-header">
+                <h3>বার্তা বাজার</h3>
+                <span class="badge">সচল (10 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://bartabazar.com" target="_blank">🌐 bartabazar.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/bartabazar_com.xml" readonly id="feed_bartabazar_com">
+                <button onclick="copyToClipboard('feed_bartabazar_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="বিটিভি btv.gov.bd">
+            <div class="card-header">
+                <h3>বিটিভি</h3>
+                <span class="badge">সচল (15 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://btv.gov.bd" target="_blank">🌐 btv.gov.bd</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/btv_gov_bd.xml" readonly id="feed_btv_gov_bd">
+                <button onclick="copyToClipboard('feed_btv_gov_bd', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="বিডি টাইপ bdtype.com">
+            <div class="card-header">
+                <h3>বিডি টাইপ</h3>
+                <span class="badge">সচল (15 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://bdtype.com" target="_blank">🌐 bdtype.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/bdtype_com.xml" readonly id="feed_bdtype_com">
+                <button onclick="copyToClipboard('feed_bdtype_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="বিডিনিউজ টোয়েন্টিফোর bangla.bdnews24.com">
+            <div class="card-header">
+                <h3>বিডিনিউজ টোয়েন্টিফোর</h3>
+                <span class="badge">সচল (15 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://bangla.bdnews24.com" target="_blank">🌐 bangla.bdnews24.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/bangla_bdnews24_com.xml" readonly id="feed_bangla_bdnews24_com">
+                <button onclick="copyToClipboard('feed_bangla_bdnews24_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="বিবিসি বাংলা bbc24news.com">
+            <div class="card-header">
+                <h3>বিবিসি বাংলা</h3>
+                <span class="badge">সচল (10 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://bbc24news.com" target="_blank">🌐 bbc24news.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/bbc24news_com.xml" readonly id="feed_bbc24news_com">
+                <button onclick="copyToClipboard('feed_bbc24news_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="বৈশাখী টিভি boishakhionline.com">
+            <div class="card-header">
+                <h3>বৈশাখী টিভি</h3>
+                <span class="badge">সচল (15 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://boishakhionline.com" target="_blank">🌐 boishakhionline.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/boishakhionline_com.xml" readonly id="feed_boishakhionline_com">
+                <button onclick="copyToClipboard('feed_boishakhionline_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="ভোরের কাগজ bhorerkagoj.com">
+            <div class="card-header">
+                <h3>ভোরের কাগজ</h3>
+                <span class="badge">সচল (15 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://bhorerkagoj.com" target="_blank">🌐 bhorerkagoj.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/bhorerkagoj_com.xml" readonly id="feed_bhorerkagoj_com">
+                <button onclick="copyToClipboard('feed_bhorerkagoj_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="ভোরের কাগজ bhorerkagoj.net">
+            <div class="card-header">
+                <h3>ভোরের কাগজ</h3>
+                <span class="badge">সচল (15 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://bhorerkagoj.net" target="_blank">🌐 bhorerkagoj.net</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/bhorerkagoj_net.xml" readonly id="feed_bhorerkagoj_net">
+                <button onclick="copyToClipboard('feed_bhorerkagoj_net', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="ভোরের কাগজ bhorerkagoj.live">
+            <div class="card-header">
+                <h3>ভোরের কাগজ</h3>
+                <span class="badge">সচল (15 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://bhorerkagoj.live" target="_blank">🌐 bhorerkagoj.live</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/bhorerkagoj_live.xml" readonly id="feed_bhorerkagoj_live">
+                <button onclick="copyToClipboard('feed_bhorerkagoj_live', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="ভোরের পাতা dailyvorerpata.com">
+            <div class="card-header">
+                <h3>ভোরের পাতা</h3>
+                <span class="badge">সচল (15 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://dailyvorerpata.com" target="_blank">🌐 dailyvorerpata.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/dailyvorerpata_com.xml" readonly id="feed_dailyvorerpata_com">
+                <button onclick="copyToClipboard('feed_dailyvorerpata_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="ভয়েস অব আমেরিকা voabangla.com">
+            <div class="card-header">
+                <h3>ভয়েস অব আমেরিকা</h3>
+                <span class="badge">সচল (15 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://www.voabangla.com/" target="_blank">🌐 voabangla.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/voabangla_com.xml" readonly id="feed_voabangla_com">
+                <button onclick="copyToClipboard('feed_voabangla_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="মাই টিভি mytvbd.tv">
+            <div class="card-header">
+                <h3>মাই টিভি</h3>
+                <span class="badge">সচল (15 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://mytvbd.tv" target="_blank">🌐 mytvbd.tv</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/mytvbd_tv.xml" readonly id="feed_mytvbd_tv">
+                <button onclick="copyToClipboard('feed_mytvbd_tv', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="মানবকণ্ঠ manobkantha.com.bd">
+            <div class="card-header">
+                <h3>মানবকণ্ঠ</h3>
+                <span class="badge">সচল (15 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://manobkantha.com.bd" target="_blank">🌐 manobkantha.com.bd</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/manobkantha_com_bd.xml" readonly id="feed_manobkantha_com_bd">
+                <button onclick="copyToClipboard('feed_manobkantha_com_bd', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="মানবকণ্ঠ manobkantha.com">
+            <div class="card-header">
+                <h3>মানবকণ্ঠ</h3>
+                <span class="badge">সচল (15 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://manobkantha.com" target="_blank">🌐 manobkantha.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/manobkantha_com.xml" readonly id="feed_manobkantha_com">
+                <button onclick="copyToClipboard('feed_manobkantha_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="মানবজমিন mzamin.com">
+            <div class="card-header">
+                <h3>মানবজমিন</h3>
+                <span class="badge">সচল (15 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://mzamin.com" target="_blank">🌐 mzamin.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/mzamin_com.xml" readonly id="feed_mzamin_com">
+                <button onclick="copyToClipboard('feed_mzamin_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="যমুনা টিভি jamuna.tv">
+            <div class="card-header">
+                <h3>যমুনা টিভি</h3>
+                <span class="badge">সচল (4 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://jamuna.tv" target="_blank">🌐 jamuna.tv</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/jamuna_tv.xml" readonly id="feed_jamuna_tv">
+                <button onclick="copyToClipboard('feed_jamuna_tv', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="যুগান্তর epaper.jugantor.com">
+            <div class="card-header">
+                <h3>যুগান্তর</h3>
+                <span class="badge">সচল (4 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://epaper.jugantor.com" target="_blank">🌐 epaper.jugantor.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/epaper_jugantor_com.xml" readonly id="feed_epaper_jugantor_com">
+                <button onclick="copyToClipboard('feed_epaper_jugantor_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="রাজশাহী পোস্ট rajshahipost.com">
+            <div class="card-header">
+                <h3>রাজশাহী পোস্ট</h3>
+                <span class="badge">সচল (15 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://rajshahipost.com" target="_blank">🌐 rajshahipost.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/rajshahipost_com.xml" readonly id="feed_rajshahipost_com">
+                <button onclick="copyToClipboard('feed_rajshahipost_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="রাজশাহীর সময় rajshahirsomoy.com">
+            <div class="card-header">
+                <h3>রাজশাহীর সময়</h3>
+                <span class="badge">সচল (15 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://rajshahirsomoy.com" target="_blank">🌐 rajshahirsomoy.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/rajshahirsomoy_com.xml" readonly id="feed_rajshahirsomoy_com">
+                <button onclick="copyToClipboard('feed_rajshahirsomoy_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="লেটেস্ট বিডি নিউজ latestbdnews.com">
+            <div class="card-header">
+                <h3>লেটেস্ট বিডি নিউজ</h3>
+                <span class="badge">সচল (10 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://latestbdnews.com" target="_blank">🌐 latestbdnews.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/latestbdnews_com.xml" readonly id="feed_latestbdnews_com">
+                <button onclick="copyToClipboard('feed_latestbdnews_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="শেয়ার নিউজ ২৪ sharenews24.com">
+            <div class="card-header">
+                <h3>শেয়ার নিউজ ২৪</h3>
+                <span class="badge">সচল (15 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://sharenews24.com" target="_blank">🌐 sharenews24.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/sharenews24_com.xml" readonly id="feed_sharenews24_com">
+                <button onclick="copyToClipboard('feed_sharenews24_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="শেয়ার বিজ sharebiz.net">
+            <div class="card-header">
+                <h3>শেয়ার বিজ</h3>
+                <span class="badge">সচল (15 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://sharebiz.net" target="_blank">🌐 sharebiz.net</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/sharebiz_net.xml" readonly id="feed_sharebiz_net">
+                <button onclick="copyToClipboard('feed_sharebiz_net', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="সংগ্রাম dailysangram.com">
+            <div class="card-header">
+                <h3>সংগ্রাম</h3>
+                <span class="badge">সচল (15 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://dailysangram.com" target="_blank">🌐 dailysangram.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/dailysangram_com.xml" readonly id="feed_dailysangram_com">
+                <button onclick="copyToClipboard('feed_dailysangram_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="সংবাদ sangbad.net.bd">
+            <div class="card-header">
+                <h3>সংবাদ</h3>
+                <span class="badge">সচল (15 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://sangbad.net.bd" target="_blank">🌐 sangbad.net.bd</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/sangbad_net_bd.xml" readonly id="feed_sangbad_net_bd">
+                <button onclick="copyToClipboard('feed_sangbad_net_bd', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="সংবাদ sheershasangbad.com">
+            <div class="card-header">
+                <h3>সংবাদ</h3>
+                <span class="badge">সচল (10 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://sheershasangbad.com" target="_blank">🌐 sheershasangbad.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/sheershasangbad_com.xml" readonly id="feed_sheershasangbad_com">
+                <button onclick="copyToClipboard('feed_sheershasangbad_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="সংবাদ corporatesangbad.com">
+            <div class="card-header">
+                <h3>সংবাদ</h3>
+                <span class="badge">সচল (15 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://corporatesangbad.com" target="_blank">🌐 corporatesangbad.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/corporatesangbad_com.xml" readonly id="feed_corporatesangbad_com">
+                <button onclick="copyToClipboard('feed_corporatesangbad_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="সংবাদ deshsangbad.com">
+            <div class="card-header">
+                <h3>সংবাদ</h3>
+                <span class="badge">সচল (15 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://deshsangbad.com" target="_blank">🌐 deshsangbad.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/deshsangbad_com.xml" readonly id="feed_deshsangbad_com">
+                <button onclick="copyToClipboard('feed_deshsangbad_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="সংবাদ 71sangbad.com">
+            <div class="card-header">
+                <h3>সংবাদ</h3>
+                <span class="badge">সচল (15 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://71sangbad.com" target="_blank">🌐 71sangbad.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/71sangbad_com.xml" readonly id="feed_71sangbad_com">
+                <button onclick="copyToClipboard('feed_71sangbad_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="সংবাদ কণিকা sangbadkonika.com">
+            <div class="card-header">
+                <h3>সংবাদ কণিকা</h3>
+                <span class="badge">সচল (15 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://sangbadkonika.com" target="_blank">🌐 sangbadkonika.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/sangbadkonika_com.xml" readonly id="feed_sangbadkonika_com">
+                <button onclick="copyToClipboard('feed_sangbadkonika_com', this)">কপি</button>
+            </div>
+        </div>
+        
         <div class="card" data-name="সংবাদ প্রতিদিন sangbadpratidin.in">
             <div class="card-header">
                 <h3>সংবাদ প্রতিদিন</h3>
-                <span class="badge">সচল</span>
+                <span class="badge">সচল (15 খবর)</span>
             </div>
             <p class="site-link"><a href="https://www.sangbadpratidin.in/" target="_blank">🌐 sangbadpratidin.in</a></p>
             <div class="url-box">
@@ -823,10 +3244,70 @@
             </div>
         </div>
         
+        <div class="card" data-name="সত্য সংবাদ ajkersottasangbad24.com">
+            <div class="card-header">
+                <h3>সত্য সংবাদ</h3>
+                <span class="badge">সচল (10 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://ajkersottasangbad24.com" target="_blank">🌐 ajkersottasangbad24.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/ajkersottasangbad24_com.xml" readonly id="feed_ajkersottasangbad24_com">
+                <button onclick="copyToClipboard('feed_ajkersottasangbad24_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="সমকাল samakal.com">
+            <div class="card-header">
+                <h3>সমকাল</h3>
+                <span class="badge">সচল (15 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://samakal.com" target="_blank">🌐 samakal.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/samakal_com.xml" readonly id="feed_samakal_com">
+                <button onclick="copyToClipboard('feed_samakal_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="সমকাল epaper.samakal.com">
+            <div class="card-header">
+                <h3>সমকাল</h3>
+                <span class="badge">সচল (1 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://epaper.samakal.com" target="_blank">🌐 epaper.samakal.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/epaper_samakal_com.xml" readonly id="feed_epaper_samakal_com">
+                <button onclick="copyToClipboard('feed_epaper_samakal_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="সমকাল samakal.net">
+            <div class="card-header">
+                <h3>সমকাল</h3>
+                <span class="badge">সচল (15 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://samakal.net" target="_blank">🌐 samakal.net</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/samakal_net.xml" readonly id="feed_samakal_net">
+                <button onclick="copyToClipboard('feed_samakal_net', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="সময়ের আলো shomoyeralo.com">
+            <div class="card-header">
+                <h3>সময়ের আলো</h3>
+                <span class="badge">সচল (15 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://shomoyeralo.com" target="_blank">🌐 shomoyeralo.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/shomoyeralo_com.xml" readonly id="feed_shomoyeralo_com">
+                <button onclick="copyToClipboard('feed_shomoyeralo_com', this)">কপি</button>
+            </div>
+        </div>
+        
         <div class="card" data-name="সময়ের কন্ঠস্বর somoyerkonthosor.com">
             <div class="card-header">
                 <h3>সময়ের কন্ঠস্বর</h3>
-                <span class="badge">সচল</span>
+                <span class="badge">সচল (15 খবর)</span>
             </div>
             <p class="site-link"><a href="https://www.somoyerkonthosor.com/" target="_blank">🌐 somoyerkonthosor.com</a></p>
             <div class="url-box">
@@ -835,10 +3316,70 @@
             </div>
         </div>
         
+        <div class="card" data-name="সরেজমিন sorejominbarta.com">
+            <div class="card-header">
+                <h3>সরেজমিন</h3>
+                <span class="badge">সচল (15 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://sorejominbarta.com" target="_blank">🌐 sorejominbarta.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/sorejominbarta_com.xml" readonly id="feed_sorejominbarta_com">
+                <button onclick="copyToClipboard('feed_sorejominbarta_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="সানবিডি২৪ sunbd24.com">
+            <div class="card-header">
+                <h3>সানবিডি২৪</h3>
+                <span class="badge">সচল (10 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://sunbd24.com" target="_blank">🌐 sunbd24.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/sunbd24_com.xml" readonly id="feed_sunbd24_com">
+                <button onclick="copyToClipboard('feed_sunbd24_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="সারাবাংলা sarabangla.net">
+            <div class="card-header">
+                <h3>সারাবাংলা</h3>
+                <span class="badge">সচল (10 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://sarabangla.net" target="_blank">🌐 sarabangla.net</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/sarabangla_net.xml" readonly id="feed_sarabangla_net">
+                <button onclick="copyToClipboard('feed_sarabangla_net', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="সিলেট ভিউ sylhetview24.com">
+            <div class="card-header">
+                <h3>সিলেট ভিউ</h3>
+                <span class="badge">সচল (15 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://sylhetview24.com" target="_blank">🌐 sylhetview24.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/sylhetview24_com.xml" readonly id="feed_sylhetview24_com">
+                <button onclick="copyToClipboard('feed_sylhetview24_com', this)">কপি</button>
+            </div>
+        </div>
+        
+        <div class="card" data-name="সুরমা টাইমস surmatimes.com">
+            <div class="card-header">
+                <h3>সুরমা টাইমস</h3>
+                <span class="badge">সচল (10 খবর)</span>
+            </div>
+            <p class="site-link"><a href="https://surmatimes.com" target="_blank">🌐 surmatimes.com</a></p>
+            <div class="url-box">
+                <input type="text" value="https://bidduth79.github.io/bd-news-master-rss/feeds/surmatimes_com.xml" readonly id="feed_surmatimes_com">
+                <button onclick="copyToClipboard('feed_surmatimes_com', this)">কপি</button>
+            </div>
+        </div>
+        
         <div class="card" data-name="সোনালী সংবাদ sonalisangbad.com">
             <div class="card-header">
                 <h3>সোনালী সংবাদ</h3>
-                <span class="badge">সচল</span>
+                <span class="badge">সচল (10 খবর)</span>
             </div>
             <p class="site-link"><a href="https://sonalisangbad.com/" target="_blank">🌐 sonalisangbad.com</a></p>
             <div class="url-box">

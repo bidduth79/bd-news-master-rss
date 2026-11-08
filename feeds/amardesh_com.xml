@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>আমার দেশ - আরএসএস ফিড</title>
+    <link>https://amardesh.com</link>
+    <description>আমার দেশ এর সর্বশেষ খবর</description>
+    <language>bn</language>
+    <lastBuildDate>Sun, 08 Nov 2026 14:04:27 +0000</lastBuildDate>
+    <item>
+      <title>[আমার দেশ] আজ রবিবার, ২৪ কার্তিক ১৪৩৩ বঙ্গাব্দ, ০৮ নভেম্বর ২০২৬ খ্রিস্টাব্দ</title>
+      <link>http://www.lazycoder.net</link>
+      <guid isPermaLink="true">http://www.lazycoder.net</guid>
+      <pubDate>Sun, 08 Nov 2026 14:04:27 +0000</pubDate>
+      <description>আজ রবিবার, ২৪ কার্তিক ১৪৩৩ বঙ্গাব্দ, ০৮ নভেম্বর ২০২৬ খ্রিস্টাব্দ</description>
+      <source url="http://www.lazycoder.net">আমার দেশ</source>
+    </item>
+    <item>
+      <title>[আমার দেশ] ইতিহাসের এই দিনে</title>
+      <link>http://www.amardesh.com/historytoday.php</link>
+      <guid isPermaLink="true">http://www.amardesh.com/historytoday.php</guid>
+      <pubDate>Sun, 08 Nov 2026 14:04:27 +0000</pubDate>
+      <description>ইতিহাসের এই দিনে</description>
+      <source url="http://www.amardesh.com/historytoday.php">আমার দেশ</source>
+    </item>
+    <item>
+      <title>[আমার দেশ] একাত্তরের এই দিনে</title>
+      <link>http://www.amardesh.com/history1971.php</link>
+      <guid isPermaLink="true">http://www.amardesh.com/history1971.php</guid>
+      <pubDate>Sun, 08 Nov 2026 14:04:27 +0000</pubDate>
+      <description>একাত্তরের এই দিনে</description>
+      <source url="http://www.amardesh.com/history1971.php">আমার দেশ</source>
+    </item>
+    <item>
+      <title>[আমার দেশ] ধেয়ে আসছে সুপারবাগ মহামারি</title>
+      <link>http://info.amardesh.com/health/ecoli-superbug-in-bangladesh/</link>
+      <guid isPermaLink="true">http://info.amardesh.com/health/ecoli-superbug-in-bangladesh/</guid>
+      <pubDate>Sun, 08 Nov 2026 14:04:27 +0000</pubDate>
+      <description>ধেয়ে আসছে সুপারবাগ মহামারি</description>
+      <source url="http://info.amardesh.com/health/ecoli-superbug-in-bangladesh/">আমার দেশ</source>
+    </item>
+  </channel>
+</rss>

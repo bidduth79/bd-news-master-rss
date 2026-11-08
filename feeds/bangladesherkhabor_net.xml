@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>বাংলাদেশের খবর - আরএসএস ফিড</title>
+    <link>https://bangladesherkhabor.net</link>
+    <description>বাংলাদেশের খবর এর সর্বশেষ খবর</description>
+    <language>bn</language>
+    <lastBuildDate>Sun, 08 Nov 2026 14:04:13 +0000</lastBuildDate>
+    <item>
+      <title>[বাংলাদেশের খবর] আপনার এলাকার খবর</title>
+      <link>https://bangladesherkhabor.net#</link>
+      <guid isPermaLink="true">https://bangladesherkhabor.net#</guid>
+      <pubDate>Sun, 08 Nov 2026 14:04:13 +0000</pubDate>
+      <description>আপনার এলাকার খবর</description>
+      <source url="https://bangladesherkhabor.net#">বাংলাদেশের খবর</source>
+    </item>
+    <item>
+      <title>[বাংলাদেশের খবর] বিজ্ঞাপন মূল্য তালিকা</title>
+      <link>https://bangladesherkhabor.net/advertisement</link>
+      <guid isPermaLink="true">https://bangladesherkhabor.net/advertisement</guid>
+      <pubDate>Sun, 08 Nov 2026 14:04:13 +0000</pubDate>
+      <description>বিজ্ঞাপন মূল্য তালিকা</description>
+      <source url="https://bangladesherkhabor.net/advertisement">বাংলাদেশের খবর</source>
+    </item>
+  </channel>
+</rss>
