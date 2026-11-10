@@ -1,90 +1,92 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
   <channel>
     <title>Citizens Voice - আরএসএস ফিড</title>
     <link>https://citizensvoicebd.com/</link>
     <description>Citizens Voice এর সর্বশেষ খবর</description>
     <language>bn</language>
-    <lastBuildDate>Tue, 10 Nov 2026 00:01:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 08:06:29 +0000</lastBuildDate>
     <item>
-      <title>সরকারি ক্রয়, ভ্যাট ও সৌরবিদ্যুৎ নিয়ে সংসদে ৩ অধ্যাদেশ</title>
-      <link>https://citizensvoicebd.com/bangladesh/156030/</link>
-      <guid isPermaLink="true">https://citizensvoicebd.com/bangladesh/156030/</guid>
-      <pubDate>Mon, 09 Nov 2026 17:45:58 +0000</pubDate>
-      <description>সরকারি ক্রয়ব্যবস্থা, মূল্য সংযোজন কর (ভ্যাট) এবং সৌরবিদ্যুৎ স্থাপনসংক্রান্ত তিনটি অধ্যাদেশ আইনে পরিণত করার উদ্যোগ নিয়েছে সরকার। এ লক্ষ্যে অধ্যাদেশগুলো ত্রয়োদশ জাতীয় সংসদের চতুর্থ অধিবেশনে উত্থাপন করা হয়েছে। সোমবার (৯ নভেম্বর) সংসদ অধিবেশনে সংবিধানের ৯৩(২) অনুচ্ছেদ অনুসরণ করে অধ্যাদেশ তিনটি উত্থাপন ক</description>
-      <source url="https://citizensvoicebd.com/bangladesh/156030/">Citizens Voice</source>
+      <title>রূপপুরে বিদ্যুৎ উৎপাদন হলেও কতটা মিলবে গ্রিডে, উঠছে প্রশ্ন</title>
+      <link>https://citizensvoicebd.com/business/156074/</link>
+      <guid isPermaLink="true">https://citizensvoicebd.com/business/156074/</guid>
+      <pubDate>Tue, 10 Nov 2026 08:00:07 +0000</pubDate>
+      <description>রূপপুর পারমাণবিক বিদ্যুৎকেন্দ্র থেকে জাতীয় গ্রিডে পরীক্ষামূলক বিদ্যুৎ সরবরাহের প্রস্তুতি এগোলেও গ্রিড ব্যবস্থার সক্ষমতা নিয়ে উদ্বেগ প্রকাশ করেছেন সংশ্লিষ্টরা। নিয়ন্ত্রক সংস্থা বলছে, এখন পর্যন্ত সব ধাপ সফলভাবে শেষ হয়েছে। তবে বিশেষজ্ঞদের মতে, কেন্দ্রটি চালু রাখতে নিজেরই বড় অঙ্কের বিদ্যুৎ লাগবে, ফ</description>
+      <source url="https://citizensvoicebd.com/business/156074/">Citizens Voice</source>
     </item>
     <item>
-      <title>জিডিপির হিসাবে বড় অসংগতি, পরিসংখ্যান সংস্কারে সরকারের ৩ উদ্যোগ</title>
-      <link>https://citizensvoicebd.com/economy/155982/</link>
-      <guid isPermaLink="true">https://citizensvoicebd.com/economy/155982/</guid>
-      <pubDate>Mon, 09 Nov 2026 17:30:18 +0000</pubDate>
-      <description>বিগত সরকারের আমলে দেশের মোট দেশজ উৎপাদন (জিডিপি) হিসাবের পদ্ধতিতে গুরুতর ত্রুটি ও তথ্যের অসংগতি পাওয়া গেছে বলে জানিয়েছে সরকার। বাংলাদেশ উন্নয়ন গবেষণা প্রতিষ্ঠান (বিআইডিএস) ও পরিকল্পনা মন্ত্রণালয়ের যৌথ পর্যালোচনায় এসব সমস্যা উঠে এসেছে। এর পরিপ্রেক্ষিতে সরকারি পরিসংখ্যানের নির্ভরযোগ্যতা ও স্বচ্ছতা বাড়</description>
-      <source url="https://citizensvoicebd.com/economy/155982/">Citizens Voice</source>
+      <title>জলবায়ু সংকটের দায় ধনী দেশগুলোর বেশি, ঋণ নিতে হচ্ছে বাংলাদেশকে</title>
+      <link>https://citizensvoicebd.com/bangladesh/156099/</link>
+      <guid isPermaLink="true">https://citizensvoicebd.com/bangladesh/156099/</guid>
+      <pubDate>Tue, 10 Nov 2026 07:45:32 +0000</pubDate>
+      <description>বিশ্বের মোট কার্বন নিঃসরণে বাংলাদেশের অবদান খুবই সামান্য। অথচ জলবায়ু পরিবর্তনের ক্ষতি মোকাবিলা এবং পরিচ্ছন্ন জ্বালানিতে রূপান্তরের জন্য দেশটিকে বিপুল পরিমাণ ঋণের ওপর নির্ভর করতে হচ্ছে। আন্তর্জাতিক জলবায়ু অর্থায়নে অনুদানের পরিবর্তে ঋণের প্রাধান্য বাংলাদেশের মতো জলবায়ু ঝুঁকিপূর্ণ দেশের আর্থিক চাপ আরও </description>
+      <source url="https://citizensvoicebd.com/bangladesh/156099/">Citizens Voice</source>
     </item>
     <item>
-      <title>নিজ জেলায় বদলির সুযোগ না রাখা কেন অবৈধ নয়, এমপিও শিক্ষকদের বিষয়ে হাইকোর্টের রুল</title>
-      <link>https://citizensvoicebd.com/court-of-law/156022/</link>
-      <guid isPermaLink="true">https://citizensvoicebd.com/court-of-law/156022/</guid>
-      <pubDate>Mon, 09 Nov 2026 17:15:34 +0000</pubDate>
-      <description>এমপিওভুক্ত শিক্ষকদের নিজ জেলার মধ্যে এক প্রতিষ্ঠান থেকে অন্য প্রতিষ্ঠানে বদলির সুযোগ না রাখার বিধান কেন অবৈধ ও অসাংবিধানিক ঘোষণা করা হবে না, তা জানতে চেয়ে রুল জারি করেছেন হাইকোর্ট। ২০২৬ সালের এমপিওভুক্ত শিক্ষকদের বদলি নীতিমালার ৩.৪ ধারার বৈধতা চ্যালেঞ্জ করে ১৩ শিক্ষকের করা রিট আবেদনের প্রাথমিক শুনান</description>
-      <source url="https://citizensvoicebd.com/court-of-law/156022/">Citizens Voice</source>
+      <title>নারায়ণগঞ্জে মাদ্রাসায় আগুন: ধোঁয়ায় অসুস্থ ৭৭ শিক্ষার্থী বার্ন ইনস্টিটিউটে, আইসিইউতে ৪ জন</title>
+      <link>https://citizensvoicebd.com/bangladesh/156125/</link>
+      <guid isPermaLink="true">https://citizensvoicebd.com/bangladesh/156125/</guid>
+      <pubDate>Tue, 10 Nov 2026 07:35:28 +0000</pubDate>
+      <enclosure url="https://samakal.com/media/imgAll/2026November/uploads/%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%AD%20%E0%A6%B8%E0%A6%BE%E0%A6%B2%E0%A7%87%20%E0%A6%AA%E0%A6%A1%E0%A6%BC%E0%A6%A4%E0%A7%87%20%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A7%87%20%E0%A6%B0%E0%A7%87%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%A1%E0%A6%AD%E0%A6%BE%E0%A6%99%E0%A6%BE%20%E0%A6%97%E0%A6%B0%E0%A6%AE%20(90)_1794285790.jpg" length="0" type="image/jpeg" />
+      <media:content url="https://samakal.com/media/imgAll/2026November/uploads/%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%AD%20%E0%A6%B8%E0%A6%BE%E0%A6%B2%E0%A7%87%20%E0%A6%AA%E0%A6%A1%E0%A6%BC%E0%A6%A4%E0%A7%87%20%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A7%87%20%E0%A6%B0%E0%A7%87%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%A1%E0%A6%AD%E0%A6%BE%E0%A6%99%E0%A6%BE%20%E0%A6%97%E0%A6%B0%E0%A6%AE%20(90)_1794285790.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://samakal.com/media/imgAll/2026November/uploads/%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%AD%20%E0%A6%B8%E0%A6%BE%E0%A6%B2%E0%A7%87%20%E0%A6%AA%E0%A6%A1%E0%A6%BC%E0%A6%A4%E0%A7%87%20%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A7%87%20%E0%A6%B0%E0%A7%87%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%A1%E0%A6%AD%E0%A6%BE%E0%A6%99%E0%A6%BE%20%E0%A6%97%E0%A6%B0%E0%A6%AE%20(90)_1794285790.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="নারায়ণগঞ্জে মাদ্রাসায় আগুন: ধোঁয়ায় অসুস্থ ৭৭ শিক্ষার্থী বার্ন ইনস্টিটিউটে, আইসিইউতে ৪ জন" /&gt;&lt;/p&gt;&lt;p&gt;নারায়ণগঞ্জের সাইনবোর্ড এলাকায় একটি মাদ্রাসার লাইব্রেরিতে আগুন লাগার পর ধোঁয়ায় অসুস্থ হয়ে পড়েছেন ৭৭ শিক্ষার্থী। তাঁদের জাতীয় বার্ন ও প্লাস্টিক সার্জারি ইনস্টিটিউটে ভর্তি করা হয়েছে। এর মধ্যে ৪ জনের অবস্থা আশঙ্কাজনক। তাঁদের নিবিড় পরিচর্যাকেন্দ্রে (আইসিইউ) রাখা হয়েছে, আর ১ জনকে দেওয়া হচ্ছে ভে&lt;/p&gt;</description>
+      <source url="https://citizensvoicebd.com/bangladesh/156125/">Citizens Voice</source>
     </item>
     <item>
-      <title>ছয় মাস ধরে বন্ধ টিসিবির ট্রাক সেল, বিপাকে নিম্ন আয়ের মানুষ</title>
-      <link>https://citizensvoicebd.com/economy/155972/</link>
-      <guid isPermaLink="true">https://citizensvoicebd.com/economy/155972/</guid>
-      <pubDate>Mon, 09 Nov 2026 17:15:09 +0000</pubDate>
-      <description>দেশে নিত্যপ্রয়োজনীয় পণ্যের দাম বাড়লেও প্রায় ছয় মাস ধরে বন্ধ রয়েছে সরকারি সংস্থা ট্রেডিং করপোরেশন অব বাংলাদেশের (টিসিবি) ভ্রাম্যমাণ ট্রাকে পণ্য বিক্রি কার্যক্রম। এতে রাজধানী ঢাকাসহ বিভিন্ন এলাকার নিম্ন আয়ের মানুষ ভর্তুকি মূল্যে নিত্যপণ্য কেনার সুযোগ থেকে বঞ্চিত হচ্ছেন। সর্বশেষ গত মে মাসে ঈদুল আজহার আ</description>
-      <source url="https://citizensvoicebd.com/economy/155972/">Citizens Voice</source>
+      <title>কানাডায় স্থায়ী বসবাসের নতুন পথ, ২০২৭ থেকে চালু হচ্ছে গ্রামীণ অভিবাসন কর্মসূচি</title>
+      <link>https://citizensvoicebd.com/international/156082/</link>
+      <guid isPermaLink="true">https://citizensvoicebd.com/international/156082/</guid>
+      <pubDate>Tue, 10 Nov 2026 07:30:54 +0000</pubDate>
+      <description>কানাডায় স্থায়ীভাবে বসবাসের স্বপ্ন দেখা দক্ষ কর্মীদের জন্য নতুন সুযোগ তৈরি হচ্ছে। পরীক্ষামূলক কর্মসূচি থেকে স্থায়ী রূপ পাচ্ছে দেশটির গ্রামীণ ও ছোট শহরভিত্তিক অভিবাসন উদ্যোগ রুরাল কমিউনিটি ইমিগ্রেশন প্রোগ্রাম (আরসিআইপি)। আগামী ২০২৭ সালের ১ জানুয়ারি থেকে নতুন এই কর্মসূচি কার্যকর হবে। গ্রামীণ ও প্রত</description>
+      <source url="https://citizensvoicebd.com/international/156082/">Citizens Voice</source>
     </item>
     <item>
-      <title>বিলিয়ন ডলারের ক্লাবে ৯ শিল্প গ্রুপ, শীর্ষে মেঘনা গ্রুপ</title>
-      <link>https://citizensvoicebd.com/business/155915/</link>
-      <guid isPermaLink="true">https://citizensvoicebd.com/business/155915/</guid>
-      <pubDate>Mon, 09 Nov 2026 17:00:41 +0000</pubDate>
-      <description>জ্বালানি সংকট, উৎপাদন ব্যাহত হওয়া এবং রপ্তানিতে উল্লেখযোগ্য প্রবৃদ্ধি না থাকার মধ্যেও দেশের নয়টি শিল্প গ্রুপের আমদানি ও রপ্তানি বাণিজ্যের পরিমাণ ১০০ কোটি ডলার ছাড়িয়েছে। ২০২৫-২৬ অর্থবছরে শুল্ক-করসহ এসব গ্রুপের সম্মিলিত বৈদেশিক বাণিজ্যের পরিমাণ দাঁড়িয়েছে ১ হাজার ৪৫৫ কোটি ডলার। জাতীয় রাজস্ব বোর্ডের (এন</description>
-      <source url="https://citizensvoicebd.com/business/155915/">Citizens Voice</source>
+      <title>রপ্তানি প্রণোদনা নিরীক্ষায় বৈষম্যের অভিযোগ, আবেদন নিষ্পত্তির নির্দেশ হাইকোর্টের</title>
+      <link>https://citizensvoicebd.com/court-of-law/156120/</link>
+      <guid isPermaLink="true">https://citizensvoicebd.com/court-of-law/156120/</guid>
+      <pubDate>Tue, 10 Nov 2026 07:20:11 +0000</pubDate>
+      <description>রপ্তানি খাতে সরকারের দেওয়া নগদ সহায়তা নিরীক্ষার জন্য নিরীক্ষক নিয়োগে বৈষম্য দূর করার দাবিতে করা আবেদন নিষ্পত্তি করতে বাংলাদেশ ব্যাংকের গভর্নরকে নির্দেশ দিয়েছেন হাইকোর্ট। একই সঙ্গে এ বিষয়ে জারি করা নীতিমালা ও সার্কুলারের বৈধতা নিয়ে রুল দিয়েছেন আদালত। সোমবার (৯ নভেম্বর) রিট আবেদনের প্রাথমিক শুনানি শেষ</description>
+      <source url="https://citizensvoicebd.com/court-of-law/156120/">Citizens Voice</source>
     </item>
     <item>
-      <title>দেয়ালে স্পষ্ট পতনের বার্তা: বর্ণবাদী ইসরায়েল কেন পরাজয়ের দ্বারপ্রান্তে?</title>
-      <link>https://citizensvoicebd.com/international/155986/</link>
-      <guid isPermaLink="true">https://citizensvoicebd.com/international/155986/</guid>
-      <pubDate>Mon, 09 Nov 2026 16:35:33 +0000</pubDate>
-      <description>১৯৪৮ সালে ইউরোপীয় ঔপনিবেশিকতার গর্ভ থেকে জন্ম হয়েছিল দুটি রাষ্ট্রের। যেন একই দেহে বেড়ে ওঠা যমজ, বর্ণবাদী দক্ষিণ আফ্রিকা ও জায়নবাদী ইসরায়েল- উভয়েই পশ্চিমা পৃষ্ঠপোষকতা এবং বর্ণবাদী কাঠামোর ওপর ভর করে টিকে ছিল। ১৯৯৪ সালে দক্ষিণ আফ্রিকার বর্ণবাদী শাসনব্যবস্থার অবসানের তিন দশক পর জায়নবাদী ইসরায়েলও একই রক</description>
-      <source url="https://citizensvoicebd.com/international/155986/">Citizens Voice</source>
+      <title>রবি মৌসুমে চাষ কমানোর পরিকল্পনা কৃষকদের</title>
+      <link>https://citizensvoicebd.com/agriculture/156089/</link>
+      <guid isPermaLink="true">https://citizensvoicebd.com/agriculture/156089/</guid>
+      <pubDate>Tue, 10 Nov 2026 07:15:02 +0000</pubDate>
+      <description>সার, সেচ, জ্বালানি ও শ্রমের দাম বাড়ায় এবার রবি মৌসুমে দেশজুড়ে চাষাবাদ কমিয়ে দেওয়ার পরিকল্পনা করছেন কৃষকেরা। এতে দীর্ঘমেয়াদে খাদ্য নিরাপত্তা ও আমদানিনির্ভরতা নিয়ে নতুন করে উদ্বেগ তৈরি হয়েছে। চাপাইনবাবগঞ্জের শিবগঞ্জের বিস্তীর্ণ সবজিখেত থেকে শুরু করে ফরিদপুরের কৃষিঅঞ্চল পর্যন্ত চাষিরা বলছেন, উপ</description>
+      <source url="https://citizensvoicebd.com/agriculture/156089/">Citizens Voice</source>
     </item>
     <item>
-      <title>ডেঙ্গুতে আরও ৫ মৃত্যু, একদিনে হাসপাতালে ভর্তি ২,২৬০ জন</title>
-      <link>https://citizensvoicebd.com/bangladesh/155999/</link>
-      <guid isPermaLink="true">https://citizensvoicebd.com/bangladesh/155999/</guid>
-      <pubDate>Mon, 09 Nov 2026 16:30:15 +0000</pubDate>
-      <description>দেশে গত ২৪ ঘণ্টায় ডেঙ্গুতে আক্রান্ত হয়ে আরও পাঁচজনের মৃত্যু হয়েছে। একই সময়ে ডেঙ্গু নিয়ে দেশের বিভিন্ন হাসপাতালে ভর্তি হয়েছেন ২ হাজার ২৬০ জন। সোমবার (৯ নভেম্বর) স্বাস্থ্য অধিদপ্তরের প্রকাশিত বিজ্ঞপ্তিতে এ তথ্য জানানো হয়েছে। স্বাস্থ্য অধিদপ্তরের হিসাব অনুযায়ী, চলতি বছরের জানুয়ারি থেকে এখন পর্যন্ত ডেঙ্</description>
-      <source url="https://citizensvoicebd.com/bangladesh/155999/">Citizens Voice</source>
+      <title>আলকাস মল্লিক বনদস্যু ছিলেন, ক্রসফায়ারে জিয়াউল জড়িত নন, দাবি আইনজীবীর</title>
+      <link>https://citizensvoicebd.com/court-of-law/156103/</link>
+      <guid isPermaLink="true">https://citizensvoicebd.com/court-of-law/156103/</guid>
+      <pubDate>Tue, 10 Nov 2026 06:53:14 +0000</pubDate>
+      <description>নিহত আলকাস মল্লিক বনদস্যু ছিলেন এবং তাঁর কথিত ক্রসফায়ারের ঘটনায় মেজর জেনারেল (অব.) জিয়াউল আহসানের কোনো সংশ্লিষ্টতা ছিল না বলে দাবি করেছেন জিয়াউলের আইনজীবী সাহিদুর রহমান। তবে আইনজীবীর এ বক্তব্য অসত্য বলে জানিয়েছেন মামলার তদন্ত কর্মকর্তা মো. রফিকুল ইসলাম। মঙ্গলবার (১০ নভেম্বর) আন্তর্জাতিক অপরাধ ট্রাইব</description>
+      <source url="https://citizensvoicebd.com/court-of-law/156103/">Citizens Voice</source>
     </item>
     <item>
-      <title>শিবিরের দুই নেতাকে গুলির মামলায় সাক্ষ্যগ্রহণ পেছাল, নতুন তারিখ ২৪ নভেম্বর</title>
-      <link>https://citizensvoicebd.com/court-of-law/156015/</link>
-      <guid isPermaLink="true">https://citizensvoicebd.com/court-of-law/156015/</guid>
-      <pubDate>Mon, 09 Nov 2026 16:10:30 +0000</pubDate>
-      <description>যশোরের চৌগাছায় গ্রেপ্তারের পর বন্দুকযুদ্ধের নাটক সাজিয়ে ছাত্রশিবিরের দুই নেতাকে গুলি করার অভিযোগে মানবতাবিরোধী অপরাধের মামলায় সাক্ষ্যগ্রহণ পিছিয়েছে। তৎকালীন পুলিশ সুপার (এসপি) আনিসুর রহমানসহ আট পুলিশ সদস্যের বিরুদ্ধে এ মামলায় পরবর্তী সাক্ষ্যগ্রহণের জন্য আগামী ২৪ নভেম্বর দিন ধার্য করেছেন আন্তর্জাতিক </description>
-      <source url="https://citizensvoicebd.com/court-of-law/156015/">Citizens Voice</source>
+      <title>বিদেশে চিকিৎসায় অনুমতি ছাড়াই পাঠানো যাবে ৩০ হাজার ডলার</title>
+      <link>https://citizensvoicebd.com/bank/156075/</link>
+      <guid isPermaLink="true">https://citizensvoicebd.com/bank/156075/</guid>
+      <pubDate>Tue, 10 Nov 2026 06:45:49 +0000</pubDate>
+      <description>বিদেশে চিকিৎসার জন্য বাংলাদেশ ব্যাংকের আগাম অনুমোদন ছাড়াই বৈদেশিক মুদ্রা পাঠানোর সীমা দ্বিগুণ করা হয়েছে। নতুন সিদ্ধান্ত অনুযায়ী, এখন থেকে অনুমোদিত ডিলার (এডি) ব্যাংকগুলো চিকিৎসার প্রয়োজনে সর্বোচ্চ ৩০ হাজার মার্কিন ডলার বা সমপরিমাণ বৈদেশিক মুদ্রা ছাড় করতে পারবে। আগে এ সীমা ছিল ১৫ হাজার ডলার। একই সঙ্গ</description>
+      <source url="https://citizensvoicebd.com/bank/156075/">Citizens Voice</source>
     </item>
     <item>
-      <title>কনটেইনার পরিবহনে বাড়তি মাশুলের পরিকল্পনা রেলওয়ের</title>
-      <link>https://citizensvoicebd.com/economy/155922/</link>
-      <guid isPermaLink="true">https://citizensvoicebd.com/economy/155922/</guid>
-      <pubDate>Mon, 09 Nov 2026 16:00:01 +0000</pubDate>
-      <description>আমদানি-রপ্তানি পণ্যের কনটেইনার পরিবহনের ভাড়া মার্কিন ডলারের বিনিময় হারের সঙ্গে সমন্বয়ের উদ্যোগ নিয়েছে বাংলাদেশ রেলওয়ে। সংস্থাটির হিসাবে, গত তিন দশকে টাকার অঙ্কে কনটেইনার পরিবহনের ভাড়া বাড়লেও ডলারের হিসাবে তা কমেছে। এ কারণে ভবিষ্যতে ভাড়া পুনর্নির্ধারণের ক্ষেত্রে ডলারের বিনিময় হারকে ভিত্তি হিসেবে বিবে</description>
-      <source url="https://citizensvoicebd.com/economy/155922/">Citizens Voice</source>
+      <title>গ্রামীণ সড়ক ও ধর্মীয় প্রতিষ্ঠানের উন্নয়নে ৬৫০০ কোটি টাকার দুই প্রকল্প সরকারের</title>
+      <link>https://citizensvoicebd.com/bangladesh/156061/</link>
+      <guid isPermaLink="true">https://citizensvoicebd.com/bangladesh/156061/</guid>
+      <pubDate>Tue, 10 Nov 2026 06:30:06 +0000</pubDate>
+      <description>গ্রামীণ যোগাযোগ ও সামাজিক অবকাঠামো উন্নয়নে প্রায় ৬ হাজার ৫০০ কোটি টাকার দুটি প্রকল্প বাস্তবায়নের উদ্যোগ নিয়েছে সরকার। ইতোমধ্যে এসব প্রকল্পের জন্য অর্থ বরাদ্দও দেওয়া হয়েছে। গত ৪ নভেম্বর জাতীয় অর্থনৈতিক পরিষদের নির্বাহী কমিটির (একনেক) সভায় প্রকল্প দুটি অনুমোদন পায়। স্থানীয় সরকার, পল্লী উন্নয</description>
+      <source url="https://citizensvoicebd.com/bangladesh/156061/">Citizens Voice</source>
     </item>
     <item>
-      <title>চট্টগ্রামের প্রাচীন শুঁটকি পট্টিতে বছরে ২,৪০০ কোটি টাকার শুঁটকি লেনদেন</title>
-      <link>https://citizensvoicebd.com/business/155989/</link>
-      <guid isPermaLink="true">https://citizensvoicebd.com/business/155989/</guid>
-      <pubDate>Mon, 09 Nov 2026 15:45:05 +0000</pubDate>
-      <description>চট্টগ্রামের শতবর্ষী আছাদগঞ্জ শুঁটকি পট্টিতে বছরে প্রায় ২ হাজার ৪০০ কোটি টাকার শুঁটকি কেনাবেচা হয়। দেশের বিভিন্ন প্রান্ত থেকে পাইকারি ব্যবসায়ীরা এই বাজারে আসেন। এখানকার শুঁটকি সরবরাহ করা হয় দেশের বিভিন্ন অঞ্চলে। পাশাপাশি চট্টগ্রামে উৎপাদিত শুঁটকির একটি উল্লেখযোগ্য অংশ রপ্তানি হচ্ছে বিদেশেও। আছাদগঞ্জ </description>
-      <source url="https://citizensvoicebd.com/business/155989/">Citizens Voice</source>
+      <title>সন্ত্রাস ও বিশৃঙ্খলার চেষ্টার প্রতিবাদে আইনজীবী ফোরামের বিক্ষোভ</title>
+      <link>https://citizensvoicebd.com/court-of-law/156081/</link>
+      <guid isPermaLink="true">https://citizensvoicebd.com/court-of-law/156081/</guid>
+      <pubDate>Tue, 10 Nov 2026 06:15:55 +0000</pubDate>
+      <description>দেশে সন্ত্রাস ও বিশৃঙ্খলা সৃষ্টির চেষ্টার প্রতিবাদে বিক্ষোভ মিছিল ও সমাবেশ করেছে জাতীয়তাবাদী আইনজীবী ফোরাম। সোমবার (৯ নভেম্বর) সুপ্রিম কোর্ট আইনজীবী সমিতি প্রাঙ্গণ থেকে মিছিল বের করেন সংগঠনটির নেতা-কর্মীরা। মিছিলটি হাইকোর্ট মাজার গেট ও কদম ফোয়ারা এলাকা ঘুরে আবার সুপ্রিম কোর্ট আইনজীবী সমিতি প্রাঙ্গণে</description>
+      <source url="https://citizensvoicebd.com/court-of-law/156081/">Citizens Voice</source>
     </item>
   </channel>
 </rss>
