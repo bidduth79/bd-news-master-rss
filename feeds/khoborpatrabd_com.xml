@@ -1,11 +1,21 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
   <channel>
     <title>Daily Khoborpatra - আরএসএস ফিড</title>
     <link>https://khoborpatrabd.com/</link>
     <description>Daily Khoborpatra এর সর্বশেষ খবর</description>
     <language>bn</language>
-    <lastBuildDate>Fri, 13 Nov 2026 05:49:18 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 14:14:58 +0000</lastBuildDate>
+    <item>
+      <title>ঢাকা শুধু প্রশাসনিক রাজনীতি নয়, সাহিত্য সংস্কৃতিরও রাজনীতি: মিয়া গোলাম পরওয়ার</title>
+      <link>https://khoborpatrabd.com/news/18266</link>
+      <guid isPermaLink="true">https://khoborpatrabd.com/news/18266</guid>
+      <pubDate>Fri, 13 Nov 2026 11:26:44 +0000</pubDate>
+      <enclosure url="https://khoborpatrabd.com/wp-content/uploads/2026/11/Saifullah-mansur-300x226.jpeg" length="0" type="image/jpeg" />
+      <media:content url="https://khoborpatrabd.com/wp-content/uploads/2026/11/Saifullah-mansur-300x226.jpeg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://khoborpatrabd.com/wp-content/uploads/2026/11/Saifullah-mansur-300x226.jpeg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="ঢাকা শুধু প্রশাসনিক রাজনীতি নয়, সাহিত্য সংস্কৃতিরও রাজনীতি: মিয়া গোলাম পরওয়ার" /&gt;&lt;/p&gt;&lt;p&gt;বাংলাদেশ জামায়াতে ইসলামীর সেক্রেটারি জেনারেল ও সাবেক এমপি মিয়া গোলাম পরওয়ার বলেছেন, “ঢাকা শুধু প্রশাসনিক রাজধানী নয়, সাহিত্য ও সংস্কৃতিরও রাজধানী। তাই সারা দেশে সাংস্কৃতিক বিপ্লব সৃষ্টির দায়িত্ব ঢাকা মহানগরীর কবি, সাহিত্যিক ও শিল্পীদের। শিরক, বিদআত ও অশ্লীলতার মোকাবিলায় মানুষের মাঝে ইসলামের সুন্দর, &lt;/p&gt;</description>
+      <source url="https://khoborpatrabd.com/news/18266">Daily Khoborpatra</source>
+    </item>
     <item>
       <title>জুড়ীতে অবৈধ স-মিলের দাপট-উচ্ছেদের আশ্বাসেই সীমাবদ্ধ বন বিভাগ</title>
       <link>https://khoborpatrabd.com/news/18264</link>
@@ -77,14 +87,6 @@
       <pubDate>Thu, 12 Nov 2026 20:33:16 +0000</pubDate>
       <description>কর্মদক্ষতা, সততা, নিষ্ঠা ও পেশাদারত্বের অনন্য স্বীকৃতি হিসেবে আবারও সাফল্যের মুকুট অর্জন করেছেন জামালপুর সদর থানার অফিসার ইনচার্জ (তদন্ত) মোঃ নাজমুল জান্নাত শাহ। বাংলাদেশ পুলিশের ময়মনসিংহ রেঞ্জের সেপ্টেম্বর ও অক্টোবরÑটানা দুই মাসের শ্রেষ্ঠ ওসি (তদন্ত) নির্বাচিত হয়েছেন তিনি। তাঁর এ ধারাবাহিক সাফল্যে </description>
       <source url="https://khoborpatrabd.com/news/18248">Daily Khoborpatra</source>
-    </item>
-    <item>
-      <title>গজারিয়ায় ২৬-২৭ অর্থ বছরের রবি মৌসুমে বীজ ও সার বিতরণ কর্মসূচি শুভ উদ্বোধন</title>
-      <link>https://khoborpatrabd.com/news/18246</link>
-      <guid isPermaLink="true">https://khoborpatrabd.com/news/18246</guid>
-      <pubDate>Thu, 12 Nov 2026 20:32:35 +0000</pubDate>
-      <description>মুন্সিগঞ্জের গজারিয়ায় ২০২৬-২৭ অর্থবছরের রবি মৌসুমে ৭টি ফসলভিত্তিক প্রণোদনা কর্মসূচির আওতায় ক্ষুদ্র ও প্রান্তিক কৃষকদের মাঝে বিনামূল্যে বীজ ও সার বিতরণ কর্মসূচি উদ্বোধন করা হয়েছে। সরিষা, চিনাবাদাম, সয়াবিন, মুগ, মসুর, খেসারি ও অড়হড়ের আবাদ এবং উৎপাদন বৃদ্ধির লক্ষ্যেই মূলত এই উদ্যোগ নেওয়া হয়। বৃহস্পতিবা</description>
-      <source url="https://khoborpatrabd.com/news/18246">Daily Khoborpatra</source>
     </item>
   </channel>
 </rss>

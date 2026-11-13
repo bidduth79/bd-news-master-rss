@@ -1,130 +1,110 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
   <channel>
     <title>পাহাড়বার্তা - আরএসএস ফিড</title>
     <link>https://paharbarta.com</link>
     <description>পাহাড়বার্তা এর সর্বশেষ খবর</description>
     <language>bn</language>
-    <lastBuildDate>Fri, 13 Nov 2026 05:49:57 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 14:15:16 +0000</lastBuildDate>
     <item>
-      <title>পাহাড়বার্তা পরিবার</title>
-      <link>https://paharbarta.com/family/</link>
-      <guid isPermaLink="true">https://paharbarta.com/family/</guid>
-      <pubDate>Fri, 13 Nov 2026 05:49:57 +0000</pubDate>
-      <description>পাহাড়বার্তা পরিবার</description>
-      <source url="https://paharbarta.com/family/">পাহাড়বার্তা</source>
+      <title>বান্দরবানে অনুষ্ঠিত হলো অন্নকূট মহোৎসব</title>
+      <link>https://paharbarta.com/%e0%a6%ac%e0%a6%be%e0%a6%a8%e0%a7%8d%e0%a6%a6%e0%a6%b0%e0%a6%ac%e0%a6%be%e0%a6%a8%e0%a7%87-%e0%a6%85%e0%a6%a8%e0%a7%81%e0%a6%b7%e0%a7%8d%e0%a6%a0%e0%a6%bf%e0%a6%a4-%e0%a6%b9%e0%a6%b2%e0%a7%8b-5/</link>
+      <guid isPermaLink="true">https://paharbarta.com/%e0%a6%ac%e0%a6%be%e0%a6%a8%e0%a7%8d%e0%a6%a6%e0%a6%b0%e0%a6%ac%e0%a6%be%e0%a6%a8%e0%a7%87-%e0%a6%85%e0%a6%a8%e0%a7%81%e0%a6%b7%e0%a7%8d%e0%a6%a0%e0%a6%bf%e0%a6%a4-%e0%a6%b9%e0%a6%b2%e0%a7%8b-5/</guid>
+      <pubDate>Fri, 13 Nov 2026 12:51:25 +0000</pubDate>
+      <enclosure url="https://paharbarta.com/wp-content/uploads/Bandarban-Sanatany-Annakut-News-Pic-13-Nov-2026-.jpg" length="0" type="image/jpeg" />
+      <media:content url="https://paharbarta.com/wp-content/uploads/Bandarban-Sanatany-Annakut-News-Pic-13-Nov-2026-.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://paharbarta.com/wp-content/uploads/Bandarban-Sanatany-Annakut-News-Pic-13-Nov-2026-.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="বান্দরবানে অনুষ্ঠিত হলো অন্নকূট মহোৎসব" /&gt;&lt;/p&gt;&lt;p&gt;পার্বত্য জেলা বান্দরবানে ধর্মীয় ভাবগাম্ভীর্য ও উৎসবমুখর পরিবেশে অনুষ্ঠিত হলো গিরি গোবর্ধন পূজা ও অন্নকূট মহোৎসব। আন্তর্জাতিক কৃষ্ণভাবনামৃত সংঘ (ইসকন) বান্দরবানের উদ্যোগে কালাঘাটাস্থ শ্রী শ্রী রাধা গিরিধারী মন্দির প্রাঙ্গণে দিনব্যাপী নানা ধর্মীয় অনুষ্ঠানের মাধ্যমে এই আয়োজন সুন্দরভাবে সম্পন্ন হয়। গিরি&lt;/p&gt;</description>
+      <source url="https://paharbarta.com/%e0%a6%ac%e0%a6%be%e0%a6%a8%e0%a7%8d%e0%a6%a6%e0%a6%b0%e0%a6%ac%e0%a6%be%e0%a6%a8%e0%a7%87-%e0%a6%85%e0%a6%a8%e0%a7%81%e0%a6%b7%e0%a7%8d%e0%a6%a0%e0%a6%bf%e0%a6%a4-%e0%a6%b9%e0%a6%b2%e0%a7%8b-5/">পাহাড়বার্তা</source>
     </item>
     <item>
-      <title>গুরুত্বপূর্ণ লিংক</title>
-      <link>https://paharbarta.com/chtlinks/</link>
-      <guid isPermaLink="true">https://paharbarta.com/chtlinks/</guid>
-      <pubDate>Fri, 13 Nov 2026 05:49:57 +0000</pubDate>
-      <description>গুরুত্বপূর্ণ লিংক</description>
-      <source url="https://paharbarta.com/chtlinks/">পাহাড়বার্তা</source>
+      <title>রামগড়ে ১১২ জনকে সম্মাননা প্রদান করলো শ্রী শ্রী লোকনাথ ধাম পরিচালনা পর্ষদ</title>
+      <link>https://paharbarta.com/%e0%a6%b0%e0%a6%be%e0%a6%ae%e0%a6%97%e0%a6%a1%e0%a6%bc%e0%a7%87-%e0%a7%a7%e0%a7%a7%e0%a7%a8-%e0%a6%9c%e0%a6%a8%e0%a6%95%e0%a7%87-%e0%a6%b8%e0%a6%ae%e0%a7%8d%e0%a6%ae%e0%a6%be%e0%a6%a8%e0%a6%a8/</link>
+      <guid isPermaLink="true">https://paharbarta.com/%e0%a6%b0%e0%a6%be%e0%a6%ae%e0%a6%97%e0%a6%a1%e0%a6%bc%e0%a7%87-%e0%a7%a7%e0%a7%a7%e0%a7%a8-%e0%a6%9c%e0%a6%a8%e0%a6%95%e0%a7%87-%e0%a6%b8%e0%a6%ae%e0%a7%8d%e0%a6%ae%e0%a6%be%e0%a6%a8%e0%a6%a8/</guid>
+      <pubDate>Fri, 13 Nov 2026 12:43:09 +0000</pubDate>
+      <enclosure url="https://paharbarta.com/wp-content/uploads/WhatsApp-Image-2026-11-13-at-3.53.57-PM.jpeg.jpg" length="0" type="image/jpeg" />
+      <media:content url="https://paharbarta.com/wp-content/uploads/WhatsApp-Image-2026-11-13-at-3.53.57-PM.jpeg.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://paharbarta.com/wp-content/uploads/WhatsApp-Image-2026-11-13-at-3.53.57-PM.jpeg.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="রামগড়ে ১১২ জনকে সম্মাননা প্রদান করলো শ্রী শ্রী লোকনাথ ধাম পরিচালনা পর্ষদ" /&gt;&lt;/p&gt;&lt;p&gt;খাগড়াছড়ির রামগড়ে শ্রী শ্রী লোকনাথ ধাম পরিচালনা পর্ষদের উদ্যোগে এক বর্ণাঢ্য আয়োজনের মধ্য দিয়ে প্রথমবারের মতো কৃতি ব্যক্তিবর্গ ও ধর্মীয় নেতৃবৃন্দকে সম্মাননা প্রদান করা হয়েছে। আজ শুক্রবার (১৩ নভেম্বর) সকাল ১১টায় গর্জনতলীস্থ লোকনাথ ধাম প্রাঙ্গণে এই সম্মাননা প্রদান অনুষ্ঠান অনুষ্ঠিত হয়। অনুষ্ঠানে লোকনাথ &lt;/p&gt;</description>
+      <source url="https://paharbarta.com/%e0%a6%b0%e0%a6%be%e0%a6%ae%e0%a6%97%e0%a6%a1%e0%a6%bc%e0%a7%87-%e0%a7%a7%e0%a7%a7%e0%a7%a8-%e0%a6%9c%e0%a6%a8%e0%a6%95%e0%a7%87-%e0%a6%b8%e0%a6%ae%e0%a7%8d%e0%a6%ae%e0%a6%be%e0%a6%a8%e0%a6%a8/">পাহাড়বার্তা</source>
     </item>
     <item>
-      <title>খাগড়াছড়িতে সমাজসেবা ও ভূমি অফিসে রহস্যজনক অগ্নিকাণ্ড</title>
-      <link>https://paharbarta.com/%e0%a6%96%e0%a6%be%e0%a6%97%e0%a6%a1%e0%a6%bc%e0%a6%be%e0%a6%9b%e0%a6%a1%e0%a6%bc%e0%a6%bf%e0%a6%a4%e0%a7%87-%e0%a6%b8%e0%a6%ae%e0%a6%be%e0%a6%9c%e0%a6%b8%e0%a7%87%e0%a6%ac%e0%a6%be-%e0%a6%93/</link>
-      <guid isPermaLink="true">https://paharbarta.com/%e0%a6%96%e0%a6%be%e0%a6%97%e0%a6%a1%e0%a6%bc%e0%a6%be%e0%a6%9b%e0%a6%a1%e0%a6%bc%e0%a6%bf%e0%a6%a4%e0%a7%87-%e0%a6%b8%e0%a6%ae%e0%a6%be%e0%a6%9c%e0%a6%b8%e0%a7%87%e0%a6%ac%e0%a6%be-%e0%a6%93/</guid>
-      <pubDate>Fri, 13 Nov 2026 05:49:57 +0000</pubDate>
-      <description>খাগড়াছড়িতে সমাজসেবা ও ভূমি অফিসে রহস্যজনক অগ্নিকাণ্ড</description>
-      <source url="https://paharbarta.com/%e0%a6%96%e0%a6%be%e0%a6%97%e0%a6%a1%e0%a6%bc%e0%a6%be%e0%a6%9b%e0%a6%a1%e0%a6%bc%e0%a6%bf%e0%a6%a4%e0%a7%87-%e0%a6%b8%e0%a6%ae%e0%a6%be%e0%a6%9c%e0%a6%b8%e0%a7%87%e0%a6%ac%e0%a6%be-%e0%a6%93/">পাহাড়বার্তা</source>
+      <title>বান্দরবানের করুণাপুর বন বিহারে কঠিন চীবর দানোৎসব উদযাপিত</title>
+      <link>https://paharbarta.com/%e0%a6%ac%e0%a6%be%e0%a6%a8%e0%a7%8d%e0%a6%a6%e0%a6%b0%e0%a6%ac%e0%a6%be%e0%a6%a8%e0%a7%87%e0%a6%b0-%e0%a6%95%e0%a6%b0%e0%a7%81%e0%a6%a3%e0%a6%be%e0%a6%aa%e0%a7%81%e0%a6%b0-%e0%a6%ac%e0%a6%a8/</link>
+      <guid isPermaLink="true">https://paharbarta.com/%e0%a6%ac%e0%a6%be%e0%a6%a8%e0%a7%8d%e0%a6%a6%e0%a6%b0%e0%a6%ac%e0%a6%be%e0%a6%a8%e0%a7%87%e0%a6%b0-%e0%a6%95%e0%a6%b0%e0%a7%81%e0%a6%a3%e0%a6%be%e0%a6%aa%e0%a7%81%e0%a6%b0-%e0%a6%ac%e0%a6%a8/</guid>
+      <pubDate>Fri, 13 Nov 2026 12:39:26 +0000</pubDate>
+      <enclosure url="https://paharbarta.com/wp-content/uploads/Bandarban-Buddist-Katin-Cibar-Dan-Pic-13-Nov-2026-2.jpg" length="0" type="image/jpeg" />
+      <media:content url="https://paharbarta.com/wp-content/uploads/Bandarban-Buddist-Katin-Cibar-Dan-Pic-13-Nov-2026-2.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://paharbarta.com/wp-content/uploads/Bandarban-Buddist-Katin-Cibar-Dan-Pic-13-Nov-2026-2.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="বান্দরবানের করুণাপুর বন বিহারে কঠিন চীবর দানোৎসব উদযাপিত" /&gt;&lt;/p&gt;&lt;p&gt;নানান ধর্মীয় আয়োজনে বান্দরবানের করুণাপুর বন বিহারে দানোত্তম শুভ কঠিন চীবর দানোৎসব উদযাপিত হয়েছে। শুভ কঠিন চীবর দানোৎসব উপলক্ষ্যে আজ শুক্রবার (১৩ নভেম্বর) বান্দরবান সদরের করুণাপুর বন বিহারে উপাসক-উপাসিকাবৃন্দের আয়োজনে বিভিন্ন কর্মসূচির মধ্য দিয়ে দানোত্তম এই শুভ কঠিন চীবর দানোৎসব উদযাপিত হয়। কঠিন চীবর&lt;/p&gt;</description>
+      <source url="https://paharbarta.com/%e0%a6%ac%e0%a6%be%e0%a6%a8%e0%a7%8d%e0%a6%a6%e0%a6%b0%e0%a6%ac%e0%a6%be%e0%a6%a8%e0%a7%87%e0%a6%b0-%e0%a6%95%e0%a6%b0%e0%a7%81%e0%a6%a3%e0%a6%be%e0%a6%aa%e0%a7%81%e0%a6%b0-%e0%a6%ac%e0%a6%a8/">পাহাড়বার্তা</source>
     </item>
     <item>
-      <title>গুইমারায় বিএনপির ওয়ার্ড কার্যালয়ে আগুন, আটক ৬</title>
-      <link>https://paharbarta.com/%e0%a6%97%e0%a7%81%e0%a6%87%e0%a6%ae%e0%a6%be%e0%a6%b0%e0%a6%be%e0%a6%af%e0%a6%bc-%e0%a6%ac%e0%a6%bf%e0%a6%8f%e0%a6%a8%e0%a6%aa%e0%a6%bf%e0%a6%b0-%e0%a6%93%e0%a6%af%e0%a6%bc%e0%a6%be%e0%a6%b0%e0%a7%8d/</link>
-      <guid isPermaLink="true">https://paharbarta.com/%e0%a6%97%e0%a7%81%e0%a6%87%e0%a6%ae%e0%a6%be%e0%a6%b0%e0%a6%be%e0%a6%af%e0%a6%bc-%e0%a6%ac%e0%a6%bf%e0%a6%8f%e0%a6%a8%e0%a6%aa%e0%a6%bf%e0%a6%b0-%e0%a6%93%e0%a6%af%e0%a6%bc%e0%a6%be%e0%a6%b0%e0%a7%8d/</guid>
-      <pubDate>Fri, 13 Nov 2026 05:49:57 +0000</pubDate>
-      <description>গুইমারায় বিএনপির ওয়ার্ড কার্যালয়ে আগুন, আটক ৬</description>
-      <source url="https://paharbarta.com/%e0%a6%97%e0%a7%81%e0%a6%87%e0%a6%ae%e0%a6%be%e0%a6%b0%e0%a6%be%e0%a6%af%e0%a6%bc-%e0%a6%ac%e0%a6%bf%e0%a6%8f%e0%a6%a8%e0%a6%aa%e0%a6%bf%e0%a6%b0-%e0%a6%93%e0%a6%af%e0%a6%bc%e0%a6%be%e0%a6%b0%e0%a7%8d/">পাহাড়বার্তা</source>
-    </item>
-    <item>
-      <title>খাগড়াছড়িতে হাসপাতালের সামনে জিপে আগুন, ক্ষতি ৫ লাখ টাকা</title>
-      <link>https://paharbarta.com/%e0%a6%96%e0%a6%be%e0%a6%97%e0%a6%a1%e0%a6%bc%e0%a6%be%e0%a6%9b%e0%a6%a1%e0%a6%bc%e0%a6%bf%e0%a6%a4%e0%a7%87-%e0%a6%b9%e0%a6%be%e0%a6%b8%e0%a6%aa%e0%a6%be%e0%a6%a4%e0%a6%be%e0%a6%b2%e0%a7%87%e0%a6%b0/</link>
-      <guid isPermaLink="true">https://paharbarta.com/%e0%a6%96%e0%a6%be%e0%a6%97%e0%a6%a1%e0%a6%bc%e0%a6%be%e0%a6%9b%e0%a6%a1%e0%a6%bc%e0%a6%bf%e0%a6%a4%e0%a7%87-%e0%a6%b9%e0%a6%be%e0%a6%b8%e0%a6%aa%e0%a6%be%e0%a6%a4%e0%a6%be%e0%a6%b2%e0%a7%87%e0%a6%b0/</guid>
-      <pubDate>Fri, 13 Nov 2026 05:49:57 +0000</pubDate>
-      <description>খাগড়াছড়িতে হাসপাতালের সামনে জিপে আগুন, ক্ষতি ৫ লাখ টাকা</description>
-      <source url="https://paharbarta.com/%e0%a6%96%e0%a6%be%e0%a6%97%e0%a6%a1%e0%a6%bc%e0%a6%be%e0%a6%9b%e0%a6%a1%e0%a6%bc%e0%a6%bf%e0%a6%a4%e0%a7%87-%e0%a6%b9%e0%a6%be%e0%a6%b8%e0%a6%aa%e0%a6%be%e0%a6%a4%e0%a6%be%e0%a6%b2%e0%a7%87%e0%a6%b0/">পাহাড়বার্তা</source>
-    </item>
-    <item>
-      <title>কাপ্তাইয়ে এনএসআই সদস্য পরিচয়ে চাঁদা আদায়কারী আটক</title>
-      <link>https://paharbarta.com/%e0%a6%95%e0%a6%be%e0%a6%aa%e0%a7%8d%e0%a6%a4%e0%a6%be%e0%a6%87%e0%a6%af%e0%a6%bc%e0%a7%87-%e0%a6%8f%e0%a6%a8%e0%a6%8f%e0%a6%b8%e0%a6%86%e0%a6%87-%e0%a6%b8%e0%a6%a6%e0%a6%b8%e0%a7%8d%e0%a6%af/</link>
-      <guid isPermaLink="true">https://paharbarta.com/%e0%a6%95%e0%a6%be%e0%a6%aa%e0%a7%8d%e0%a6%a4%e0%a6%be%e0%a6%87%e0%a6%af%e0%a6%bc%e0%a7%87-%e0%a6%8f%e0%a6%a8%e0%a6%8f%e0%a6%b8%e0%a6%86%e0%a6%87-%e0%a6%b8%e0%a6%a6%e0%a6%b8%e0%a7%8d%e0%a6%af/</guid>
-      <pubDate>Fri, 13 Nov 2026 05:49:57 +0000</pubDate>
-      <description>কাপ্তাইয়ে এনএসআই সদস্য পরিচয়ে চাঁদা আদায়কারী আটক</description>
-      <source url="https://paharbarta.com/%e0%a6%95%e0%a6%be%e0%a6%aa%e0%a7%8d%e0%a6%a4%e0%a6%be%e0%a6%87%e0%a6%af%e0%a6%bc%e0%a7%87-%e0%a6%8f%e0%a6%a8%e0%a6%8f%e0%a6%b8%e0%a6%86%e0%a6%87-%e0%a6%b8%e0%a6%a6%e0%a6%b8%e0%a7%8d%e0%a6%af/">পাহাড়বার্তা</source>
-    </item>
-    <item>
-      <title>রোয়াংছড়িতে আগুনে পুড়েছে ১৬ বসতঘর</title>
-      <link>https://paharbarta.com/%e0%a6%b0%e0%a7%8b%e0%a6%af%e0%a6%bc%e0%a6%be%e0%a6%82%e0%a6%9b%e0%a6%a1%e0%a6%bc%e0%a6%bf%e0%a6%a4%e0%a7%87-%e0%a6%86%e0%a6%97%e0%a7%81%e0%a6%a8%e0%a7%87-%e0%a6%aa%e0%a7%81%e0%a6%a1%e0%a6%bc-2/</link>
-      <guid isPermaLink="true">https://paharbarta.com/%e0%a6%b0%e0%a7%8b%e0%a6%af%e0%a6%bc%e0%a6%be%e0%a6%82%e0%a6%9b%e0%a6%a1%e0%a6%bc%e0%a6%bf%e0%a6%a4%e0%a7%87-%e0%a6%86%e0%a6%97%e0%a7%81%e0%a6%a8%e0%a7%87-%e0%a6%aa%e0%a7%81%e0%a6%a1%e0%a6%bc-2/</guid>
-      <pubDate>Fri, 13 Nov 2026 05:49:57 +0000</pubDate>
-      <description>রোয়াংছড়িতে আগুনে পুড়েছে ১৬ বসতঘর</description>
-      <source url="https://paharbarta.com/%e0%a6%b0%e0%a7%8b%e0%a6%af%e0%a6%bc%e0%a6%be%e0%a6%82%e0%a6%9b%e0%a6%a1%e0%a6%bc%e0%a6%bf%e0%a6%a4%e0%a7%87-%e0%a6%86%e0%a6%97%e0%a7%81%e0%a6%a8%e0%a7%87-%e0%a6%aa%e0%a7%81%e0%a6%a1%e0%a6%bc-2/">পাহাড়বার্তা</source>
-    </item>
-    <item>
-      <title>মানবেন্দ্র নারায়ণ লারমা ছিলো পাহাড়ে জুম্মজাতির অগ্রদূত</title>
-      <link>https://paharbarta.com/%e0%a6%ae%e0%a6%be%e0%a6%a8%e0%a6%ac%e0%a7%87%e0%a6%a8%e0%a7%8d%e0%a6%a6%e0%a7%8d%e0%a6%b0-%e0%a6%a8%e0%a6%be%e0%a6%b0%e0%a6%be%e0%a6%af%e0%a6%bc%e0%a6%a3-%e0%a6%b2%e0%a6%be%e0%a6%b0%e0%a6%ae%e0%a6%be/</link>
-      <guid isPermaLink="true">https://paharbarta.com/%e0%a6%ae%e0%a6%be%e0%a6%a8%e0%a6%ac%e0%a7%87%e0%a6%a8%e0%a7%8d%e0%a6%a6%e0%a7%8d%e0%a6%b0-%e0%a6%a8%e0%a6%be%e0%a6%b0%e0%a6%be%e0%a6%af%e0%a6%bc%e0%a6%a3-%e0%a6%b2%e0%a6%be%e0%a6%b0%e0%a6%ae%e0%a6%be/</guid>
-      <pubDate>Fri, 13 Nov 2026 05:49:57 +0000</pubDate>
-      <description>মানবেন্দ্র নারায়ণ লারমা ছিলো পাহাড়ে জুম্মজাতির অগ্রদূত</description>
-      <source url="https://paharbarta.com/%e0%a6%ae%e0%a6%be%e0%a6%a8%e0%a6%ac%e0%a7%87%e0%a6%a8%e0%a7%8d%e0%a6%a6%e0%a7%8d%e0%a6%b0-%e0%a6%a8%e0%a6%be%e0%a6%b0%e0%a6%be%e0%a6%af%e0%a6%bc%e0%a6%a3-%e0%a6%b2%e0%a6%be%e0%a6%b0%e0%a6%ae%e0%a6%be/">পাহাড়বার্তা</source>
+      <title>কারিগরি শিক্ষায় দক্ষ হলেই বিদেশে লাখ টাকা আয় সম্ভব : উপ-পরিচালক</title>
+      <link>https://paharbarta.com/%e0%a6%95%e0%a6%be%e0%a6%b0%e0%a6%bf%e0%a6%97%e0%a6%b0%e0%a6%bf-%e0%a6%b6%e0%a6%bf%e0%a6%95%e0%a7%8d%e0%a6%b7%e0%a6%be%e0%a6%af%e0%a6%bc-%e0%a6%a6%e0%a6%95%e0%a7%8d%e0%a6%b7-%e0%a6%b9%e0%a6%b2/</link>
+      <guid isPermaLink="true">https://paharbarta.com/%e0%a6%95%e0%a6%be%e0%a6%b0%e0%a6%bf%e0%a6%97%e0%a6%b0%e0%a6%bf-%e0%a6%b6%e0%a6%bf%e0%a6%95%e0%a7%8d%e0%a6%b7%e0%a6%be%e0%a6%af%e0%a6%bc-%e0%a6%a6%e0%a6%95%e0%a7%8d%e0%a6%b7-%e0%a6%b9%e0%a6%b2/</guid>
+      <pubDate>Fri, 13 Nov 2026 12:36:57 +0000</pubDate>
+      <enclosure url="https://paharbarta.com/wp-content/uploads/1000741245.jpg" length="0" type="image/jpeg" />
+      <media:content url="https://paharbarta.com/wp-content/uploads/1000741245.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://paharbarta.com/wp-content/uploads/1000741245.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="কারিগরি শিক্ষায় দক্ষ হলেই বিদেশে লাখ টাকা আয় সম্ভব : উপ-পরিচালক" /&gt;&lt;/p&gt;&lt;p&gt;কারিগরি শিক্ষায় একজন শিক্ষার্থী যদি নবম ও দশম শ্রেণিতে ভালোভাবে দক্ষ হয়ে ওঠে, তাহলে শুধু এই দক্ষতা নিয়েই বিদেশে গিয়ে মাসে দেড় থেকে দুই লাখ টাকা আয় করা সম্ভব বলে মন্তব্য করেছেন বাংলাদেশ কারিগরি শিক্ষা বোর্ডের উপ-পরিচালক মুহাম্মদ নুর উদ্দিন আহমদ। আজ শুক্রবার (১৩ নভেম্বর) বেলা সাড়ে ১১টায় তিনি র&lt;/p&gt;</description>
+      <source url="https://paharbarta.com/%e0%a6%95%e0%a6%be%e0%a6%b0%e0%a6%bf%e0%a6%97%e0%a6%b0%e0%a6%bf-%e0%a6%b6%e0%a6%bf%e0%a6%95%e0%a7%8d%e0%a6%b7%e0%a6%be%e0%a6%af%e0%a6%bc-%e0%a6%a6%e0%a6%95%e0%a7%8d%e0%a6%b7-%e0%a6%b9%e0%a6%b2/">পাহাড়বার্তা</source>
     </item>
     <item>
       <title>কাপ্তাইয়ে নজরুলের জীবন ও সৃষ্টিকর্ম নিয়ে সাংস্কৃতিক অনুষ্ঠান ও আলোকচিত্র প্রদর্শনী</title>
       <link>https://paharbarta.com/%e0%a6%95%e0%a6%be%e0%a6%aa%e0%a7%8d%e0%a6%a4%e0%a6%be%e0%a6%87%e0%a6%af%e0%a6%bc%e0%a7%87-%e0%a6%a8%e0%a6%9c%e0%a6%b0%e0%a7%81%e0%a6%b2%e0%a7%87%e0%a6%b0-%e0%a6%9c%e0%a7%80%e0%a6%ac%e0%a6%a8/</link>
       <guid isPermaLink="true">https://paharbarta.com/%e0%a6%95%e0%a6%be%e0%a6%aa%e0%a7%8d%e0%a6%a4%e0%a6%be%e0%a6%87%e0%a6%af%e0%a6%bc%e0%a7%87-%e0%a6%a8%e0%a6%9c%e0%a6%b0%e0%a7%81%e0%a6%b2%e0%a7%87%e0%a6%b0-%e0%a6%9c%e0%a7%80%e0%a6%ac%e0%a6%a8/</guid>
-      <pubDate>Fri, 13 Nov 2026 05:49:57 +0000</pubDate>
-      <description>কাপ্তাইয়ে নজরুলের জীবন ও সৃষ্টিকর্ম নিয়ে সাংস্কৃতিক অনুষ্ঠান ও আলোকচিত্র প্রদর্শনী</description>
+      <pubDate>Thu, 12 Nov 2026 12:49:26 +0000</pubDate>
+      <enclosure url="https://paharbarta.com/wp-content/uploads/295750.jpg" length="0" type="image/jpeg" />
+      <media:content url="https://paharbarta.com/wp-content/uploads/295750.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://paharbarta.com/wp-content/uploads/295750.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="কাপ্তাইয়ে নজরুলের জীবন ও সৃষ্টিকর্ম নিয়ে সাংস্কৃতিক অনুষ্ঠান ও আলোকচিত্র প্রদর্শনী" /&gt;&lt;/p&gt;&lt;p&gt;জাতীয় কবি কাজী নজরুল ইসলামের জীবন, সাহিত্য ও সৃষ্টিকর্ম নতুন প্রজন্মের কাছে তুলে ধরতে রাঙামাটির কাপ্তাইয়ে নজরুল বর্ষ উদযাপন উপলক্ষে সাংস্কৃতিক অনুষ্ঠান ও আলোকচিত্র প্রদর্শনীর আয়োজন করা হয়েছে। আজ বৃহস্পতিবার (১২ নভেম্বর) বিকেল সাড়ে ৩টা থেকে সন্ধ্যা ৬টা পর্যন্ত কাপ্তাই উপজেলা পরিষদ মিলনায়তনে সংস্কৃতিব&lt;/p&gt;</description>
       <source url="https://paharbarta.com/%e0%a6%95%e0%a6%be%e0%a6%aa%e0%a7%8d%e0%a6%a4%e0%a6%be%e0%a6%87%e0%a6%af%e0%a6%bc%e0%a7%87-%e0%a6%a8%e0%a6%9c%e0%a6%b0%e0%a7%81%e0%a6%b2%e0%a7%87%e0%a6%b0-%e0%a6%9c%e0%a7%80%e0%a6%ac%e0%a6%a8/">পাহাড়বার্তা</source>
+    </item>
+    <item>
+      <title>খাগড়াছড়িতে সমাজসেবা ও ভূমি অফিসে রহস্যজনক অগ্নিকাণ্ড</title>
+      <link>https://paharbarta.com/%e0%a6%96%e0%a6%be%e0%a6%97%e0%a6%a1%e0%a6%bc%e0%a6%be%e0%a6%9b%e0%a6%a1%e0%a6%bc%e0%a6%bf%e0%a6%a4%e0%a7%87-%e0%a6%b8%e0%a6%ae%e0%a6%be%e0%a6%9c%e0%a6%b8%e0%a7%87%e0%a6%ac%e0%a6%be-%e0%a6%93/</link>
+      <guid isPermaLink="true">https://paharbarta.com/%e0%a6%96%e0%a6%be%e0%a6%97%e0%a6%a1%e0%a6%bc%e0%a6%be%e0%a6%9b%e0%a6%a1%e0%a6%bc%e0%a6%bf%e0%a6%a4%e0%a7%87-%e0%a6%b8%e0%a6%ae%e0%a6%be%e0%a6%9c%e0%a6%b8%e0%a7%87%e0%a6%ac%e0%a6%be-%e0%a6%93/</guid>
+      <pubDate>Thu, 12 Nov 2026 12:41:25 +0000</pubDate>
+      <enclosure url="https://paharbarta.com/wp-content/uploads/file_00000000da60820a98f017ec2812308d-copy.jpg" length="0" type="image/jpeg" />
+      <media:content url="https://paharbarta.com/wp-content/uploads/file_00000000da60820a98f017ec2812308d-copy.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://paharbarta.com/wp-content/uploads/file_00000000da60820a98f017ec2812308d-copy.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="খাগড়াছড়িতে সমাজসেবা ও ভূমি অফিসে রহস্যজনক অগ্নিকাণ্ড" /&gt;&lt;/p&gt;&lt;p&gt;খাগড়াছড়ি সদর উপজেলা সমাজসেবা কার্যালয় এবং ভূমি অফিসে গভীর রাতে রহস্যজনক অগ্নিকাণ্ডের ঘটনা ঘটেছে। এ ঘটনায় ভূমি অফিসের বেশ কিছু গুরুত্বপূর্ণ নথি এবং সমাজসেবা কার্যালয়ের আসবাবপত্রসহ বিভিন্ন দামি সরঞ্জাম পুড়ে গেছে। ​গতকাল বুধবার দিবাগত রাত পৌনে ৩টার দিকে সদর উপজেলা পরিষদের এই কার্যালয় দুটিতে এই অগ্নিকাণ&lt;/p&gt;</description>
+      <source url="https://paharbarta.com/%e0%a6%96%e0%a6%be%e0%a6%97%e0%a6%a1%e0%a6%bc%e0%a6%be%e0%a6%9b%e0%a6%a1%e0%a6%bc%e0%a6%bf%e0%a6%a4%e0%a7%87-%e0%a6%b8%e0%a6%ae%e0%a6%be%e0%a6%9c%e0%a6%b8%e0%a7%87%e0%a6%ac%e0%a6%be-%e0%a6%93/">পাহাড়বার্তা</source>
     </item>
     <item>
       <title>রোয়াংছড়ির বড়ইতলীর অগ্নিকাণ্ডে ক্ষতিগ্রস্থদের পাশে বান্দরবান প্রেসক্লাব</title>
       <link>https://paharbarta.com/%e0%a6%b0%e0%a7%8b%e0%a6%af%e0%a6%bc%e0%a6%be%e0%a6%82%e0%a6%9b%e0%a6%a1%e0%a6%bc%e0%a6%bf%e0%a6%b0-%e0%a6%ac%e0%a6%a1%e0%a6%bc%e0%a6%87%e0%a6%a4%e0%a6%b2%e0%a7%80%e0%a6%b0-%e0%a6%85%e0%a6%97%e0%a7%8d/</link>
       <guid isPermaLink="true">https://paharbarta.com/%e0%a6%b0%e0%a7%8b%e0%a6%af%e0%a6%bc%e0%a6%be%e0%a6%82%e0%a6%9b%e0%a6%a1%e0%a6%bc%e0%a6%bf%e0%a6%b0-%e0%a6%ac%e0%a6%a1%e0%a6%bc%e0%a6%87%e0%a6%a4%e0%a6%b2%e0%a7%80%e0%a6%b0-%e0%a6%85%e0%a6%97%e0%a7%8d/</guid>
-      <pubDate>Fri, 13 Nov 2026 05:49:57 +0000</pubDate>
-      <description>রোয়াংছড়ির বড়ইতলীর অগ্নিকাণ্ডে ক্ষতিগ্রস্থদের পাশে বান্দরবান প্রেসক্লাব</description>
+      <pubDate>Thu, 12 Nov 2026 12:35:12 +0000</pubDate>
+      <enclosure url="https://paharbarta.com/wp-content/uploads/Pic-Bandarban-Press-Club-1-1.jpg" length="0" type="image/jpeg" />
+      <media:content url="https://paharbarta.com/wp-content/uploads/Pic-Bandarban-Press-Club-1-1.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://paharbarta.com/wp-content/uploads/Pic-Bandarban-Press-Club-1-1.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="রোয়াংছড়ির বড়ইতলীর অগ্নিকাণ্ডে ক্ষতিগ্রস্থদের পাশে বান্দরবান প্রেসক্লাব" /&gt;&lt;/p&gt;&lt;p&gt;বান্দরবানের রোয়াংছড়ি উপজেলার ২নং তারাছা ইউনিয়নের বড়ইতলী পাড়ায় ভয়াবহ অগ্নিকাণ্ডে ক্ষতিগ্রস্থ পরিবারের পাশে বান্দরবান প্রেসক্লাব। আজ বৃহস্পতিবার (১২ নভেম্বর) সকালে বান্দরবান প্রেসক্লাবের উদ্যোগে তারাছা ইউনিয়নের বড়ইতলী পাড়ায় ভয়াবহ অগ্নিকাণ্ডে ক্ষতিগ্রস্থ পরিবারের সদস্যদের মাঝে বিভিন্ন শীতবস্ত্র ও শিক্ষ&lt;/p&gt;</description>
       <source url="https://paharbarta.com/%e0%a6%b0%e0%a7%8b%e0%a6%af%e0%a6%bc%e0%a6%be%e0%a6%82%e0%a6%9b%e0%a6%a1%e0%a6%bc%e0%a6%bf%e0%a6%b0-%e0%a6%ac%e0%a6%a1%e0%a6%bc%e0%a6%87%e0%a6%a4%e0%a6%b2%e0%a7%80%e0%a6%b0-%e0%a6%85%e0%a6%97%e0%a7%8d/">পাহাড়বার্তা</source>
     </item>
     <item>
       <title>দুর্গম বড় মদকে প্রাণে বাঁচলেন প্রসূতি মা ও নবজাতক</title>
       <link>https://paharbarta.com/%e0%a6%a6%e0%a7%81%e0%a6%b0%e0%a7%8d%e0%a6%97%e0%a6%ae-%e0%a6%ac%e0%a6%a1%e0%a6%bc-%e0%a6%ae%e0%a6%a6%e0%a6%95%e0%a7%87-%e0%a6%aa%e0%a7%8d%e0%a6%b0%e0%a6%be%e0%a6%a3%e0%a7%87-%e0%a6%ac%e0%a6%be/</link>
       <guid isPermaLink="true">https://paharbarta.com/%e0%a6%a6%e0%a7%81%e0%a6%b0%e0%a7%8d%e0%a6%97%e0%a6%ae-%e0%a6%ac%e0%a6%a1%e0%a6%bc-%e0%a6%ae%e0%a6%a6%e0%a6%95%e0%a7%87-%e0%a6%aa%e0%a7%8d%e0%a6%b0%e0%a6%be%e0%a6%a3%e0%a7%87-%e0%a6%ac%e0%a6%be/</guid>
-      <pubDate>Fri, 13 Nov 2026 05:49:57 +0000</pubDate>
-      <description>দুর্গম বড় মদকে প্রাণে বাঁচলেন প্রসূতি মা ও নবজাতক</description>
+      <pubDate>Wed, 11 Nov 2026 11:38:12 +0000</pubDate>
+      <enclosure url="https://paharbarta.com/wp-content/uploads/1000428014.jpg" length="0" type="image/jpeg" />
+      <media:content url="https://paharbarta.com/wp-content/uploads/1000428014.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://paharbarta.com/wp-content/uploads/1000428014.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="দুর্গম বড় মদকে প্রাণে বাঁচলেন প্রসূতি মা ও নবজাতক" /&gt;&lt;/p&gt;&lt;p&gt;বান্দরবানের থানচি উপজেলার দুর্গম বড় মদক এলাকায় প্রসবকালীন জটিলতায় পড়া এক প্রসূতি মা ও নবজাতককে প্রাণে রক্ষা করা হয়েছে। রাতের আঁধারে প্রায় ৭০ কিলোমিটার সাঙ্গু নদীপথ পাড়ি দিয়ে প্রথমে থানচি উপজেলা স্বাস্থ্য কমপ্লেক্স এবং পরে বান্দরবান জেলা সদরের হাসপাতালে নেওয়া হয় ওই প্রসূতিকে। স্থানীয় বেসরকারি উন্নয়ন &lt;/p&gt;</description>
       <source url="https://paharbarta.com/%e0%a6%a6%e0%a7%81%e0%a6%b0%e0%a7%8d%e0%a6%97%e0%a6%ae-%e0%a6%ac%e0%a6%a1%e0%a6%bc-%e0%a6%ae%e0%a6%a6%e0%a6%95%e0%a7%87-%e0%a6%aa%e0%a7%8d%e0%a6%b0%e0%a6%be%e0%a6%a3%e0%a7%87-%e0%a6%ac%e0%a6%be/">পাহাড়বার্তা</source>
     </item>
     <item>
       <title>পাহাড়ি শিক্ষার্থীদের মাঝে একাদশ শ্রেণির বই ও শিক্ষাসামগ্রী বিতরণ</title>
       <link>https://paharbarta.com/%e0%a6%aa%e0%a6%be%e0%a6%b9%e0%a6%be%e0%a6%a1%e0%a6%bc%e0%a6%bf-%e0%a6%b6%e0%a6%bf%e0%a6%95%e0%a7%8d%e0%a6%b7%e0%a6%be%e0%a6%b0%e0%a7%8d%e0%a6%a5%e0%a7%80%e0%a6%a6%e0%a7%87%e0%a6%b0-%e0%a6%ae%e0%a6%be/</link>
       <guid isPermaLink="true">https://paharbarta.com/%e0%a6%aa%e0%a6%be%e0%a6%b9%e0%a6%be%e0%a6%a1%e0%a6%bc%e0%a6%bf-%e0%a6%b6%e0%a6%bf%e0%a6%95%e0%a7%8d%e0%a6%b7%e0%a6%be%e0%a6%b0%e0%a7%8d%e0%a6%a5%e0%a7%80%e0%a6%a6%e0%a7%87%e0%a6%b0-%e0%a6%ae%e0%a6%be/</guid>
-      <pubDate>Fri, 13 Nov 2026 05:49:57 +0000</pubDate>
-      <description>পাহাড়ি শিক্ষার্থীদের মাঝে একাদশ শ্রেণির বই ও শিক্ষাসামগ্রী বিতরণ</description>
+      <pubDate>Wed, 11 Nov 2026 11:33:39 +0000</pubDate>
+      <enclosure url="https://paharbarta.com/wp-content/uploads/IMG-20261111-WA0015.jpg" length="0" type="image/jpeg" />
+      <media:content url="https://paharbarta.com/wp-content/uploads/IMG-20261111-WA0015.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://paharbarta.com/wp-content/uploads/IMG-20261111-WA0015.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="পাহাড়ি শিক্ষার্থীদের মাঝে একাদশ শ্রেণির বই ও শিক্ষাসামগ্রী বিতরণ" /&gt;&lt;/p&gt;&lt;p&gt;খাগড়াছড়ির মাটিরাঙ্গায় দূরবর্তী ও দুর্গম এলাকার দরিদ্র পাহাড়ি শিক্ষার্থীদের পড়াশোনা চালিয়ে যেতে সহায়তার হাত বাড়িয়ে দিয়েছে বাংলাদেশ সেনাবাহিনী। ১৮ ফিল্ড রেজিমেন্ট আর্টিলারি মাটিরাঙ্গা জোনের উদ্যোগে দরিদ্র ও মেধাবী ছাত্র-ছাত্রীদের মাঝে শিক্ষাসামগ্রী বিতরণ করা হয়েছে। ​আজ বুধবার (১২ নভেম্বর) মাটিরাঙ্গা জ&lt;/p&gt;</description>
       <source url="https://paharbarta.com/%e0%a6%aa%e0%a6%be%e0%a6%b9%e0%a6%be%e0%a6%a1%e0%a6%bc%e0%a6%bf-%e0%a6%b6%e0%a6%bf%e0%a6%95%e0%a7%8d%e0%a6%b7%e0%a6%be%e0%a6%b0%e0%a7%8d%e0%a6%a5%e0%a7%80%e0%a6%a6%e0%a7%87%e0%a6%b0-%e0%a6%ae%e0%a6%be/">পাহাড়বার্তা</source>
     </item>
     <item>
       <title>রাইখালীতে চেয়ারম্যান পদে প্রার্থী হবে তরুন রাজনীতিবিদ বিশু তঞ্চঙ্গ্যা</title>
       <link>https://paharbarta.com/%e0%a6%b0%e0%a6%be%e0%a6%87%e0%a6%96%e0%a6%be%e0%a6%b2%e0%a7%80%e0%a6%a4%e0%a7%87-%e0%a6%9a%e0%a7%87%e0%a6%af%e0%a6%bc%e0%a6%be%e0%a6%b0%e0%a6%ae%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%a8-%e0%a6%aa%e0%a6%a6/</link>
       <guid isPermaLink="true">https://paharbarta.com/%e0%a6%b0%e0%a6%be%e0%a6%87%e0%a6%96%e0%a6%be%e0%a6%b2%e0%a7%80%e0%a6%a4%e0%a7%87-%e0%a6%9a%e0%a7%87%e0%a6%af%e0%a6%bc%e0%a6%be%e0%a6%b0%e0%a6%ae%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%a8-%e0%a6%aa%e0%a6%a6/</guid>
-      <pubDate>Fri, 13 Nov 2026 05:49:57 +0000</pubDate>
-      <description>রাইখালীতে চেয়ারম্যান পদে প্রার্থী হবে তরুন রাজনীতিবিদ বিশু তঞ্চঙ্গ্যা</description>
+      <pubDate>Wed, 11 Nov 2026 11:30:25 +0000</pubDate>
+      <enclosure url="https://paharbarta.com/wp-content/uploads/11-WA0015-copy.jpg" length="0" type="image/jpeg" />
+      <media:content url="https://paharbarta.com/wp-content/uploads/11-WA0015-copy.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://paharbarta.com/wp-content/uploads/11-WA0015-copy.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="রাইখালীতে চেয়ারম্যান পদে প্রার্থী হবে তরুন রাজনীতিবিদ বিশু তঞ্চঙ্গ্যা" /&gt;&lt;/p&gt;&lt;p&gt;রাঙামাটির কাপ্তাই উপজেলার ২নং রাইখালী ইউনিয়ন পরিষদ নির্বাচনে চেয়ারম্যান পদপ্রার্থী হিসেবে বিশ্বজিৎ তঞ্চঙ্গ্যা বিশু প্রার্থী হচ্ছেন। রাইখালী ইউনিয়নের প্রতিটি গ্রামে-পাড়া-মহল্লায়, দোকানে ও মহলে ব্যাপক আলোচনায় আছেন তিনি। জানা যায়, আসন্ন ২নং রাইখালী ইউপি নির্বাচনে বাংলাদেশ জাতীয়তাবাদী দল বিএনপি হতে চেয়া&lt;/p&gt;</description>
       <source url="https://paharbarta.com/%e0%a6%b0%e0%a6%be%e0%a6%87%e0%a6%96%e0%a6%be%e0%a6%b2%e0%a7%80%e0%a6%a4%e0%a7%87-%e0%a6%9a%e0%a7%87%e0%a6%af%e0%a6%bc%e0%a6%be%e0%a6%b0%e0%a6%ae%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%a8-%e0%a6%aa%e0%a6%a6/">পাহাড়বার্তা</source>
-    </item>
-    <item>
-      <title>বান্দরবানের অষ্টবিংশতি বুদ্ধ বিহার ও রত্নপ্রিয় বির্দশন ভাবনা কেন্দ্রে কঠিন চীবর দানোৎসব</title>
-      <link>https://paharbarta.com/%e0%a6%ac%e0%a6%be%e0%a6%a8%e0%a7%8d%e0%a6%a6%e0%a6%b0%e0%a6%ac%e0%a6%be%e0%a6%a8%e0%a7%87%e0%a6%b0-%e0%a6%85%e0%a6%b7%e0%a7%8d%e0%a6%9f%e0%a6%ac%e0%a6%bf%e0%a6%82%e0%a6%b6%e0%a6%a4%e0%a6%bf-2/</link>
-      <guid isPermaLink="true">https://paharbarta.com/%e0%a6%ac%e0%a6%be%e0%a6%a8%e0%a7%8d%e0%a6%a6%e0%a6%b0%e0%a6%ac%e0%a6%be%e0%a6%a8%e0%a7%87%e0%a6%b0-%e0%a6%85%e0%a6%b7%e0%a7%8d%e0%a6%9f%e0%a6%ac%e0%a6%bf%e0%a6%82%e0%a6%b6%e0%a6%a4%e0%a6%bf-2/</guid>
-      <pubDate>Fri, 13 Nov 2026 05:49:57 +0000</pubDate>
-      <description>বান্দরবানের অষ্টবিংশতি বুদ্ধ বিহার ও রত্নপ্রিয় বির্দশন ভাবনা কেন্দ্রে কঠিন চীবর দানোৎসব</description>
-      <source url="https://paharbarta.com/%e0%a6%ac%e0%a6%be%e0%a6%a8%e0%a7%8d%e0%a6%a6%e0%a6%b0%e0%a6%ac%e0%a6%be%e0%a6%a8%e0%a7%87%e0%a6%b0-%e0%a6%85%e0%a6%b7%e0%a7%8d%e0%a6%9f%e0%a6%ac%e0%a6%bf%e0%a6%82%e0%a6%b6%e0%a6%a4%e0%a6%bf-2/">পাহাড়বার্তা</source>
-    </item>
-    <item>
-      <title>কাপ্তাইয়ে অজগর উদ্ধার, জাতীয় উদ্যানে অবমুক্ত</title>
-      <link>https://paharbarta.com/%e0%a6%95%e0%a6%be%e0%a6%aa%e0%a7%8d%e0%a6%a4%e0%a6%be%e0%a6%87%e0%a6%af%e0%a6%bc%e0%a7%87-%e0%a6%85%e0%a6%9c%e0%a6%97%e0%a6%b0-%e0%a6%89%e0%a6%a6%e0%a7%8d%e0%a6%a7%e0%a6%be%e0%a6%b0-%e0%a6%9c/</link>
-      <guid isPermaLink="true">https://paharbarta.com/%e0%a6%95%e0%a6%be%e0%a6%aa%e0%a7%8d%e0%a6%a4%e0%a6%be%e0%a6%87%e0%a6%af%e0%a6%bc%e0%a7%87-%e0%a6%85%e0%a6%9c%e0%a6%97%e0%a6%b0-%e0%a6%89%e0%a6%a6%e0%a7%8d%e0%a6%a7%e0%a6%be%e0%a6%b0-%e0%a6%9c/</guid>
-      <pubDate>Fri, 13 Nov 2026 05:49:57 +0000</pubDate>
-      <description>কাপ্তাইয়ে অজগর উদ্ধার, জাতীয় উদ্যানে অবমুক্ত</description>
-      <source url="https://paharbarta.com/%e0%a6%95%e0%a6%be%e0%a6%aa%e0%a7%8d%e0%a6%a4%e0%a6%be%e0%a6%87%e0%a6%af%e0%a6%bc%e0%a7%87-%e0%a6%85%e0%a6%9c%e0%a6%97%e0%a6%b0-%e0%a6%89%e0%a6%a6%e0%a7%8d%e0%a6%a7%e0%a6%be%e0%a6%b0-%e0%a6%9c/">পাহাড়বার্তা</source>
     </item>
   </channel>
 </rss>
