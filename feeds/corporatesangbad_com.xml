@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+<rss version="2.0">
   <channel>
     <title>সংবাদ - আরএসএস ফিড</title>
     <link>https://corporatesangbad.com</link>
     <description>সংবাদ এর সর্বশেষ খবর</description>
     <language>bn</language>
-    <lastBuildDate>Sat, 14 Nov 2026 02:04:48 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 09:57:12 +0000</lastBuildDate>
     <item>
       <title>স্বাস্থ্য-লাইফস্টাইল</title>
       <link>https://corporatesangbad.com/health-lifestyle</link>
       <guid isPermaLink="true">https://corporatesangbad.com/health-lifestyle</guid>
-      <pubDate>Sat, 14 Nov 2026 02:04:48 +0000</pubDate>
+      <pubDate>Sat, 14 Nov 2026 09:57:12 +0000</pubDate>
       <description>স্বাস্থ্য-লাইফস্টাইল</description>
       <source url="https://corporatesangbad.com/health-lifestyle">সংবাদ</source>
     </item>
@@ -18,7 +18,7 @@
       <title>শিক্ষা-সাহিত্য-সংস্কৃতি</title>
       <link>https://corporatesangbad.com/education-literature-culture</link>
       <guid isPermaLink="true">https://corporatesangbad.com/education-literature-culture</guid>
-      <pubDate>Sat, 14 Nov 2026 02:04:48 +0000</pubDate>
+      <pubDate>Sat, 14 Nov 2026 09:57:12 +0000</pubDate>
       <description>শিক্ষা-সাহিত্য-সংস্কৃতি</description>
       <source url="https://corporatesangbad.com/education-literature-culture">সংবাদ</source>
     </item>
@@ -26,7 +26,7 @@
       <title>কর্পোরেট-অর্থ ও বাণিজ্য</title>
       <link>https://corporatesangbad.com/corporate-economics-trade</link>
       <guid isPermaLink="true">https://corporatesangbad.com/corporate-economics-trade</guid>
-      <pubDate>Sat, 14 Nov 2026 02:04:48 +0000</pubDate>
+      <pubDate>Sat, 14 Nov 2026 09:57:12 +0000</pubDate>
       <description>কর্পোরেট-অর্থ ও বাণিজ্য</description>
       <source url="https://corporatesangbad.com/corporate-economics-trade">সংবাদ</source>
     </item>
@@ -34,7 +34,7 @@
       <title>সারাদেশ ও রাজনীতি</title>
       <link>https://corporatesangbad.com/country-politics</link>
       <guid isPermaLink="true">https://corporatesangbad.com/country-politics</guid>
-      <pubDate>Sat, 14 Nov 2026 02:04:48 +0000</pubDate>
+      <pubDate>Sat, 14 Nov 2026 09:57:12 +0000</pubDate>
       <description>সারাদেশ ও রাজনীতি</description>
       <source url="https://corporatesangbad.com/country-politics">সংবাদ</source>
     </item>
@@ -42,103 +42,89 @@
       <title>বাংলা টেক্সট কনভার্টার</title>
       <link>https://corporatesangbad.com/bangla-converter/</link>
       <guid isPermaLink="true">https://corporatesangbad.com/bangla-converter/</guid>
-      <pubDate>Sat, 14 Nov 2026 02:04:48 +0000</pubDate>
+      <pubDate>Sat, 14 Nov 2026 09:57:12 +0000</pubDate>
       <description>বাংলা টেক্সট কনভার্টার</description>
       <source url="https://corporatesangbad.com/bangla-converter/">সংবাদ</source>
     </item>
     <item>
-      <title>জেএমআই হসপিটালের প্রথম প্রান্তিক প্রকাশ</title>
-      <link>https://corporatesangbad.com/share-market/1003864/</link>
-      <guid isPermaLink="true">https://corporatesangbad.com/share-market/1003864/</guid>
-      <pubDate>Sat, 14 Nov 2026 02:04:48 +0000</pubDate>
-      <description>জেএমআই হসপিটালের প্রথম প্রান্তিক প্রকাশ</description>
-      <source url="https://corporatesangbad.com/share-market/1003864/">সংবাদ</source>
+      <title>ঢাকার পরিচ্ছন্নতা কার্যক্রমের অগ্রগতি পর্যালোচনা করলেন প্রধানমন্ত্রী</title>
+      <link>https://corporatesangbad.com/national/1003876/</link>
+      <guid isPermaLink="true">https://corporatesangbad.com/national/1003876/</guid>
+      <pubDate>Sat, 14 Nov 2026 09:57:12 +0000</pubDate>
+      <description>ঢাকার পরিচ্ছন্নতা কার্যক্রমের অগ্রগতি পর্যালোচনা করলেন প্রধানমন্ত্রী</description>
+      <source url="https://corporatesangbad.com/national/1003876/">সংবাদ</source>
     </item>
     <item>
-      <title>স্যালভো অর্গানিকের প্রথম প্রান্তিক প্রকাশ</title>
-      <link>https://corporatesangbad.com/share-market/1003863/</link>
-      <guid isPermaLink="true">https://corporatesangbad.com/share-market/1003863/</guid>
-      <pubDate>Sat, 14 Nov 2026 02:04:48 +0000</pubDate>
-      <description>স্যালভো অর্গানিকের প্রথম প্রান্তিক প্রকাশ</description>
-      <source url="https://corporatesangbad.com/share-market/1003863/">সংবাদ</source>
+      <title>প্রাইম ব্যাংক ও বিডি ক্রিয়েশনের মধ্যে চুক্তি</title>
+      <link>https://corporatesangbad.com/corporate-news/1003875/</link>
+      <guid isPermaLink="true">https://corporatesangbad.com/corporate-news/1003875/</guid>
+      <pubDate>Sat, 14 Nov 2026 09:57:12 +0000</pubDate>
+      <description>প্রাইম ব্যাংক ও বিডি ক্রিয়েশনের মধ্যে চুক্তি</description>
+      <source url="https://corporatesangbad.com/corporate-news/1003875/">সংবাদ</source>
     </item>
     <item>
-      <title>প্রথম প্রান্তিকে একমি ল্যাবরেটরিজের আয় বেড়েছে</title>
-      <link>https://corporatesangbad.com/share-market/1003862/</link>
-      <guid isPermaLink="true">https://corporatesangbad.com/share-market/1003862/</guid>
-      <pubDate>Sat, 14 Nov 2026 02:04:48 +0000</pubDate>
-      <description>প্রথম প্রান্তিকে একমি ল্যাবরেটরিজের আয় বেড়েছে</description>
-      <source url="https://corporatesangbad.com/share-market/1003862/">সংবাদ</source>
+      <title>কৃতজ্ঞতা প্রকাশ করে অনন্ত জলিলের আবেগঘন স্ট্যাটাস</title>
+      <link>https://corporatesangbad.com/entertainment/1003872/</link>
+      <guid isPermaLink="true">https://corporatesangbad.com/entertainment/1003872/</guid>
+      <pubDate>Sat, 14 Nov 2026 09:57:12 +0000</pubDate>
+      <description>কৃতজ্ঞতা প্রকাশ করে অনন্ত জলিলের আবেগঘন স্ট্যাটাস</description>
+      <source url="https://corporatesangbad.com/entertainment/1003872/">সংবাদ</source>
     </item>
     <item>
-      <title>ট্রিলিয়ন ডলারের জলবায়ু সহনশীল অর্থনীতি গড়তে বাংলাদেশ প্রতিশ্রুতিবদ্ধ : প্রধানমন্ত্রী</title>
-      <link>https://corporatesangbad.com/national/1003853/</link>
-      <guid isPermaLink="true">https://corporatesangbad.com/national/1003853/</guid>
-      <pubDate>Sat, 14 Nov 2026 02:04:48 +0000</pubDate>
-      <enclosure url="https://corporatesangbad.com/media/images/20261112152105_740186.jpg" length="0" type="image/jpeg" />
-      <media:content url="https://corporatesangbad.com/media/images/20261112152105_740186.jpg" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://corporatesangbad.com/media/images/20261112152105_740186.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="ট্রিলিয়ন ডলারের জলবায়ু সহনশীল অর্থনীতি গড়তে বাংলাদেশ প্রতিশ্রুতিবদ্ধ : প্রধানমন্ত্রী" /&gt;&lt;/p&gt;&lt;p&gt;ট্রিলিয়ন ডলারের জলবায়ু সহনশীল অর্থনীতি গড়তে বাংলাদেশ প্রতিশ্রুতিবদ্ধ : প্রধানমন্ত্রী&lt;/p&gt;</description>
-      <source url="https://corporatesangbad.com/national/1003853/">সংবাদ</source>
+      <title>খালেদা জিয়ার প্রথম মৃত্যুবার্ষিকীতে ২৮ ডিসেম্বর নাগরিক স্মরণসভা</title>
+      <link>https://corporatesangbad.com/national/1003871/</link>
+      <guid isPermaLink="true">https://corporatesangbad.com/national/1003871/</guid>
+      <pubDate>Sat, 14 Nov 2026 09:57:12 +0000</pubDate>
+      <description>খালেদা জিয়ার প্রথম মৃত্যুবার্ষিকীতে ২৮ ডিসেম্বর নাগরিক স্মরণসভা</description>
+      <source url="https://corporatesangbad.com/national/1003871/">সংবাদ</source>
     </item>
     <item>
-      <title>১০ হাজার টন চিনি ও সমপরিমাণ ডাল  কিনবে সরকার</title>
-      <link>https://corporatesangbad.com/economics-trade/1003846/</link>
-      <guid isPermaLink="true">https://corporatesangbad.com/economics-trade/1003846/</guid>
-      <pubDate>Sat, 14 Nov 2026 02:04:48 +0000</pubDate>
-      <enclosure url="https://corporatesangbad.com/media/images/20261112165622_611196.jpg" length="0" type="image/jpeg" />
-      <media:content url="https://corporatesangbad.com/media/images/20261112165622_611196.jpg" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://corporatesangbad.com/media/images/20261112165622_611196.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="১০ হাজার টন চিনি ও সমপরিমাণ ডাল  কিনবে সরকার" /&gt;&lt;/p&gt;&lt;p&gt;১০ হাজার টন চিনি ও সমপরিমাণ ডাল  কিনবে সরকার&lt;/p&gt;</description>
-      <source url="https://corporatesangbad.com/economics-trade/1003846/">সংবাদ</source>
+      <title>সাফ চ্যাম্পিয়নশিপ - সেমিফাইনালে আজ পাকিস্তানের মুখোমুখি বাংলাদেশ</title>
+      <link>https://corporatesangbad.com/sports/1003870/</link>
+      <guid isPermaLink="true">https://corporatesangbad.com/sports/1003870/</guid>
+      <pubDate>Sat, 14 Nov 2026 09:57:12 +0000</pubDate>
+      <description>সাফ চ্যাম্পিয়নশিপ - সেমিফাইনালে আজ পাকিস্তানের মুখোমুখি বাংলাদেশ</description>
+      <source url="https://corporatesangbad.com/sports/1003870/">সংবাদ</source>
     </item>
     <item>
-      <title>রমজানে টিসিবির ৫২০ ট্রাকে পণ্য বিক্রি, সুবিধা পাবেন আরও ৬ লাখ মানুষ</title>
-      <link>https://corporatesangbad.com/economics-trade/1003845/</link>
-      <guid isPermaLink="true">https://corporatesangbad.com/economics-trade/1003845/</guid>
-      <pubDate>Sat, 14 Nov 2026 02:04:48 +0000</pubDate>
-      <enclosure url="https://corporatesangbad.com/media/images/imported_20260606055544_833459.jpg" length="0" type="image/jpeg" />
-      <media:content url="https://corporatesangbad.com/media/images/imported_20260606055544_833459.jpg" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://corporatesangbad.com/media/images/imported_20260606055544_833459.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="রমজানে টিসিবির ৫২০ ট্রাকে পণ্য বিক্রি, সুবিধা পাবেন আরও ৬ লাখ মানুষ" /&gt;&lt;/p&gt;&lt;p&gt;রমজানে টিসিবির ৫২০ ট্রাকে পণ্য বিক্রি, সুবিধা পাবেন আরও ৬ লাখ মানুষ&lt;/p&gt;</description>
-      <source url="https://corporatesangbad.com/economics-trade/1003845/">সংবাদ</source>
+      <title>শিশুদের খেলাকে কেন্দ্র করে বৃদ্ধকে পিটিয়ে হত্যা</title>
+      <link>https://corporatesangbad.com/country-news/1003869/</link>
+      <guid isPermaLink="true">https://corporatesangbad.com/country-news/1003869/</guid>
+      <pubDate>Sat, 14 Nov 2026 09:57:12 +0000</pubDate>
+      <description>শিশুদের খেলাকে কেন্দ্র করে বৃদ্ধকে পিটিয়ে হত্যা</description>
+      <source url="https://corporatesangbad.com/country-news/1003869/">সংবাদ</source>
     </item>
     <item>
-      <title>রমজানে ১০ পণ্য আমদানিতে ৯০ দিনের ঋণসুবিধা</title>
-      <link>https://corporatesangbad.com/economics-trade/1003834/</link>
-      <guid isPermaLink="true">https://corporatesangbad.com/economics-trade/1003834/</guid>
-      <pubDate>Sat, 14 Nov 2026 02:04:48 +0000</pubDate>
-      <enclosure url="https://corporatesangbad.com/media/images/20261112120806_920235.jpg" length="0" type="image/jpeg" />
-      <media:content url="https://corporatesangbad.com/media/images/20261112120806_920235.jpg" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://corporatesangbad.com/media/images/20261112120806_920235.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="রমজানে ১০ পণ্য আমদানিতে ৯০ দিনের ঋণসুবিধা" /&gt;&lt;/p&gt;&lt;p&gt;রমজানে ১০ পণ্য আমদানিতে ৯০ দিনের ঋণসুবিধা&lt;/p&gt;</description>
-      <source url="https://corporatesangbad.com/economics-trade/1003834/">সংবাদ</source>
-    </item>
-    <item>
-      <title>প্রবাসীদের সঞ্চয় বাড়াতে ৬টি নতুন ‘এনআরসিটি’ হিসাব চালু করল এনআরবিসি ব্যাংক</title>
-      <link>https://corporatesangbad.com/economics-trade/1003826/</link>
-      <guid isPermaLink="true">https://corporatesangbad.com/economics-trade/1003826/</guid>
-      <pubDate>Sat, 14 Nov 2026 02:04:48 +0000</pubDate>
-      <enclosure url="https://corporatesangbad.com/media/images/20261111193027_155590.jpg" length="0" type="image/jpeg" />
-      <media:content url="https://corporatesangbad.com/media/images/20261111193027_155590.jpg" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://corporatesangbad.com/media/images/20261111193027_155590.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="প্রবাসীদের সঞ্চয় বাড়াতে ৬টি নতুন ‘এনআরসিটি’ হিসাব চালু করল এনআরবিসি ব্যাংক" /&gt;&lt;/p&gt;&lt;p&gt;প্রবাসীদের সঞ্চয় বাড়াতে ৬টি নতুন ‘এনআরসিটি’ হিসাব চালু করল এনআরবিসি ব্যাংক&lt;/p&gt;</description>
-      <source url="https://corporatesangbad.com/economics-trade/1003826/">সংবাদ</source>
-    </item>
-    <item>
-      <title>১ জুলাই থেকে সব ধরনের নন-জুডিশিয়াল স্ট্যাম্প শুল্ক দিতে হবে এ-চালানে</title>
-      <link>https://corporatesangbad.com/economics-trade/1003804/</link>
-      <guid isPermaLink="true">https://corporatesangbad.com/economics-trade/1003804/</guid>
-      <pubDate>Sat, 14 Nov 2026 02:04:48 +0000</pubDate>
-      <enclosure url="https://corporatesangbad.com/media/images/20261111105815_649709.jpg" length="0" type="image/jpeg" />
-      <media:content url="https://corporatesangbad.com/media/images/20261111105815_649709.jpg" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://corporatesangbad.com/media/images/20261111105815_649709.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="১ জুলাই থেকে সব ধরনের নন-জুডিশিয়াল স্ট্যাম্প শুল্ক দিতে হবে এ-চালানে" /&gt;&lt;/p&gt;&lt;p&gt;১ জুলাই থেকে সব ধরনের নন-জুডিশিয়াল স্ট্যাম্প শুল্ক দিতে হবে এ-চালানে&lt;/p&gt;</description>
-      <source url="https://corporatesangbad.com/economics-trade/1003804/">সংবাদ</source>
+      <title>আজ  বিশ্ব ডায়াবেটিস দিবস - ডায়াবেটিস প্রতিরোধে খাদ্যপণ্যের প্যাকেটে সতর্কবার্তা চালুর আহ্বান</title>
+      <link>https://corporatesangbad.com/health-lifestyle/1003868/</link>
+      <guid isPermaLink="true">https://corporatesangbad.com/health-lifestyle/1003868/</guid>
+      <pubDate>Sat, 14 Nov 2026 09:57:12 +0000</pubDate>
+      <description>আজ  বিশ্ব ডায়াবেটিস দিবস - ডায়াবেটিস প্রতিরোধে খাদ্যপণ্যের প্যাকেটে সতর্কবার্তা চালুর আহ্বান</description>
+      <source url="https://corporatesangbad.com/health-lifestyle/1003868/">সংবাদ</source>
     </item>
     <item>
       <title>দেশের বাজারে ফের কমলো স্বর্ণের দাম</title>
-      <link>https://corporatesangbad.com/economics-trade/1003803/</link>
-      <guid isPermaLink="true">https://corporatesangbad.com/economics-trade/1003803/</guid>
-      <pubDate>Sat, 14 Nov 2026 02:04:48 +0000</pubDate>
-      <enclosure url="https://corporatesangbad.com/media/images/20261111105241_119841.jpg" length="0" type="image/jpeg" />
-      <media:content url="https://corporatesangbad.com/media/images/20261111105241_119841.jpg" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://corporatesangbad.com/media/images/20261111105241_119841.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="দেশের বাজারে ফের কমলো স্বর্ণের দাম" /&gt;&lt;/p&gt;&lt;p&gt;দেশের বাজারে ফের কমলো স্বর্ণের দাম&lt;/p&gt;</description>
-      <source url="https://corporatesangbad.com/economics-trade/1003803/">সংবাদ</source>
+      <link>https://corporatesangbad.com/economics-trade/1003867/</link>
+      <guid isPermaLink="true">https://corporatesangbad.com/economics-trade/1003867/</guid>
+      <pubDate>Sat, 14 Nov 2026 09:57:12 +0000</pubDate>
+      <description>দেশের বাজারে ফের কমলো স্বর্ণের দাম</description>
+      <source url="https://corporatesangbad.com/economics-trade/1003867/">সংবাদ</source>
+    </item>
+    <item>
+      <title>২ লাখ ৯৫ হাজার টন সার কিনবে  সরকার</title>
+      <link>https://corporatesangbad.com/economics-trade/1003866/</link>
+      <guid isPermaLink="true">https://corporatesangbad.com/economics-trade/1003866/</guid>
+      <pubDate>Sat, 14 Nov 2026 09:57:12 +0000</pubDate>
+      <description>২ লাখ ৯৫ হাজার টন সার কিনবে  সরকার</description>
+      <source url="https://corporatesangbad.com/economics-trade/1003866/">সংবাদ</source>
+    </item>
+    <item>
+      <title>ডিসেম্বরে পর্যটন মহাপরিকল্পনা উন্মোচন করতে পারেন প্রধানমন্ত্রী</title>
+      <link>https://corporatesangbad.com/national/1003865/</link>
+      <guid isPermaLink="true">https://corporatesangbad.com/national/1003865/</guid>
+      <pubDate>Sat, 14 Nov 2026 09:57:12 +0000</pubDate>
+      <description>ডিসেম্বরে পর্যটন মহাপরিকল্পনা উন্মোচন করতে পারেন প্রধানমন্ত্রী</description>
+      <source url="https://corporatesangbad.com/national/1003865/">সংবাদ</source>
     </item>
   </channel>
 </rss>
