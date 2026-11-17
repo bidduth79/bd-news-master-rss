@@ -1,11 +1,21 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
   <channel>
     <title>Daily Sylhet - আরএসএস ফিড</title>
     <link>https://dailysylhet.com</link>
     <description>Daily Sylhet এর সর্বশেষ খবর</description>
     <language>bn</language>
-    <lastBuildDate>Tue, 17 Nov 2026 03:31:17 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 12:54:24 +0000</lastBuildDate>
+    <item>
+      <title>বিছনাকান্দি সীমান্তে অস্ত্রসহ বিএসএফ সদস্য আটক</title>
+      <link>https://dailysylhet.com/details/780262/</link>
+      <guid isPermaLink="true">https://dailysylhet.com/details/780262/</guid>
+      <pubDate>Tue, 17 Nov 2026 11:56:25 +0000</pubDate>
+      <enclosure url="https://dailysylhet.com/files/uploads/2026/11/44962.jpg" length="0" type="image/jpeg" />
+      <media:content url="https://dailysylhet.com/files/uploads/2026/11/44962.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://dailysylhet.com/files/uploads/2026/11/44962.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="বিছনাকান্দি সীমান্তে অস্ত্রসহ বিএসএফ সদস্য আটক" /&gt;&lt;/p&gt;&lt;p&gt;ছবিটি AI দিয়ে পুনর্গঠিত বাংলাদেশের প্রায় ২০০ গজ ভেতরে প্রবেশের অভিযোগ, পতাকা বৈঠকের উদ্যোগ স্টাফ রিপোর্টার : সিলেটের গোয়াইনঘাট উপজেলার বিছনাকান্দি সীমান্ত এলাকায় বাংলাদেশের অভ্যন্তরে প্রবেশের অভিযোগে ভারতীয় সীমান্তরক্ষী বাহিনীর (বিএসএফ) এক সদস্যকে আটক করেছে বর্ডার গার্ড বাংলাদেশ (বিজিবি)। মঙ্গলবার (&lt;/p&gt;</description>
+      <source url="https://dailysylhet.com/details/780262/">Daily Sylhet</source>
+    </item>
     <item>
       <title>‘আমরা কিউবা বা ভেনিজুয়েলা নই’: যুক্তরাষ্ট্রকে ইরান</title>
       <link>https://dailysylhet.com/details/780257/</link>
@@ -117,14 +127,6 @@
       <pubDate>Mon, 16 Nov 2026 15:11:43 +0000</pubDate>
       <description>ডেইলি সিলেট ডেস্ক :: দেশের ৪ হাজার ৩০০টি ইউনিয়ন পরিষদে (ইউপি) পাঁচ ধাপে ভোট গ্রহণের চূড়ান্ত সিদ্ধান্ত নিয়েছে নির্বাচন কমিশন (ইসি)। একই সঙ্গে আসন্ন স্থানীয় সরকার নির্বাচনকে কেন্দ্র করে আগামী ১০ ডিসেম্বরের মধ্যে দেশের সব নিবন্ধিত রাজনৈতিক দলের সঙ্গে সংলাপে বসার ঘোষণা দিয়েছে সাংবিধানিক এই প্রতিষ্ঠানটি।</description>
       <source url="https://dailysylhet.com/details/780208/">Daily Sylhet</source>
-    </item>
-    <item>
-      <title>আওয়ামী লীগ নেতাদের ডিসেম্বরে ফেরার ঘোষণা ‘পলিটিক্যাল ব্লাফ’</title>
-      <link>https://dailysylhet.com/details/780205/</link>
-      <guid isPermaLink="true">https://dailysylhet.com/details/780205/</guid>
-      <pubDate>Mon, 16 Nov 2026 15:04:03 +0000</pubDate>
-      <description>ডেইলি সিলেট ডেস্ক :: গোপালগঞ্জে সদ্য কার্যক্রম নিষিদ্ধ ঘোষিত আওয়ামী লীগের সশস্ত্র মহড়াকে দলটির রাজনৈতিক ‘দেউলিয়াত্ব’ বলে আখ্যা দিয়েছেন তথ্য ও সম্প্রচার মন্ত্রী আন্দালিভ রহমান পার্থ। তিনি মন্তব্য করেছেন, পাকিস্তান এ দেশের যে ক্ষতি করেছিল, আওয়ামী লীগ তার চেয়েও বেশি ক্ষতি করেছে। অন্যদিকে, গোপালগঞ্জের ও</description>
-      <source url="https://dailysylhet.com/details/780205/">Daily Sylhet</source>
     </item>
   </channel>
 </rss>
