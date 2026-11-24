@@ -1,130 +1,110 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
   <channel>
     <title>পাহাড়বার্তা - আরএসএস ফিড</title>
     <link>https://paharbarta.com</link>
     <description>পাহাড়বার্তা এর সর্বশেষ খবর</description>
     <language>bn</language>
-    <lastBuildDate>Mon, 23 Nov 2026 20:59:47 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 05:16:17 +0000</lastBuildDate>
     <item>
-      <title>পাহাড়বার্তা পরিবার</title>
-      <link>https://paharbarta.com/family/</link>
-      <guid isPermaLink="true">https://paharbarta.com/family/</guid>
-      <pubDate>Mon, 23 Nov 2026 20:59:47 +0000</pubDate>
-      <description>পাহাড়বার্তা পরিবার</description>
-      <source url="https://paharbarta.com/family/">পাহাড়বার্তা</source>
-    </item>
-    <item>
-      <title>গুরুত্বপূর্ণ লিংক</title>
-      <link>https://paharbarta.com/chtlinks/</link>
-      <guid isPermaLink="true">https://paharbarta.com/chtlinks/</guid>
-      <pubDate>Mon, 23 Nov 2026 20:59:47 +0000</pubDate>
-      <description>গুরুত্বপূর্ণ লিংক</description>
-      <source url="https://paharbarta.com/chtlinks/">পাহাড়বার্তা</source>
-    </item>
-    <item>
-      <title>কাপ্তাইয়ে বিকাশে অর্থ প্রতারণার অভিযোগে আটক যুবক, মিলল গাঁজা</title>
-      <link>https://paharbarta.com/%e0%a6%95%e0%a6%be%e0%a6%aa%e0%a7%8d%e0%a6%a4%e0%a6%be%e0%a6%87%e0%a6%af%e0%a6%bc%e0%a7%87-%e0%a6%ac%e0%a6%bf%e0%a6%95%e0%a6%be%e0%a6%b6%e0%a7%87-%e0%a6%85%e0%a6%b0%e0%a7%8d%e0%a6%a5-%e0%a6%aa/</link>
-      <guid isPermaLink="true">https://paharbarta.com/%e0%a6%95%e0%a6%be%e0%a6%aa%e0%a7%8d%e0%a6%a4%e0%a6%be%e0%a6%87%e0%a6%af%e0%a6%bc%e0%a7%87-%e0%a6%ac%e0%a6%bf%e0%a6%95%e0%a6%be%e0%a6%b6%e0%a7%87-%e0%a6%85%e0%a6%b0%e0%a7%8d%e0%a6%a5-%e0%a6%aa/</guid>
-      <pubDate>Mon, 23 Nov 2026 20:59:47 +0000</pubDate>
-      <description>কাপ্তাইয়ে বিকাশে অর্থ প্রতারণার অভিযোগে আটক যুবক, মিলল গাঁজা</description>
-      <source url="https://paharbarta.com/%e0%a6%95%e0%a6%be%e0%a6%aa%e0%a7%8d%e0%a6%a4%e0%a6%be%e0%a6%87%e0%a6%af%e0%a6%bc%e0%a7%87-%e0%a6%ac%e0%a6%bf%e0%a6%95%e0%a6%be%e0%a6%b6%e0%a7%87-%e0%a6%85%e0%a6%b0%e0%a7%8d%e0%a6%a5-%e0%a6%aa/">পাহাড়বার্তা</source>
-    </item>
-    <item>
-      <title>রামগড়ে দেশীয় পিস্তল ও গুলিসহ বৃদ্ধ আটক</title>
-      <link>https://paharbarta.com/%e0%a6%b0%e0%a6%be%e0%a6%ae%e0%a6%97%e0%a6%a1%e0%a6%bc%e0%a7%87-%e0%a6%a6%e0%a7%87%e0%a6%b6%e0%a7%80%e0%a6%af%e0%a6%bc-%e0%a6%aa%e0%a6%bf%e0%a6%b8%e0%a7%8d%e0%a6%a4%e0%a6%b2-%e0%a6%93-%e0%a6%97/</link>
-      <guid isPermaLink="true">https://paharbarta.com/%e0%a6%b0%e0%a6%be%e0%a6%ae%e0%a6%97%e0%a6%a1%e0%a6%bc%e0%a7%87-%e0%a6%a6%e0%a7%87%e0%a6%b6%e0%a7%80%e0%a6%af%e0%a6%bc-%e0%a6%aa%e0%a6%bf%e0%a6%b8%e0%a7%8d%e0%a6%a4%e0%a6%b2-%e0%a6%93-%e0%a6%97/</guid>
-      <pubDate>Mon, 23 Nov 2026 20:59:47 +0000</pubDate>
-      <description>রামগড়ে দেশীয় পিস্তল ও গুলিসহ বৃদ্ধ আটক</description>
-      <source url="https://paharbarta.com/%e0%a6%b0%e0%a6%be%e0%a6%ae%e0%a6%97%e0%a6%a1%e0%a6%bc%e0%a7%87-%e0%a6%a6%e0%a7%87%e0%a6%b6%e0%a7%80%e0%a6%af%e0%a6%bc-%e0%a6%aa%e0%a6%bf%e0%a6%b8%e0%a7%8d%e0%a6%a4%e0%a6%b2-%e0%a6%93-%e0%a6%97/">পাহাড়বার্তা</source>
-    </item>
-    <item>
-      <title>শৈলপ্রপাত ঝর্ণা থেকে নিখোঁজ শিক্ষার্থীর মরদেহ উদ্ধার</title>
-      <link>https://paharbarta.com/%e0%a6%b6%e0%a7%88%e0%a6%b2%e0%a6%aa%e0%a7%8d%e0%a6%b0%e0%a6%aa%e0%a6%be%e0%a6%a4-%e0%a6%9d%e0%a6%b0%e0%a7%8d%e0%a6%a3%e0%a6%be-%e0%a6%a5%e0%a7%87%e0%a6%95%e0%a7%87-%e0%a6%a8%e0%a6%bf%e0%a6%96/</link>
-      <guid isPermaLink="true">https://paharbarta.com/%e0%a6%b6%e0%a7%88%e0%a6%b2%e0%a6%aa%e0%a7%8d%e0%a6%b0%e0%a6%aa%e0%a6%be%e0%a6%a4-%e0%a6%9d%e0%a6%b0%e0%a7%8d%e0%a6%a3%e0%a6%be-%e0%a6%a5%e0%a7%87%e0%a6%95%e0%a7%87-%e0%a6%a8%e0%a6%bf%e0%a6%96/</guid>
-      <pubDate>Mon, 23 Nov 2026 20:59:47 +0000</pubDate>
-      <description>শৈলপ্রপাত ঝর্ণা থেকে নিখোঁজ শিক্ষার্থীর মরদেহ উদ্ধার</description>
-      <source url="https://paharbarta.com/%e0%a6%b6%e0%a7%88%e0%a6%b2%e0%a6%aa%e0%a7%8d%e0%a6%b0%e0%a6%aa%e0%a6%be%e0%a6%a4-%e0%a6%9d%e0%a6%b0%e0%a7%8d%e0%a6%a3%e0%a6%be-%e0%a6%a5%e0%a7%87%e0%a6%95%e0%a7%87-%e0%a6%a8%e0%a6%bf%e0%a6%96/">পাহাড়বার্তা</source>
-    </item>
-    <item>
-      <title>বান্দরবানে বিএনপির বিক্ষোভ</title>
-      <link>https://paharbarta.com/%e0%a6%ac%e0%a6%be%e0%a6%a8%e0%a7%8d%e0%a6%a6%e0%a6%b0%e0%a6%ac%e0%a6%be%e0%a6%a8%e0%a7%87-%e0%a6%ac%e0%a6%bf%e0%a6%8f%e0%a6%a8%e0%a6%aa%e0%a6%bf%e0%a6%b0-%e0%a6%ac%e0%a6%bf%e0%a6%95%e0%a7%8d-7/</link>
-      <guid isPermaLink="true">https://paharbarta.com/%e0%a6%ac%e0%a6%be%e0%a6%a8%e0%a7%8d%e0%a6%a6%e0%a6%b0%e0%a6%ac%e0%a6%be%e0%a6%a8%e0%a7%87-%e0%a6%ac%e0%a6%bf%e0%a6%8f%e0%a6%a8%e0%a6%aa%e0%a6%bf%e0%a6%b0-%e0%a6%ac%e0%a6%bf%e0%a6%95%e0%a7%8d-7/</guid>
-      <pubDate>Mon, 23 Nov 2026 20:59:47 +0000</pubDate>
-      <description>বান্দরবানে বিএনপির বিক্ষোভ</description>
-      <source url="https://paharbarta.com/%e0%a6%ac%e0%a6%be%e0%a6%a8%e0%a7%8d%e0%a6%a6%e0%a6%b0%e0%a6%ac%e0%a6%be%e0%a6%a8%e0%a7%87-%e0%a6%ac%e0%a6%bf%e0%a6%8f%e0%a6%a8%e0%a6%aa%e0%a6%bf%e0%a6%b0-%e0%a6%ac%e0%a6%bf%e0%a6%95%e0%a7%8d-7/">পাহাড়বার্তা</source>
-    </item>
-    <item>
-      <title>বান্দরবানে সড়ক দুর্ঘটনায় পুলিশ কনস্টেবল নিহত</title>
-      <link>https://paharbarta.com/%e0%a6%ac%e0%a6%be%e0%a6%a8%e0%a7%8d%e0%a6%a6%e0%a6%b0%e0%a6%ac%e0%a6%be%e0%a6%a8%e0%a7%87-%e0%a6%b8%e0%a6%a1%e0%a6%bc%e0%a6%95-%e0%a6%a6%e0%a7%81%e0%a6%b0%e0%a7%8d%e0%a6%98%e0%a6%9f%e0%a6%a8%e0%a6%be/</link>
-      <guid isPermaLink="true">https://paharbarta.com/%e0%a6%ac%e0%a6%be%e0%a6%a8%e0%a7%8d%e0%a6%a6%e0%a6%b0%e0%a6%ac%e0%a6%be%e0%a6%a8%e0%a7%87-%e0%a6%b8%e0%a6%a1%e0%a6%bc%e0%a6%95-%e0%a6%a6%e0%a7%81%e0%a6%b0%e0%a7%8d%e0%a6%98%e0%a6%9f%e0%a6%a8%e0%a6%be/</guid>
-      <pubDate>Mon, 23 Nov 2026 20:59:47 +0000</pubDate>
-      <description>বান্দরবানে সড়ক দুর্ঘটনায় পুলিশ কনস্টেবল নিহত</description>
-      <source url="https://paharbarta.com/%e0%a6%ac%e0%a6%be%e0%a6%a8%e0%a7%8d%e0%a6%a6%e0%a6%b0%e0%a6%ac%e0%a6%be%e0%a6%a8%e0%a7%87-%e0%a6%b8%e0%a6%a1%e0%a6%bc%e0%a6%95-%e0%a6%a6%e0%a7%81%e0%a6%b0%e0%a7%8d%e0%a6%98%e0%a6%9f%e0%a6%a8%e0%a6%be/">পাহাড়বার্তা</source>
+      <title>বন সংরক্ষণে দক্ষতা বাড়াতে কাপ্তাইয়ে ২৫ ফরেস্ট গার্ডের প্রশিক্ষণ</title>
+      <link>https://paharbarta.com/%e0%a6%ac%e0%a6%a8-%e0%a6%b8%e0%a6%82%e0%a6%b0%e0%a6%95%e0%a7%8d%e0%a6%b7%e0%a6%a3%e0%a7%87-%e0%a6%a6%e0%a6%95%e0%a7%8d%e0%a6%b7%e0%a6%a4%e0%a6%be-%e0%a6%ac%e0%a6%be%e0%a6%a1%e0%a6%bc%e0%a6%be/</link>
+      <guid isPermaLink="true">https://paharbarta.com/%e0%a6%ac%e0%a6%a8-%e0%a6%b8%e0%a6%82%e0%a6%b0%e0%a6%95%e0%a7%8d%e0%a6%b7%e0%a6%a3%e0%a7%87-%e0%a6%a6%e0%a6%95%e0%a7%8d%e0%a6%b7%e0%a6%a4%e0%a6%be-%e0%a6%ac%e0%a6%be%e0%a6%a1%e0%a6%bc%e0%a6%be/</guid>
+      <pubDate>Mon, 23 Nov 2026 11:59:34 +0000</pubDate>
+      <enclosure url="https://paharbarta.com/wp-content/uploads/311027.jpg" length="0" type="image/jpeg" />
+      <media:content url="https://paharbarta.com/wp-content/uploads/311027.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://paharbarta.com/wp-content/uploads/311027.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="বন সংরক্ষণে দক্ষতা বাড়াতে কাপ্তাইয়ে ২৫ ফরেস্ট গার্ডের প্রশিক্ষণ" /&gt;&lt;/p&gt;&lt;p&gt;বন ও বনসম্পদ সংরক্ষণে মাঠপর্যায়ের কর্মীদের দক্ষতা ও সক্ষমতা বাড়াতে রাঙামাটির কাপ্তাইয়ে ২৫ জন ফরেস্ট গার্ডের সপ্তাহব্যাপী বেসিক ফরেস্ট্রি প্রশিক্ষণ শুরু হয়েছে। আজ সোমবার (২৩ নভেম্বর) সকাল ৯টায় কাপ্তাই বন উন্নয়ন প্রশিক্ষণ কেন্দ্রে চতুর্থ ব্যাচের এ প্রশিক্ষণ কার্যক্রমের উদ্বোধন করা হয়। কাপ্তাই বন উন্নয়&lt;/p&gt;</description>
+      <source url="https://paharbarta.com/%e0%a6%ac%e0%a6%a8-%e0%a6%b8%e0%a6%82%e0%a6%b0%e0%a6%95%e0%a7%8d%e0%a6%b7%e0%a6%a3%e0%a7%87-%e0%a6%a6%e0%a6%95%e0%a7%8d%e0%a6%b7%e0%a6%a4%e0%a6%be-%e0%a6%ac%e0%a6%be%e0%a6%a1%e0%a6%bc%e0%a6%be/">পাহাড়বার্তা</source>
     </item>
     <item>
       <title>বান্দরবানের উজানীপাড়া রাজগুরু মহা বৌদ্ধ বিহারে কঠিন চীবর দানোৎসব</title>
       <link>https://paharbarta.com/%e0%a6%ac%e0%a6%be%e0%a6%a8%e0%a7%8d%e0%a6%a6%e0%a6%b0%e0%a6%ac%e0%a6%be%e0%a6%a8%e0%a7%87%e0%a6%b0-%e0%a6%89%e0%a6%9c%e0%a6%be%e0%a6%a8%e0%a7%80%e0%a6%aa%e0%a6%be%e0%a6%a1%e0%a6%bc%e0%a6%be-%e0%a6%b0/</link>
       <guid isPermaLink="true">https://paharbarta.com/%e0%a6%ac%e0%a6%be%e0%a6%a8%e0%a7%8d%e0%a6%a6%e0%a6%b0%e0%a6%ac%e0%a6%be%e0%a6%a8%e0%a7%87%e0%a6%b0-%e0%a6%89%e0%a6%9c%e0%a6%be%e0%a6%a8%e0%a7%80%e0%a6%aa%e0%a6%be%e0%a6%a1%e0%a6%bc%e0%a6%be-%e0%a6%b0/</guid>
-      <pubDate>Mon, 23 Nov 2026 20:59:47 +0000</pubDate>
-      <description>বান্দরবানের উজানীপাড়া রাজগুরু মহা বৌদ্ধ বিহারে কঠিন চীবর দানোৎসব</description>
+      <pubDate>Mon, 23 Nov 2026 11:56:14 +0000</pubDate>
+      <enclosure url="https://paharbarta.com/wp-content/uploads/Pic-Bandarban-Ujanipara-Catinciber-Dan-1.jpg" length="0" type="image/jpeg" />
+      <media:content url="https://paharbarta.com/wp-content/uploads/Pic-Bandarban-Ujanipara-Catinciber-Dan-1.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://paharbarta.com/wp-content/uploads/Pic-Bandarban-Ujanipara-Catinciber-Dan-1.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="বান্দরবানের উজানীপাড়া রাজগুরু মহা বৌদ্ধ বিহারে কঠিন চীবর দানোৎসব" /&gt;&lt;/p&gt;&lt;p&gt;বান্দরবানের উজানীপাড়া রাজগুরু মহা বৌদ্ধ বিহারে দানোত্তম শুভ কঠিন চীবর দানোৎসব উদযাপিত হয়েছে। আজ সোমবার (২৩ নভেম্বর) সকালে বান্দরবানের উজানীপাড়া রাজগুরু মহা বৌদ্ধ বিহারের দায়ক-দায়িকা ও উপাসক-উপাসিকার আয়োজনে দানোত্তম এই শুভ কঠিন চীবর দানোৎসব উদযাপিত হয়। কঠিন চীবরদান উপলক্ষে ভোর ৫টায় বিশ্বশান্তি মঙ্গল &lt;/p&gt;</description>
       <source url="https://paharbarta.com/%e0%a6%ac%e0%a6%be%e0%a6%a8%e0%a7%8d%e0%a6%a6%e0%a6%b0%e0%a6%ac%e0%a6%be%e0%a6%a8%e0%a7%87%e0%a6%b0-%e0%a6%89%e0%a6%9c%e0%a6%be%e0%a6%a8%e0%a7%80%e0%a6%aa%e0%a6%be%e0%a6%a1%e0%a6%bc%e0%a6%be-%e0%a6%b0/">পাহাড়বার্তা</source>
-    </item>
-    <item>
-      <title>থানচিতে নিম্নমানের টিসিবি’র পণ্য বিক্রি</title>
-      <link>https://paharbarta.com/%e0%a6%a5%e0%a6%be%e0%a6%a8%e0%a6%9a%e0%a6%bf%e0%a6%a4%e0%a7%87-%e0%a6%a8%e0%a6%bf%e0%a6%ae%e0%a7%8d%e0%a6%a8%e0%a6%ae%e0%a6%be%e0%a6%a8%e0%a7%87%e0%a6%b0-%e0%a6%9f%e0%a6%bf%e0%a6%b8%e0%a6%bf%e0%a6%ac/</link>
-      <guid isPermaLink="true">https://paharbarta.com/%e0%a6%a5%e0%a6%be%e0%a6%a8%e0%a6%9a%e0%a6%bf%e0%a6%a4%e0%a7%87-%e0%a6%a8%e0%a6%bf%e0%a6%ae%e0%a7%8d%e0%a6%a8%e0%a6%ae%e0%a6%be%e0%a6%a8%e0%a7%87%e0%a6%b0-%e0%a6%9f%e0%a6%bf%e0%a6%b8%e0%a6%bf%e0%a6%ac/</guid>
-      <pubDate>Mon, 23 Nov 2026 20:59:47 +0000</pubDate>
-      <description>থানচিতে নিম্নমানের টিসিবি’র পণ্য বিক্রি</description>
-      <source url="https://paharbarta.com/%e0%a6%a5%e0%a6%be%e0%a6%a8%e0%a6%9a%e0%a6%bf%e0%a6%a4%e0%a7%87-%e0%a6%a8%e0%a6%bf%e0%a6%ae%e0%a7%8d%e0%a6%a8%e0%a6%ae%e0%a6%be%e0%a6%a8%e0%a7%87%e0%a6%b0-%e0%a6%9f%e0%a6%bf%e0%a6%b8%e0%a6%bf%e0%a6%ac/">পাহাড়বার্তা</source>
-    </item>
-    <item>
-      <title>খাগড়াছড়িতে ৮২ মি.মি. মর্টারশেল নিষ্ক্রিয় করল সেনাবাহিনী</title>
-      <link>https://paharbarta.com/%e0%a6%96%e0%a6%be%e0%a6%97%e0%a6%a1%e0%a6%bc%e0%a6%be%e0%a6%9b%e0%a6%a1%e0%a6%bc%e0%a6%bf%e0%a6%a4%e0%a7%87-%e0%a7%ae%e0%a7%a8-%e0%a6%ae%e0%a6%bf-%e0%a6%ae%e0%a6%bf-%e0%a6%ae%e0%a6%b0%e0%a7%8d/</link>
-      <guid isPermaLink="true">https://paharbarta.com/%e0%a6%96%e0%a6%be%e0%a6%97%e0%a6%a1%e0%a6%bc%e0%a6%be%e0%a6%9b%e0%a6%a1%e0%a6%bc%e0%a6%bf%e0%a6%a4%e0%a7%87-%e0%a7%ae%e0%a7%a8-%e0%a6%ae%e0%a6%bf-%e0%a6%ae%e0%a6%bf-%e0%a6%ae%e0%a6%b0%e0%a7%8d/</guid>
-      <pubDate>Mon, 23 Nov 2026 20:59:47 +0000</pubDate>
-      <description>খাগড়াছড়িতে ৮২ মি.মি. মর্টারশেল নিষ্ক্রিয় করল সেনাবাহিনী</description>
-      <source url="https://paharbarta.com/%e0%a6%96%e0%a6%be%e0%a6%97%e0%a6%a1%e0%a6%bc%e0%a6%be%e0%a6%9b%e0%a6%a1%e0%a6%bc%e0%a6%bf%e0%a6%a4%e0%a7%87-%e0%a7%ae%e0%a7%a8-%e0%a6%ae%e0%a6%bf-%e0%a6%ae%e0%a6%bf-%e0%a6%ae%e0%a6%b0%e0%a7%8d/">পাহাড়বার্তা</source>
-    </item>
-    <item>
-      <title>বন সংরক্ষণে দক্ষতা বাড়াতে কাপ্তাইয়ে ২৫ ফরেস্ট গার্ডের প্রশিক্ষণ</title>
-      <link>https://paharbarta.com/%e0%a6%ac%e0%a6%a8-%e0%a6%b8%e0%a6%82%e0%a6%b0%e0%a6%95%e0%a7%8d%e0%a6%b7%e0%a6%a3%e0%a7%87-%e0%a6%a6%e0%a6%95%e0%a7%8d%e0%a6%b7%e0%a6%a4%e0%a6%be-%e0%a6%ac%e0%a6%be%e0%a6%a1%e0%a6%bc%e0%a6%be/</link>
-      <guid isPermaLink="true">https://paharbarta.com/%e0%a6%ac%e0%a6%a8-%e0%a6%b8%e0%a6%82%e0%a6%b0%e0%a6%95%e0%a7%8d%e0%a6%b7%e0%a6%a3%e0%a7%87-%e0%a6%a6%e0%a6%95%e0%a7%8d%e0%a6%b7%e0%a6%a4%e0%a6%be-%e0%a6%ac%e0%a6%be%e0%a6%a1%e0%a6%bc%e0%a6%be/</guid>
-      <pubDate>Mon, 23 Nov 2026 20:59:47 +0000</pubDate>
-      <description>বন সংরক্ষণে দক্ষতা বাড়াতে কাপ্তাইয়ে ২৫ ফরেস্ট গার্ডের প্রশিক্ষণ</description>
-      <source url="https://paharbarta.com/%e0%a6%ac%e0%a6%a8-%e0%a6%b8%e0%a6%82%e0%a6%b0%e0%a6%95%e0%a7%8d%e0%a6%b7%e0%a6%a3%e0%a7%87-%e0%a6%a6%e0%a6%95%e0%a7%8d%e0%a6%b7%e0%a6%a4%e0%a6%be-%e0%a6%ac%e0%a6%be%e0%a6%a1%e0%a6%bc%e0%a6%be/">পাহাড়বার্তা</source>
     </item>
     <item>
       <title>কাপ্তাইয়ে বিজিবির অভিযানে ১১.২৫ ঘনফুট সেগুন কাঠ জব্দ</title>
       <link>https://paharbarta.com/%e0%a6%95%e0%a6%be%e0%a6%aa%e0%a7%8d%e0%a6%a4%e0%a6%be%e0%a6%87%e0%a6%af%e0%a6%bc%e0%a7%87-%e0%a6%ac%e0%a6%bf%e0%a6%9c%e0%a6%bf%e0%a6%ac%e0%a6%bf%e0%a6%b0-%e0%a6%85%e0%a6%ad%e0%a6%bf%e0%a6%af%e0%a6%be/</link>
       <guid isPermaLink="true">https://paharbarta.com/%e0%a6%95%e0%a6%be%e0%a6%aa%e0%a7%8d%e0%a6%a4%e0%a6%be%e0%a6%87%e0%a6%af%e0%a6%bc%e0%a7%87-%e0%a6%ac%e0%a6%bf%e0%a6%9c%e0%a6%bf%e0%a6%ac%e0%a6%bf%e0%a6%b0-%e0%a6%85%e0%a6%ad%e0%a6%bf%e0%a6%af%e0%a6%be/</guid>
-      <pubDate>Mon, 23 Nov 2026 20:59:47 +0000</pubDate>
-      <description>কাপ্তাইয়ে বিজিবির অভিযানে ১১.২৫ ঘনফুট সেগুন কাঠ জব্দ</description>
+      <pubDate>Mon, 23 Nov 2026 11:51:01 +0000</pubDate>
+      <enclosure url="https://paharbarta.com/wp-content/uploads/311033.jpg" length="0" type="image/jpeg" />
+      <media:content url="https://paharbarta.com/wp-content/uploads/311033.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://paharbarta.com/wp-content/uploads/311033.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="কাপ্তাইয়ে বিজিবির অভিযানে ১১.২৫ ঘনফুট সেগুন কাঠ জব্দ" /&gt;&lt;/p&gt;&lt;p&gt;রাঙামাটির কাপ্তাইয়ে গোয়েন্দা তথ্যের ভিত্তিতে বিশেষ অভিযান পরিচালনা করে ১১ দশমিক ২৫ ঘনফুট সেগুন কাঠ জব্দ করেছে বর্ডার গার্ড বাংলাদেশ (৪১বিজিবি)। জব্দ করা কাঠের আনুমানিক সিজার মূল্য ৫৬ হাজার ২৫০ টাকা। বিজিবি সূত্রে জানা গেছে, গত ২২ নভেম্বর রাত আনুমানিক ৮টার দিকে গোয়েন্দা তথ্যের ভিত্তিতে কাপ্তাই ব্যাটা&lt;/p&gt;</description>
       <source url="https://paharbarta.com/%e0%a6%95%e0%a6%be%e0%a6%aa%e0%a7%8d%e0%a6%a4%e0%a6%be%e0%a6%87%e0%a6%af%e0%a6%bc%e0%a7%87-%e0%a6%ac%e0%a6%bf%e0%a6%9c%e0%a6%bf%e0%a6%ac%e0%a6%bf%e0%a6%b0-%e0%a6%85%e0%a6%ad%e0%a6%bf%e0%a6%af%e0%a6%be/">পাহাড়বার্তা</source>
+    </item>
+    <item>
+      <title>থানচিতে নিম্নমানের টিসিবি’র পণ্য বিক্রি</title>
+      <link>https://paharbarta.com/%e0%a6%a5%e0%a6%be%e0%a6%a8%e0%a6%9a%e0%a6%bf%e0%a6%a4%e0%a7%87-%e0%a6%a8%e0%a6%bf%e0%a6%ae%e0%a7%8d%e0%a6%a8%e0%a6%ae%e0%a6%be%e0%a6%a8%e0%a7%87%e0%a6%b0-%e0%a6%9f%e0%a6%bf%e0%a6%b8%e0%a6%bf%e0%a6%ac/</link>
+      <guid isPermaLink="true">https://paharbarta.com/%e0%a6%a5%e0%a6%be%e0%a6%a8%e0%a6%9a%e0%a6%bf%e0%a6%a4%e0%a7%87-%e0%a6%a8%e0%a6%bf%e0%a6%ae%e0%a7%8d%e0%a6%a8%e0%a6%ae%e0%a6%be%e0%a6%a8%e0%a7%87%e0%a6%b0-%e0%a6%9f%e0%a6%bf%e0%a6%b8%e0%a6%bf%e0%a6%ac/</guid>
+      <pubDate>Sun, 22 Nov 2026 12:02:13 +0000</pubDate>
+      <enclosure url="https://paharbarta.com/wp-content/uploads/1000449088.jpg" length="0" type="image/jpeg" />
+      <media:content url="https://paharbarta.com/wp-content/uploads/1000449088.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://paharbarta.com/wp-content/uploads/1000449088.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="থানচিতে নিম্নমানের টিসিবি’র পণ্য বিক্রি" /&gt;&lt;/p&gt;&lt;p&gt;বান্দরবানের থানচি উপজেলায় ট্রেডিং করপোরেশন অব বাংলাদেশের (টিসিবি) পণ্য বিক্রিতে অতিরিক্ত অর্থ আদায়, নিম্নমানের চাল ও সাবান সরবরাহ এবং দুর্গম দুই ইউনিয়নের উপকারভোগীদের পণ্য না দেওয়ার অভিযোগ উঠেছে ডিলারের বিরুদ্ধে। এ ছাড়া পণ্য কেনার সময় উপকারভোগীদের পলিব্যাগ কিনতে বাধ্য করার অভিযোগও করেছেন ক্রেতারা। ন&lt;/p&gt;</description>
+      <source url="https://paharbarta.com/%e0%a6%a5%e0%a6%be%e0%a6%a8%e0%a6%9a%e0%a6%bf%e0%a6%a4%e0%a7%87-%e0%a6%a8%e0%a6%bf%e0%a6%ae%e0%a7%8d%e0%a6%a8%e0%a6%ae%e0%a6%be%e0%a6%a8%e0%a7%87%e0%a6%b0-%e0%a6%9f%e0%a6%bf%e0%a6%b8%e0%a6%bf%e0%a6%ac/">পাহাড়বার্তা</source>
     </item>
     <item>
       <title>কাপ্তাই ট্রাক শ্রমিক বহুমুখী সমবায় সমিতির ২৬তম বার্ষিক সাধারণ সভা</title>
       <link>https://paharbarta.com/%e0%a6%95%e0%a6%be%e0%a6%aa%e0%a7%8d%e0%a6%a4%e0%a6%be%e0%a6%87-%e0%a6%9f%e0%a7%8d%e0%a6%b0%e0%a6%be%e0%a6%95-%e0%a6%b6%e0%a7%8d%e0%a6%b0%e0%a6%ae%e0%a6%bf%e0%a6%95-%e0%a6%ac%e0%a6%b9%e0%a7%81/</link>
       <guid isPermaLink="true">https://paharbarta.com/%e0%a6%95%e0%a6%be%e0%a6%aa%e0%a7%8d%e0%a6%a4%e0%a6%be%e0%a6%87-%e0%a6%9f%e0%a7%8d%e0%a6%b0%e0%a6%be%e0%a6%95-%e0%a6%b6%e0%a7%8d%e0%a6%b0%e0%a6%ae%e0%a6%bf%e0%a6%95-%e0%a6%ac%e0%a6%b9%e0%a7%81/</guid>
-      <pubDate>Mon, 23 Nov 2026 20:59:47 +0000</pubDate>
-      <description>কাপ্তাই ট্রাক শ্রমিক বহুমুখী সমবায় সমিতির ২৬তম বার্ষিক সাধারণ সভা</description>
+      <pubDate>Sun, 22 Nov 2026 11:55:29 +0000</pubDate>
+      <enclosure url="https://paharbarta.com/wp-content/uploads/310020.jpg" length="0" type="image/jpeg" />
+      <media:content url="https://paharbarta.com/wp-content/uploads/310020.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://paharbarta.com/wp-content/uploads/310020.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="কাপ্তাই ট্রাক শ্রমিক বহুমুখী সমবায় সমিতির ২৬তম বার্ষিক সাধারণ সভা" /&gt;&lt;/p&gt;&lt;p&gt;রাঙামাটির কাপ্তাইয়ে কাপ্তাই ট্রাক শ্রমিক বহুমুখী সমবায় সমিতি লিমিটেডের ২৬তম বার্ষিক সাধারণ সভা অনুষ্ঠিত হয়েছে। আজ রোববার (২২ নভেম্বর) সকাল সাড়ে ১০টায় কাপ্তাই উপজেলার ৪ নম্বর কাপ্তাই ইউনিয়নের জেটিঘাট এলাকায় ট্রাক শ্রমিক ইউনিয়ন হলরুমে এ সভা অনুষ্ঠিত হয়। এতে সভাপতিত্ব করেন সমিতির সভাপতি মো. নুরুল ইসলাম&lt;/p&gt;</description>
       <source url="https://paharbarta.com/%e0%a6%95%e0%a6%be%e0%a6%aa%e0%a7%8d%e0%a6%a4%e0%a6%be%e0%a6%87-%e0%a6%9f%e0%a7%8d%e0%a6%b0%e0%a6%be%e0%a6%95-%e0%a6%b6%e0%a7%8d%e0%a6%b0%e0%a6%ae%e0%a6%bf%e0%a6%95-%e0%a6%ac%e0%a6%b9%e0%a7%81/">পাহাড়বার্তা</source>
+    </item>
+    <item>
+      <title>কাপ্তাইয়ে বিকাশে অর্থ প্রতারণার অভিযোগে আটক যুবক, মিলল গাঁজা</title>
+      <link>https://paharbarta.com/%e0%a6%95%e0%a6%be%e0%a6%aa%e0%a7%8d%e0%a6%a4%e0%a6%be%e0%a6%87%e0%a6%af%e0%a6%bc%e0%a7%87-%e0%a6%ac%e0%a6%bf%e0%a6%95%e0%a6%be%e0%a6%b6%e0%a7%87-%e0%a6%85%e0%a6%b0%e0%a7%8d%e0%a6%a5-%e0%a6%aa/</link>
+      <guid isPermaLink="true">https://paharbarta.com/%e0%a6%95%e0%a6%be%e0%a6%aa%e0%a7%8d%e0%a6%a4%e0%a6%be%e0%a6%87%e0%a6%af%e0%a6%bc%e0%a7%87-%e0%a6%ac%e0%a6%bf%e0%a6%95%e0%a6%be%e0%a6%b6%e0%a7%87-%e0%a6%85%e0%a6%b0%e0%a7%8d%e0%a6%a5-%e0%a6%aa/</guid>
+      <pubDate>Sat, 21 Nov 2026 12:38:43 +0000</pubDate>
+      <enclosure url="https://paharbarta.com/wp-content/uploads/309382.jpg" length="0" type="image/jpeg" />
+      <media:content url="https://paharbarta.com/wp-content/uploads/309382.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://paharbarta.com/wp-content/uploads/309382.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="কাপ্তাইয়ে বিকাশে অর্থ প্রতারণার অভিযোগে আটক যুবক, মিলল গাঁজা" /&gt;&lt;/p&gt;&lt;p&gt;রাঙামাটির কাপ্তাইয়ে বিকাশের মাধ্যমে ৩৫ হাজার টাকা প্রতারণার অভিযোগে সুমন নামে এক যুবককে আটক করেছে বর্ডার গার্ড বাংলাদেশ (৪১ বিজিবি)। পরে তাকে কাপ্তাই থানা পুলিশের কাছে হস্তান্তর করা হয়। পুলিশি তল্লাশিতে তার কাছ থেকে ১০ গ্রাম গাঁজা উদ্ধার করা হয়েছে। এ ঘটনায় তার বিরুদ্ধে মাদকদ্রব্য নিয়ন্ত্রণ আইনে মামল&lt;/p&gt;</description>
+      <source url="https://paharbarta.com/%e0%a6%95%e0%a6%be%e0%a6%aa%e0%a7%8d%e0%a6%a4%e0%a6%be%e0%a6%87%e0%a6%af%e0%a6%bc%e0%a7%87-%e0%a6%ac%e0%a6%bf%e0%a6%95%e0%a6%be%e0%a6%b6%e0%a7%87-%e0%a6%85%e0%a6%b0%e0%a7%8d%e0%a6%a5-%e0%a6%aa/">পাহাড়বার্তা</source>
     </item>
     <item>
       <title>দেশব্যাপী নৈরাজ্যের প্রতিবাদে থানচিতে বিএনপির বিক্ষোভ সমাবেশ</title>
       <link>https://paharbarta.com/%e0%a6%a6%e0%a7%87%e0%a6%b6%e0%a6%ac%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%aa%e0%a7%80-%e0%a6%a8%e0%a7%88%e0%a6%b0%e0%a6%be%e0%a6%9c%e0%a7%8d%e0%a6%af%e0%a7%87%e0%a6%b0-%e0%a6%aa%e0%a7%8d%e0%a6%b0%e0%a6%a4/</link>
       <guid isPermaLink="true">https://paharbarta.com/%e0%a6%a6%e0%a7%87%e0%a6%b6%e0%a6%ac%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%aa%e0%a7%80-%e0%a6%a8%e0%a7%88%e0%a6%b0%e0%a6%be%e0%a6%9c%e0%a7%8d%e0%a6%af%e0%a7%87%e0%a6%b0-%e0%a6%aa%e0%a7%8d%e0%a6%b0%e0%a6%a4/</guid>
-      <pubDate>Mon, 23 Nov 2026 20:59:47 +0000</pubDate>
-      <description>দেশব্যাপী নৈরাজ্যের প্রতিবাদে থানচিতে বিএনপির বিক্ষোভ সমাবেশ</description>
+      <pubDate>Sat, 21 Nov 2026 12:33:19 +0000</pubDate>
+      <enclosure url="https://paharbarta.com/wp-content/uploads/1000447027.jpg" length="0" type="image/jpeg" />
+      <media:content url="https://paharbarta.com/wp-content/uploads/1000447027.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://paharbarta.com/wp-content/uploads/1000447027.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="দেশব্যাপী নৈরাজ্যের প্রতিবাদে থানচিতে বিএনপির বিক্ষোভ সমাবেশ" /&gt;&lt;/p&gt;&lt;p&gt;সহিংসতা ও নৈরাজ্যসহ কার্যক্রম নিষিদ্ধ আওয়ামী লীগের দেশব্যাপী জ্বালাও-পোড়াও, সন্ত্রাস ও সহিংসতার প্রতিবাদে বান্দরবানের থানচি উপজেলা বিক্ষোভ সমাবেশ ও প্রতিবাদ করেছে বাংলাদেশ জাতীয়তাবাদী দল (বিএনপি)। আজ শনিবার (২১ নভেম্বর) সকালে জেলার থানচি উপজেলা শাখা বিএনপির আয়োজনে উপজেলা সদর বাজার প্রাঙ্গণ থেকে বিক্&lt;/p&gt;</description>
       <source url="https://paharbarta.com/%e0%a6%a6%e0%a7%87%e0%a6%b6%e0%a6%ac%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%aa%e0%a7%80-%e0%a6%a8%e0%a7%88%e0%a6%b0%e0%a6%be%e0%a6%9c%e0%a7%8d%e0%a6%af%e0%a7%87%e0%a6%b0-%e0%a6%aa%e0%a7%8d%e0%a6%b0%e0%a6%a4/">পাহাড়বার্তা</source>
     </item>
     <item>
       <title>রবিউল আউয়াল উপলক্ষে বান্দরবানে প্রতিযোগিতার পুরস্কার বিতরণ</title>
       <link>https://paharbarta.com/%e0%a6%b0%e0%a6%ac%e0%a6%bf%e0%a6%89%e0%a6%b2-%e0%a6%86%e0%a6%89%e0%a6%af%e0%a6%bc%e0%a6%be%e0%a6%b2-%e0%a6%89%e0%a6%aa%e0%a6%b2%e0%a6%95%e0%a7%8d%e0%a6%b7%e0%a7%87-%e0%a6%ac%e0%a6%be%e0%a6%a8/</link>
       <guid isPermaLink="true">https://paharbarta.com/%e0%a6%b0%e0%a6%ac%e0%a6%bf%e0%a6%89%e0%a6%b2-%e0%a6%86%e0%a6%89%e0%a6%af%e0%a6%bc%e0%a6%be%e0%a6%b2-%e0%a6%89%e0%a6%aa%e0%a6%b2%e0%a6%95%e0%a7%8d%e0%a6%b7%e0%a7%87-%e0%a6%ac%e0%a6%be%e0%a6%a8/</guid>
-      <pubDate>Mon, 23 Nov 2026 20:59:47 +0000</pubDate>
-      <description>রবিউল আউয়াল উপলক্ষে বান্দরবানে প্রতিযোগিতার পুরস্কার বিতরণ</description>
+      <pubDate>Sat, 21 Nov 2026 12:29:07 +0000</pubDate>
+      <enclosure url="https://paharbarta.com/wp-content/uploads/Bandarban-Islami-Patagar-Prize-Giving-Ceremony-Pic-21-Nov-2026-1.jpg" length="0" type="image/jpeg" />
+      <media:content url="https://paharbarta.com/wp-content/uploads/Bandarban-Islami-Patagar-Prize-Giving-Ceremony-Pic-21-Nov-2026-1.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://paharbarta.com/wp-content/uploads/Bandarban-Islami-Patagar-Prize-Giving-Ceremony-Pic-21-Nov-2026-1.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="রবিউল আউয়াল উপলক্ষে বান্দরবানে প্রতিযোগিতার পুরস্কার বিতরণ" /&gt;&lt;/p&gt;&lt;p&gt;পবিত্র মাহে রবিউল আউয়াল উপলক্ষে বান্দরবানে কেরাত, আযান ও ইসলামী সংগীত প্রতিযোগিতার পুরস্কার বিতরণ অনুষ্ঠিত হয়েছে। আজ শনিবার (২১ নভেম্বর) সকালে বান্দরবান ইসলামী পাঠাগার বান্দরবানের আয়োজনে পাঠাগারের সভাকক্ষে এইপুরস্কার বিতরণ অনুষ্ঠানের আয়োজন করা হয়। ইসলামী পাঠাগার বান্দরবানের প্রধান নির্বাহী অ্যাডভোকে&lt;/p&gt;</description>
       <source url="https://paharbarta.com/%e0%a6%b0%e0%a6%ac%e0%a6%bf%e0%a6%89%e0%a6%b2-%e0%a6%86%e0%a6%89%e0%a6%af%e0%a6%bc%e0%a6%be%e0%a6%b2-%e0%a6%89%e0%a6%aa%e0%a6%b2%e0%a6%95%e0%a7%8d%e0%a6%b7%e0%a7%87-%e0%a6%ac%e0%a6%be%e0%a6%a8/">পাহাড়বার্তা</source>
+    </item>
+    <item>
+      <title>খাগড়াছড়িতে ৮২ মি.মি. মর্টারশেল নিষ্ক্রিয় করল সেনাবাহিনী</title>
+      <link>https://paharbarta.com/%e0%a6%96%e0%a6%be%e0%a6%97%e0%a6%a1%e0%a6%bc%e0%a6%be%e0%a6%9b%e0%a6%a1%e0%a6%bc%e0%a6%bf%e0%a6%a4%e0%a7%87-%e0%a7%ae%e0%a7%a8-%e0%a6%ae%e0%a6%bf-%e0%a6%ae%e0%a6%bf-%e0%a6%ae%e0%a6%b0%e0%a7%8d/</link>
+      <guid isPermaLink="true">https://paharbarta.com/%e0%a6%96%e0%a6%be%e0%a6%97%e0%a6%a1%e0%a6%bc%e0%a6%be%e0%a6%9b%e0%a6%a1%e0%a6%bc%e0%a6%bf%e0%a6%a4%e0%a7%87-%e0%a7%ae%e0%a7%a8-%e0%a6%ae%e0%a6%bf-%e0%a6%ae%e0%a6%bf-%e0%a6%ae%e0%a6%b0%e0%a7%8d/</guid>
+      <pubDate>Sat, 21 Nov 2026 12:24:03 +0000</pubDate>
+      <enclosure url="https://paharbarta.com/wp-content/uploads/FB_IMG_1795240882732.jpg" length="0" type="image/jpeg" />
+      <media:content url="https://paharbarta.com/wp-content/uploads/FB_IMG_1795240882732.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://paharbarta.com/wp-content/uploads/FB_IMG_1795240882732.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="খাগড়াছড়িতে ৮২ মি.মি. মর্টারশেল নিষ্ক্রিয় করল সেনাবাহিনী" /&gt;&lt;/p&gt;&lt;p&gt;খাগড়াছড়ির শালবন এলাকায় মাটির নিচ থেকে উদ্ধার করা একটি পরিত্যক্ত মর্টারশেল বিস্ফোরণের মাধ্যমে নিষ্ক্রিয় করেছে বাংলাদেশ সেনাবাহিনীর বোমা ডিসপোজাল ইউনিট। ​ আজ শনিবার (২১ নভেম্বর) খাগড়াছড়ি সদর জোনের ১৮ বেঙ্গল বোমা ডিসপোজাল ইউনিটের সদস্যরা মর্টারশেলটি খবংপুড়িয়া এলাকার চেঙ্গী নদীর তীরে একটি নিরাপদ স্থানে &lt;/p&gt;</description>
+      <source url="https://paharbarta.com/%e0%a6%96%e0%a6%be%e0%a6%97%e0%a6%a1%e0%a6%bc%e0%a6%be%e0%a6%9b%e0%a6%a1%e0%a6%bc%e0%a6%bf%e0%a6%a4%e0%a7%87-%e0%a7%ae%e0%a7%a8-%e0%a6%ae%e0%a6%bf-%e0%a6%ae%e0%a6%bf-%e0%a6%ae%e0%a6%b0%e0%a7%8d/">পাহাড়বার্তা</source>
+    </item>
+    <item>
+      <title>বান্দরবানে শ্রমিকদের কল্যাণে নতুন ট্যুরিস্ট জীপ চালু</title>
+      <link>https://paharbarta.com/%e0%a6%ac%e0%a6%be%e0%a6%a8%e0%a7%8d%e0%a6%a6%e0%a6%b0%e0%a6%ac%e0%a6%be%e0%a6%a8%e0%a7%87-%e0%a6%b6%e0%a7%8d%e0%a6%b0%e0%a6%ae%e0%a6%bf%e0%a6%95%e0%a6%a6%e0%a7%87%e0%a6%b0-%e0%a6%95%e0%a6%b2%e0%a7%8d/</link>
+      <guid isPermaLink="true">https://paharbarta.com/%e0%a6%ac%e0%a6%be%e0%a6%a8%e0%a7%8d%e0%a6%a6%e0%a6%b0%e0%a6%ac%e0%a6%be%e0%a6%a8%e0%a7%87-%e0%a6%b6%e0%a7%8d%e0%a6%b0%e0%a6%ae%e0%a6%bf%e0%a6%95%e0%a6%a6%e0%a7%87%e0%a6%b0-%e0%a6%95%e0%a6%b2%e0%a7%8d/</guid>
+      <pubDate>Fri, 20 Nov 2026 12:05:22 +0000</pubDate>
+      <enclosure url="https://paharbarta.com/wp-content/uploads/Banadarban-Tourist-Coach-Pic20-Nov-2026-1.jpg" length="0" type="image/jpeg" />
+      <media:content url="https://paharbarta.com/wp-content/uploads/Banadarban-Tourist-Coach-Pic20-Nov-2026-1.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://paharbarta.com/wp-content/uploads/Banadarban-Tourist-Coach-Pic20-Nov-2026-1.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="বান্দরবানে শ্রমিকদের কল্যাণে নতুন ট্যুরিস্ট জীপ চালু" /&gt;&lt;/p&gt;&lt;p&gt;বান্দরবানে বান্দরবান মাইক্রোবাস শ্রমিক ইউনিয়নের শ্রমিকদের কল্যাণে এবার একটি ট্যুরিস্ট জীপ চালু করা হয়েছে। এই ট্যুারিস্ট জীপ থেকে অর্জিত অর্থ মাইক্রোবাস শ্রমিক ইউনিয়নের সদস্যদের বিভিন্ন চিকিৎসা,যাবতীয় দুর্ঘটনা এবং মৃত্যু পরবর্তী তাদের পরিবারের সহায়তার জন্য ব্যয় করা হবে। আজ শুক্রবার (২০ নভেম্বর) বিকেল&lt;/p&gt;</description>
+      <source url="https://paharbarta.com/%e0%a6%ac%e0%a6%be%e0%a6%a8%e0%a7%8d%e0%a6%a6%e0%a6%b0%e0%a6%ac%e0%a6%be%e0%a6%a8%e0%a7%87-%e0%a6%b6%e0%a7%8d%e0%a6%b0%e0%a6%ae%e0%a6%bf%e0%a6%95%e0%a6%a6%e0%a7%87%e0%a6%b0-%e0%a6%95%e0%a6%b2%e0%a7%8d/">পাহাড়বার্তা</source>
     </item>
   </channel>
 </rss>
