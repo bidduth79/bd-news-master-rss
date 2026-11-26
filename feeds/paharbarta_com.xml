@@ -1,110 +1,130 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+<rss version="2.0">
   <channel>
     <title>পাহাড়বার্তা - আরএসএস ফিড</title>
     <link>https://paharbarta.com</link>
     <description>পাহাড়বার্তা এর সর্বশেষ খবর</description>
     <language>bn</language>
-    <lastBuildDate>Thu, 26 Nov 2026 14:49:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 23:34:34 +0000</lastBuildDate>
+    <item>
+      <title>পাহাড়বার্তা পরিবার</title>
+      <link>https://paharbarta.com/family/</link>
+      <guid isPermaLink="true">https://paharbarta.com/family/</guid>
+      <pubDate>Thu, 26 Nov 2026 23:34:34 +0000</pubDate>
+      <description>পাহাড়বার্তা পরিবার</description>
+      <source url="https://paharbarta.com/family/">পাহাড়বার্তা</source>
+    </item>
+    <item>
+      <title>গুরুত্বপূর্ণ লিংক</title>
+      <link>https://paharbarta.com/chtlinks/</link>
+      <guid isPermaLink="true">https://paharbarta.com/chtlinks/</guid>
+      <pubDate>Thu, 26 Nov 2026 23:34:34 +0000</pubDate>
+      <description>গুরুত্বপূর্ণ লিংক</description>
+      <source url="https://paharbarta.com/chtlinks/">পাহাড়বার্তা</source>
+    </item>
+    <item>
+      <title>বাঙালহালিয়ায় গাছের সঙ্গে পিকআপের ধাক্কায় নিহত ১, চালক আহত</title>
+      <link>https://paharbarta.com/%e0%a6%ac%e0%a6%be%e0%a6%99%e0%a6%be%e0%a6%b2%e0%a6%b9%e0%a6%be%e0%a6%b2%e0%a6%bf%e0%a6%af%e0%a6%bc%e0%a6%be%e0%a6%af%e0%a6%bc-%e0%a6%97%e0%a6%be%e0%a6%9b%e0%a7%87%e0%a6%b0-%e0%a6%b8%e0%a6%99%e0%a7%8d/</link>
+      <guid isPermaLink="true">https://paharbarta.com/%e0%a6%ac%e0%a6%be%e0%a6%99%e0%a6%be%e0%a6%b2%e0%a6%b9%e0%a6%be%e0%a6%b2%e0%a6%bf%e0%a6%af%e0%a6%bc%e0%a6%be%e0%a6%af%e0%a6%bc-%e0%a6%97%e0%a6%be%e0%a6%9b%e0%a7%87%e0%a6%b0-%e0%a6%b8%e0%a6%99%e0%a7%8d/</guid>
+      <pubDate>Thu, 26 Nov 2026 23:34:34 +0000</pubDate>
+      <description>বাঙালহালিয়ায় গাছের সঙ্গে পিকআপের ধাক্কায় নিহত ১, চালক আহত</description>
+      <source url="https://paharbarta.com/%e0%a6%ac%e0%a6%be%e0%a6%99%e0%a6%be%e0%a6%b2%e0%a6%b9%e0%a6%be%e0%a6%b2%e0%a6%bf%e0%a6%af%e0%a6%bc%e0%a6%be%e0%a6%af%e0%a6%bc-%e0%a6%97%e0%a6%be%e0%a6%9b%e0%a7%87%e0%a6%b0-%e0%a6%b8%e0%a6%99%e0%a7%8d/">পাহাড়বার্তা</source>
+    </item>
+    <item>
+      <title>কাপ্তাইয়ে বিকাশে অর্থ প্রতারণার অভিযোগে আটক যুবক, মিলল গাঁজা</title>
+      <link>https://paharbarta.com/%e0%a6%95%e0%a6%be%e0%a6%aa%e0%a7%8d%e0%a6%a4%e0%a6%be%e0%a6%87%e0%a6%af%e0%a6%bc%e0%a7%87-%e0%a6%ac%e0%a6%bf%e0%a6%95%e0%a6%be%e0%a6%b6%e0%a7%87-%e0%a6%85%e0%a6%b0%e0%a7%8d%e0%a6%a5-%e0%a6%aa/</link>
+      <guid isPermaLink="true">https://paharbarta.com/%e0%a6%95%e0%a6%be%e0%a6%aa%e0%a7%8d%e0%a6%a4%e0%a6%be%e0%a6%87%e0%a6%af%e0%a6%bc%e0%a7%87-%e0%a6%ac%e0%a6%bf%e0%a6%95%e0%a6%be%e0%a6%b6%e0%a7%87-%e0%a6%85%e0%a6%b0%e0%a7%8d%e0%a6%a5-%e0%a6%aa/</guid>
+      <pubDate>Thu, 26 Nov 2026 23:34:34 +0000</pubDate>
+      <description>কাপ্তাইয়ে বিকাশে অর্থ প্রতারণার অভিযোগে আটক যুবক, মিলল গাঁজা</description>
+      <source url="https://paharbarta.com/%e0%a6%95%e0%a6%be%e0%a6%aa%e0%a7%8d%e0%a6%a4%e0%a6%be%e0%a6%87%e0%a6%af%e0%a6%bc%e0%a7%87-%e0%a6%ac%e0%a6%bf%e0%a6%95%e0%a6%be%e0%a6%b6%e0%a7%87-%e0%a6%85%e0%a6%b0%e0%a7%8d%e0%a6%a5-%e0%a6%aa/">পাহাড়বার্তা</source>
+    </item>
+    <item>
+      <title>রামগড়ে দেশীয় পিস্তল ও গুলিসহ বৃদ্ধ আটক</title>
+      <link>https://paharbarta.com/%e0%a6%b0%e0%a6%be%e0%a6%ae%e0%a6%97%e0%a6%a1%e0%a6%bc%e0%a7%87-%e0%a6%a6%e0%a7%87%e0%a6%b6%e0%a7%80%e0%a6%af%e0%a6%bc-%e0%a6%aa%e0%a6%bf%e0%a6%b8%e0%a7%8d%e0%a6%a4%e0%a6%b2-%e0%a6%93-%e0%a6%97/</link>
+      <guid isPermaLink="true">https://paharbarta.com/%e0%a6%b0%e0%a6%be%e0%a6%ae%e0%a6%97%e0%a6%a1%e0%a6%bc%e0%a7%87-%e0%a6%a6%e0%a7%87%e0%a6%b6%e0%a7%80%e0%a6%af%e0%a6%bc-%e0%a6%aa%e0%a6%bf%e0%a6%b8%e0%a7%8d%e0%a6%a4%e0%a6%b2-%e0%a6%93-%e0%a6%97/</guid>
+      <pubDate>Thu, 26 Nov 2026 23:34:34 +0000</pubDate>
+      <description>রামগড়ে দেশীয় পিস্তল ও গুলিসহ বৃদ্ধ আটক</description>
+      <source url="https://paharbarta.com/%e0%a6%b0%e0%a6%be%e0%a6%ae%e0%a6%97%e0%a6%a1%e0%a6%bc%e0%a7%87-%e0%a6%a6%e0%a7%87%e0%a6%b6%e0%a7%80%e0%a6%af%e0%a6%bc-%e0%a6%aa%e0%a6%bf%e0%a6%b8%e0%a7%8d%e0%a6%a4%e0%a6%b2-%e0%a6%93-%e0%a6%97/">পাহাড়বার্তা</source>
+    </item>
+    <item>
+      <title>শৈলপ্রপাত ঝর্ণা থেকে নিখোঁজ শিক্ষার্থীর মরদেহ উদ্ধার</title>
+      <link>https://paharbarta.com/%e0%a6%b6%e0%a7%88%e0%a6%b2%e0%a6%aa%e0%a7%8d%e0%a6%b0%e0%a6%aa%e0%a6%be%e0%a6%a4-%e0%a6%9d%e0%a6%b0%e0%a7%8d%e0%a6%a3%e0%a6%be-%e0%a6%a5%e0%a7%87%e0%a6%95%e0%a7%87-%e0%a6%a8%e0%a6%bf%e0%a6%96/</link>
+      <guid isPermaLink="true">https://paharbarta.com/%e0%a6%b6%e0%a7%88%e0%a6%b2%e0%a6%aa%e0%a7%8d%e0%a6%b0%e0%a6%aa%e0%a6%be%e0%a6%a4-%e0%a6%9d%e0%a6%b0%e0%a7%8d%e0%a6%a3%e0%a6%be-%e0%a6%a5%e0%a7%87%e0%a6%95%e0%a7%87-%e0%a6%a8%e0%a6%bf%e0%a6%96/</guid>
+      <pubDate>Thu, 26 Nov 2026 23:34:34 +0000</pubDate>
+      <description>শৈলপ্রপাত ঝর্ণা থেকে নিখোঁজ শিক্ষার্থীর মরদেহ উদ্ধার</description>
+      <source url="https://paharbarta.com/%e0%a6%b6%e0%a7%88%e0%a6%b2%e0%a6%aa%e0%a7%8d%e0%a6%b0%e0%a6%aa%e0%a6%be%e0%a6%a4-%e0%a6%9d%e0%a6%b0%e0%a7%8d%e0%a6%a3%e0%a6%be-%e0%a6%a5%e0%a7%87%e0%a6%95%e0%a7%87-%e0%a6%a8%e0%a6%bf%e0%a6%96/">পাহাড়বার্তা</source>
+    </item>
+    <item>
+      <title>বান্দরবানে বিএনপির বিক্ষোভ</title>
+      <link>https://paharbarta.com/%e0%a6%ac%e0%a6%be%e0%a6%a8%e0%a7%8d%e0%a6%a6%e0%a6%b0%e0%a6%ac%e0%a6%be%e0%a6%a8%e0%a7%87-%e0%a6%ac%e0%a6%bf%e0%a6%8f%e0%a6%a8%e0%a6%aa%e0%a6%bf%e0%a6%b0-%e0%a6%ac%e0%a6%bf%e0%a6%95%e0%a7%8d-7/</link>
+      <guid isPermaLink="true">https://paharbarta.com/%e0%a6%ac%e0%a6%be%e0%a6%a8%e0%a7%8d%e0%a6%a6%e0%a6%b0%e0%a6%ac%e0%a6%be%e0%a6%a8%e0%a7%87-%e0%a6%ac%e0%a6%bf%e0%a6%8f%e0%a6%a8%e0%a6%aa%e0%a6%bf%e0%a6%b0-%e0%a6%ac%e0%a6%bf%e0%a6%95%e0%a7%8d-7/</guid>
+      <pubDate>Thu, 26 Nov 2026 23:34:34 +0000</pubDate>
+      <description>বান্দরবানে বিএনপির বিক্ষোভ</description>
+      <source url="https://paharbarta.com/%e0%a6%ac%e0%a6%be%e0%a6%a8%e0%a7%8d%e0%a6%a6%e0%a6%b0%e0%a6%ac%e0%a6%be%e0%a6%a8%e0%a7%87-%e0%a6%ac%e0%a6%bf%e0%a6%8f%e0%a6%a8%e0%a6%aa%e0%a6%bf%e0%a6%b0-%e0%a6%ac%e0%a6%bf%e0%a6%95%e0%a7%8d-7/">পাহাড়বার্তা</source>
+    </item>
+    <item>
+      <title>পাহাড়ের উন্নয়নে শতভাগ স্বচ্ছতা নিশ্চিত করতে হবে: মন্ত্রী সাচিং প্রু…</title>
+      <link>https://paharbarta.com/%e0%a6%aa%e0%a6%be%e0%a6%b9%e0%a6%be%e0%a6%a1%e0%a6%bc%e0%a7%87%e0%a6%b0-%e0%a6%89%e0%a6%a8%e0%a7%8d%e0%a6%a8%e0%a6%af%e0%a6%bc%e0%a6%a8%e0%a7%87-%e0%a6%b6%e0%a6%a4%e0%a6%ad%e0%a6%be%e0%a6%97/</link>
+      <guid isPermaLink="true">https://paharbarta.com/%e0%a6%aa%e0%a6%be%e0%a6%b9%e0%a6%be%e0%a6%a1%e0%a6%bc%e0%a7%87%e0%a6%b0-%e0%a6%89%e0%a6%a8%e0%a7%8d%e0%a6%a8%e0%a6%af%e0%a6%bc%e0%a6%a8%e0%a7%87-%e0%a6%b6%e0%a6%a4%e0%a6%ad%e0%a6%be%e0%a6%97/</guid>
+      <pubDate>Thu, 26 Nov 2026 23:34:34 +0000</pubDate>
+      <description>পাহাড়ের উন্নয়নে শতভাগ স্বচ্ছতা নিশ্চিত করতে হবে: মন্ত্রী সাচিং প্রু…</description>
+      <source url="https://paharbarta.com/%e0%a6%aa%e0%a6%be%e0%a6%b9%e0%a6%be%e0%a6%a1%e0%a6%bc%e0%a7%87%e0%a6%b0-%e0%a6%89%e0%a6%a8%e0%a7%8d%e0%a6%a8%e0%a6%af%e0%a6%bc%e0%a6%a8%e0%a7%87-%e0%a6%b6%e0%a6%a4%e0%a6%ad%e0%a6%be%e0%a6%97/">পাহাড়বার্তা</source>
+    </item>
+    <item>
+      <title>বান্দরবানে বৌদ্ধ ধর্মাবলম্বীদের মহাপিন্ড দান সম্পন্ন</title>
+      <link>https://paharbarta.com/%e0%a6%ac%e0%a6%be%e0%a6%a8%e0%a7%8d%e0%a6%a6%e0%a6%b0%e0%a6%ac%e0%a6%be%e0%a6%a8%e0%a7%87-%e0%a6%ac%e0%a7%8c%e0%a6%a6%e0%a7%8d%e0%a6%a7-%e0%a6%a7%e0%a6%b0%e0%a7%8d%e0%a6%ae%e0%a6%be%e0%a6%ac-5/</link>
+      <guid isPermaLink="true">https://paharbarta.com/%e0%a6%ac%e0%a6%be%e0%a6%a8%e0%a7%8d%e0%a6%a6%e0%a6%b0%e0%a6%ac%e0%a6%be%e0%a6%a8%e0%a7%87-%e0%a6%ac%e0%a7%8c%e0%a6%a6%e0%a7%8d%e0%a6%a7-%e0%a6%a7%e0%a6%b0%e0%a7%8d%e0%a6%ae%e0%a6%be%e0%a6%ac-5/</guid>
+      <pubDate>Thu, 26 Nov 2026 23:34:34 +0000</pubDate>
+      <description>বান্দরবানে বৌদ্ধ ধর্মাবলম্বীদের মহাপিন্ড দান সম্পন্ন</description>
+      <source url="https://paharbarta.com/%e0%a6%ac%e0%a6%be%e0%a6%a8%e0%a7%8d%e0%a6%a6%e0%a6%b0%e0%a6%ac%e0%a6%be%e0%a6%a8%e0%a7%87-%e0%a6%ac%e0%a7%8c%e0%a6%a6%e0%a7%8d%e0%a6%a7-%e0%a6%a7%e0%a6%b0%e0%a7%8d%e0%a6%ae%e0%a6%be%e0%a6%ac-5/">পাহাড়বার্তা</source>
+    </item>
+    <item>
+      <title>কাপ্তাইয়ের চিৎমরমে দানোত্তম কঠিন চীবর দান উৎসব</title>
+      <link>https://paharbarta.com/%e0%a6%95%e0%a6%be%e0%a6%aa%e0%a7%8d%e0%a6%a4%e0%a6%be%e0%a6%87%e0%a6%af%e0%a6%bc%e0%a7%87%e0%a6%b0-%e0%a6%9a%e0%a6%bf%e0%a7%8e%e0%a6%ae%e0%a6%b0%e0%a6%ae%e0%a7%87-%e0%a6%a6%e0%a6%be%e0%a6%a8%e0%a7%8b/</link>
+      <guid isPermaLink="true">https://paharbarta.com/%e0%a6%95%e0%a6%be%e0%a6%aa%e0%a7%8d%e0%a6%a4%e0%a6%be%e0%a6%87%e0%a6%af%e0%a6%bc%e0%a7%87%e0%a6%b0-%e0%a6%9a%e0%a6%bf%e0%a7%8e%e0%a6%ae%e0%a6%b0%e0%a6%ae%e0%a7%87-%e0%a6%a6%e0%a6%be%e0%a6%a8%e0%a7%8b/</guid>
+      <pubDate>Thu, 26 Nov 2026 23:34:34 +0000</pubDate>
+      <description>কাপ্তাইয়ের চিৎমরমে দানোত্তম কঠিন চীবর দান উৎসব</description>
+      <source url="https://paharbarta.com/%e0%a6%95%e0%a6%be%e0%a6%aa%e0%a7%8d%e0%a6%a4%e0%a6%be%e0%a6%87%e0%a6%af%e0%a6%bc%e0%a7%87%e0%a6%b0-%e0%a6%9a%e0%a6%bf%e0%a7%8e%e0%a6%ae%e0%a6%b0%e0%a6%ae%e0%a7%87-%e0%a6%a6%e0%a6%be%e0%a6%a8%e0%a7%8b/">পাহাড়বার্তা</source>
+    </item>
+    <item>
+      <title>বান্দরবানে মাসব্যাপী কঠিন চীবর দানোৎসব সম্পন্ন</title>
+      <link>https://paharbarta.com/%e0%a6%ac%e0%a6%be%e0%a6%a8%e0%a7%8d%e0%a6%a6%e0%a6%b0%e0%a6%ac%e0%a6%be%e0%a6%a8%e0%a7%87-%e0%a6%ae%e0%a6%be%e0%a6%b8%e0%a6%ac%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%aa%e0%a7%80-%e0%a6%95%e0%a6%a0%e0%a6%bf/</link>
+      <guid isPermaLink="true">https://paharbarta.com/%e0%a6%ac%e0%a6%be%e0%a6%a8%e0%a7%8d%e0%a6%a6%e0%a6%b0%e0%a6%ac%e0%a6%be%e0%a6%a8%e0%a7%87-%e0%a6%ae%e0%a6%be%e0%a6%b8%e0%a6%ac%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%aa%e0%a7%80-%e0%a6%95%e0%a6%a0%e0%a6%bf/</guid>
+      <pubDate>Thu, 26 Nov 2026 23:34:34 +0000</pubDate>
+      <description>বান্দরবানে মাসব্যাপী কঠিন চীবর দানোৎসব সম্পন্ন</description>
+      <source url="https://paharbarta.com/%e0%a6%ac%e0%a6%be%e0%a6%a8%e0%a7%8d%e0%a6%a6%e0%a6%b0%e0%a6%ac%e0%a6%be%e0%a6%a8%e0%a7%87-%e0%a6%ae%e0%a6%be%e0%a6%b8%e0%a6%ac%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%aa%e0%a7%80-%e0%a6%95%e0%a6%a0%e0%a6%bf/">পাহাড়বার্তা</source>
+    </item>
     <item>
       <title>হাসি ফুটল থানচির ৬০ হতদরিদ্র ও প্রতিবন্ধীদের মুখে</title>
       <link>https://paharbarta.com/%e0%a6%b9%e0%a6%be%e0%a6%b8%e0%a6%bf-%e0%a6%ab%e0%a7%81%e0%a6%9f%e0%a6%b2-%e0%a6%a5%e0%a6%be%e0%a6%a8%e0%a6%9a%e0%a6%bf%e0%a6%b0-%e0%a7%ac%e0%a7%a6-%e0%a6%b9%e0%a6%a4%e0%a6%a6%e0%a6%b0%e0%a6%bf/</link>
       <guid isPermaLink="true">https://paharbarta.com/%e0%a6%b9%e0%a6%be%e0%a6%b8%e0%a6%bf-%e0%a6%ab%e0%a7%81%e0%a6%9f%e0%a6%b2-%e0%a6%a5%e0%a6%be%e0%a6%a8%e0%a6%9a%e0%a6%bf%e0%a6%b0-%e0%a7%ac%e0%a7%a6-%e0%a6%b9%e0%a6%a4%e0%a6%a6%e0%a6%b0%e0%a6%bf/</guid>
-      <pubDate>Thu, 26 Nov 2026 12:47:32 +0000</pubDate>
-      <enclosure url="https://paharbarta.com/wp-content/uploads/1000456812.jpg" length="0" type="image/jpeg" />
-      <media:content url="https://paharbarta.com/wp-content/uploads/1000456812.jpg" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://paharbarta.com/wp-content/uploads/1000456812.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="হাসি ফুটল থানচির ৬০ হতদরিদ্র ও প্রতিবন্ধীদের মুখে" /&gt;&lt;/p&gt;&lt;p&gt;পাহাড়ে শীতের শুরুতে মানবিক উষ্ণতা, ​দেশের অন্যতম দুর্গম ও শীতপ্রবণ পাহাড়ি জনপদ বান্দরবানের থানচি উপজেলার জেঁকে বসতে শুরু করেছে শীত। আর পাহাড়ের এই কনকনে শীতের শুরুতেই অসহায় মানুষের পাশে উষ্ণতার পরশ নিয়ে দাঁড়িয়েছেন স্থানীয় পর্যটনকর্মীরা। আজ বৃহস্পতিবার (২৬ নভেম্বর) সকালে উপজেলার পরিষদের প্রাঙ্গনের ৬০ট&lt;/p&gt;</description>
+      <pubDate>Thu, 26 Nov 2026 23:34:34 +0000</pubDate>
+      <description>হাসি ফুটল থানচির ৬০ হতদরিদ্র ও প্রতিবন্ধীদের মুখে</description>
       <source url="https://paharbarta.com/%e0%a6%b9%e0%a6%be%e0%a6%b8%e0%a6%bf-%e0%a6%ab%e0%a7%81%e0%a6%9f%e0%a6%b2-%e0%a6%a5%e0%a6%be%e0%a6%a8%e0%a6%9a%e0%a6%bf%e0%a6%b0-%e0%a7%ac%e0%a7%a6-%e0%a6%b9%e0%a6%a4%e0%a6%a6%e0%a6%b0%e0%a6%bf/">পাহাড়বার্তা</source>
     </item>
     <item>
       <title>কাপ্তাইয়ে বিজিবির অভিযানে ২৩ ঘনফুট অবৈধ কাঠ জব্দ</title>
       <link>https://paharbarta.com/%e0%a6%95%e0%a6%be%e0%a6%aa%e0%a7%8d%e0%a6%a4%e0%a6%be%e0%a6%87%e0%a6%af%e0%a6%bc%e0%a7%87-%e0%a6%ac%e0%a6%bf%e0%a6%9c%e0%a6%bf%e0%a6%ac%e0%a6%bf%e0%a6%b0-%e0%a6%85%e0%a6%ad%e0%a6%bf%e0%a6%af-2/</link>
       <guid isPermaLink="true">https://paharbarta.com/%e0%a6%95%e0%a6%be%e0%a6%aa%e0%a7%8d%e0%a6%a4%e0%a6%be%e0%a6%87%e0%a6%af%e0%a6%bc%e0%a7%87-%e0%a6%ac%e0%a6%bf%e0%a6%9c%e0%a6%bf%e0%a6%ac%e0%a6%bf%e0%a6%b0-%e0%a6%85%e0%a6%ad%e0%a6%bf%e0%a6%af-2/</guid>
-      <pubDate>Thu, 26 Nov 2026 12:41:55 +0000</pubDate>
-      <enclosure url="https://paharbarta.com/wp-content/uploads/315918.jpg" length="0" type="image/jpeg" />
-      <media:content url="https://paharbarta.com/wp-content/uploads/315918.jpg" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://paharbarta.com/wp-content/uploads/315918.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="কাপ্তাইয়ে বিজিবির অভিযানে ২৩ ঘনফুট অবৈধ কাঠ জব্দ" /&gt;&lt;/p&gt;&lt;p&gt;রাঙামাটির কাপ্তাই উপজেলায় বিশেষ অভিযান চালিয়ে ২৩ ঘনফুটের বেশি অবৈধ সেগুন ও গামারী কাঠ জব্দ করেছে বর্ডার গার্ড বাংলাদেশ (বিজিবি)। জব্দ করা কাঠের আনুমানিক সিজার মূল্য ১ লাখ ৮ হাজার ৫৭০ টাকা। গত বুধবার (২৫ নভেম্বর) সন্ধ্যা ৬টার দিকে গোয়েন্দা তথ্যের ভিত্তিতে কাপ্তাই ব্যাটালিয়ন (৪১ বিজিবি) এর অধিনায়কের দ&lt;/p&gt;</description>
+      <pubDate>Thu, 26 Nov 2026 23:34:34 +0000</pubDate>
+      <description>কাপ্তাইয়ে বিজিবির অভিযানে ২৩ ঘনফুট অবৈধ কাঠ জব্দ</description>
       <source url="https://paharbarta.com/%e0%a6%95%e0%a6%be%e0%a6%aa%e0%a7%8d%e0%a6%a4%e0%a6%be%e0%a6%87%e0%a6%af%e0%a6%bc%e0%a7%87-%e0%a6%ac%e0%a6%bf%e0%a6%9c%e0%a6%bf%e0%a6%ac%e0%a6%bf%e0%a6%b0-%e0%a6%85%e0%a6%ad%e0%a6%bf%e0%a6%af-2/">পাহাড়বার্তা</source>
     </item>
     <item>
       <title>বান্দরবানে নতুন আক্রান্ত ৮ জন ডেঙ্গু রোগী</title>
       <link>https://paharbarta.com/%e0%a6%ac%e0%a6%be%e0%a6%a8%e0%a7%8d%e0%a6%a6%e0%a6%b0%e0%a6%ac%e0%a6%be%e0%a6%a8%e0%a7%87-%e0%a6%a8%e0%a6%a4%e0%a7%81%e0%a6%a8-%e0%a6%86%e0%a6%95%e0%a7%8d%e0%a6%b0%e0%a6%be%e0%a6%a8%e0%a7%8d-2/</link>
       <guid isPermaLink="true">https://paharbarta.com/%e0%a6%ac%e0%a6%be%e0%a6%a8%e0%a7%8d%e0%a6%a6%e0%a6%b0%e0%a6%ac%e0%a6%be%e0%a6%a8%e0%a7%87-%e0%a6%a8%e0%a6%a4%e0%a7%81%e0%a6%a8-%e0%a6%86%e0%a6%95%e0%a7%8d%e0%a6%b0%e0%a6%be%e0%a6%a8%e0%a7%8d-2/</guid>
-      <pubDate>Thu, 26 Nov 2026 12:38:39 +0000</pubDate>
-      <enclosure url="https://paharbarta.com/wp-content/uploads/মশা.jpg" length="0" type="image/jpeg" />
-      <media:content url="https://paharbarta.com/wp-content/uploads/মশা.jpg" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://paharbarta.com/wp-content/uploads/মশা.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="বান্দরবানে নতুন আক্রান্ত ৮ জন ডেঙ্গু রোগী" /&gt;&lt;/p&gt;&lt;p&gt;নতুন ভাবে বান্দরবানে আরো ৮জন ডেঙ্গু রোগী সনাক্ত হয়েছে। যাদের মধ্যে বান্দরবান সদর হাসপাতালে ৪ জন এবং লামা উপজেলা স্বাস্থ্য কমপ্লেক্সে আরো ৪জন নতুন ডেঙ্গু রোগী সনাক্ত হয়েছে। জেলা স্বাস্থ্য বিভাগের তথ্যমতে, বান্দরবানে এই পর্যন্ত ১,৫৯৮ জন ডেঙ্গু রোগী পাওয়া গেছে যারা উপজেলা স্বাস্থ্য কমপ্লেক্স ও সরকারী হ&lt;/p&gt;</description>
+      <pubDate>Thu, 26 Nov 2026 23:34:34 +0000</pubDate>
+      <description>বান্দরবানে নতুন আক্রান্ত ৮ জন ডেঙ্গু রোগী</description>
       <source url="https://paharbarta.com/%e0%a6%ac%e0%a6%be%e0%a6%a8%e0%a7%8d%e0%a6%a6%e0%a6%b0%e0%a6%ac%e0%a6%be%e0%a6%a8%e0%a7%87-%e0%a6%a8%e0%a6%a4%e0%a7%81%e0%a6%a8-%e0%a6%86%e0%a6%95%e0%a7%8d%e0%a6%b0%e0%a6%be%e0%a6%a8%e0%a7%8d-2/">পাহাড়বার্তা</source>
-    </item>
-    <item>
-      <title>বাঙালহালিয়ায় গাছের সঙ্গে পিকআপের ধাক্কায় নিহত ১, চালক আহত</title>
-      <link>https://paharbarta.com/%e0%a6%ac%e0%a6%be%e0%a6%99%e0%a6%be%e0%a6%b2%e0%a6%b9%e0%a6%be%e0%a6%b2%e0%a6%bf%e0%a6%af%e0%a6%bc%e0%a6%be%e0%a6%af%e0%a6%bc-%e0%a6%97%e0%a6%be%e0%a6%9b%e0%a7%87%e0%a6%b0-%e0%a6%b8%e0%a6%99%e0%a7%8d/</link>
-      <guid isPermaLink="true">https://paharbarta.com/%e0%a6%ac%e0%a6%be%e0%a6%99%e0%a6%be%e0%a6%b2%e0%a6%b9%e0%a6%be%e0%a6%b2%e0%a6%bf%e0%a6%af%e0%a6%bc%e0%a6%be%e0%a6%af%e0%a6%bc-%e0%a6%97%e0%a6%be%e0%a6%9b%e0%a7%87%e0%a6%b0-%e0%a6%b8%e0%a6%99%e0%a7%8d/</guid>
-      <pubDate>Thu, 26 Nov 2026 12:34:06 +0000</pubDate>
-      <enclosure url="https://paharbarta.com/wp-content/uploads/সড়ক-দূর্ঘটনা-3.jpg" length="0" type="image/jpeg" />
-      <media:content url="https://paharbarta.com/wp-content/uploads/সড়ক-দূর্ঘটনা-3.jpg" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://paharbarta.com/wp-content/uploads/সড়ক-দূর্ঘটনা-3.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="বাঙালহালিয়ায় গাছের সঙ্গে পিকআপের ধাক্কায় নিহত ১, চালক আহত" /&gt;&lt;/p&gt;&lt;p&gt;রাঙামাটি-বান্দরবান সড়কের রাজস্থলী উপজেলার বাঙ্গালহালিয়া হেলিপ্যাড এলাকায় পিকআপ ভ্যান নিয়ন্ত্রণ হারিয়ে গাছের সঙ্গে ধাক্কা লেগে একজন নিহত ও চালক আহত হয়েছে। আবুল খায়ের কোম্পানির দুগ্ধজাত পণ্যবাহী পিকআপ ভ্যান এই দূর্ঘটনার শিকার হয়। এতে সেলসম্যান খোকন দে (৪৫) নিহত ও পিকআপ ভ্যানের চালক আমজাদ হোসেন (৬০) গু&lt;/p&gt;</description>
-      <source url="https://paharbarta.com/%e0%a6%ac%e0%a6%be%e0%a6%99%e0%a6%be%e0%a6%b2%e0%a6%b9%e0%a6%be%e0%a6%b2%e0%a6%bf%e0%a6%af%e0%a6%bc%e0%a6%be%e0%a6%af%e0%a6%bc-%e0%a6%97%e0%a6%be%e0%a6%9b%e0%a7%87%e0%a6%b0-%e0%a6%b8%e0%a6%99%e0%a7%8d/">পাহাড়বার্তা</source>
-    </item>
-    <item>
-      <title>পাহাড়ের উন্নয়নে শতভাগ স্বচ্ছতা নিশ্চিত করতে হবে: মন্ত্রী সাচিং প্রু জেরী</title>
-      <link>https://paharbarta.com/%e0%a6%aa%e0%a6%be%e0%a6%b9%e0%a6%be%e0%a6%a1%e0%a6%bc%e0%a7%87%e0%a6%b0-%e0%a6%89%e0%a6%a8%e0%a7%8d%e0%a6%a8%e0%a6%af%e0%a6%bc%e0%a6%a8%e0%a7%87-%e0%a6%b6%e0%a6%a4%e0%a6%ad%e0%a6%be%e0%a6%97/</link>
-      <guid isPermaLink="true">https://paharbarta.com/%e0%a6%aa%e0%a6%be%e0%a6%b9%e0%a6%be%e0%a6%a1%e0%a6%bc%e0%a7%87%e0%a6%b0-%e0%a6%89%e0%a6%a8%e0%a7%8d%e0%a6%a8%e0%a6%af%e0%a6%bc%e0%a6%a8%e0%a7%87-%e0%a6%b6%e0%a6%a4%e0%a6%ad%e0%a6%be%e0%a6%97/</guid>
-      <pubDate>Thu, 26 Nov 2026 12:31:19 +0000</pubDate>
-      <enclosure url="https://paharbarta.com/wp-content/uploads/1000254560.jpg" length="0" type="image/jpeg" />
-      <media:content url="https://paharbarta.com/wp-content/uploads/1000254560.jpg" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://paharbarta.com/wp-content/uploads/1000254560.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="পাহাড়ের উন্নয়নে শতভাগ স্বচ্ছতা নিশ্চিত করতে হবে: মন্ত্রী সাচিং প্রু জেরী" /&gt;&lt;/p&gt;&lt;p&gt;পাহাড়ের উন্নয়ন প্রকল্পে অনিয়ম ও অপচয় বন্ধ করে শতভাগ স্বচ্ছতা ও জবাবদিহিতা নিশ্চিত করার আহ্বান জানিয়েছেন পার্বত্য চট্টগ্রাম বিষয়ক মন্ত্রী সাচিং প্রু জেরী এমপি। তিনি বলেন, অতীতে অনেক প্রকল্পে কোটি কোটি টাকা ব্যয় হলেও দৃশ্যমান উন্নয়ন হয়নি। বর্তমান সরকার এ অবস্থার পরিবর্তন চায়। উন্নয়নের প্রতিটি টাকা যেন&lt;/p&gt;</description>
-      <source url="https://paharbarta.com/%e0%a6%aa%e0%a6%be%e0%a6%b9%e0%a6%be%e0%a6%a1%e0%a6%bc%e0%a7%87%e0%a6%b0-%e0%a6%89%e0%a6%a8%e0%a7%8d%e0%a6%a8%e0%a6%af%e0%a6%bc%e0%a6%a8%e0%a7%87-%e0%a6%b6%e0%a6%a4%e0%a6%ad%e0%a6%be%e0%a6%97/">পাহাড়বার্তা</source>
     </item>
     <item>
       <title>কাপ্তাইয়ে চা বোর্ডের চেয়ারম্যান মেজর জেনারেল মো: মেসবাহ উদ্দিন আহমেদ</title>
       <link>https://paharbarta.com/%e0%a6%95%e0%a6%be%e0%a6%aa%e0%a7%8d%e0%a6%a4%e0%a6%be%e0%a6%87%e0%a6%af%e0%a6%bc%e0%a7%87-%e0%a6%9a%e0%a6%be-%e0%a6%ac%e0%a7%8b%e0%a6%b0%e0%a7%8d%e0%a6%a1%e0%a7%87%e0%a6%b0-%e0%a6%9a%e0%a7%87-2/</link>
       <guid isPermaLink="true">https://paharbarta.com/%e0%a6%95%e0%a6%be%e0%a6%aa%e0%a7%8d%e0%a6%a4%e0%a6%be%e0%a6%87%e0%a6%af%e0%a6%bc%e0%a7%87-%e0%a6%9a%e0%a6%be-%e0%a6%ac%e0%a7%8b%e0%a6%b0%e0%a7%8d%e0%a6%a1%e0%a7%87%e0%a6%b0-%e0%a6%9a%e0%a7%87-2/</guid>
-      <pubDate>Wed, 25 Nov 2026 15:19:55 +0000</pubDate>
-      <enclosure url="https://paharbarta.com/wp-content/uploads/IMG-20261125-WA0064.jpg" length="0" type="image/jpeg" />
-      <media:content url="https://paharbarta.com/wp-content/uploads/IMG-20261125-WA0064.jpg" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://paharbarta.com/wp-content/uploads/IMG-20261125-WA0064.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="কাপ্তাইয়ে চা বোর্ডের চেয়ারম্যান মেজর জেনারেল মো: মেসবাহ উদ্দিন আহমেদ" /&gt;&lt;/p&gt;&lt;p&gt;বাংলাদেশ চা বোর্ডের চেয়ারম্যান মেজর জেনারেল মো. মেসবাহ উদ্দিন আহমেদ বলেছেন, ২০২৬ সালে দেশে চা উৎপাদনে নতুন রেকর্ড সৃষ্টি হবে। এ ক্ষেত্রে চা শ্রমিকদের অবদান সবচেয়ে বেশি। তাঁদের শ্রম ও নিষ্ঠার কারণেই দেশের চা শিল্প এগিয়ে যাচ্ছে। আজ বুধবার (২৫ নভেম্বর) দুপুর ২টায় রাঙামাটির কাপ্তাই উপজেলার ওয়াগ্গাছড়া চা&lt;/p&gt;</description>
+      <pubDate>Thu, 26 Nov 2026 23:34:34 +0000</pubDate>
+      <description>কাপ্তাইয়ে চা বোর্ডের চেয়ারম্যান মেজর জেনারেল মো: মেসবাহ উদ্দিন আহমেদ</description>
       <source url="https://paharbarta.com/%e0%a6%95%e0%a6%be%e0%a6%aa%e0%a7%8d%e0%a6%a4%e0%a6%be%e0%a6%87%e0%a6%af%e0%a6%bc%e0%a7%87-%e0%a6%9a%e0%a6%be-%e0%a6%ac%e0%a7%8b%e0%a6%b0%e0%a7%8d%e0%a6%a1%e0%a7%87%e0%a6%b0-%e0%a6%9a%e0%a7%87-2/">পাহাড়বার্তা</source>
-    </item>
-    <item>
-      <title>বান্দরবানে নদী রক্ষায় ১৭ দফা দাবিতে জেলা প্রশাসককে স্মারকলিপি</title>
-      <link>https://paharbarta.com/%e0%a6%ac%e0%a6%be%e0%a6%a8%e0%a7%8d%e0%a6%a6%e0%a6%b0%e0%a6%ac%e0%a6%be%e0%a6%a8%e0%a7%87-%e0%a6%a8%e0%a6%a6%e0%a7%80-%e0%a6%b0%e0%a6%95%e0%a7%8d%e0%a6%b7%e0%a6%be%e0%a6%af%e0%a6%bc-%e0%a7%a7/</link>
-      <guid isPermaLink="true">https://paharbarta.com/%e0%a6%ac%e0%a6%be%e0%a6%a8%e0%a7%8d%e0%a6%a6%e0%a6%b0%e0%a6%ac%e0%a6%be%e0%a6%a8%e0%a7%87-%e0%a6%a8%e0%a6%a6%e0%a7%80-%e0%a6%b0%e0%a6%95%e0%a7%8d%e0%a6%b7%e0%a6%be%e0%a6%af%e0%a6%bc-%e0%a7%a7/</guid>
-      <pubDate>Wed, 25 Nov 2026 12:58:44 +0000</pubDate>
-      <enclosure url="https://paharbarta.com/wp-content/uploads/saroklipi.jpg" length="0" type="image/jpeg" />
-      <media:content url="https://paharbarta.com/wp-content/uploads/saroklipi.jpg" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://paharbarta.com/wp-content/uploads/saroklipi.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="বান্দরবানে নদী রক্ষায় ১৭ দফা দাবিতে জেলা প্রশাসককে স্মারকলিপি" /&gt;&lt;/p&gt;&lt;p&gt;নদী রক্ষায় কার্যকর পদক্ষেপ গ্রহণ ও ১৭ দফা দাবি বাস্তবায়নের অনুরোধ জানিয়ে বান্দরবানের জেলা প্রশাসক ও জেলা ম্যাজিস্ট্রেট নাজনীন সুলতানার কাছে স্মারকলিপি দিয়েছে বাংলাদেশ নদী বাঁচাও আন্দোলন। বুধবার (২৫ নভেম্বর) দুপুরে জেলা প্রশাসকের কার্যালয়ে সংগঠনটির বান্দরবান জেলা শাখার সভাপতি রিপন চক্রবর্তী ও লামা উপ&lt;/p&gt;</description>
-      <source url="https://paharbarta.com/%e0%a6%ac%e0%a6%be%e0%a6%a8%e0%a7%8d%e0%a6%a6%e0%a6%b0%e0%a6%ac%e0%a6%be%e0%a6%a8%e0%a7%87-%e0%a6%a8%e0%a6%a6%e0%a7%80-%e0%a6%b0%e0%a6%95%e0%a7%8d%e0%a6%b7%e0%a6%be%e0%a6%af%e0%a6%bc-%e0%a7%a7/">পাহাড়বার্তা</source>
-    </item>
-    <item>
-      <title>বান্দরবানে বৌদ্ধ ধর্মাবলম্বীদের মহাপিন্ড দান সম্পন্ন</title>
-      <link>https://paharbarta.com/%e0%a6%ac%e0%a6%be%e0%a6%a8%e0%a7%8d%e0%a6%a6%e0%a6%b0%e0%a6%ac%e0%a6%be%e0%a6%a8%e0%a7%87-%e0%a6%ac%e0%a7%8c%e0%a6%a6%e0%a7%8d%e0%a6%a7-%e0%a6%a7%e0%a6%b0%e0%a7%8d%e0%a6%ae%e0%a6%be%e0%a6%ac-5/</link>
-      <guid isPermaLink="true">https://paharbarta.com/%e0%a6%ac%e0%a6%be%e0%a6%a8%e0%a7%8d%e0%a6%a6%e0%a6%b0%e0%a6%ac%e0%a6%be%e0%a6%a8%e0%a7%87-%e0%a6%ac%e0%a7%8c%e0%a6%a6%e0%a7%8d%e0%a6%a7-%e0%a6%a7%e0%a6%b0%e0%a7%8d%e0%a6%ae%e0%a6%be%e0%a6%ac-5/</guid>
-      <pubDate>Wed, 25 Nov 2026 12:05:06 +0000</pubDate>
-      <enclosure url="https://paharbarta.com/wp-content/uploads/Pic-Bandarban-Pindacharan-2.jpg" length="0" type="image/jpeg" />
-      <media:content url="https://paharbarta.com/wp-content/uploads/Pic-Bandarban-Pindacharan-2.jpg" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://paharbarta.com/wp-content/uploads/Pic-Bandarban-Pindacharan-2.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="বান্দরবানে বৌদ্ধ ধর্মাবলম্বীদের মহাপিন্ড দান সম্পন্ন" /&gt;&lt;/p&gt;&lt;p&gt;বান্দরবানে উদ্যাপিত হয়েছে বৌদ্ধ ধর্মাবলম্বীদের মহাপিন্ড দান অনুষ্ঠান। এই উপলক্ষে আজ বুধবার (২৫ নভেম্বর) সকাল ৯টায় বান্দরবান রাজগুরু বৌদ্ধ বিহার থেকে প্রায় সাড়ে তিন শতাধিক বৌদ্ধ ভিক্ষুকের একটি বর্ণাঢ্য র‌্যালী বের হয়ে বান্দরবান শহরের বিভিন্ন সড়ক প্রদক্ষিণ করে পিন্ড গ্রহণ করেন। অনুষ্টানে উপস্থিত থেকে &lt;/p&gt;</description>
-      <source url="https://paharbarta.com/%e0%a6%ac%e0%a6%be%e0%a6%a8%e0%a7%8d%e0%a6%a6%e0%a6%b0%e0%a6%ac%e0%a6%be%e0%a6%a8%e0%a7%87-%e0%a6%ac%e0%a7%8c%e0%a6%a6%e0%a7%8d%e0%a6%a7-%e0%a6%a7%e0%a6%b0%e0%a7%8d%e0%a6%ae%e0%a6%be%e0%a6%ac-5/">পাহাড়বার্তা</source>
-    </item>
-    <item>
-      <title>রামগড় ৪৩ বিজিবির মাসিক নিরাপত্তা সমন্বয় সভা অনুষ্ঠিত</title>
-      <link>https://paharbarta.com/%e0%a6%b0%e0%a6%be%e0%a6%ae%e0%a6%97%e0%a6%a1%e0%a6%bc-%e0%a7%aa%e0%a7%a9-%e0%a6%ac%e0%a6%bf%e0%a6%9c%e0%a6%bf%e0%a6%ac%e0%a6%bf%e0%a6%b0-%e0%a6%ae%e0%a6%be%e0%a6%b8%e0%a6%bf%e0%a6%95-%e0%a6%a8/</link>
-      <guid isPermaLink="true">https://paharbarta.com/%e0%a6%b0%e0%a6%be%e0%a6%ae%e0%a6%97%e0%a6%a1%e0%a6%bc-%e0%a7%aa%e0%a7%a9-%e0%a6%ac%e0%a6%bf%e0%a6%9c%e0%a6%bf%e0%a6%ac%e0%a6%bf%e0%a6%b0-%e0%a6%ae%e0%a6%be%e0%a6%b8%e0%a6%bf%e0%a6%95-%e0%a6%a8/</guid>
-      <pubDate>Tue, 24 Nov 2026 12:51:34 +0000</pubDate>
-      <enclosure url="https://paharbarta.com/wp-content/uploads/titled-6.jpg" length="0" type="image/jpeg" />
-      <media:content url="https://paharbarta.com/wp-content/uploads/titled-6.jpg" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://paharbarta.com/wp-content/uploads/titled-6.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="রামগড় ৪৩ বিজিবির মাসিক নিরাপত্তা সমন্বয় সভা অনুষ্ঠিত" /&gt;&lt;/p&gt;&lt;p&gt;খাগড়াছড়ির রামগড় ৪৩ বিজিবি জোনের উদ্যোগে আজ মঙ্গলবার (২৪ নভেম্বর) সকাল ১১টায় জোন সদরে মাসিক নিরাপত্তা সমন্বয় সভা অনুষ্ঠিত হয়েছে। রামগড় ব্যাটালিয়ন (৪৩ বিজিবি) এর অধিনায়ক ও জোন কমান্ডার লেফটেন্যান্ট কর্নেল মো. আহসান উল ইসলাম, বিজিওএম, পিএসসি-র সভাপতিত্বে এ সভা অনুষ্ঠিত হয়। ৪৩ বিজিবির সহকারী প&lt;/p&gt;</description>
-      <source url="https://paharbarta.com/%e0%a6%b0%e0%a6%be%e0%a6%ae%e0%a6%97%e0%a6%a1%e0%a6%bc-%e0%a7%aa%e0%a7%a9-%e0%a6%ac%e0%a6%bf%e0%a6%9c%e0%a6%bf%e0%a6%ac%e0%a6%bf%e0%a6%b0-%e0%a6%ae%e0%a6%be%e0%a6%b8%e0%a6%bf%e0%a6%95-%e0%a6%a8/">পাহাড়বার্তা</source>
-    </item>
-    <item>
-      <title>কাপ্তাইয়ের মিতিঙ্গাছড়ি এসডিজি মডেল ভিলেজে স্বাস্থ্য ক্যাম্প</title>
-      <link>https://paharbarta.com/%e0%a6%95%e0%a6%be%e0%a6%aa%e0%a7%8d%e0%a6%a4%e0%a6%be%e0%a6%87%e0%a6%af%e0%a6%bc%e0%a7%87%e0%a6%b0-%e0%a6%ae%e0%a6%bf%e0%a6%a4%e0%a6%bf%e0%a6%99%e0%a7%8d%e0%a6%97%e0%a6%be%e0%a6%9b%e0%a6%a1-2/</link>
-      <guid isPermaLink="true">https://paharbarta.com/%e0%a6%95%e0%a6%be%e0%a6%aa%e0%a7%8d%e0%a6%a4%e0%a6%be%e0%a6%87%e0%a6%af%e0%a6%bc%e0%a7%87%e0%a6%b0-%e0%a6%ae%e0%a6%bf%e0%a6%a4%e0%a6%bf%e0%a6%99%e0%a7%8d%e0%a6%97%e0%a6%be%e0%a6%9b%e0%a6%a1-2/</guid>
-      <pubDate>Tue, 24 Nov 2026 12:47:05 +0000</pubDate>
-      <enclosure url="https://paharbarta.com/wp-content/uploads/312469.jpg" length="0" type="image/jpeg" />
-      <media:content url="https://paharbarta.com/wp-content/uploads/312469.jpg" medium="image" />
-      <description>&lt;p&gt;&lt;img src="https://paharbarta.com/wp-content/uploads/312469.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="কাপ্তাইয়ের মিতিঙ্গাছড়ি এসডিজি মডেল ভিলেজে স্বাস্থ্য ক্যাম্প" /&gt;&lt;/p&gt;&lt;p&gt;রোগ শনাক্তকরণ, প্রাথমিক চিকিৎসাসেবা ও স্বাস্থ্যসচেতনতা বৃদ্ধির লক্ষ্যে রাঙামাটির কাপ্তাই উপজেলার চন্দ্রঘোনা ইউনিয়নের মিতিঙ্গাছড়ি এসডিজি মডেল ভিলেজে দিনব্যাপী স্বাস্থ্য ক্যাম্প অনুষ্ঠিত হয়েছে। আজ মঙ্গলবার (২৪ নভেম্বর) সকাল ১০টায় উপজেলা প্রশাসন ও উপজেলা স্বাস্থ্য বিভাগের যৌথ উদ্যোগে এ ক্যাম্পের আয়োজন &lt;/p&gt;</description>
-      <source url="https://paharbarta.com/%e0%a6%95%e0%a6%be%e0%a6%aa%e0%a7%8d%e0%a6%a4%e0%a6%be%e0%a6%87%e0%a6%af%e0%a6%bc%e0%a7%87%e0%a6%b0-%e0%a6%ae%e0%a6%bf%e0%a6%a4%e0%a6%bf%e0%a6%99%e0%a7%8d%e0%a6%97%e0%a6%be%e0%a6%9b%e0%a6%a1-2/">পাহাড়বার্তা</source>
     </item>
   </channel>
 </rss>
