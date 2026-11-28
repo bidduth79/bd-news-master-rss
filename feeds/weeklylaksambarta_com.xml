@@ -1,11 +1,37 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
   <channel>
     <title>Weekly Laksambarta - আরএসএস ফিড</title>
     <link>https://weeklylaksambarta.com/</link>
     <description>Weekly Laksambarta এর সর্বশেষ খবর</description>
     <language>bn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 09:57:39 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 18:06:11 +0000</lastBuildDate>
+    <item>
+      <title>বাংলাদেশে নিজস্ব নেটওয়ার্ক গড়তে চায় মেটা, কী সুবিধা হবে?</title>
+      <link>https://weeklylaksambarta.com/archives/15419</link>
+      <guid isPermaLink="true">https://weeklylaksambarta.com/archives/15419</guid>
+      <pubDate>Sat, 28 Nov 2026 16:21:20 +0000</pubDate>
+      <description>বাংলাদেশে নিজস্ব নেটওয়ার্ক অবকাঠামো স্থাপনের উদ্যোগ নিয়েছে ফেসবুক, ইনস্টাগ্রাম ও হোয়াটসঅ্যাপের মূল প্রতিষ্ঠান মেটা। এ লক্ষ্যে দেশে পয়েন্ট অব প্রেজেন্স (পপ) স্থাপন, আন্তর্জাতিক নেটওয়ার্কের সঙ্গে সরাসরি সংযোগ এবং স্থানীয় ইন্টারনেট&amp;#8230;</description>
+      <source url="https://weeklylaksambarta.com/archives/15419">Weekly Laksambarta</source>
+    </item>
+    <item>
+      <title>ডাকসুতে শীর্ষ পদে নারী নেতৃত্ব চান জামায়াত আমির, রাফিয়াকে প্রস্তুতির আহ্বান</title>
+      <link>https://weeklylaksambarta.com/archives/15415</link>
+      <guid isPermaLink="true">https://weeklylaksambarta.com/archives/15415</guid>
+      <pubDate>Sat, 28 Nov 2026 16:00:45 +0000</pubDate>
+      <description>ভবিষ্যতে ঢাকা বিশ্ববিদ্যালয় কেন্দ্রীয় ছাত্র সংসদ (ডাকসু) নির্বাচনে ভিপি, জিএস কিংবা এজিএসের মতো গুরুত্বপূর্ণ পদে প্রতিদ্বন্দ্বিতার জন্য ডাকসুর কার্যনির্বাহী সদস্য উম্মা উসওয়াতুন রাফিয়াকে প্রস্তুতি নিতে বলেছেন বাংলাদেশ জামায়াতে ইসলামীর আমির&amp;#8230;</description>
+      <source url="https://weeklylaksambarta.com/archives/15415">Weekly Laksambarta</source>
+    </item>
+    <item>
+      <title>জানাজায় শরিক হলেন এমপি আবুল কালাম, অশ্রুসিক্ত নয়নে পীর সাহেবকে বিদায়</title>
+      <link>https://weeklylaksambarta.com/archives/15410</link>
+      <guid isPermaLink="true">https://weeklylaksambarta.com/archives/15410</guid>
+      <pubDate>Sat, 28 Nov 2026 10:47:51 +0000</pubDate>
+      <enclosure url="https://weeklylaksambarta.com/wp-content/uploads/2026/11/pir.jpg" length="0" type="image/jpeg" />
+      <media:content url="https://weeklylaksambarta.com/wp-content/uploads/2026/11/pir.jpg" medium="image" />
+      <description>&lt;p&gt;&lt;img src="https://weeklylaksambarta.com/wp-content/uploads/2026/11/pir.jpg" style="max-width:100%;height:auto;margin-bottom:10px;" alt="জানাজায় শরিক হলেন এমপি আবুল কালাম, অশ্রুসিক্ত নয়নে পীর সাহেবকে বিদায়" /&gt;&lt;/p&gt;&lt;p&gt;শহীদুল্লাহ ভূঁইয়া ।। কুমিল্লার লাকসাম উপজেলার আউশপাড়ার পীর সাহেব ও সাবেক পোস্টমাস্টার মু. হাসিম উদ্দিন আবুল কাশেমকে অশ্রুসিক্ত নয়নে শেষ বিদায় জানিয়েছেন হাজারো মানুষ। তাঁর মৃত্যুতে লাকসাম ও আশপাশের এলাকায়&amp;#8230;&lt;/p&gt;</description>
+      <source url="https://weeklylaksambarta.com/archives/15410">Weekly Laksambarta</source>
+    </item>
     <item>
       <title>সীমান্তের এপারে কোনো অপতৎপরতা বরদাশত করা হবে না: স্বরাষ্ট্রমন্ত্রী</title>
       <link>https://weeklylaksambarta.com/archives/15407</link>
@@ -101,30 +127,6 @@
       <pubDate>Fri, 27 Nov 2026 04:24:33 +0000</pubDate>
       <description>গোপালগঞ্জে বেশির ভাগ গ্রাহকের মোবাইল ব্যাংকিং সেবা সাময়িকভাবে বন্ধ করে দেওয়া হয়েছে। বুধবার রাত থেকে বিকাশ, নগদ ও রকেটসহ বিভিন্ন মোবাইল আর্থিক সেবার (এমএফএস) অনেক অ্যাকাউন্টে লেনদেন করতে পারছেন না&amp;#8230;</description>
       <source url="https://weeklylaksambarta.com/archives/15376">Weekly Laksambarta</source>
-    </item>
-    <item>
-      <title>খুলনায় সন্ত্রাসের বিস্তার, ২৫ দিনে ১৫ দফা গুলি: নিহত ৬, জনমনে আতঙ্ক</title>
-      <link>https://weeklylaksambarta.com/archives/15373</link>
-      <guid isPermaLink="true">https://weeklylaksambarta.com/archives/15373</guid>
-      <pubDate>Fri, 27 Nov 2026 04:18:56 +0000</pubDate>
-      <description>খুলনায় দিন দিন উদ্বেগজনক হয়ে উঠছে আইনশৃঙ্খলা পরিস্থিতি। নভেম্বরের প্রথম ২৫ দিনেই মহানগর ও জেলার বিভিন্ন এলাকায় অন্তত ১৫টি গুলির ঘটনা ঘটেছে। এসব ঘটনায় গুলিবিদ্ধ হয়ে পাঁচজন এবং ধারালো অস্ত্রের&amp;#8230;</description>
-      <source url="https://weeklylaksambarta.com/archives/15373">Weekly Laksambarta</source>
-    </item>
-    <item>
-      <title>মালয়েশিয়ায় প্রথমবারের মতো কর্মী পাঠানোর কার্যক্রম উদ্বোধন করলেন প্রধানমন্ত্রী তারেক রহমান</title>
-      <link>https://weeklylaksambarta.com/archives/15367</link>
-      <guid isPermaLink="true">https://weeklylaksambarta.com/archives/15367</guid>
-      <pubDate>Thu, 26 Nov 2026 16:51:48 +0000</pubDate>
-      <description>বাংলাদেশে প্রথমবারের মতো সরকারি উদ্যোগে সম্পূর্ণ বিনা অভিবাসন ব্যয়ে মালয়েশিয়ায় কর্মী পাঠানোর কার্যক্রম উদ্বোধন করেছেন প্রধানমন্ত্রী তারেক রহমান। আজ বৃহস্পতিবার ২৬শে নভেম্বর বিকেলে ঢাকার হযরত শাহজালাল আন্তর্জাতিক বিমানবন্দরে এ কার্যক্রমের&amp;#8230;</description>
-      <source url="https://weeklylaksambarta.com/archives/15367">Weekly Laksambarta</source>
-    </item>
-    <item>
-      <title>শেখ হাসিনাকে নিয়ে ভারতও অস্বস্তিতে, প্রত্যর্পণই ফেরার একমাত্র পথ: হুমায়ুন কবির</title>
-      <link>https://weeklylaksambarta.com/archives/15370</link>
-      <guid isPermaLink="true">https://weeklylaksambarta.com/archives/15370</guid>
-      <pubDate>Thu, 26 Nov 2026 14:15:03 +0000</pubDate>
-      <description>ঢাকা: শেখ হাসিনাকে কেন্দ্র করে বাংলাদেশ ও ভারতের দ্বিপক্ষীয় সম্পর্কে জটিলতা তৈরি হয়েছে, বিষয়টি ভারতও উপলব্ধি করতে পারছে বলে মন্তব্য করেছেন পররাষ্ট্র প্রতিমন্ত্রী হুমায়ুন কবির। তাঁর দাবি, শেখ হাসিনাকে ভারতে&amp;#8230;</description>
-      <source url="https://weeklylaksambarta.com/archives/15370">Weekly Laksambarta</source>
     </item>
   </channel>
 </rss>
